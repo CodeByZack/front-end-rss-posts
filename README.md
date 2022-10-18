@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-10-18 16:37，更新条数: +1
+更新时间: 2022-10-18 09:20，更新条数: +24
 
 ## 文章链接
 
@@ -137,6 +137,63 @@
 - [2022-09-30-科技爱好者周刊（第 225 期）：NPC 演员也是一种职业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html) 
 
 - [2022-09-23-科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html) 
+
+
+</details>
+
+<details open>
+<summary id="web.dev">
+ web.dev
+</summary>
+
+
+- [2022-10-12-Create a passkey for passwordless logins](https://web.dev/passkey-registration/) 
+
+- [2022-10-12-Sign in with a passkey through form autofill](https://web.dev/passkey-form-autofill/) 
+
+- [2022-10-10-New patterns for amazing apps](https://web.dev/new-patterns-for-amazing-apps/) 
+
+- [2022-10-06-Community highlight: Melanie Sumner](https://web.dev/community-highlight-melanie/) 
+
+- [2022-10-06-Building a floating action button (FAB) component](https://web.dev/building-a-fab-component/) 
+
+- [2022-09-30-New to the web platform in September](https://web.dev/web-platform-09-2022/) 
+
+- [2022-09-30-Optimize long tasks](https://web.dev/optimize-long-tasks/) 
+
+- [2022-09-30-Introducing Learn Accessibility](https://web.dev/introducing-learn-accessibility/) 
+
+- [2022-09-27-Introducing Learn HTML](https://web.dev/introducing-learn-html/) 
+
+- [2022-09-22-Testing Web Design Color Contrast](https://web.dev/testing-web-design-color-contrast/) 
+
+- [2022-09-22-Speedy CSS Tip! Animated Loader](https://web.dev/speedy-css-tip-animated-loader/) 
+
+- [2022-09-22-GDE community highlight: Alba Silvente Fuentes](https://web.dev/gde-focus-alba-silvente-fuentes/) 
+
+- [2022-09-21-Submit your proposals for Interop 2023](https://web.dev/submit-your-proposals-for-interop-2023/) 
+
+- [2022-09-07-Building the main navigation for a website](https://web.dev/website-navigation/) 
+
+- [2022-09-02-Is it :modal?](https://web.dev/is-it-modal/) 
+
+- [2022-08-31-New to the web platform in August](https://web.dev/web-platform-08-2022/) 
+
+- [2022-08-24-How Rakuten 24's investment in Core Web Vitals increased revenue per visitor by 53.37% and conversion rate by 33.13%](https://web.dev/rakuten/) 
+
+- [2022-08-24-Creative list styling](https://web.dev/creative-list-styling/) 
+
+- [2022-08-24-Building a crooked grid illusion](https://web.dev/building-a-crooked-grid-illusion/) 
+
+- [2022-08-17-How Nordhealth uses Custom Properties in Web Components](https://web.dev/custom-properties-web-components/) 
+
+- [2022-08-15-Why is CrUX data different from my RUM data?](https://web.dev/crux-and-rum-differences/) 
+
+- [2022-08-02-Finer grained control over CSS transforms with individual transform properties](https://web.dev/css-individual-transform-properties/) 
+
+- [2022-08-01-CSS border animations](https://web.dev/css-border-animations/) 
+
+- [2022-07-29-New to the web platform in July](https://web.dev/web-platform-07-2022/) 
 
 
 </details>
