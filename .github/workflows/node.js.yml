@@ -19,3 +19,19 @@ jobs:
         node-version: 16
     - run: npm i
     - run: npm run build
+    
+    - name: Gather files changed
+      uses: trilom/file-changes-action@v1.2.3
+      with:
+        fileOutput: 'json'
+    # For verification
+    - name: Show files changed
+      run: cat $HOME/files.json
+    - name: GIT commit and push all changed files
+      env: 
+        CI_COMMIT_MESSAGE: ${cat $HOME/files.json}
+      run: |
+        git config --global user.name "auto-fetch-rss"
+        git config --global user.email "9580509970@qq.com"
+        git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
+        git push
