@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: <%= obj.currentDate %>，:rocket: 更新条数: +<%= obj.newData.length %>， ![](/assets/dot.png) 表示有更新
+更新时间: <%= obj.currentDate %>，更新条数: +<%= obj.newData.length %>
 
 ## 文章链接
 <% _.each(obj.linksJson, function(e){ %>

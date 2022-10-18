@@ -3,11 +3,6 @@
     "title": "Node Weekly",
     "posts": [
       {
-        "title": "✂️ Cutting away the unused parts of your project",
-        "link": "https://nodeweekly.com/issues/458",
-        "date": "2022-10-13"
-      },
-      {
         "title": "Digging into dependencies with npm query",
         "link": "https://nodeweekly.com/issues/457",
         "date": "2022-10-06"
@@ -21,6 +16,11 @@
         "title": "The Node testing framework we were sleeping on",
         "link": "https://nodeweekly.com/issues/455",
         "date": "2022-09-22"
+      },
+      {
+        "title": "✂️ Cutting away the unused parts of your project",
+        "link": "https://nodeweekly.com/issues/458",
+        "date": "2022-10-13"
       }
     ]
   },
