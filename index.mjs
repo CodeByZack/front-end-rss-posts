@@ -4,6 +4,7 @@ import SimpleGit from 'simple-git';
 
 const newAdded = await updateAll();
 if (newAdded.length > 0) {
+  console.log(`新增文章：${newAdded.length} 篇`);
   writeReadme(newAdded);
   SimpleGit('./')
     .add('./*')

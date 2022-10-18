@@ -30,7 +30,6 @@ const fetch = async (rssUrl) => {
           link: item.link,
           date: dayjs(item.isoDate).format('YYYY-MM-DD'),
         };
-        console.log(`new post : ${obj.title}`);
         newAddedPosts.push(obj);
         targetFeedObj.posts.push(obj);
       });
@@ -53,7 +52,11 @@ const updateAll = async () => {
   }
 
   if (newAddedPosts.length > 0) {
+    newAddedPosts.forEach(p=>{
+      console.log(`new post : ${p.title}`);
+    });
     fs.writeJsonSync('./data.json', dataArr, { spaces: 2 });
+    console.log("写入data.json");
   }
 
   return newAddedPosts;
