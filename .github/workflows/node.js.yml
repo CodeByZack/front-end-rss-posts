@@ -4,6 +4,7 @@
 name: Auto Fetch Rss
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0,12 * * ?"
 jobs:
