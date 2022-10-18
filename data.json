@@ -3,11 +3,6 @@
     "title": "Node Weekly",
     "posts": [
       {
-        "title": "Digging into dependencies with npm query",
-        "link": "https://nodeweekly.com/issues/457",
-        "date": "2022-10-06"
-      },
-      {
         "title": "Keep calm and carry on (using Node)",
         "link": "https://nodeweekly.com/issues/456",
         "date": "2022-09-29"
