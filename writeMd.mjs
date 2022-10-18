@@ -8,7 +8,7 @@ const writeReadme = (newAddedPosts = []) => {
   let compiled = _.template(content.toString());
   const currentDate = dayjs().format('YYYY-MM-DD HH:mm');
   content = compiled({
-    homePage: 'https://github.com/CodeByZack',
+    homePage: 'http://fed.zackdk.com/',
     newData: newAddedPosts,
     linksJson: dataArr,
     currentDate,
