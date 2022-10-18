@@ -19,9 +19,9 @@
  <%= e.title %>
 </summary>
 
-    <% _.each(e.posts, function(item, index){  %>
-    - [<%= item.date %>-<%= item.title %>](<%= item.link %>) 
-    <% }) %>
+<% _.each(e.posts, function(item, index){  %>
+- [<%= item.date %>-<%= item.title %>](<%= item.link %>) 
+<% }) %>
 
 </details>
 <% }) %>
