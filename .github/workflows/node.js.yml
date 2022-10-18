@@ -5,7 +5,7 @@ name: Auto Fetch Rss
 
 on:
   schedule:
-    - cron: "0 0,12 * *"
+    - cron: "0 0,12 * * ?"
 jobs:
   build:
     runs-on: ubuntu-latest
