@@ -30,6 +30,7 @@ const fetch = async (rssUrl) => {
           link: item.link,
           date: dayjs(item.isoDate).format('YYYY-MM-DD'),
         };
+        console.log(`new post : ${obj.title}`);
         newAddedPosts.push(obj);
         targetFeedObj.posts.push(obj);
       });
