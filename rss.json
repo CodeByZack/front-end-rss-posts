@@ -1,5 +1,9 @@
 [
     {
+      "title": "InfoQ-前端",
+      "rss": "https://rsshub.app/infoq/topic/Front-end"
+    },
+    {
       "title": "Node-Weekly",
       "rss": "https://cprss.s3.amazonaws.com/nodeweekly.com.xml"
     },
