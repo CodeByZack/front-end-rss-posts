@@ -8,7 +8,6 @@
       "rss": "https://cprss.s3.amazonaws.com/javascriptweekly.com.xml"
     },
     {
-      "id": "taobaofed",
       "title": "淘系前端团队",
       "rss": "https://fed.taobao.org/atom.xml"
     },
@@ -21,12 +20,10 @@
       "rss": "http://www.ruanyifeng.com/blog/atom.xml"
     },
     {
-      "id": "AOTULabs",
-      "title": "凹凸实验室",
-      "rss": "https://aotu.io/atom.xml"
+      "title": "奇舞团周刊",
+      "rss": "https://weekly.75.team/rss"
     },
     {
-      "id": "WEBDEV",
       "title": "web.dev",
       "rss": "https://web.dev/feed.xml"
     }
