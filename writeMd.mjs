@@ -14,6 +14,7 @@ const writeReadme = (newAddedPosts = []) => {
     currentDate,
   });
   fs.writeFileSync('./README.md', content, 'utf-8');
+  console.log("更新 README.md");
 };
 
 export default writeReadme;

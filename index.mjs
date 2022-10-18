@@ -6,7 +6,7 @@ const newAdded = await updateAll();
 if (newAdded.length > 0) {
   console.log(`新增文章：${newAdded.length} 篇`);
   writeReadme(newAdded);
-  SimpleGit('./')
+  await SimpleGit('./')
     .add('./*')
     .commit('更新: ' + newAdded.map((n) => n.title).join('、'))
     .push(['-u', 'origin', 'master'], (error, result) => {
