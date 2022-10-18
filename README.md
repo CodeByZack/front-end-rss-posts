@@ -1,16 +1,16 @@
 <div align="center"><h1>前端文章集合</h1><p>点击右上角 <strong>Watch</strong> 订阅 <strong>最新前端技术文章</strong></p>
-<a href="https://github.com/CodeByZack">https://github.com/CodeByZack</a>
+<a href="http://fed.zackdk.com/">http://fed.zackdk.com/</a>
 </div>
 
 ## 
 
 - 项目目的：每天定时抓取最新前端技术文章，并推送到 GitHub 方便查看
 - 文章来源：RSS 订阅源
-- 抓取时间：每天的 06:00、08:00、12:00、18:00、22:00
+- 抓取时间：每天的 08:00、20:00
 
 ## 
 
-更新时间: 2022-10-18 09:20，更新条数: +24
+更新时间: 2022-10-18 12:37，更新条数: +10
 
 ## 文章链接
 
@@ -194,6 +194,35 @@
 - [2022-08-01-CSS border animations](https://web.dev/css-border-animations/) 
 
 - [2022-07-29-New to the web platform in July](https://web.dev/web-platform-07-2022/) 
+
+
+</details>
+
+<details open>
+<summary id="奇舞周刊">
+ 奇舞周刊
+</summary>
+
+
+- [2022-10-14-奇舞周刊第 467 期](https://weekly.75.team/issue467.html) 
+
+- [2022-09-23-奇舞周刊第 466 期](https://weekly.75.team/issue466.html) 
+
+- [2022-09-23-奇舞周刊第 465 期](https://weekly.75.team/issue465.html) 
+
+- [2022-09-16-奇舞周刊第 464 期](https://weekly.75.team/issue464.html) 
+
+- [2022-09-09-奇舞周刊第 463 期](https://weekly.75.team/issue463.html) 
+
+- [2022-09-02-奇舞周刊第 462 期](https://weekly.75.team/issue462.html) 
+
+- [2022-08-26-奇舞周刊第 461 期](https://weekly.75.team/issue461.html) 
+
+- [2022-08-19-奇舞周刊第 460 期](https://weekly.75.team/issue460.html) 
+
+- [2022-08-12-奇舞周刊第 459 期](https://weekly.75.team/issue459.html) 
+
+- [2022-08-05-奇舞周刊第 458 期](https://weekly.75.team/issue458.html) 
 
 
 </details>
