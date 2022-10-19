@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-10-19 07:51，更新条数: +17
+更新时间: 2022-10-19 12:43，更新条数: +14
 
 ## 文章链接
 
@@ -412,6 +412,16 @@
 
 - [2022-10-19-Crash Course to becoming a Frontend Ninja (3 Min Guide)](https://medium.com/@jatinbumbra.developer/crash-course-to-becoming-a-frontend-ninja-3-min-guide-4f2780e840e2?source=rss------frontend-5) 
 
+- [2022-10-19-Screen Reader + Browser: combinações recomendadas](https://medium.com/@vedovatto/screen-reader-browser-combina%C3%A7%C3%B5es-recomendadas-9fa88f0cf97f?source=rss------frontend-5) 
+
+- [2022-10-19-You can use the Performance tool to understand the Event Loop in depth](https://medium.com/@pythonlearn1024/you-can-use-the-performance-tool-to-understand-the-event-loop-in-depth-4debe7dae095?source=rss------frontend-5) 
+
+- [2022-10-19-A Short Introduction to Micro-Frontends](https://codeburst.io/a-short-introduction-to-micro-frontends-98dfef6084ad?source=rss------frontend-5) 
+
+- [2022-10-19-[Column 01]: Component library development infrastructure sorting and tool stack selection](https://medium.com/@pythonlearn1024/column-01-component-library-development-infrastructure-sorting-and-tool-stack-selection-7889b5d56caf?source=rss------frontend-5) 
+
+- [2022-10-19-Without anti-shake and throttling, use a lower-level way to solve repeated JS requests](https://medium.com/@pythonlearn1024/without-anti-shake-and-throttling-use-a-lower-level-way-to-solve-repeated-js-requests-a47de6c60566?source=rss------frontend-5) 
+
 
 </details>
 
@@ -438,6 +448,24 @@
 - [2022-10-19-WebRTC | One-to-many live stream with ReactJS and Socket.IO — (2) P2P Connection](https://medium.com/@Tim_Tsai/webrtc-one-to-many-live-stream-with-reactjs-and-socket-io-2-p2p-connection-6c126ea1dc9d?source=rss------react-5) 
 
 - [2022-10-19-Crash Course to becoming a Frontend Ninja (3 Min Guide)](https://medium.com/@jatinbumbra.developer/crash-course-to-becoming-a-frontend-ninja-3-min-guide-4f2780e840e2?source=rss------react-5) 
+
+- [2022-10-19-React Hook Form & Material UI & Yup Kullanarak Giriş Formu Oluşturmak ve Doğrulamak](https://medium.com/@zerenuzcuneyt/react-hook-form-material-ui-yup-kullanarak-kay%C4%B1t-formu-olu%C5%9Fturmak-ve-form-do%C4%9Frulamak-91e019663c63?source=rss------react-5) 
+
+- [2022-10-19-Implement Authentication and Protect Routes in React](https://levelup.gitconnected.com/implement-authentication-and-protect-routes-in-react-135a60b1e16f?source=rss------react-5) 
+
+- [2022-10-19-How to link an image in react](https://medium.com/@kedarnathrg.1999/how-to-link-an-image-in-react-2a09814ba95a?source=rss------react-5) 
+
+- [2022-10-19-How to Maximally Reduce Loading Times with UseEffect](https://javascript.plainenglish.io/how-to-maximally-reduce-loading-times-with-useeffect-89f0f150bdba?source=rss------react-5) 
+
+- [2022-10-19-12 Useful React Tools to Make You More Productive ](https://javascript.plainenglish.io/12-useful-react-tools-to-make-you-more-productive-319b28d3e63a?source=rss------react-5) 
+
+- [2022-10-19-Animating Height with MutationObserver in React](https://medium.com/avitotech/animating-height-with-mutationobserver-in-react-fe005c033482?source=rss------react-5) 
+
+- [2022-10-19-Alternatives for console.log()](https://medium.com/@kedarnathrg.1999/alternatives-for-console-log-58eaf9fc5894?source=rss------react-5) 
+
+- [2022-10-19-4 Styling Tactics For Pesky Pseudo-elements](https://medium.com/@theSohaibAhmed/4-styling-tactics-for-pesky-pseudo-elements-2a651cb11c6e?source=rss------react-5) 
+
+- [2022-10-19-How to make a custom hook for closing a modal when clicking outside(React, Typescript)](https://samir-mirzaliyev.medium.com/how-to-make-a-custom-hook-for-closing-a-modal-when-clicking-outside-react-typescript-818d40b803c3?source=rss------react-5) 
 
 
 </details>

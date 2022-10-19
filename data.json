@@ -726,6 +726,31 @@
         "title": "Crash Course to becoming a Frontend Ninja (3 Min Guide)",
         "link": "https://medium.com/@jatinbumbra.developer/crash-course-to-becoming-a-frontend-ninja-3-min-guide-4f2780e840e2?source=rss------frontend-5",
         "date": "2022-10-19"
+      },
+      {
+        "title": "Screen Reader + Browser: combinações recomendadas",
+        "link": "https://medium.com/@vedovatto/screen-reader-browser-combina%C3%A7%C3%B5es-recomendadas-9fa88f0cf97f?source=rss------frontend-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "You can use the Performance tool to understand the Event Loop in depth",
+        "link": "https://medium.com/@pythonlearn1024/you-can-use-the-performance-tool-to-understand-the-event-loop-in-depth-4debe7dae095?source=rss------frontend-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "A Short Introduction to Micro-Frontends",
+        "link": "https://codeburst.io/a-short-introduction-to-micro-frontends-98dfef6084ad?source=rss------frontend-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "[Column 01]: Component library development infrastructure sorting and tool stack selection",
+        "link": "https://medium.com/@pythonlearn1024/column-01-component-library-development-infrastructure-sorting-and-tool-stack-selection-7889b5d56caf?source=rss------frontend-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "Without anti-shake and throttling, use a lower-level way to solve repeated JS requests",
+        "link": "https://medium.com/@pythonlearn1024/without-anti-shake-and-throttling-use-a-lower-level-way-to-solve-repeated-js-requests-a47de6c60566?source=rss------frontend-5",
+        "date": "2022-10-19"
       }
     ]
   },
@@ -775,6 +800,51 @@
       {
         "title": "Crash Course to becoming a Frontend Ninja (3 Min Guide)",
         "link": "https://medium.com/@jatinbumbra.developer/crash-course-to-becoming-a-frontend-ninja-3-min-guide-4f2780e840e2?source=rss------react-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "React Hook Form & Material UI & Yup Kullanarak Giriş Formu Oluşturmak ve Doğrulamak",
+        "link": "https://medium.com/@zerenuzcuneyt/react-hook-form-material-ui-yup-kullanarak-kay%C4%B1t-formu-olu%C5%9Fturmak-ve-form-do%C4%9Frulamak-91e019663c63?source=rss------react-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "Implement Authentication and Protect Routes in React",
+        "link": "https://levelup.gitconnected.com/implement-authentication-and-protect-routes-in-react-135a60b1e16f?source=rss------react-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "How to link an image in react",
+        "link": "https://medium.com/@kedarnathrg.1999/how-to-link-an-image-in-react-2a09814ba95a?source=rss------react-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "How to Maximally Reduce Loading Times with UseEffect",
+        "link": "https://javascript.plainenglish.io/how-to-maximally-reduce-loading-times-with-useeffect-89f0f150bdba?source=rss------react-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "12 Useful React Tools to Make You More Productive ",
+        "link": "https://javascript.plainenglish.io/12-useful-react-tools-to-make-you-more-productive-319b28d3e63a?source=rss------react-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "Animating Height with MutationObserver in React",
+        "link": "https://medium.com/avitotech/animating-height-with-mutationobserver-in-react-fe005c033482?source=rss------react-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "Alternatives for console.log()",
+        "link": "https://medium.com/@kedarnathrg.1999/alternatives-for-console-log-58eaf9fc5894?source=rss------react-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "4 Styling Tactics For Pesky Pseudo-elements",
+        "link": "https://medium.com/@theSohaibAhmed/4-styling-tactics-for-pesky-pseudo-elements-2a651cb11c6e?source=rss------react-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "How to make a custom hook for closing a modal when clicking outside(React, Typescript)",
+        "link": "https://samir-mirzaliyev.medium.com/how-to-make-a-custom-hook-for-closing-a-modal-when-clicking-outside-react-typescript-818d40b803c3?source=rss------react-5",
         "date": "2022-10-19"
       }
     ]
