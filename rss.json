@@ -30,5 +30,9 @@
     {
       "title": "web.dev",
       "rss": "https://web.dev/feed.xml"
+    },
+    {
+      "title": "掘金-前端",
+      "rss": "https://rsshub.app/juejin/category/frontend"
     }
   ]
