@@ -10,11 +10,13 @@ const writeReadme = (newAddedPosts = []) => {
   content = compiled({
     homePage: 'http://fed.zackdk.com/',
     newData: newAddedPosts,
-    linksJson: dataArr,
+    linksJson: dataArr.sort((a, b) =>
+      /[\u4e00-\u9fa5]/.test(a.title) ? -1 : 1,
+    ),
     currentDate,
   });
   fs.writeFileSync('./README.md', content, 'utf-8');
-  console.log("更新 README.md");
+  console.log('更新 README.md');
 };
 
 export default writeReadme;
