@@ -10,9 +10,48 @@
 
 ## 
 
-更新时间: 2022-10-19 07:36，更新条数: +27
+更新时间: 2022-10-19 07:51，更新条数: +17
 
 ## 文章链接
+
+<details open>
+<summary id="酷 壳 – coolshell">
+ 酷 壳 – CoolShell
+</summary>
+
+
+- [2022-05-05-ETCD的内存问题](https://coolshell.cn/articles/22242.html) 
+
+- [2022-02-13-“一把梭：REST API 全用 POST”](https://coolshell.cn/articles/22173.html) 
+
+- [2022-02-12-谈谈公司对员工的监控](https://coolshell.cn/articles/22157.html) 
+
+- [2022-01-02-网络数字身份认证术](https://coolshell.cn/articles/21708.html) 
+
+- [2021-12-21-我做系统架构的一些原则](https://coolshell.cn/articles/21672.html) 
+
+- [2021-11-19-源代码特洛伊木马攻击](https://coolshell.cn/articles/21649.html) 
+
+- [2021-09-04-Go编程模式 ： 泛型编程](https://coolshell.cn/articles/21615.html) 
+
+- [2021-07-13-如何做一个有质量的技术分享](https://coolshell.cn/articles/21589.html) 
+
+- [2020-12-26-Go 编程模式：k8s Visitor 模式](https://coolshell.cn/articles/21263.html) 
+
+- [2020-12-26-Go编程模式：Pipeline](https://coolshell.cn/articles/21228.html) 
+
+- [2020-12-26-Go编程模式：委托和反转控制](https://coolshell.cn/articles/21214.html) 
+
+- [2020-12-25-Go 编程模式：Go Generation](https://coolshell.cn/articles/21179.html) 
+
+- [2020-12-24-Go编程模式：Map-Reduce](https://coolshell.cn/articles/21164.html) 
+
+- [2020-12-22-Go 编程模式：Functional Options](https://coolshell.cn/articles/21146.html) 
+
+- [2020-12-22-Go 编程模式：错误处理](https://coolshell.cn/articles/21140.html) 
+
+
+</details>
 
 <details open>
 <summary id="掘金 前端">
@@ -371,6 +410,8 @@
 
 - [2022-10-18-Nodejs knowledge (express middleware) that the front end needs to know](https://medium.com/@roperluo.me/nodejs-knowledge-express-middleware-that-the-front-end-needs-to-know-135979f91c47?source=rss------frontend-5) 
 
+- [2022-10-19-Crash Course to becoming a Frontend Ninja (3 Min Guide)](https://medium.com/@jatinbumbra.developer/crash-course-to-becoming-a-frontend-ninja-3-min-guide-4f2780e840e2?source=rss------frontend-5) 
+
 
 </details>
 
@@ -395,6 +436,8 @@
 - [2022-10-19-Reusable Infinite Scroll in React JS without Library](https://medium.com/@truedrju/reusable-infinite-scroll-in-react-js-without-library-fc64a36a41ba?source=rss------react-5) 
 
 - [2022-10-19-WebRTC | One-to-many live stream with ReactJS and Socket.IO — (2) P2P Connection](https://medium.com/@Tim_Tsai/webrtc-one-to-many-live-stream-with-reactjs-and-socket-io-2-p2p-connection-6c126ea1dc9d?source=rss------react-5) 
+
+- [2022-10-19-Crash Course to becoming a Frontend Ninja (3 Min Guide)](https://medium.com/@jatinbumbra.developer/crash-course-to-becoming-a-frontend-ninja-3-min-guide-4f2780e840e2?source=rss------react-5) 
 
 
 </details>
