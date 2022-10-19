@@ -50,5 +50,9 @@
     {
       "title": "digest-react",
       "rss": "http://feeds.feedburner.com/digest-react"
+    },
+    {
+      "title": "酷壳",
+      "rss": "https://coolshell.cn/feed"
     }
   ]
