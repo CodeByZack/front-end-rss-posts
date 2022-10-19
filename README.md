@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-10-19 06:56，更新条数: +20
+更新时间: 2022-10-19 07:36，更新条数: +27
 
 ## 文章链接
 
@@ -341,6 +341,96 @@
 - [2022-08-01-CSS border animations](https://web.dev/css-border-animations/) 
 
 - [2022-07-29-New to the web platform in July](https://web.dev/web-platform-07-2022/) 
+
+
+</details>
+
+<details open>
+<summary id="frontend on medium">
+ Frontend on Medium
+</summary>
+
+
+- [2022-10-19-Talk about front-end engineering](https://medium.com/@pythonlearn1024/talk-about-front-end-engineering-54e75bf8361b?source=rss------frontend-5) 
+
+- [2022-10-19-Anxiety in the front end, have you ever thought about how the front end will go after the age of 30?](https://medium.com/@pythonlearn1024/anxiety-in-the-front-end-have-you-ever-thought-about-how-the-front-end-will-go-after-the-age-of-30-821e18ac197f?source=rss------frontend-5) 
+
+- [2022-10-19-Three.js Advanced Tour: Magical Particle System — Lost in Space ‍](https://medium.com/@pythonlearn1024/three-js-advanced-tour-magical-particle-system-lost-in-space-fa07770fc8eb?source=rss------frontend-5) 
+
+- [2022-10-19-0 Basic development of a front-end scaffolding](https://medium.com/@pythonlearn1024/0-basic-development-of-a-front-end-scaffolding-99178117d387?source=rss------frontend-5) 
+
+- [2022-10-19-⚪No regrets in the move ⚫The realization process of tic-tac-toe chess starting from 0](https://medium.com/@pythonlearn1024/no-regrets-in-the-move-the-realization-process-of-tic-tac-toe-chess-starting-from-0-659355612385?source=rss------frontend-5) 
+
+- [2022-10-19-CSS3 common animation effects collection](https://medium.com/@pythonlearn1024/css3-common-animation-effects-collection-7cfef8ae4feb?source=rss------frontend-5) 
+
+- [2022-10-19-Anyone who hasn&#39;t tried Pinia, please accept this edible guide!](https://medium.com/@pythonlearn1024/anyone-who-hasn-39-t-tried-pinia-please-accept-this-edible-guide-338c0ce9beaa?source=rss------frontend-5) 
+
+- [2022-10-18-Add and Live Search items with React Hooks](https://javascript.plainenglish.io/add-and-live-search-items-with-react-hooks-bddece89ffe4?source=rss------frontend-5) 
+
+- [2022-10-18-Continue to create, accelerate growth!](https://medium.com/@roperluo.me/continue-to-create-accelerate-growth-17b53bcf3c77?source=rss------frontend-5) 
+
+- [2022-10-18-Nodejs knowledge (express middleware) that the front end needs to know](https://medium.com/@roperluo.me/nodejs-knowledge-express-middleware-that-the-front-end-needs-to-know-135979f91c47?source=rss------frontend-5) 
+
+
+</details>
+
+<details open>
+<summary id="react on medium">
+ React on Medium
+</summary>
+
+
+- [2022-10-19-How to use React Hook Form in React.js](https://medium.com/@sasidharan_39972/how-to-use-react-hook-form-in-react-js-a077163ff416?source=rss------react-5) 
+
+- [2022-10-19-React with Typescript series (Charity Web App) — Form state management](https://medium.com/nerd-for-tech/react-with-typescript-series-charity-web-app-form-state-management-a411552097ff?source=rss------react-5) 
+
+- [2022-10-19-React Context Hook](https://medium.com/@goforindu/react-context-hook-44772541faf7?source=rss------react-5) 
+
+- [2022-10-19-As a Front-end Engineer, 10 JavaScript Tricks And Tips You Should Know About](https://javascript.plainenglish.io/as-a-front-end-engineer-10-javascript-tricks-and-tips-you-should-know-about-6f4df0082407?source=rss------react-5) 
+
+- [2022-10-19-How To Add Bootstrap Modal In React JS](https://websolutionstuff.medium.com/how-to-add-bootstrap-modal-in-react-js-3f93363a295a?source=rss------react-5) 
+
+- [2022-10-19-What is Redux](https://medium.com/@amansinghtomar150/what-is-redux-61164fa23e2b?source=rss------react-5) 
+
+- [2022-10-19-Reusable Infinite Scroll in React JS without Library](https://medium.com/@truedrju/reusable-infinite-scroll-in-react-js-without-library-fc64a36a41ba?source=rss------react-5) 
+
+- [2022-10-19-WebRTC | One-to-many live stream with ReactJS and Socket.IO — (2) P2P Connection](https://medium.com/@Tim_Tsai/webrtc-one-to-many-live-stream-with-reactjs-and-socket-io-2-p2p-connection-6c126ea1dc9d?source=rss------react-5) 
+
+
+</details>
+
+<details open>
+<summary id="react status">
+ React Status
+</summary>
+
+
+- [2022-10-12-The future of rendering in React](https://react.statuscode.com/issues/309) 
+
+- [2022-10-05-17 minutes to build up your 'React brain'](https://react.statuscode.com/issues/308) 
+
+- [2022-09-28-LEGO's take on an accessible select component](https://react.statuscode.com/issues/307) 
+
+- [2022-09-21-Don't bring me down.. Bruce!](https://react.statuscode.com/issues/306) 
+
+
+</details>
+
+<details open>
+<summary id="react digest">
+ React Digest
+</summary>
+
+
+- [2022-10-16-React Digest Issue #378](https://reactdigest.net/digests/378) 
+
+- [2022-10-09-React Digest Issue #377](https://reactdigest.net/digests/377) 
+
+- [2022-10-02-React Digest Issue #376](https://reactdigest.net/digests/376) 
+
+- [2022-09-25-React Digest Issue #375](https://reactdigest.net/digests/375) 
+
+- [2022-09-18-React Digest Issue #374](https://reactdigest.net/digests/374) 
 
 
 </details>
