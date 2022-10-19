@@ -668,5 +668,160 @@
         "date": "2022-10-18"
       }
     ]
+  },
+  {
+    "title": "Frontend on Medium",
+    "posts": [
+      {
+        "title": "Talk about front-end engineering",
+        "link": "https://medium.com/@pythonlearn1024/talk-about-front-end-engineering-54e75bf8361b?source=rss------frontend-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "Anxiety in the front end, have you ever thought about how the front end will go after the age of 30?",
+        "link": "https://medium.com/@pythonlearn1024/anxiety-in-the-front-end-have-you-ever-thought-about-how-the-front-end-will-go-after-the-age-of-30-821e18ac197f?source=rss------frontend-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "Three.js Advanced Tour: Magical Particle System — Lost in Space ‍",
+        "link": "https://medium.com/@pythonlearn1024/three-js-advanced-tour-magical-particle-system-lost-in-space-fa07770fc8eb?source=rss------frontend-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "0 Basic development of a front-end scaffolding",
+        "link": "https://medium.com/@pythonlearn1024/0-basic-development-of-a-front-end-scaffolding-99178117d387?source=rss------frontend-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "⚪No regrets in the move ⚫The realization process of tic-tac-toe chess starting from 0",
+        "link": "https://medium.com/@pythonlearn1024/no-regrets-in-the-move-the-realization-process-of-tic-tac-toe-chess-starting-from-0-659355612385?source=rss------frontend-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "CSS3 common animation effects collection",
+        "link": "https://medium.com/@pythonlearn1024/css3-common-animation-effects-collection-7cfef8ae4feb?source=rss------frontend-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "Anyone who hasn&#39;t tried Pinia, please accept this edible guide!",
+        "link": "https://medium.com/@pythonlearn1024/anyone-who-hasn-39-t-tried-pinia-please-accept-this-edible-guide-338c0ce9beaa?source=rss------frontend-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "Add and Live Search items with React Hooks",
+        "link": "https://javascript.plainenglish.io/add-and-live-search-items-with-react-hooks-bddece89ffe4?source=rss------frontend-5",
+        "date": "2022-10-18"
+      },
+      {
+        "title": "Continue to create, accelerate growth!",
+        "link": "https://medium.com/@roperluo.me/continue-to-create-accelerate-growth-17b53bcf3c77?source=rss------frontend-5",
+        "date": "2022-10-18"
+      },
+      {
+        "title": "Nodejs knowledge (express middleware) that the front end needs to know",
+        "link": "https://medium.com/@roperluo.me/nodejs-knowledge-express-middleware-that-the-front-end-needs-to-know-135979f91c47?source=rss------frontend-5",
+        "date": "2022-10-18"
+      }
+    ]
+  },
+  {
+    "title": "React on Medium",
+    "posts": [
+      {
+        "title": "How to use React Hook Form in React.js",
+        "link": "https://medium.com/@sasidharan_39972/how-to-use-react-hook-form-in-react-js-a077163ff416?source=rss------react-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "React with Typescript series (Charity Web App) — Form state management",
+        "link": "https://medium.com/nerd-for-tech/react-with-typescript-series-charity-web-app-form-state-management-a411552097ff?source=rss------react-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "React Context Hook",
+        "link": "https://medium.com/@goforindu/react-context-hook-44772541faf7?source=rss------react-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "As a Front-end Engineer, 10 JavaScript Tricks And Tips You Should Know About",
+        "link": "https://javascript.plainenglish.io/as-a-front-end-engineer-10-javascript-tricks-and-tips-you-should-know-about-6f4df0082407?source=rss------react-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "How To Add Bootstrap Modal In React JS",
+        "link": "https://websolutionstuff.medium.com/how-to-add-bootstrap-modal-in-react-js-3f93363a295a?source=rss------react-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "What is Redux",
+        "link": "https://medium.com/@amansinghtomar150/what-is-redux-61164fa23e2b?source=rss------react-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "Reusable Infinite Scroll in React JS without Library",
+        "link": "https://medium.com/@truedrju/reusable-infinite-scroll-in-react-js-without-library-fc64a36a41ba?source=rss------react-5",
+        "date": "2022-10-19"
+      },
+      {
+        "title": "WebRTC | One-to-many live stream with ReactJS and Socket.IO — (2) P2P Connection",
+        "link": "https://medium.com/@Tim_Tsai/webrtc-one-to-many-live-stream-with-reactjs-and-socket-io-2-p2p-connection-6c126ea1dc9d?source=rss------react-5",
+        "date": "2022-10-19"
+      }
+    ]
+  },
+  {
+    "title": "React Status",
+    "posts": [
+      {
+        "title": "The future of rendering in React",
+        "link": "https://react.statuscode.com/issues/309",
+        "date": "2022-10-12"
+      },
+      {
+        "title": "17 minutes to build up your 'React brain'",
+        "link": "https://react.statuscode.com/issues/308",
+        "date": "2022-10-05"
+      },
+      {
+        "title": "LEGO's take on an accessible select component",
+        "link": "https://react.statuscode.com/issues/307",
+        "date": "2022-09-28"
+      },
+      {
+        "title": "Don't bring me down.. Bruce!",
+        "link": "https://react.statuscode.com/issues/306",
+        "date": "2022-09-21"
+      }
+    ]
+  },
+  {
+    "title": "React Digest",
+    "posts": [
+      {
+        "title": "React Digest Issue #378",
+        "link": "https://reactdigest.net/digests/378",
+        "date": "2022-10-16"
+      },
+      {
+        "title": "React Digest Issue #377",
+        "link": "https://reactdigest.net/digests/377",
+        "date": "2022-10-09"
+      },
+      {
+        "title": "React Digest Issue #376",
+        "link": "https://reactdigest.net/digests/376",
+        "date": "2022-10-02"
+      },
+      {
+        "title": "React Digest Issue #375",
+        "link": "https://reactdigest.net/digests/375",
+        "date": "2022-09-25"
+      },
+      {
+        "title": "React Digest Issue #374",
+        "link": "https://reactdigest.net/digests/374",
+        "date": "2022-09-18"
+      }
+    ]
   }
 ]
