@@ -34,5 +34,21 @@
     {
       "title": "掘金-前端",
       "rss": "https://rsshub.app/juejin/category/frontend"
+    },
+    {
+      "title": "medium-frontend",
+      "rss": "https://medium.com/feed/tag/frontend"
+    },
+    {
+      "title": "medium-react",
+      "rss": "https://medium.com/feed/tag/react"
+    },
+    {
+      "title": "react-status",
+      "rss": "https://react.statuscode.com/rss"
+    },
+    {
+      "title": "digest-react",
+      "rss": "http://feeds.feedburner.com/digest-react"
     }
   ]
