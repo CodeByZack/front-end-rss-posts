@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-10-19 12:43，更新条数: +14
+更新时间: 2022-10-20 01:58，更新条数: +41
 
 ## 文章链接
 
@@ -98,6 +98,46 @@
 - [2022-10-18-🌼 细数那些惊艳一时的 CSS 属性](https://juejin.cn/post/7155780555554947102) 
 
 - [2022-10-18-【Nodejs】多进程编程 | 搭建一个多进程Web服务器](https://juejin.cn/post/7155779350770483213) 
+
+- [2022-10-19-JFrog Xray 与 Amazon Security Hub 集成](https://juejin.cn/post/7156258779665793031) 
+
+- [2022-10-19-与小程序的 2M 空间斗智斗勇之图片优化](https://juejin.cn/post/7156255848921038879) 
+
+- [2022-10-19-不得不说，这个 canvas 的旋转半圆效果可能会闪瞎你的双眼🐶](https://juejin.cn/post/7156253720030740488) 
+
+- [2022-10-19-联机五子棋！禁手模式上线！打开URL就能联机对战！观战！单机演练！分享残局！](https://juejin.cn/post/7156253162272194590) 
+
+- [2022-10-19-webassembly：小伙子，你渴望力量吗？](https://juejin.cn/post/7156250334082367496) 
+
+- [2022-10-19-使用brython做个迷宫游戏-2：制作地图](https://juejin.cn/post/7156240264862892063) 
+
+- [2022-10-19-报名开启 | 第三届CID大会线下参会报名启动！](https://juejin.cn/post/7156239170984214564) 
+
+- [2022-10-19-前端脚手架搭建-8](https://juejin.cn/post/7156234788448239624) 
+
+- [2022-10-19-测试覆盖率治不好你的精神内耗](https://juejin.cn/post/7156218050981658638) 
+
+- [2022-10-19-async/await这篇讲的很通透](https://juejin.cn/post/7156156511117377549) 
+
+- [2022-10-19-React为什么准备让开发者渐进式的使用Hook？](https://juejin.cn/post/7156133916150087693) 
+
+- [2022-10-19-你真的了解过插槽Slot吗🔥](https://juejin.cn/post/7156132664200675336) 
+
+- [2022-10-19-优化实战 第49期 - 责任链模式在高德地图中的应用](https://juejin.cn/post/7156130732627197988) 
+
+- [2022-10-19-shell训练营 ｜ 2. Shell 中的数组应用、参数处理和函数的应用](https://juejin.cn/post/7156130312055947295) 
+
+- [2022-10-19-从零开始的Webpack原理剖析（五）——loader](https://juejin.cn/post/7156129237160689671) 
+
+- [2022-10-19-Flutter语法检测及原理剖析-FAIR语法检测实践](https://juejin.cn/post/7156116053972975652) 
+
+- [2022-10-19-React模块联邦多模块项目实战](https://juejin.cn/post/7156108909000785951) 
+
+- [2022-10-19-使用 Rust + WASM 助力 Web 开发的入门指南](https://juejin.cn/post/7156102433581383716) 
+
+- [2022-10-19-CSS calc() 使用指南](https://juejin.cn/post/7156085620971044894) 
+
+- [2022-10-19-从0到1搭建可视化埋点平台](https://juejin.cn/post/7156070053635424264) 
 
 
 </details>
@@ -422,6 +462,26 @@
 
 - [2022-10-19-Without anti-shake and throttling, use a lower-level way to solve repeated JS requests](https://medium.com/@pythonlearn1024/without-anti-shake-and-throttling-use-a-lower-level-way-to-solve-repeated-js-requests-a47de6c60566?source=rss------frontend-5) 
 
+- [2022-10-20-✨✨ Dazzle the universe with starlight and draw starlight effects with CSS!](https://medium.com/@pythonlearn1024/dazzle-the-universe-with-starlight-and-draw-starlight-effects-with-css-1efbe6397298?source=rss------frontend-5) 
+
+- [2022-10-19-Rethink React project architecture](https://medium.com/@pythonlearn1024/rethink-react-project-architecture-c7a209393fb7?source=rss------frontend-5) 
+
+- [2022-10-19-(번역) 리액트 렌더링의 미래](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A0%8C%EB%8D%94%EB%A7%81%EC%9D%98-%EB%AF%B8%EB%9E%98-5b7251bda66d?source=rss------frontend-5) 
+
+- [2022-10-19-JavaScript Fundamentals: Async and Defer](https://medium.com/geekculture/javascript-fundamentals-async-and-defer-2f05c04b1086?source=rss------frontend-5) 
+
+- [2022-10-19-Create a dynamic Type — Typescript Series](https://medium.com/@crtdaniele/create-a-dynamic-type-typescript-series-82138ed440d1?source=rss------frontend-5) 
+
+- [2022-10-19-How to use external state in Pure functions?](https://medium.com/@javascriptmaster/how-to-use-external-state-in-pure-functions-5425524ffa30?source=rss------frontend-5) 
+
+- [2022-10-19-Hand in hand, teach you to achieve an elegant picture preview](https://medium.com/@pythonlearn1024/hand-in-hand-teach-you-to-achieve-an-elegant-picture-preview-ee23b7a4fbe3?source=rss------frontend-5) 
+
+- [2022-10-19-Front-end scaffolding construction-8](https://medium.com/@roperluo.me/front-end-scaffolding-construction-8-4c5573040d80?source=rss------frontend-5) 
+
+- [2022-10-19- Hand tear babel plugin — destroy the console!](https://medium.com/@pythonlearn1024/hand-tear-babel-plugin-destroy-the-console-e942a3952dea?source=rss------frontend-5) 
+
+- [2022-10-19-JavaScript](https://adactio.medium.com/javascript-7dc09f41ae6e?source=rss------frontend-5) 
+
 
 </details>
 
@@ -467,6 +527,26 @@
 
 - [2022-10-19-How to make a custom hook for closing a modal when clicking outside(React, Typescript)](https://samir-mirzaliyev.medium.com/how-to-make-a-custom-hook-for-closing-a-modal-when-clicking-outside-react-typescript-818d40b803c3?source=rss------react-5) 
 
+- [2022-10-19-Rethink React project architecture](https://medium.com/@pythonlearn1024/rethink-react-project-architecture-c7a209393fb7?source=rss------react-5) 
+
+- [2022-10-19-Building a Video Player with React and Material UI](https://medium.com/stackanatomy/building-a-video-player-with-react-and-material-ui-1e4cc105e084?source=rss------react-5) 
+
+- [2022-10-19-(번역) 리액트 렌더링의 미래](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A0%8C%EB%8D%94%EB%A7%81%EC%9D%98-%EB%AF%B8%EB%9E%98-5b7251bda66d?source=rss------react-5) 
+
+- [2022-10-19-Bootstrap with React Tutorial — Using Custom Colors](https://medium.com/@tylerthecontentcreator/bootstrap-with-react-tutorial-with-custom-colors-505d28797d25?source=rss------react-5) 
+
+- [2022-10-19-How the heck do you test a (complex) custom react hook? ](https://medium.com/@austen.henry/how-the-heck-do-you-test-a-complex-custom-react-hook-b2d9f0464909?source=rss------react-5) 
+
+- [2022-10-19-SPA vs MPA: The Right Tool For the Job](https://blog.devgenius.io/spa-vs-mpa-the-right-tool-for-the-job-8c4cca9d2cd0?source=rss------react-5) 
+
+- [2022-10-19-How to deploy a Fullstack REACT Application on the AWS EC2 instance](https://medium.com/@ksekwamote/how-to-deploy-a-fullstack-react-application-on-the-aws-ec2-instance-909fd5dc26e7?source=rss------react-5) 
+
+- [2022-10-19-Visualizing Data with React Google Charts](https://medium.com/getpieces/visualizing-data-with-react-google-charts-f1cf9b686e8e?source=rss------react-5) 
+
+- [2022-10-19-How to use external state in Pure functions?](https://medium.com/@javascriptmaster/how-to-use-external-state-in-pure-functions-5425524ffa30?source=rss------react-5) 
+
+- [2022-10-19-How to Deploy a React App on Apache Server in Debian 11](https://adeyomoladev.medium.com/how-to-deploy-a-react-app-on-apache-server-in-debian-11-63903ff4c46c?source=rss------react-5) 
+
 
 </details>
 
@@ -483,6 +563,8 @@
 - [2022-09-28-LEGO's take on an accessible select component](https://react.statuscode.com/issues/307) 
 
 - [2022-09-21-Don't bring me down.. Bruce!](https://react.statuscode.com/issues/306) 
+
+- [2022-10-19-Promises, promises..](https://react.statuscode.com/issues/310) 
 
 
 </details>
