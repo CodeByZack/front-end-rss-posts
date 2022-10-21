@@ -14,10 +14,13 @@ if (newAdded.length > 0) {
     .push(['-u', 'origin', 'master'], (error, result) => {
       if (error) {
         console.log(`推送失败：${error}`);
+        process.exit();
       } else {
         console.log(`推送成功：${result}`);
+        process.exit();
       }
     });
 } else {
   console.log('没有抓取到最新的文章');
+  process.exit();
 }
