@@ -21,6 +21,11 @@
         "title": "Digging into dependencies with npm query",
         "link": "https://nodeweekly.com/issues/457",
         "date": "2022-10-06"
+      },
+      {
+        "title": "Node 19 released",
+        "link": "https://nodeweekly.com/issues/459",
+        "date": "2022-10-20"
       }
     ]
   },
@@ -206,6 +211,11 @@
         "title": "JS replaceAll 和 matchAll 使用指南不指北",
         "link": "https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/",
         "date": "2022-08-21"
+      },
+      {
+        "title": "告别pointer-events:none使用HTML inert属性真正禁用",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/",
+        "date": "2022-10-20"
       }
     ]
   },
@@ -226,6 +236,11 @@
         "title": "科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch",
         "link": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html",
         "date": "2022-09-23"
+      },
+      {
+        "title": "科技爱好者周刊（第 227 期）：脸书的公司入职教育",
+        "link": "http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html",
+        "date": "2022-10-21"
       }
     ]
   },
@@ -351,6 +366,11 @@
         "title": "New to the web platform in July",
         "link": "https://web.dev/web-platform-07-2022/",
         "date": "2022-07-29"
+      },
+      {
+        "title": "Building a Better Web - Part 1: A faster YouTube on web",
+        "link": "https://web.dev/better-youtube-web-part1/",
+        "date": "2022-10-20"
       }
     ]
   },
@@ -561,6 +581,11 @@
         "title": "代码臃肿已成常态：99% 计算机资源都被浪费掉了",
         "link": "https://www.infoq.cn/article/LyfCSNgDTVXmZSYdcwdz",
         "date": "2022-08-08"
+      },
+      {
+        "title": "Kotlin Multiplatform Mobile进入Beta测试",
+        "link": "https://www.infoq.cn/article/lOCkY3lV2ADRvXcsZEb2",
+        "date": "2022-10-21"
       }
     ]
   },
@@ -866,6 +891,106 @@
         "title": "el-table合并单元格的正确打开方式",
         "link": "https://juejin.cn/post/7155448321694236685",
         "date": "2022-10-17"
+      },
+      {
+        "title": "canvas 实现多彩的圆环数字时钟",
+        "link": "https://juejin.cn/post/7156740899991453710",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "【自然语言处理（NLP）】聊天机器人系统评测",
+        "link": "https://juejin.cn/post/7156631193205604360",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "【RocketMQ入门到精通】— RocketMQ学习入门指南 | RocketMQ逻辑部署结构精讲",
+        "link": "https://juejin.cn/post/7156628548843733023",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "JavaScript基础笔记整理(五)",
+        "link": "https://juejin.cn/post/7156628109909819405",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "你有多个前端项目，他们目录结构很像？有公共组件函数？该怎么复用？",
+        "link": "https://juejin.cn/post/7156624721247731726",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "【前端&运维那点事儿】九：迈向Shell的第五步：正则表达式",
+        "link": "https://juejin.cn/post/7156620359242874894",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "React 服务端渲染在跨端领域中的新视界",
+        "link": "https://juejin.cn/post/7156607920262610981",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "前端脚手架搭建-9",
+        "link": "https://juejin.cn/post/7156607524890738701",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "vite 发布基于 Ant Design Vue 二次封装的组件库到 npm",
+        "link": "https://juejin.cn/post/7156585981611606047",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "使用 vite 发布自定义组件到 npm",
+        "link": "https://juejin.cn/post/7156583120999809037",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "前端组件级别的抽象方向",
+        "link": "https://juejin.cn/post/7156575298501214221",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "用JS实现一个模板引擎",
+        "link": "https://juejin.cn/post/7156566449350737927",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "JS实现继承的方式，你会几种？",
+        "link": "https://juejin.cn/post/7156555227229847582",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "从拼夕夕砍一刀链接漫谈微信落地页防封",
+        "link": "https://juejin.cn/post/7156548454502629384",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "TypeScript 基础知识系列TS泛型",
+        "link": "https://juejin.cn/post/7156542015885279239",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "JS 中的正则",
+        "link": "https://juejin.cn/post/7156536425297477645",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "设计模式之发布订阅模式",
+        "link": "https://juejin.cn/post/7156528165848875039",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "NPM包魔改利器 patch-package 给包打补丁",
+        "link": "https://juejin.cn/post/7156518889151528997",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "你不知道的WebComponent：像搭积木一样构建Web应用",
+        "link": "https://juejin.cn/post/7156515241285976100",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "经久不衰的前端面试题：从输入URL到页面展示发生了什么？",
+        "link": "https://juejin.cn/post/7156507687713243172",
+        "date": "2022-10-20"
       }
     ]
   },
@@ -1020,6 +1145,51 @@
       {
         "title": "Os aprendizados que me fizeram evoluir como programador",
         "link": "https://medium.com/@tiodev/os-aprendizados-que-me-fizeram-evoluir-como-programador-6a037df7d260?source=rss------frontend-5",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "Shopping Cart with React and Stripe",
+        "link": "https://javascript.plainenglish.io/shopping-cart-with-react-and-stripe-fbbd6ec8d448?source=rss------frontend-5",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "✨Using SplittingJS to achieve cool picture switching scenes",
+        "link": "https://medium.com/@pythonlearn1024/using-splittingjs-to-achieve-cool-picture-switching-scenes-f5b2b89cb16d?source=rss------frontend-5",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "Frontend MultiCloud 구현을 위한 아이디어",
+        "link": "https://sinnerr0.medium.com/frontend-multicloud-%EA%B5%AC%ED%98%84%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-3a713ca5eaa1?source=rss------frontend-5",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "Axios랑 친해져보자",
+        "link": "https://medium.com/@jvito11904/axios%EB%9E%91-%EC%B9%9C%ED%95%B4%EC%A0%B8%EB%B3%B4%EC%9E%90-f70f051a160b?source=rss------frontend-5",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "Google UX Design Professional Certificate: how it can be helpful for frontend developers",
+        "link": "https://medium.com/@rferrandino.tokyo/google-ux-design-professional-certificate-how-it-can-be-helpful-for-frontend-developers-53294e59109b?source=rss------frontend-5",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "Abstraction direction at the front-end component level",
+        "link": "https://medium.com/@roperluo.me/abstraction-direction-at-the-front-end-component-level-b9380f423a39?source=rss------frontend-5",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "Super powerful scrolling text effects on Apple&#39;s official website",
+        "link": "https://medium.com/@pythonlearn1024/super-powerful-scrolling-text-effects-on-apple-39-s-official-website-42b86c601c5f?source=rss------frontend-5",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "The number of characters in this book is 1800+, and the reading time is about 3 minutes.",
+        "link": "https://medium.com/@pythonlearn1024/the-number-of-characters-in-this-book-is-1800-and-the-reading-time-is-about-3-minutes-ea711ea900a1?source=rss------frontend-5",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "How to elegantly adapt mobile pages to various screens, including PC",
+        "link": "https://medium.com/@pythonlearn1024/how-to-elegantly-adapt-mobile-pages-to-various-screens-including-pc-319d235eff28?source=rss------frontend-5",
         "date": "2022-10-20"
       }
     ]
@@ -1215,6 +1385,51 @@
       {
         "title": "Export multiple HTML contents as an image.zip",
         "link": "https://medium.com/@balazsiisti/export-multiple-html-contents-as-an-image-zip-d2650183070b?source=rss------react-5",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "Deploy your react project with GitHub",
+        "link": "https://medium.com/@JungleSoft/deploy-your-react-project-with-github-711b53db1831?source=rss------react-5",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "Firebase storage: delete an image by URL",
+        "link": "https://medium.com/@JungleSoft/firebase-storage-delete-an-image-by-url-2ff5ed34c29?source=rss------react-5",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "How to Get the Position of the Mouse in the React",
+        "link": "https://javascript.plainenglish.io/react-get-mouse-position-d900c9fe09cd?source=rss------react-5",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "Guide to React Native Navigation",
+        "link": "https://medium.com/readytowork-org/guide-to-react-native-navigation-f2e8942c434e?source=rss------react-5",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "Creating a simple React App in Ionic/Capacitor",
+        "link": "https://betterprogramming.pub/creating-a-simple-react-app-in-ionic-capacitor-3d6be50c9a77?source=rss------react-5",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "New website for Storybook",
+        "link": "https://medium.com/storybookjs/new-website-for-storybook-e226ce47704a?source=rss------react-5",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "Shopping Cart with React and Stripe",
+        "link": "https://javascript.plainenglish.io/shopping-cart-with-react-and-stripe-fbbd6ec8d448?source=rss------react-5",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "Using Rails… to get a room",
+        "link": "https://medium.com/@SoraEagle/using-rails-to-get-a-room-26e9d9f07cc4?source=rss------react-5",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "How to use json-server",
+        "link": "https://medium.com/@chimaifeanyi29/how-to-use-json-server-a1496cad1ef1?source=rss------react-5",
         "date": "2022-10-20"
       }
     ]

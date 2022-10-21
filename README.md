@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-10-20 12:42，更新条数: +34
+更新时间: 2022-10-21 01:43，更新条数: +43
 
 ## 文章链接
 
@@ -179,6 +179,46 @@
 
 - [2022-10-17-el-table合并单元格的正确打开方式](https://juejin.cn/post/7155448321694236685) 
 
+- [2022-10-20-canvas 实现多彩的圆环数字时钟](https://juejin.cn/post/7156740899991453710) 
+
+- [2022-10-20-【自然语言处理（NLP）】聊天机器人系统评测](https://juejin.cn/post/7156631193205604360) 
+
+- [2022-10-20-【RocketMQ入门到精通】— RocketMQ学习入门指南 | RocketMQ逻辑部署结构精讲](https://juejin.cn/post/7156628548843733023) 
+
+- [2022-10-20-JavaScript基础笔记整理(五)](https://juejin.cn/post/7156628109909819405) 
+
+- [2022-10-20-你有多个前端项目，他们目录结构很像？有公共组件函数？该怎么复用？](https://juejin.cn/post/7156624721247731726) 
+
+- [2022-10-20-【前端&运维那点事儿】九：迈向Shell的第五步：正则表达式](https://juejin.cn/post/7156620359242874894) 
+
+- [2022-10-20-React 服务端渲染在跨端领域中的新视界](https://juejin.cn/post/7156607920262610981) 
+
+- [2022-10-20-前端脚手架搭建-9](https://juejin.cn/post/7156607524890738701) 
+
+- [2022-10-20-vite 发布基于 Ant Design Vue 二次封装的组件库到 npm](https://juejin.cn/post/7156585981611606047) 
+
+- [2022-10-20-使用 vite 发布自定义组件到 npm](https://juejin.cn/post/7156583120999809037) 
+
+- [2022-10-20-前端组件级别的抽象方向](https://juejin.cn/post/7156575298501214221) 
+
+- [2022-10-20-用JS实现一个模板引擎](https://juejin.cn/post/7156566449350737927) 
+
+- [2022-10-20-JS实现继承的方式，你会几种？](https://juejin.cn/post/7156555227229847582) 
+
+- [2022-10-20-从拼夕夕砍一刀链接漫谈微信落地页防封](https://juejin.cn/post/7156548454502629384) 
+
+- [2022-10-20-TypeScript 基础知识系列TS泛型](https://juejin.cn/post/7156542015885279239) 
+
+- [2022-10-20-JS 中的正则](https://juejin.cn/post/7156536425297477645) 
+
+- [2022-10-20-设计模式之发布订阅模式](https://juejin.cn/post/7156528165848875039) 
+
+- [2022-10-20-NPM包魔改利器 patch-package 给包打补丁](https://juejin.cn/post/7156518889151528997) 
+
+- [2022-10-20-你不知道的WebComponent：像搭积木一样构建Web应用](https://juejin.cn/post/7156515241285976100) 
+
+- [2022-10-20-经久不衰的前端面试题：从输入URL到页面展示发生了什么？](https://juejin.cn/post/7156507687713243172) 
+
 
 </details>
 
@@ -248,6 +288,8 @@
 
 - [2022-08-08-代码臃肿已成常态：99% 计算机资源都被浪费掉了](https://www.infoq.cn/article/LyfCSNgDTVXmZSYdcwdz) 
 
+- [2022-10-21-Kotlin Multiplatform Mobile进入Beta测试](https://www.infoq.cn/article/lOCkY3lV2ADRvXcsZEb2) 
+
 
 </details>
 
@@ -292,6 +334,8 @@
 
 - [2022-09-23-科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html) 
 
+- [2022-10-21-科技爱好者周刊（第 227 期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html) 
+
 
 </details>
 
@@ -320,6 +364,8 @@
 - [2022-08-24-来了，来了，CSS :has()伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/) 
 
 - [2022-08-21-JS replaceAll 和 matchAll 使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
+
+- [2022-10-20-告别pointer-events:none使用HTML inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) 
 
 
 </details>
@@ -386,6 +432,8 @@
 - [2022-10-13-✂️ Cutting away the unused parts of your project](https://nodeweekly.com/issues/458) 
 
 - [2022-10-06-Digging into dependencies with npm query](https://nodeweekly.com/issues/457) 
+
+- [2022-10-20-Node 19 released](https://nodeweekly.com/issues/459) 
 
 
 </details>
@@ -461,6 +509,8 @@
 
 - [2022-07-29-New to the web platform in July](https://web.dev/web-platform-07-2022/) 
 
+- [2022-10-20-Building a Better Web - Part 1: A faster YouTube on web](https://web.dev/better-youtube-web-part1/) 
+
 
 </details>
 
@@ -529,6 +579,24 @@
 - [2022-10-20-What should I do if I don&#39;t want to package part of the code into the production environment?](https://medium.com/@pythonlearn1024/what-should-i-do-if-i-don-39-t-want-to-package-part-of-the-code-into-the-production-environment-37b87b6ea7c0?source=rss------frontend-5) 
 
 - [2022-10-20-Os aprendizados que me fizeram evoluir como programador](https://medium.com/@tiodev/os-aprendizados-que-me-fizeram-evoluir-como-programador-6a037df7d260?source=rss------frontend-5) 
+
+- [2022-10-20-Shopping Cart with React and Stripe](https://javascript.plainenglish.io/shopping-cart-with-react-and-stripe-fbbd6ec8d448?source=rss------frontend-5) 
+
+- [2022-10-20-✨Using SplittingJS to achieve cool picture switching scenes](https://medium.com/@pythonlearn1024/using-splittingjs-to-achieve-cool-picture-switching-scenes-f5b2b89cb16d?source=rss------frontend-5) 
+
+- [2022-10-20-Frontend MultiCloud 구현을 위한 아이디어](https://sinnerr0.medium.com/frontend-multicloud-%EA%B5%AC%ED%98%84%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-3a713ca5eaa1?source=rss------frontend-5) 
+
+- [2022-10-20-Axios랑 친해져보자](https://medium.com/@jvito11904/axios%EB%9E%91-%EC%B9%9C%ED%95%B4%EC%A0%B8%EB%B3%B4%EC%9E%90-f70f051a160b?source=rss------frontend-5) 
+
+- [2022-10-20-Google UX Design Professional Certificate: how it can be helpful for frontend developers](https://medium.com/@rferrandino.tokyo/google-ux-design-professional-certificate-how-it-can-be-helpful-for-frontend-developers-53294e59109b?source=rss------frontend-5) 
+
+- [2022-10-20-Abstraction direction at the front-end component level](https://medium.com/@roperluo.me/abstraction-direction-at-the-front-end-component-level-b9380f423a39?source=rss------frontend-5) 
+
+- [2022-10-20-Super powerful scrolling text effects on Apple&#39;s official website](https://medium.com/@pythonlearn1024/super-powerful-scrolling-text-effects-on-apple-39-s-official-website-42b86c601c5f?source=rss------frontend-5) 
+
+- [2022-10-20-The number of characters in this book is 1800+, and the reading time is about 3 minutes.](https://medium.com/@pythonlearn1024/the-number-of-characters-in-this-book-is-1800-and-the-reading-time-is-about-3-minutes-ea711ea900a1?source=rss------frontend-5) 
+
+- [2022-10-20-How to elegantly adapt mobile pages to various screens, including PC](https://medium.com/@pythonlearn1024/how-to-elegantly-adapt-mobile-pages-to-various-screens-including-pc-319d235eff28?source=rss------frontend-5) 
 
 
 </details>
@@ -614,6 +682,24 @@
 - [2022-10-20-What is React.js?](https://medium.com/@naiomidaphne/what-is-react-js-22df704b93a?source=rss------react-5) 
 
 - [2022-10-20-Export multiple HTML contents as an image.zip](https://medium.com/@balazsiisti/export-multiple-html-contents-as-an-image-zip-d2650183070b?source=rss------react-5) 
+
+- [2022-10-20-Deploy your react project with GitHub](https://medium.com/@JungleSoft/deploy-your-react-project-with-github-711b53db1831?source=rss------react-5) 
+
+- [2022-10-20-Firebase storage: delete an image by URL](https://medium.com/@JungleSoft/firebase-storage-delete-an-image-by-url-2ff5ed34c29?source=rss------react-5) 
+
+- [2022-10-20-How to Get the Position of the Mouse in the React](https://javascript.plainenglish.io/react-get-mouse-position-d900c9fe09cd?source=rss------react-5) 
+
+- [2022-10-20-Guide to React Native Navigation](https://medium.com/readytowork-org/guide-to-react-native-navigation-f2e8942c434e?source=rss------react-5) 
+
+- [2022-10-20-Creating a simple React App in Ionic/Capacitor](https://betterprogramming.pub/creating-a-simple-react-app-in-ionic-capacitor-3d6be50c9a77?source=rss------react-5) 
+
+- [2022-10-20-New website for Storybook](https://medium.com/storybookjs/new-website-for-storybook-e226ce47704a?source=rss------react-5) 
+
+- [2022-10-20-Shopping Cart with React and Stripe](https://javascript.plainenglish.io/shopping-cart-with-react-and-stripe-fbbd6ec8d448?source=rss------react-5) 
+
+- [2022-10-20-Using Rails… to get a room](https://medium.com/@SoraEagle/using-rails-to-get-a-room-26e9d9f07cc4?source=rss------react-5) 
+
+- [2022-10-20-How to use json-server](https://medium.com/@chimaifeanyi29/how-to-use-json-server-a1496cad1ef1?source=rss------react-5) 
 
 
 </details>
