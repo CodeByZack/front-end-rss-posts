@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-10-21 12:42，更新条数: +33
+更新时间: 2022-10-22 01:51，更新条数: +37
 
 ## 文章链接
 
@@ -96,6 +96,46 @@
 - [2022-10-21-深入nodejs的event-loop](https://juejin.cn/post/7156785642414800927) 
 
 - [2022-10-21-Webpack中的高级特性](https://juejin.cn/post/7156768049129848863) 
+
+- [2022-10-21-CTF-AWD入门手册](https://juejin.cn/post/7157112833749024782) 
+
+- [2022-10-21-区服分析丨更透彻的游戏营运数据解读，助力高效增长](https://juejin.cn/post/7157001292735316004) 
+
+- [2022-10-21-为了讲明白继承和super、this关键字，群主发了20块钱群红包](https://juejin.cn/post/7157001061193138189) 
+
+- [2022-10-21-【RocketMQ入门到精通】— RocketMQ学习入门指南 | RocketMQ服务发现（Name Server）精讲](https://juejin.cn/post/7156998533441126414) 
+
+- [2022-10-21-Qt绘图](https://juejin.cn/post/7156998160210984974) 
+
+- [2022-10-21-JavaScript基础笔记整理(六)](https://juejin.cn/post/7156996091945173022) 
+
+- [2022-10-21-联机五子棋！复盘功能上线！](https://juejin.cn/post/7156995699735789605) 
+
+- [2022-10-21-【前端&运维那点事儿】十：Shell编程之条件判断与分支语句](https://juejin.cn/post/7156991959305977892) 
+
+- [2022-10-21-可玩性超高的文字像素图 - 像素图编辑器新增文字像素图功能](https://juejin.cn/post/7156987966110302244) 
+
+- [2022-10-21-vue 日历 组件](https://juejin.cn/post/7156964464294002718) 
+
+- [2022-10-21-Web团队建设--自定义脚手架](https://juejin.cn/post/7156961879837900830) 
+
+- [2022-10-21-小程序进阶优化之旅(二) -- 用户体验优化](https://juejin.cn/post/7156960314225852424) 
+
+- [2022-10-21-从 0 搭建 Vite 3 + Vue 3 前端工程化项目](https://juejin.cn/post/7156957907890733063) 
+
+- [2022-10-21-css实现一个温度计图表](https://juejin.cn/post/7156922119820066852) 
+
+- [2022-10-21-微信小程序之接口预加载](https://juejin.cn/post/7156911986219483166) 
+
+- [2022-10-21-用canvas实现节日孔明灯放飞功能](https://juejin.cn/post/7156911939015147551) 
+
+- [2022-10-21-移动端H5自动播放视频](https://juejin.cn/post/7156904342887333925) 
+
+- [2022-10-21-手写系列之简易redux -- createStore](https://juejin.cn/post/7156891589422514189) 
+
+- [2022-10-21-前端懒加载和预加载](https://juejin.cn/post/7156891337004941343) 
+
+- [2022-10-21-Vue3源码系列 (四) ref](https://juejin.cn/post/7156890537692397599) 
 
 - [2022-10-20-1024程序员节来袭～不加班 加四重福利！](https://juejin.cn/post/7156528643512991757) 
 
@@ -488,6 +528,8 @@
 </summary>
 
 
+- [2022-10-21-🪜 Decorating with Dr. Axel](https://javascriptweekly.com/issues/611) 
+
 - [2022-10-14-Node to keep an eye on your code](https://javascriptweekly.com/issues/610) 
 
 - [2022-10-07-Axios turns 1.0; TypeScript turns 10](https://javascriptweekly.com/issues/609) 
@@ -565,6 +607,18 @@
 
 
 - [2022-10-21-Youtube — System design, MAANG interview question.](https://medium.com/geekculture/youtube-system-design-maang-interview-question-20c9656b6ce8?source=rss------frontend-5) 
+
+- [2022-10-21-How to get input value in React](https://ghost-together.medium.com/how-to-get-input-value-in-react-4655eab4efa2?source=rss------frontend-5) 
+
+- [2022-10-21-How to build a dark mode toggle with CSS and Javascript?](https://medium.com/@hassaneodesk/how-to-build-a-dark-mode-toggle-with-css-and-javascript-88a095622aa8?source=rss------frontend-5) 
+
+- [2022-10-21-[Basic Frontend] How to set up and install development environment of React](https://medium.com/@hee98.09.14/basic-frontend-how-to-set-up-and-install-development-environment-of-react-dd21063f87c?source=rss------frontend-5) 
+
+- [2022-10-21-How To Add Multiple Themes and set them to local storage](https://medium.com/the-techlife/how-to-add-multiple-themes-and-set-them-to-local-storage-d111f883b55?source=rss------frontend-5) 
+
+- [2022-10-21-SCSS 的好處分享](https://medium.com/@bear817005/sass-%E7%9A%84%E5%A5%BD%E8%99%95%E5%88%86%E4%BA%AB-607ea483648d?source=rss------frontend-5) 
+
+- [2022-10-21-Contract Testing MicroFrontends](https://donkeycoder.medium.com/contract-testing-microfrontends-d35ef36bda1b?source=rss------frontend-5) 
 
 - [2022-10-20-✨✨ Dazzle the universe with starlight and draw starlight effects with CSS!](https://medium.com/@pythonlearn1024/dazzle-the-universe-with-starlight-and-draw-starlight-effects-with-css-1efbe6397298?source=rss------frontend-5) 
 
@@ -672,6 +726,26 @@
 - [2022-10-21-Code Splitting in Next Js](https://tech.groww.in/code-splitting-in-next-js-ceeab595b199?source=rss------react-5) 
 
 - [2022-10-21-Navigator. Object that you must know.](https://blog.devgenius.io/navigator-object-that-you-must-know-b45a822a54c0?source=rss------react-5) 
+
+- [2022-10-21-How to get input value in React](https://ghost-together.medium.com/how-to-get-input-value-in-react-4655eab4efa2?source=rss------react-5) 
+
+- [2022-10-21-React Serverless SSR: A discussion and lightweight framework](https://blog.devgenius.io/react-serverless-ssr-a-discussion-and-lightweight-framework-6128e5d528da?source=rss------react-5) 
+
+- [2022-10-21-Flutter & React the similarity between the two frameworks](https://medium.com/@alessandro.oddo1/flutter-react-the-similarity-between-the-two-frameworks-a79811b08dbd?source=rss------react-5) 
+
+- [2022-10-21-Five best practices for React developers](https://learningdaily.dev/five-best-practices-for-react-developers-5aa2939d6bed?source=rss------react-5) 
+
+- [2022-10-21-Creating an inbox](https://medium.com/@steven_21241/creating-an-inbox-8ea45ef122e?source=rss------react-5) 
+
+- [2022-10-21-Concepts you should be familiar with before learning REACT JS](https://medium.com/@dandanmaman/concepts-you-should-be-familiar-with-before-learning-react-js-21c2caa006fc?source=rss------react-5) 
+
+- [2022-10-21-[Basic Frontend] How to set up and install development environment of React](https://medium.com/@hee98.09.14/basic-frontend-how-to-set-up-and-install-development-environment-of-react-dd21063f87c?source=rss------react-5) 
+
+- [2022-10-21-All you need to know about Angular frameworks, React.js and Vue.js](https://medium.com/@yassinehouta/all-you-need-to-know-about-angular-frameworks-react-js-and-vue-js-60692bd0de5f?source=rss------react-5) 
+
+- [2022-10-21-How to deploy a react application on an IIS server](https://mateo-mojica.medium.com/how-to-deploy-a-react-application-on-an-iis-server-31409768ec92?source=rss------react-5) 
+
+- [2022-10-21-【React Docs 筆記】渲染程序介紹： Render and Commit](https://medium.com/@annie.chien105/react-docs-%E7%AD%86%E8%A8%98-%E6%B8%B2%E6%9F%93%E7%A8%8B%E5%BA%8F%E4%BB%8B%E7%B4%B9-render-and-commit-734a9d339276?source=rss------react-5) 
 
 - [2022-10-20-Class & functional components in React.js](https://medium.com/kode-art/class-functional-components-in-react-js-22fe065d5458?source=rss------react-5) 
 
