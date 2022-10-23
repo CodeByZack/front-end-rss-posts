@@ -1261,6 +1261,101 @@
         "title": "可玩性超高的文字像素图 - 像素图转换器新增文字像素图功能",
         "link": "https://juejin.cn/post/7156987966110302244",
         "date": "2022-10-21"
+      },
+      {
+        "title": "Vue中的$nextTick是怎么实现的",
+        "link": "https://juejin.cn/post/7157410005182840840",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "使用Key Manager Plus部署SSL证书",
+        "link": "https://juejin.cn/post/7157371526822494215",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "手动重写数组方法forEach、map、filter、reduce、sort",
+        "link": "https://juejin.cn/post/7157371893518401550",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "大量模块壳工程本地如何快速编译？优酷 iOS 工程插件化实践",
+        "link": "https://juejin.cn/post/7157369709732560932",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "Chrome 的 DevTools 竟然是用 JS 写的",
+        "link": "https://juejin.cn/post/7157368138214932510",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "【前端&运维那点事儿】十一：Shell编程之循环语句",
+        "link": "https://juejin.cn/post/7157365268686209037",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "前端脚手架搭建-11",
+        "link": "https://juejin.cn/post/7157353860880105503",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "『从零开始学小程序』媒体组件image组件",
+        "link": "https://juejin.cn/post/7157332315503345672",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "【hel-micro教学视频-1】发布和使用远程js库",
+        "link": "https://juejin.cn/post/7157331969305968676",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "『 每日一题』手写每日一题之防抖",
+        "link": "https://juejin.cn/post/7157329600245137439",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "React 通过 CSS Variables 实现暗黑模式（一）：项目搭建与核心逻辑",
+        "link": "https://juejin.cn/post/7157272982757310471",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "【源码学习】第15期 | 如何检测npm包名的规范性？",
+        "link": "https://juejin.cn/post/7157260773415190542",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "小程序-商城项目搭建（配置tabbar、设计项目的公共样式、项目中引入iconfont图标库、网络请求封装等）",
+        "link": "https://juejin.cn/post/7157250565045485598",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "【你小子给船长换一个像素马里奥】教你用box-shadow给自己画个NFT像素头像",
+        "link": "https://juejin.cn/post/7157241466409418759",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "Vue3源码系列 (六) KeepAlive",
+        "link": "https://juejin.cn/post/7157241400042455047",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "使用Vue3.2新指令v-memo提升性能(含源码浅析)",
+        "link": "https://juejin.cn/post/7157229673301147656",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "【源码阅读】create-vue 实现原理",
+        "link": "https://juejin.cn/post/7157196574458642462",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "产品：实现一个多音字标注的文本编辑框",
+        "link": "https://juejin.cn/post/7157155197092003877",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "一篇文章帮你搞清并发与并行的区别 | Rust 异步编程和并发编程模型",
+        "link": "https://juejin.cn/post/7156971883827560456",
+        "date": "2022-10-21"
       }
     ]
   },
@@ -1505,6 +1600,21 @@
       {
         "title": "Learning useState hook ,Re-rendering of App",
         "link": "https://javascriptmaster.medium.com/learning-usestate-hook-re-rendering-of-app-1d167af200c9?source=rss------frontend-5",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "Plop.js kullanarak code generate etmek",
+        "link": "https://medium.com/@dev.bedirhangul/plop-js-kullanarak-code-generate-etmek-1a032a9de71d?source=rss------frontend-5",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "Change career",
+        "link": "https://medium.com/@catiabarroco/change-career-b3a1c7783216?source=rss------frontend-5",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "The Virtual Demagogue within.",
+        "link": "https://medium.com/@chebiva/the-virtual-demagogue-within-5d35d7200371?source=rss------frontend-5",
         "date": "2022-10-22"
       }
     ]
@@ -1885,6 +1995,56 @@
       {
         "title": "3 FREE Resources to Learn JavaScript",
         "link": "https://medium.com/@sid-js/3-free-resources-to-learn-javascript-6b759e19231c?source=rss------react-5",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "Okay, so React.useState Sucks",
+        "link": "https://medium.com/@jbyj/okay-so-react-usestate-sucks-ef756cfce516?source=rss------react-5",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "2023 beginners guide to React component libraries",
+        "link": "https://medium.com/@jasonatallah/2023-beginners-guide-to-react-component-libraries-e97224640668?source=rss------react-5",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "2023 beginners’ guide to modern tech stacks for web applications",
+        "link": "https://medium.com/@jasonatallah/2023-beginners-guide-to-modern-tech-stacks-for-web-applications-984bbf9664f4?source=rss------react-5",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "REACT",
+        "link": "https://medium.com/@nikhil.k8901/react-525a84c0cd13?source=rss------react-5",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "React: Criando sua primeira aplicação",
+        "link": "https://medium.com/@agathamendonca/react-criando-sua-primeira-aplica%C3%A7%C3%A3o-238d39cc1f02?source=rss------react-5",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "Building a Website using Rust, gRPC-web, React",
+        "link": "https://medium.com/@christopher-scholz/building-a-website-using-rust-grpc-web-react-7412f1596a17?source=rss------react-5",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "Motion framer for javascript animation",
+        "link": "https://javascript.plainenglish.io/motion-framer-for-javascript-animation-e939aedf9a37?source=rss------react-5",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "this in JavaScript",
+        "link": "https://blog.devgenius.io/this-in-javascript-f66d1c8396f9?source=rss------react-5",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "5 Web Accessibility tools for React Applications.",
+        "link": "https://blog.bitsrc.io/5-web-accessibility-tools-for-react-applications-e1baad7c6087?source=rss------react-5",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "Summary of React India — 2022 ",
+        "link": "https://alok722.medium.com/summary-of-react-india-2022-bccffee2c879?source=rss------react-5",
         "date": "2022-10-22"
       }
     ]
