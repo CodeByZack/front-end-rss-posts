@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-10-23 01:56，更新条数: +32
+更新时间: 2022-10-23 12:38，更新条数: +42
 
 ## 文章链接
 
@@ -59,6 +59,20 @@
 </summary>
 
 
+- [2022-10-23-这一次彻底搞懂，vuex原理](https://juejin.cn/post/7157616962074312734) 
+
+- [2022-10-23-深入了解 React 中的虚拟 DOM](https://juejin.cn/post/7157592289487880199) 
+
+- [2022-10-23-阿里面试官：设计一个不能操作DOM和调接口的环境](https://juejin.cn/post/7157570429928865828) 
+
+- [2022-10-23-🕹 7万奖金，字节Offer，iPhone 14 Pro 等惊喜奖品，四大赛题，1024邀你码上掘金！](https://juejin.cn/post/7157563114022518797) 
+
+- [2022-10-23-『从零开始学小程序』媒体组件audio组件](https://juejin.cn/post/7157562653357899806) 
+
+- [2022-10-23-在qiankun微前端中做性能统计](https://juejin.cn/post/7157527241344155685) 
+
+- [2022-10-23-WebGL系列（4）：开启三维世界](https://juejin.cn/post/7157517816592072717) 
+
 - [2022-10-22-vue3中的$attrs的变化与inheritAttrs的使用](https://juejin.cn/post/7157195220038189087) 
 
 - [2022-10-22-this：从执行上下文的角度深入理解this](https://juejin.cn/post/7157188734377541639) 
@@ -106,6 +120,32 @@
 - [2022-10-22-【源码阅读】create-vue 实现原理](https://juejin.cn/post/7157196574458642462) 
 
 - [2022-10-22-产品：实现一个多音字标注的文本编辑框](https://juejin.cn/post/7157155197092003877) 
+
+- [2022-10-22-动态生成CSS轮播动画](https://juejin.cn/post/7157419778678718495) 
+
+- [2022-10-22-数字华容道「思否猫版」](https://juejin.cn/post/7157370844920938509) 
+
+- [2022-10-22-要不要来看看浏览器视图更新的底层规则？](https://juejin.cn/post/7157355485040443429) 
+
+- [2022-10-22-记录 Backbone 项目中引入 React 组件的一个问题](https://juejin.cn/post/7157343309042548767) 
+
+- [2022-10-22-【U3D小游戏】愤怒的小鸟（九）地图选则界面和部分逻辑](https://juejin.cn/post/7157339554758803493) 
+
+- [2022-10-22-谈谈JavaScript中的元编程](https://juejin.cn/post/7157338201458212877) 
+
+- [2022-10-22-CSS中Grid网格布局常用属性总结](https://juejin.cn/post/7157336545161117704) 
+
+- [2022-10-22-纯css实现呼吸霓虹效果](https://juejin.cn/post/7157334059192942606) 
+
+- [2022-10-22-三张图带你了解HTML元素尺寸](https://juejin.cn/post/7157325511230750733) 
+
+- [2022-10-22-vite3+vue3 打包优化实战；history404、视图分析、分解分包](https://juejin.cn/post/7157320447426560030) 
+
+- [2022-10-22-WebGL第四十三课：渲染正方体](https://juejin.cn/post/7157310582444523527) 
+
+- [2022-10-22-手把手教你玩转 BpmnJS 元素属性更新~](https://juejin.cn/post/7157289187442425886) 
+
+- [2022-10-22-如何解决更换底图时的闪烁问题](https://juejin.cn/post/7157284106294788132) 
 
 - [2022-10-21-React魔法堂：size-sensor源码略读](https://juejin.cn/post/7156900558429749279) 
 
@@ -472,6 +512,8 @@
 </summary>
 
 
+- [2022-10-23-最简单的 Git 服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html) 
+
 - [2022-10-21-科技爱好者周刊（第 227 期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html) 
 
 - [2022-10-14-科技爱好者周刊（第 226 期）：谷歌出了什么问题？](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html) 
@@ -666,6 +708,26 @@
 </summary>
 
 
+- [2022-10-23-Deploy SSL Certificates with Key Manager Plus](https://medium.com/@pythonlearn1024/deploy-ssl-certificates-with-key-manager-plus-cfb421a9ca72?source=rss------frontend-5) 
+
+- [2022-10-23-How to make debugging online JS error report as elegant as debugging local source code?](https://medium.com/@pythonlearn1024/how-to-make-debugging-online-js-error-report-as-elegant-as-debugging-local-source-code-ab4c6986cf49?source=rss------frontend-5) 
+
+- [2022-10-23-How to make a printer with css ️?](https://medium.com/@pythonlearn1024/how-to-make-a-printer-with-css-%EF%B8%8F-788f99a3c58a?source=rss------frontend-5) 
+
+- [2022-10-23-Highly Playable Text Pixmap — Pixmap Converter Adds Text Pixmap Function](https://medium.com/@pythonlearn1024/highly-playable-text-pixmap-pixmap-converter-adds-text-pixmap-function-b3ad8217be87?source=rss------frontend-5) 
+
+- [2022-10-23-WebComponents You Don&#39;t Know: Build Web Apps Like Building Blocks](https://medium.com/@pythonlearn1024/webcomponents-you-don-39-t-know-build-web-apps-like-building-blocks-c7059b99612b?source=rss------frontend-5) 
+
+- [2022-10-23-Use Vue3.2 new instruction v-memo to improve performance (including source code analysis)](https://medium.com/@pythonlearn1024/use-vue3-2-new-instruction-v-memo-to-improve-performance-including-source-code-analysis-f7cfb55a7943?source=rss------frontend-5) 
+
+- [2022-10-23-Talking about the anti-blocking of WeChat landing pages](https://medium.com/@pythonlearn1024/talking-about-the-anti-blocking-of-wechat-landing-pages-1d3704ab5fc9?source=rss------frontend-5) 
+
+- [2022-10-23-1024 Programmer&#39;s Day is coming ~ no overtime plus four benefits!](https://medium.com/@pythonlearn1024/1024-programmer-39-s-day-is-coming-no-overtime-plus-four-benefits-b1a18d65efa5?source=rss------frontend-5) 
+
+- [2022-10-23-This article was participated by Public account @ Ruo Chuan vision Initiated weekly source code…](https://medium.com/@pythonlearn1024/this-article-was-participated-by-public-account-ruo-chuan-vision-initiated-weekly-source-code-c6390eb235d7?source=rss------frontend-5) 
+
+- [2022-10-23-vue calendar component](https://medium.com/@pythonlearn1024/vue-calendar-component-4ce41400c4a3?source=rss------frontend-5) 
+
 - [2022-10-22-Mi proceso de pensamiento de desarrollo para Frontend con Frontendmentor.io](https://devjaime.medium.com/mi-proceso-de-pensamiento-de-desarrollo-para-desarrollo-frontend-con-frontendmentor-io-6387837a90a6?source=rss------frontend-5) 
 
 - [2022-10-22-Learning useState hook ,Re-rendering of App](https://javascriptmaster.medium.com/learning-usestate-hook-re-rendering-of-app-1d167af200c9?source=rss------frontend-5) 
@@ -776,6 +838,26 @@
  React on Medium
 </summary>
 
+
+- [2022-10-23-A Complete Guide to Use TypeScript in Web Development With/Without React](https://javascript.plainenglish.io/a-complete-guide-to-use-typescript-in-web-development-with-without-react-3ab58ab4f03c?source=rss------react-5) 
+
+- [2022-10-23-[React] React自身的渲染機制](https://medium.com/@yhosutun2491/react-react%E8%87%AA%E8%BA%AB%E7%9A%84%E6%B8%B2%E6%9F%93%E6%A9%9F%E5%88%B6-42520958ef4f?source=rss------react-5) 
+
+- [2022-10-23-Creating an AI-based “Try Not To Laugh” Game](https://medium.com/@abersoz/creating-an-ai-based-try-not-to-laugh-game-90dcbc5fd057?source=rss------react-5) 
+
+- [2022-10-23-Programming mistakes to avoid](https://medium.com/@chimaifeanyi29/programming-mistakes-to-avoid-2ce8c2e5af23?source=rss------react-5) 
+
+- [2022-10-23-⚛️ Top 7 Tweaks and Tricks to Improve React Performance](https://itnext.io/%EF%B8%8F-top-7-tweaks-and-tricks-to-improve-react-performance-8957bab33266?source=rss------react-5) 
+
+- [2022-10-23-This article is from InfoQ, author: Tina, Nuka-Cola](https://medium.com/@pythonlearn1024/this-article-is-from-infoq-author-tina-nuka-cola-4ca935b822e6?source=rss------react-5) 
+
+- [2022-10-23-Try using sx props on the child of an MUI Box](https://medium.com/@sunnyyaoops/try-using-sx-props-on-the-child-of-an-mui-box-9bb9a7a28592?source=rss------react-5) 
+
+- [2022-10-23-Components and Styles of React](https://medium.com/@shetkarthik89/components-and-styles-of-react-4e899183120b?source=rss------react-5) 
+
+- [2022-10-23-React Routers](https://medium.com/@mgarg6858/react-routers-dc6902931847?source=rss------react-5) 
+
+- [2022-10-23-React + Rust + Wasm: DOM Manipulation](https://guptanikhil.medium.com/react-rust-wasm-dom-manipulation-87f63ec93760?source=rss------react-5) 
 
 - [2022-10-22-How to persist React stats after a refresh?! ( Part 2)](https://adelpro.medium.com/how-to-persist-react-stats-after-a-refresh-part-2-33b5074fb6d3?source=rss------react-5) 
 
@@ -974,6 +1056,8 @@
  React Digest
 </summary>
 
+
+- [2022-10-23-React Digest Issue #379](https://reactdigest.net/digests/379) 
 
 - [2022-10-16-React Digest Issue #378](https://reactdigest.net/digests/378) 
 

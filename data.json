@@ -246,6 +246,11 @@
         "title": "科技爱好者周刊（第 227 期）：脸书的公司入职教育",
         "link": "http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html",
         "date": "2022-10-21"
+      },
+      {
+        "title": "最简单的 Git 服务器",
+        "link": "http://www.ruanyifeng.com/blog/2022/10/git-server.html",
+        "date": "2022-10-23"
       }
     ]
   },
@@ -1356,6 +1361,106 @@
         "title": "一篇文章帮你搞清并发与并行的区别 | Rust 异步编程和并发编程模型",
         "link": "https://juejin.cn/post/7156971883827560456",
         "date": "2022-10-21"
+      },
+      {
+        "title": "这一次彻底搞懂，vuex原理",
+        "link": "https://juejin.cn/post/7157616962074312734",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "深入了解 React 中的虚拟 DOM",
+        "link": "https://juejin.cn/post/7157592289487880199",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "阿里面试官：设计一个不能操作DOM和调接口的环境",
+        "link": "https://juejin.cn/post/7157570429928865828",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "🕹 7万奖金，字节Offer，iPhone 14 Pro 等惊喜奖品，四大赛题，1024邀你码上掘金！",
+        "link": "https://juejin.cn/post/7157563114022518797",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "『从零开始学小程序』媒体组件audio组件",
+        "link": "https://juejin.cn/post/7157562653357899806",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "在qiankun微前端中做性能统计",
+        "link": "https://juejin.cn/post/7157527241344155685",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "WebGL系列（4）：开启三维世界",
+        "link": "https://juejin.cn/post/7157517816592072717",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "动态生成CSS轮播动画",
+        "link": "https://juejin.cn/post/7157419778678718495",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "数字华容道「思否猫版」",
+        "link": "https://juejin.cn/post/7157370844920938509",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "要不要来看看浏览器视图更新的底层规则？",
+        "link": "https://juejin.cn/post/7157355485040443429",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "记录 Backbone 项目中引入 React 组件的一个问题",
+        "link": "https://juejin.cn/post/7157343309042548767",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "【U3D小游戏】愤怒的小鸟（九）地图选则界面和部分逻辑",
+        "link": "https://juejin.cn/post/7157339554758803493",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "谈谈JavaScript中的元编程",
+        "link": "https://juejin.cn/post/7157338201458212877",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "CSS中Grid网格布局常用属性总结",
+        "link": "https://juejin.cn/post/7157336545161117704",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "纯css实现呼吸霓虹效果",
+        "link": "https://juejin.cn/post/7157334059192942606",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "三张图带你了解HTML元素尺寸",
+        "link": "https://juejin.cn/post/7157325511230750733",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "vite3+vue3 打包优化实战；history404、视图分析、分解分包",
+        "link": "https://juejin.cn/post/7157320447426560030",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "WebGL第四十三课：渲染正方体",
+        "link": "https://juejin.cn/post/7157310582444523527",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "手把手教你玩转 BpmnJS 元素属性更新~",
+        "link": "https://juejin.cn/post/7157289187442425886",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "如何解决更换底图时的闪烁问题",
+        "link": "https://juejin.cn/post/7157284106294788132",
+        "date": "2022-10-22"
       }
     ]
   },
@@ -1616,6 +1721,56 @@
         "title": "The Virtual Demagogue within.",
         "link": "https://medium.com/@chebiva/the-virtual-demagogue-within-5d35d7200371?source=rss------frontend-5",
         "date": "2022-10-22"
+      },
+      {
+        "title": "Deploy SSL Certificates with Key Manager Plus",
+        "link": "https://medium.com/@pythonlearn1024/deploy-ssl-certificates-with-key-manager-plus-cfb421a9ca72?source=rss------frontend-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "How to make debugging online JS error report as elegant as debugging local source code?",
+        "link": "https://medium.com/@pythonlearn1024/how-to-make-debugging-online-js-error-report-as-elegant-as-debugging-local-source-code-ab4c6986cf49?source=rss------frontend-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "How to make a printer with css ️?",
+        "link": "https://medium.com/@pythonlearn1024/how-to-make-a-printer-with-css-%EF%B8%8F-788f99a3c58a?source=rss------frontend-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "Highly Playable Text Pixmap — Pixmap Converter Adds Text Pixmap Function",
+        "link": "https://medium.com/@pythonlearn1024/highly-playable-text-pixmap-pixmap-converter-adds-text-pixmap-function-b3ad8217be87?source=rss------frontend-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "WebComponents You Don&#39;t Know: Build Web Apps Like Building Blocks",
+        "link": "https://medium.com/@pythonlearn1024/webcomponents-you-don-39-t-know-build-web-apps-like-building-blocks-c7059b99612b?source=rss------frontend-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "Use Vue3.2 new instruction v-memo to improve performance (including source code analysis)",
+        "link": "https://medium.com/@pythonlearn1024/use-vue3-2-new-instruction-v-memo-to-improve-performance-including-source-code-analysis-f7cfb55a7943?source=rss------frontend-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "Talking about the anti-blocking of WeChat landing pages",
+        "link": "https://medium.com/@pythonlearn1024/talking-about-the-anti-blocking-of-wechat-landing-pages-1d3704ab5fc9?source=rss------frontend-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "1024 Programmer&#39;s Day is coming ~ no overtime plus four benefits!",
+        "link": "https://medium.com/@pythonlearn1024/1024-programmer-39-s-day-is-coming-no-overtime-plus-four-benefits-b1a18d65efa5?source=rss------frontend-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "This article was participated by Public account @ Ruo Chuan vision Initiated weekly source code…",
+        "link": "https://medium.com/@pythonlearn1024/this-article-was-participated-by-public-account-ruo-chuan-vision-initiated-weekly-source-code-c6390eb235d7?source=rss------frontend-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "vue calendar component",
+        "link": "https://medium.com/@pythonlearn1024/vue-calendar-component-4ce41400c4a3?source=rss------frontend-5",
+        "date": "2022-10-23"
       }
     ]
   },
@@ -2046,6 +2201,56 @@
         "title": "Summary of React India — 2022 ",
         "link": "https://alok722.medium.com/summary-of-react-india-2022-bccffee2c879?source=rss------react-5",
         "date": "2022-10-22"
+      },
+      {
+        "title": "A Complete Guide to Use TypeScript in Web Development With/Without React",
+        "link": "https://javascript.plainenglish.io/a-complete-guide-to-use-typescript-in-web-development-with-without-react-3ab58ab4f03c?source=rss------react-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "[React] React自身的渲染機制",
+        "link": "https://medium.com/@yhosutun2491/react-react%E8%87%AA%E8%BA%AB%E7%9A%84%E6%B8%B2%E6%9F%93%E6%A9%9F%E5%88%B6-42520958ef4f?source=rss------react-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "Creating an AI-based “Try Not To Laugh” Game",
+        "link": "https://medium.com/@abersoz/creating-an-ai-based-try-not-to-laugh-game-90dcbc5fd057?source=rss------react-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "Programming mistakes to avoid",
+        "link": "https://medium.com/@chimaifeanyi29/programming-mistakes-to-avoid-2ce8c2e5af23?source=rss------react-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "⚛️ Top 7 Tweaks and Tricks to Improve React Performance",
+        "link": "https://itnext.io/%EF%B8%8F-top-7-tweaks-and-tricks-to-improve-react-performance-8957bab33266?source=rss------react-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "This article is from InfoQ, author: Tina, Nuka-Cola",
+        "link": "https://medium.com/@pythonlearn1024/this-article-is-from-infoq-author-tina-nuka-cola-4ca935b822e6?source=rss------react-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "Try using sx props on the child of an MUI Box",
+        "link": "https://medium.com/@sunnyyaoops/try-using-sx-props-on-the-child-of-an-mui-box-9bb9a7a28592?source=rss------react-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "Components and Styles of React",
+        "link": "https://medium.com/@shetkarthik89/components-and-styles-of-react-4e899183120b?source=rss------react-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "React Routers",
+        "link": "https://medium.com/@mgarg6858/react-routers-dc6902931847?source=rss------react-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "React + Rust + Wasm: DOM Manipulation",
+        "link": "https://guptanikhil.medium.com/react-rust-wasm-dom-manipulation-87f63ec93760?source=rss------react-5",
+        "date": "2022-10-23"
       }
     ]
   },
@@ -2106,6 +2311,11 @@
         "title": "React Digest Issue #374",
         "link": "https://reactdigest.net/digests/374",
         "date": "2022-09-18"
+      },
+      {
+        "title": "React Digest Issue #379",
+        "link": "https://reactdigest.net/digests/379",
+        "date": "2022-10-23"
       }
     ]
   },
