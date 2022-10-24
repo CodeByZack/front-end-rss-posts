@@ -606,6 +606,11 @@
         "title": "WebAssembly的核心语言特性与未来发展",
         "link": "https://www.infoq.cn/article/jds0wDTz7DSUGzpc81hs",
         "date": "2022-10-21"
+      },
+      {
+        "title": "大咖论道丨聚焦企业数字化转型的关键策略",
+        "link": "https://www.infoq.cn/article/smmF2msuygcz7PTHRBBp",
+        "date": "2022-10-24"
       }
     ]
   },
@@ -1461,6 +1466,96 @@
         "title": "如何解决更换底图时的闪烁问题",
         "link": "https://juejin.cn/post/7157284106294788132",
         "date": "2022-10-22"
+      },
+      {
+        "title": "webpack 模块热替换",
+        "link": "https://juejin.cn/post/7157733252151640100",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "TypeScript中 Typeof 运算符的 5 个非常有用的技巧！",
+        "link": "https://juejin.cn/post/7157721216869105672",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "js常用技巧汇总",
+        "link": "https://juejin.cn/post/7157718362238222373",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "大结局！实现vue3模版编译功能🎉 🎉",
+        "link": "https://juejin.cn/post/7157715678169071647",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "Web 系列（一）：HTML 常用标签和属性",
+        "link": "https://juejin.cn/post/7157713551786934302",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "前端脚手架搭建-12",
+        "link": "https://juejin.cn/post/7157709622596337695",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "分享5个可能用得上的JavaScript 库",
+        "link": "https://juejin.cn/post/7157705610601955358",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "只需百来行代码，为你的Web页面增加本地文件操作能力，确定不试试吗？",
+        "link": "https://juejin.cn/post/7157681502506090510",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "一个前端眼中的Docker",
+        "link": "https://juejin.cn/post/7157662419681017870",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "【第26题】console的异步性怎么理解？",
+        "link": "https://juejin.cn/post/7157658612725350413",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "Vue实现电商网站商品放大镜效果",
+        "link": "https://juejin.cn/post/7157648653509722149",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "字符串方法汇总（全面）",
+        "link": "https://juejin.cn/post/7157646640122167327",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "ESLint 核心概念梳理与常用配置指引",
+        "link": "https://juejin.cn/post/7157645192643182623",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "常说的代码整洁到底是什么？",
+        "link": "https://juejin.cn/post/7157640951383457829",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "Angular组件数据不能实时更新到视图上的问题",
+        "link": "https://juejin.cn/post/7157637803843518472",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "pnpm+changesets来管理monorepos项目",
+        "link": "https://juejin.cn/post/7157634070615162893",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "❄️ 寒冷冬日，用 CSS 送给大家一份热腾腾的咖啡加载动画！☕",
+        "link": "https://juejin.cn/post/7157632014076608542",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "ES6中数组做了哪些新扩展？",
+        "link": "https://juejin.cn/post/7157625988275240997",
+        "date": "2022-10-23"
       }
     ]
   },
@@ -1770,6 +1865,26 @@
       {
         "title": "vue calendar component",
         "link": "https://medium.com/@pythonlearn1024/vue-calendar-component-4ce41400c4a3?source=rss------frontend-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "[Front-end &amp; Operation and Maintenance] Twelve: Functions of Shell Programming",
+        "link": "https://medium.com/@roperluo.me/front-end-amp-operation-and-maintenance-twelve-functions-of-shell-programming-d9dfdcd389cc?source=rss------frontend-5",
+        "date": "2022-10-24"
+      },
+      {
+        "title": "Ng-News: Episode 22/42",
+        "link": "https://medium.com/ng-news/ng-news-episode-22-42-d6a6ce22c1f6?source=rss------frontend-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "Front-end scaffolding construction-12",
+        "link": "https://medium.com/@roperluo.me/front-end-scaffolding-construction-12-17f0e43d845e?source=rss------frontend-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "我成功從 AC 畢業啦！",
+        "link": "https://medium.com/@kelllllyko/%E6%88%91%E6%88%90%E5%8A%9F%E5%BE%9E-ac-%E7%95%A2%E6%A5%AD%E5%95%A6-2f87c225d699?source=rss------frontend-5",
         "date": "2022-10-23"
       }
     ]
@@ -2250,6 +2365,56 @@
       {
         "title": "React + Rust + Wasm: DOM Manipulation",
         "link": "https://guptanikhil.medium.com/react-rust-wasm-dom-manipulation-87f63ec93760?source=rss------react-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "Creating a Signup Form in React using Semantic UI",
+        "link": "https://medium.com/@mattdittes/creating-a-signup-form-in-react-using-semantic-ui-621f62527455?source=rss------react-5",
+        "date": "2022-10-24"
+      },
+      {
+        "title": "How to make a dynamic typed component using React and Typescript Discriminated Unions",
+        "link": "https://medium.com/@gustavo_mm/how-to-make-a-dynamic-typed-component-using-react-and-typescript-discriminated-unions-14d689b2d52c?source=rss------react-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "Using Environment Variables in React and Django Applications",
+        "link": "https://medium.com/@clever.tech.memes/using-environment-variables-in-a-react-and-django-applications-2f6102fccf9b?source=rss------react-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "Setting Up React, Babel, & Webpack",
+        "link": "https://medium.com/@rincon.camilo/setting-up-react-babel-webpack-a1a2acdc3b9?source=rss------react-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "Start with one test",
+        "link": "https://medium.com/@noriller/start-with-one-test-d320ee1399ce?source=rss------react-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "Animação de escrita no React JS/TS (Sem biblioteca)",
+        "link": "https://medium.com/@igorrsgraziano/anima%C3%A7%C3%A3o-de-escrita-no-react-js-ts-sem-biblioteca-cfdb54ef24fe?source=rss------react-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "React DOM",
+        "link": "https://medium.com/@sefaaltun99/react-dom-d0af29ec612f?source=rss------react-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "What is ‘key’ and why is it important in React?",
+        "link": "https://medium.com/@daanworks/what-is-key-and-why-is-it-important-in-react-49839a3354a2?source=rss------react-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "Simple Full Stack Products CRUD App using React, Node JS & MySQL",
+        "link": "https://medium.com/@codewithmarish/simple-full-stack-products-crud-app-using-react-node-js-mysql-f18b9b8a5c18?source=rss------react-5",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "React Weekly Issue 58",
+        "link": "https://react.thisweekin.io/react-weekly-issue-58-aa054637270c?source=rss------react-5",
         "date": "2022-10-23"
       }
     ]
