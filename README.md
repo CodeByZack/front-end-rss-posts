@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-10-24 12:43，更新条数: +32
+更新时间: 2022-10-25 02:09，更新条数: +34
 
 ## 文章链接
 
@@ -98,6 +98,40 @@
 - [2022-10-24-在网页上添加水印 - react-watermark](https://juejin.cn/post/7157982053013651470) 
 
 - [2022-10-24-React Native应用中hero图标的使用教程](https://juejin.cn/post/7157981263444312094) 
+
+- [2022-10-24-Typescript tipe: freshness(更严格的对象字面量检查)](https://juejin.cn/post/7158144902650396702) 
+
+- [2022-10-24-分布式协调服务的存在意义](https://juejin.cn/post/7158118275967090725) 
+
+- [2022-10-24-『 每日一题』手写每日一题之数组去重](https://juejin.cn/post/7158109723600879623) 
+
+- [2022-10-24-【前端&运维那点事儿】十三：Linux中软件安装的几种姿势](https://juejin.cn/post/7158107392184418312) 
+
+- [2022-10-24-第120期：前端项目管理漫谈](https://juejin.cn/post/7158101420997083150) 
+
+- [2022-10-24-使用brython做个迷宫游戏-3：监听键盘事件](https://juejin.cn/post/7158099596106235941) 
+
+- [2022-10-24-杨帆：拆解研发流程，做好探索型项目的过程管理丨声网开发者创业讲堂 • 第 5 期](https://juejin.cn/post/7158094529877901342) 
+
+- [2022-10-24-再爆肝一周，给乞丐版的 GitHub Skyline 加了点“东西”并发布到线上](https://juejin.cn/post/7158090518604283941) 
+
+- [2022-10-24-会用new还不够，还得知道它到底做了什么](https://juejin.cn/post/7158073689408274463) 
+
+- [2022-10-24-前端脚手架搭建-13](https://juejin.cn/post/7158068796165455885) 
+
+- [2022-10-24-使用hel-micro制作远程antd、tdesign-react](https://juejin.cn/post/7158054205054418957) 
+
+- [2022-10-24-从0搭建vue3组件库: 如何完整搭建一个前端脚手架?](https://juejin.cn/post/7158043921895915557) 
+
+- [2022-10-24-HTTP2.0主要改动](https://juejin.cn/post/7158021756823814175) 
+
+- [2022-10-24-六年前端面试报告](https://juejin.cn/post/7158019029163048974) 
+
+- [2022-10-24-又用 canvas 实现了一个旋转的伪3D球体，来瞧瞧？](https://juejin.cn/post/7158018321022418975) 
+
+- [2022-10-24-HTTP1.0与HTTP1.1的区别](https://juejin.cn/post/7158010924735922189) 
+
+- [2022-10-24-通过动画深入理解ES Module](https://juejin.cn/post/7157970279498137614) 
 
 - [2022-10-23-这一次彻底搞懂，vuex原理](https://juejin.cn/post/7157616962074312734) 
 
@@ -590,6 +624,8 @@
 </summary>
 
 
+- [2022-10-25-羊了个羊，如何自己实现（暨"码上掘金"编程挑战赛介绍）](http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html) 
+
 - [2022-10-23-最简单的 Git 服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html) 
 
 - [2022-10-21-科技爱好者周刊（第 227 期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html) 
@@ -792,6 +828,18 @@
 
 - [2022-10-24-Top 3 Books For UI & UX Design](https://bootcamp.uxdesign.cc/top-3-books-for-ui-ux-design-c6ff50899a2d?source=rss------frontend-5) 
 
+- [2022-10-24-This article is the first signed article of the rare earth nuggets technology community.](https://medium.com/@pythonlearn1024/this-article-is-the-first-signed-article-of-the-rare-earth-nuggets-technology-community-c7f0303f272a?source=rss------frontend-5) 
+
+- [2022-10-24-Why front-end web development is a great career choice?](https://medium.com/@hassaneodesk/why-front-end-web-development-is-a-great-career-choice-f6428afe5005?source=rss------frontend-5) 
+
+- [2022-10-24-Front-end scaffolding construction-13](https://medium.com/@roperluo.me/front-end-scaffolding-construction-13-e099aae51588?source=rss------frontend-5) 
+
+- [2022-10-24-Issue 120: Talking About Front-End Project Management](https://medium.com/@roperluo.me/issue-120-talking-about-front-end-project-management-1014288f80db?source=rss------frontend-5) 
+
+- [2022-10-24-Mater React with these free Youtube tutorials](https://javascript.plainenglish.io/mater-react-with-these-free-youtube-tutorials-96d3b32620bf?source=rss------frontend-5) 
+
+- [2022-10-24-git tutorial (note organization)](https://medium.com/@pythonlearn1024/git-tutorial-note-organization-79ae31a6d425?source=rss------frontend-5) 
+
 - [2022-10-23-Deploy SSL Certificates with Key Manager Plus](https://medium.com/@pythonlearn1024/deploy-ssl-certificates-with-key-manager-plus-cfb421a9ca72?source=rss------frontend-5) 
 
 - [2022-10-23-How to make debugging online JS error report as elegant as debugging local source code?](https://medium.com/@pythonlearn1024/how-to-make-debugging-online-js-error-report-as-elegant-as-debugging-local-source-code-ab4c6986cf49?source=rss------frontend-5) 
@@ -929,6 +977,14 @@
 </summary>
 
 
+- [2022-10-25-Managing types in React Typescript, the right way](https://umeshtharukaofficial.medium.com/managing-types-in-react-typescript-the-right-way-a6f21f48722d?source=rss------react-5) 
+
+- [2022-10-25-An Introduction to React](https://medium.com/@mendezrenaldo12/an-introduction-to-react-6c97fa3a230c?source=rss------react-5) 
+
+- [2022-10-25-Tailwind css 구동 시 Invalid DOM property `class`. Did you mean `className`?](https://sig03.medium.com/tailwind-css-%EA%B5%AC%EB%8F%99-%EC%8B%9C-invalid-dom-property-class-did-you-mean-classname-aa65324fa38?source=rss------react-5) 
+
+- [2022-10-25-Ditching Redux in React — Part 1](https://adiathasan.medium.com/ditching-redux-in-react-part-1-e29dc7fe64c7?source=rss------react-5) 
+
 - [2022-10-24-Creating a Signup Form in React using Semantic UI](https://medium.com/@mattdittes/creating-a-signup-form-in-react-using-semantic-ui-621f62527455?source=rss------react-5) 
 
 - [2022-10-24-REACT DATA ENCRYPT — DECRYPT](https://medium.com/@erkinmuratkaranlik/react-data-encrypt-decrypt-2030714d34f8?source=rss------react-5) 
@@ -950,6 +1006,18 @@
 - [2022-10-24-React Component Lifecycle in Class and Functional Component](https://medium.com/@mgarg6858/react-component-lifecycle-in-class-and-functional-component-d001f3615a83?source=rss------react-5) 
 
 - [2022-10-24-“mui-react-hook-form-plus” — Material UI & React Hook Form Made Simple](https://adiathasan.medium.com/mui-react-hook-form-plus-material-ui-react-hook-form-made-simple-6c6778d9a0e7?source=rss------react-5) 
+
+- [2022-10-24-Working to be a creative person…](https://medium.com/@rocaes90/working-to-be-a-creative-person-a6d066a814ec?source=rss------react-5) 
+
+- [2022-10-24-Surely You’re Joking — Something said in Jest](https://medium.com/@chrisbauer.career/surely-youre-joking-something-said-in-jest-76f512d66483?source=rss------react-5) 
+
+- [2022-10-24-React Nedir , Neden kullanılır ?](https://medium.com/@baturalpmekin/react-nedir-neden-kullan%C4%B1l%C4%B1r-3bba7fe85994?source=rss------react-5) 
+
+- [2022-10-24-React.js — Create a table with expand functionality using react-table](https://allaboutcode.medium.com/react-js-create-a-table-with-expand-functionality-using-react-table-46fcd9bd5843?source=rss------react-5) 
+
+- [2022-10-24-Using Acorn to Deploy a React Application to Kubernetes](https://medium.com/@mtslaton1/using-acorn-to-deploy-a-react-application-to-kubernetes-3f9c342ae022?source=rss------react-5) 
+
+- [2022-10-24-How to Deploy a Create-React-App on an Ubuntu Apache Server](https://dhruw-kumar.medium.com/how-to-deploy-a-create-react-app-on-an-ubuntu-apache-server-1b8fc2554ba6?source=rss------react-5) 
 
 - [2022-10-23-A Complete Guide to Use TypeScript in Web Development With/Without React](https://javascript.plainenglish.io/a-complete-guide-to-use-typescript-in-web-development-with-without-react-3ab58ab4f03c?source=rss------react-5) 
 
