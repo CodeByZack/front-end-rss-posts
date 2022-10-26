@@ -636,6 +636,11 @@
         "title": "当“增加人员”不足以解决问题，你就该考虑应用“微前端”了",
         "link": "https://www.infoq.cn/article/VS87VrE42cVEBtJJY6Gh",
         "date": "2022-10-25"
+      },
+      {
+        "title": "Webpack 创始人推出比Webpack“快700倍”的Turbopack，基于Rust编写",
+        "link": "https://www.infoq.cn/article/iKecr1k4eQMMpCaaXEDr",
+        "date": "2022-10-26"
       }
     ]
   },
@@ -1966,6 +1971,101 @@
         "title": "「聚变」前端 & 客户端 ｜ 第十七届 D2 技术大会，来了！",
         "link": "https://juejin.cn/post/7158379473459970056",
         "date": "2022-10-25"
+      },
+      {
+        "title": "纯原生开发 Web Components 超详细分享",
+        "link": "https://juejin.cn/post/7158717654369304612",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "为什么我们正在放弃 CSS-in-JS",
+        "link": "https://juejin.cn/post/7158712727538499598",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "vue3插件和内置组件",
+        "link": "https://juejin.cn/post/7158709958232506399",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "json web token （JWT）",
+        "link": "https://juejin.cn/post/7158709722239991838",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "Webpack完整打包流程分析",
+        "link": "https://juejin.cn/post/7158707111315111972",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "Vue中的diff算法深度解析",
+        "link": "https://juejin.cn/post/7158705191318421511",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "micro-app微前端介绍以及实现（附源码）",
+        "link": "https://juejin.cn/post/7158700639780864008",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "React项目初始化，render 源码解读",
+        "link": "https://juejin.cn/post/7158699492744069128",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "如何修复Ant Design 的Bug？",
+        "link": "https://juejin.cn/post/7158698701425213454",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "前端展示中实现批量标签动态生成",
+        "link": "https://juejin.cn/post/7158698456893095966",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "使用 Next.js 搭建一个门户网站",
+        "link": "https://juejin.cn/post/7158691931533344799",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "d3.js开发股权穿透图分享",
+        "link": "https://juejin.cn/post/7158691336839757831",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "从零手写一个深拷贝（进阶篇）",
+        "link": "https://juejin.cn/post/7158686197236105229",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "React源码解读之更新的创建",
+        "link": "https://juejin.cn/post/7158675686515802149",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "字节前端监控 SDK 体积与性能优化实践",
+        "link": "https://juejin.cn/post/7158656846595784711",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "【计算机网络】网络层 | 详细介绍IPv4协议与NAT",
+        "link": "https://juejin.cn/post/7158452011078254606",
+        "date": "2022-10-25"
+      },
+      {
+        "title": "【杰哥带你玩转Android自动化】为自动打卡脚本 \"赋能\"",
+        "link": "https://juejin.cn/post/7158110958307524638",
+        "date": "2022-10-24"
+      },
+      {
+        "title": "🐵好让人傻傻分不清—JS篇",
+        "link": "https://juejin.cn/post/7158109518516191246",
+        "date": "2022-10-24"
+      },
+      {
+        "title": "【以太坊】初识以太坊 | Web3到底是什么？",
+        "link": "https://juejin.cn/post/7158089469663543304",
+        "date": "2022-10-24"
       }
     ]
   },
@@ -2391,6 +2491,41 @@
         "title": "How to perform different types of positioning in CSS ?",
         "link": "https://medium.com/@dsckgec/how-to-perform-different-types-of-positioning-in-css-9060078d6bf6?source=rss------frontend-5",
         "date": "2022-10-25"
+      },
+      {
+        "title": "Why is the implementation of bind a test of the understanding of the prototype chain?",
+        "link": "https://medium.com/@pythonlearn1024/why-is-the-implementation-of-bind-a-test-of-the-understanding-of-the-prototype-chain-2fc74e81b235?source=rss------frontend-5",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "Turn.js realizes super nice flip book effect",
+        "link": "https://medium.com/@pythonlearn1024/turn-js-realizes-super-nice-flip-book-effect-1344acb3f486?source=rss------frontend-5",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "An interesting analysis of DNS causing Node service failure",
+        "link": "https://medium.com/@pythonlearn1024/an-interesting-analysis-of-dns-causing-node-service-failure-5ab0d190a7d5?source=rss------frontend-5",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "Front-end framework comparison (mainly complaining about React)",
+        "link": "https://medium.com/@pythonlearn1024/front-end-framework-comparison-mainly-complaining-about-react-fd94152e5b14?source=rss------frontend-5",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "12 CSS Tricks You Might Not Know",
+        "link": "https://medium.com/@pythonlearn1024/12-css-tricks-you-might-not-know-3054475e861e?source=rss------frontend-5",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "Nested Routing and Layout Support in Next.js 13",
+        "link": "https://javascript.plainenglish.io/nested-routing-and-layout-support-in-next-js-13-e7d2abf2959e?source=rss------frontend-5",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "I am participating in the “Nuggets · Sailing Program”",
+        "link": "https://medium.com/@pythonlearn1024/i-am-participating-in-the-nuggets-sailing-program-f67725364d2?source=rss------frontend-5",
+        "date": "2022-10-26"
       }
     ]
   },
@@ -3121,6 +3256,56 @@
         "title": "Routing with React",
         "link": "https://medium.com/@colliermatt91/routing-with-react-1de6c9b7943f?source=rss------react-5",
         "date": "2022-10-25"
+      },
+      {
+        "title": "Turborepo + Yarn berry를 이용한 Monorepo 구축 방법",
+        "link": "https://medium.com/@gsphyo91/turborepo-yarn-berry%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-monorepo-%EA%B5%AC%EC%B6%95-%EB%B0%A9%EB%B2%95-e09d58da9fdf?source=rss------react-5",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "Building a simple diagram by using Elkjs and React Flow",
+        "link": "https://medium.com/@dashbouquet/building-a-simple-diagram-by-using-elkjs-and-react-flow-f6afde4893dd?source=rss------react-5",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "Lerna",
+        "link": "https://medium.com/@melikesanli12/lerna-5ba78969cf97?source=rss------react-5",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "Turbopack: Vercel’s Claimed Successor of Webpack",
+        "link": "https://louispetrik.medium.com/turbopack-270ef4977110?source=rss------react-5",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "TODAY I LEARNED: DEPLOY REACT APP TO GITHUB PAGES",
+        "link": "https://medium.com/@muhammadfaris9d/today-i-learned-deploy-react-app-to-github-pages-86cc71b74b02?source=rss------react-5",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "HTTP VS HTTPS — Which is Better?",
+        "link": "https://medium.com/techhatch/http-vs-https-which-is-better-5a56adf000f5?source=rss------react-5",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "state = action.payload is not updating the redux state.",
+        "link": "https://medium.com/@mohans8050/state-action-payload-is-not-updating-redux-state-6903a155ede6?source=rss------react-5",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "Redirect component for react-router v6",
+        "link": "https://medium.com/@maoznir/redirect-component-for-react-router-v6-c3b4821ecce?source=rss------react-5",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "Front-end framework comparison (mainly complaining about React)",
+        "link": "https://medium.com/@pythonlearn1024/front-end-framework-comparison-mainly-complaining-about-react-fd94152e5b14?source=rss------react-5",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "Why You Should Learn ReactJS",
+        "link": "https://javascript.plainenglish.io/why-you-should-learn-reactjs-1d8d48e0c698?source=rss------react-5",
+        "date": "2022-10-26"
       }
     ]
   },
@@ -3151,6 +3336,11 @@
         "title": "Promises, promises..",
         "link": "https://react.statuscode.com/issues/310",
         "date": "2022-10-19"
+      },
+      {
+        "title": "Stepping forward with Next.js 13",
+        "link": "https://react.statuscode.com/issues/311",
+        "date": "2022-10-26"
       }
     ]
   },

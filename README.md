@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-10-26 01:48，更新条数: +36
+更新时间: 2022-10-26 12:41，更新条数: +38
 
 ## 文章链接
 
@@ -58,6 +58,36 @@
  掘金 前端
 </summary>
 
+
+- [2022-10-26-纯原生开发 Web Components 超详细分享](https://juejin.cn/post/7158717654369304612) 
+
+- [2022-10-26-为什么我们正在放弃 CSS-in-JS](https://juejin.cn/post/7158712727538499598) 
+
+- [2022-10-26-vue3插件和内置组件](https://juejin.cn/post/7158709958232506399) 
+
+- [2022-10-26-json web token （JWT）](https://juejin.cn/post/7158709722239991838) 
+
+- [2022-10-26-Webpack完整打包流程分析](https://juejin.cn/post/7158707111315111972) 
+
+- [2022-10-26-Vue中的diff算法深度解析](https://juejin.cn/post/7158705191318421511) 
+
+- [2022-10-26-micro-app微前端介绍以及实现（附源码）](https://juejin.cn/post/7158700639780864008) 
+
+- [2022-10-26-React项目初始化，render 源码解读](https://juejin.cn/post/7158699492744069128) 
+
+- [2022-10-26-如何修复Ant Design 的Bug？](https://juejin.cn/post/7158698701425213454) 
+
+- [2022-10-26-前端展示中实现批量标签动态生成](https://juejin.cn/post/7158698456893095966) 
+
+- [2022-10-26-使用 Next.js 搭建一个门户网站](https://juejin.cn/post/7158691931533344799) 
+
+- [2022-10-26-d3.js开发股权穿透图分享](https://juejin.cn/post/7158691336839757831) 
+
+- [2022-10-26-从零手写一个深拷贝（进阶篇）](https://juejin.cn/post/7158686197236105229) 
+
+- [2022-10-26-React源码解读之更新的创建](https://juejin.cn/post/7158675686515802149) 
+
+- [2022-10-26-字节前端监控 SDK 体积与性能优化实践](https://juejin.cn/post/7158656846595784711) 
 
 - [2022-10-25-B端产品设计之原型设计](https://juejin.cn/post/7158342740156088356) 
 
@@ -126,6 +156,8 @@
 - [2022-10-25-微信小程序高级指南-基于miniprogram-template模版开发小程序](https://juejin.cn/post/7158412461367345159) 
 
 - [2022-10-25-「聚变」前端 & 客户端 ｜ 第十七届 D2 技术大会，来了！](https://juejin.cn/post/7158379473459970056) 
+
+- [2022-10-25-【计算机网络】网络层 | 详细介绍IPv4协议与NAT](https://juejin.cn/post/7158452011078254606) 
 
 - [2022-10-24-Three.js 进阶之旅：Shader着色器入门](https://juejin.cn/post/7158032481302609950) 
 
@@ -212,6 +244,12 @@
 - [2022-10-24-【前端】vue-router 路由间传递对象参数](https://juejin.cn/post/7158107047861436423) 
 
 - [2022-10-24-⭐webpack5开发指南（二）如何加载资源](https://juejin.cn/post/7158098057383886884) 
+
+- [2022-10-24-【杰哥带你玩转Android自动化】为自动打卡脚本 "赋能"](https://juejin.cn/post/7158110958307524638) 
+
+- [2022-10-24-🐵好让人傻傻分不清—JS篇](https://juejin.cn/post/7158109518516191246) 
+
+- [2022-10-24-【以太坊】初识以太坊 | Web3到底是什么？](https://juejin.cn/post/7158089469663543304) 
 
 - [2022-10-23-这一次彻底搞懂，vuex原理](https://juejin.cn/post/7157616962074312734) 
 
@@ -598,6 +636,8 @@
 </summary>
 
 
+- [2022-10-26-Webpack 创始人推出比Webpack“快700倍”的Turbopack，基于Rust编写](https://www.infoq.cn/article/iKecr1k4eQMMpCaaXEDr) 
+
 - [2022-10-25-让小型企业提高 20 倍效率的统一技术栈](https://www.infoq.cn/article/1FVdeQRF0ca3auUQOJVM) 
 
 - [2022-10-25-当“增加人员”不足以解决问题，你就该考虑应用“微前端”了](https://www.infoq.cn/article/VS87VrE42cVEBtJJY6Gh) 
@@ -910,6 +950,20 @@
 </summary>
 
 
+- [2022-10-26-Why is the implementation of bind a test of the understanding of the prototype chain?](https://medium.com/@pythonlearn1024/why-is-the-implementation-of-bind-a-test-of-the-understanding-of-the-prototype-chain-2fc74e81b235?source=rss------frontend-5) 
+
+- [2022-10-26-Turn.js realizes super nice flip book effect](https://medium.com/@pythonlearn1024/turn-js-realizes-super-nice-flip-book-effect-1344acb3f486?source=rss------frontend-5) 
+
+- [2022-10-26-An interesting analysis of DNS causing Node service failure](https://medium.com/@pythonlearn1024/an-interesting-analysis-of-dns-causing-node-service-failure-5ab0d190a7d5?source=rss------frontend-5) 
+
+- [2022-10-26-Front-end framework comparison (mainly complaining about React)](https://medium.com/@pythonlearn1024/front-end-framework-comparison-mainly-complaining-about-react-fd94152e5b14?source=rss------frontend-5) 
+
+- [2022-10-26-12 CSS Tricks You Might Not Know](https://medium.com/@pythonlearn1024/12-css-tricks-you-might-not-know-3054475e861e?source=rss------frontend-5) 
+
+- [2022-10-26-Nested Routing and Layout Support in Next.js 13](https://javascript.plainenglish.io/nested-routing-and-layout-support-in-next-js-13-e7d2abf2959e?source=rss------frontend-5) 
+
+- [2022-10-26-I am participating in the “Nuggets · Sailing Program”](https://medium.com/@pythonlearn1024/i-am-participating-in-the-nuggets-sailing-program-f67725364d2?source=rss------frontend-5) 
+
 - [2022-10-25-Build vue3 component library from 0: How to build a front-end scaffolding completely?](https://medium.com/@pythonlearn1024/build-vue3-component-library-from-0-how-to-build-a-front-end-scaffolding-completely-6ff9fa912276?source=rss------frontend-5) 
 
 - [2022-10-25-How is $nextTick implemented in Vue](https://medium.com/@pythonlearn1024/how-is-nexttick-implemented-in-vue-912f6d9aa108?source=rss------frontend-5) 
@@ -1094,6 +1148,26 @@
 - [2022-10-26-Tailwind Css로 만들어본 Next.js 랜딩 페이지](https://sig03.medium.com/tailwind-css%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B8-next-js-%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80-edcdd4aa305c?source=rss------react-5) 
 
 - [2022-10-26-Unit testing Next.js applications with Vitest and the React Testing Library](https://medium.com/@roperluo.me/unit-testing-next-js-applications-with-vitest-and-the-react-testing-library-43252af9e4cb?source=rss------react-5) 
+
+- [2022-10-26-Turborepo + Yarn berry를 이용한 Monorepo 구축 방법](https://medium.com/@gsphyo91/turborepo-yarn-berry%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-monorepo-%EA%B5%AC%EC%B6%95-%EB%B0%A9%EB%B2%95-e09d58da9fdf?source=rss------react-5) 
+
+- [2022-10-26-Building a simple diagram by using Elkjs and React Flow](https://medium.com/@dashbouquet/building-a-simple-diagram-by-using-elkjs-and-react-flow-f6afde4893dd?source=rss------react-5) 
+
+- [2022-10-26-Lerna](https://medium.com/@melikesanli12/lerna-5ba78969cf97?source=rss------react-5) 
+
+- [2022-10-26-Turbopack: Vercel’s Claimed Successor of Webpack](https://louispetrik.medium.com/turbopack-270ef4977110?source=rss------react-5) 
+
+- [2022-10-26-TODAY I LEARNED: DEPLOY REACT APP TO GITHUB PAGES](https://medium.com/@muhammadfaris9d/today-i-learned-deploy-react-app-to-github-pages-86cc71b74b02?source=rss------react-5) 
+
+- [2022-10-26-HTTP VS HTTPS — Which is Better?](https://medium.com/techhatch/http-vs-https-which-is-better-5a56adf000f5?source=rss------react-5) 
+
+- [2022-10-26-state = action.payload is not updating the redux state.](https://medium.com/@mohans8050/state-action-payload-is-not-updating-redux-state-6903a155ede6?source=rss------react-5) 
+
+- [2022-10-26-Redirect component for react-router v6](https://medium.com/@maoznir/redirect-component-for-react-router-v6-c3b4821ecce?source=rss------react-5) 
+
+- [2022-10-26-Front-end framework comparison (mainly complaining about React)](https://medium.com/@pythonlearn1024/front-end-framework-comparison-mainly-complaining-about-react-fd94152e5b14?source=rss------react-5) 
+
+- [2022-10-26-Why You Should Learn ReactJS](https://javascript.plainenglish.io/why-you-should-learn-reactjs-1d8d48e0c698?source=rss------react-5) 
 
 - [2022-10-25-Managing types in React Typescript, the right way](https://umeshtharukaofficial.medium.com/managing-types-in-react-typescript-the-right-way-a6f21f48722d?source=rss------react-5) 
 
@@ -1385,6 +1459,8 @@
  React Status
 </summary>
 
+
+- [2022-10-26-Stepping forward with Next.js 13](https://react.statuscode.com/issues/311) 
 
 - [2022-10-19-Promises, promises..](https://react.statuscode.com/issues/310) 
 
