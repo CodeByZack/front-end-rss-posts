@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-10-26 12:41，更新条数: +38
+更新时间: 2022-10-27 01:45，更新条数: +31
 
 ## 文章链接
 
@@ -88,6 +88,46 @@
 - [2022-10-26-React源码解读之更新的创建](https://juejin.cn/post/7158675686515802149) 
 
 - [2022-10-26-字节前端监控 SDK 体积与性能优化实践](https://juejin.cn/post/7158656846595784711) 
+
+- [2022-10-26-我用这9个小技巧封装Vue组件，老大夸我’封得好‘](https://juejin.cn/post/7158969880362876964) 
+
+- [2022-10-26-React 组件通信之props及生命周期 setState 更新数据的表现](https://juejin.cn/post/7158869336222875656) 
+
+- [2022-10-26-TrueNAS 企业级的开源磁盘柜标准配置](https://juejin.cn/post/7158856752153231390) 
+
+- [2022-10-26-技术解读：现代化工具链在大规模 C++ 项目中的运用 | 龙蜥技术](https://juejin.cn/post/7158856550386237471) 
+
+- [2022-10-26-JS中Date的常用方法](https://juejin.cn/post/7158852182257696782) 
+
+- [2022-10-26-『 纯 CSS 实现』使用 CSS 开发一个炫酷旋转小球](https://juejin.cn/post/7158852154835828772) 
+
+- [2022-10-26-CSS 盒模型小记](https://juejin.cn/post/7158851655507656712) 
+
+- [2022-10-26-Web 系列（三）：CSS 筑基上篇](https://juejin.cn/post/7158851139088154654) 
+
+- [2022-10-26-开发个 markdown 和 excel 在线表格 格式互相转换的 在线工具](https://juejin.cn/post/7158850778705166372) 
+
+- [2022-10-26-使用 @craco/craco 来自定义 React 配置](https://juejin.cn/post/7158850032169385992) 
+
+- [2022-10-26-我是怎么调试 Element UI 源码的](https://juejin.cn/post/7158846359175430158) 
+
+- [2022-10-26-内联JS处理(ES语法降级&内容压缩)](https://juejin.cn/post/7158841728907083790) 
+
+- [2022-10-26-校验二叉树的后序遍历序列](https://juejin.cn/post/7158826421728509982) 
+
+- [2022-10-26-在 Openlayer 中添加 mark，并添加 hover 效果](https://juejin.cn/post/7158817250856665118) 
+
+- [2022-10-26-离职后聊一聊我眼中的蚂蚁](https://juejin.cn/post/7158792913298653191) 
+
+- [2022-10-26-「React 深入」React事件系统与原生事件系统究竟有何区别？](https://juejin.cn/post/7158786701249216519) 
+
+- [2022-10-26-vue中$nextTick的原理及联系，进阶高级工程师必攻克](https://juejin.cn/post/7158776267842519071) 
+
+- [2022-10-26-OSI应用层协议-设备管理](https://juejin.cn/post/7158759724282806302) 
+
+- [2022-10-26-JS中0.1 + 0.2 不等于0.3 ？](https://juejin.cn/post/7158754339014623262) 
+
+- [2022-10-26-Vue指令v-once](https://juejin.cn/post/7158734168929599519) 
 
 - [2022-10-25-B端产品设计之原型设计](https://juejin.cn/post/7158342740156088356) 
 
@@ -950,6 +990,8 @@
 </summary>
 
 
+- [2022-10-27-Turbopack 10x faster than Vite! ? Successor to Webpack.](https://medium.com/@pythonlearn1024/turbopack-10x-faster-than-vite-successor-to-webpack-f42b0c2d848c?source=rss------frontend-5) 
+
 - [2022-10-26-Why is the implementation of bind a test of the understanding of the prototype chain?](https://medium.com/@pythonlearn1024/why-is-the-implementation-of-bind-a-test-of-the-understanding-of-the-prototype-chain-2fc74e81b235?source=rss------frontend-5) 
 
 - [2022-10-26-Turn.js realizes super nice flip book effect](https://medium.com/@pythonlearn1024/turn-js-realizes-super-nice-flip-book-effect-1344acb3f486?source=rss------frontend-5) 
@@ -963,6 +1005,10 @@
 - [2022-10-26-Nested Routing and Layout Support in Next.js 13](https://javascript.plainenglish.io/nested-routing-and-layout-support-in-next-js-13-e7d2abf2959e?source=rss------frontend-5) 
 
 - [2022-10-26-I am participating in the “Nuggets · Sailing Program”](https://medium.com/@pythonlearn1024/i-am-participating-in-the-nuggets-sailing-program-f67725364d2?source=rss------frontend-5) 
+
+- [2022-10-26-The new wave of JavaScript web frameworks](https://medium.com/@pythonlearn1024/the-new-wave-of-javascript-web-frameworks-377cf32e6417?source=rss------frontend-5) 
+
+- [2022-10-26-5 Alasan Belajar React Languages](https://medium.com/@appardana/5-alasan-belajar-react-languages-a21b5a4d6290?source=rss------frontend-5) 
 
 - [2022-10-25-Build vue3 component library from 0: How to build a front-end scaffolding completely?](https://medium.com/@pythonlearn1024/build-vue3-component-library-from-0-how-to-build-a-front-end-scaffolding-completely-6ff9fa912276?source=rss------frontend-5) 
 
@@ -1141,6 +1187,10 @@
 </summary>
 
 
+- [2022-10-27-React i18next](https://emrekirca.medium.com/react-i18next-85cef372fb9b?source=rss------react-5) 
+
+- [2022-10-27-Firebase e React — Criando, Editando e Buscando um Registro no Banco de Dados.](https://thiagopetherson.medium.com/firebase-e-react-criando-editando-e-buscando-um-registro-no-banco-de-dados-2bfc4aab6c6b?source=rss------react-5) 
+
 - [2022-10-26-How to Update Objects in React State](https://medium.com/code-tricks/how-to-update-objects-in-react-state-f971665ddcb5?source=rss------react-5) 
 
 - [2022-10-26-Reactime XVI: cleanup time](https://medium.com/@emintahirov1996/reactime-xvi-cleanup-time-a14ba3dcc8a6?source=rss------react-5) 
@@ -1168,6 +1218,18 @@
 - [2022-10-26-Front-end framework comparison (mainly complaining about React)](https://medium.com/@pythonlearn1024/front-end-framework-comparison-mainly-complaining-about-react-fd94152e5b14?source=rss------react-5) 
 
 - [2022-10-26-Why You Should Learn ReactJS](https://javascript.plainenglish.io/why-you-should-learn-reactjs-1d8d48e0c698?source=rss------react-5) 
+
+- [2022-10-26-Firebase e React — Configurando e Integrando o Firebase na aplicação ReactJS.](https://thiagopetherson.medium.com/firebase-e-react-configurando-e-integrando-o-firebase-na-aplica%C3%A7%C3%A3o-reactjs-40672f3072c1?source=rss------react-5) 
+
+- [2022-10-26-When React Meets OOP](https://itnext.io/when-react-meets-oop-7b2d89258b94?source=rss------react-5) 
+
+- [2022-10-26-Adding a Ko-Fi widget to your React app](https://medium.com/@prof_moto/adding-a-ko-fi-widget-to-your-react-app-23020f628be8?source=rss------react-5) 
+
+- [2022-10-26-I disappeared for months, and nobody noticed….](https://medium.com/@AngelJ/i-disappeared-for-months-and-nobody-noticed-80e4460a2c8a?source=rss------react-5) 
+
+- [2022-10-26-Time Management Web App: Human Friendly Scheduling](https://medium.com/@shawntco/time-management-web-app-human-friendly-scheduling-f1ba73f1da15?source=rss------react-5) 
+
+- [2022-10-26-JavaScript DSA](https://medium.com/@biplavmazumdar5/javascript-dsa-a6b430ad192c?source=rss------react-5) 
 
 - [2022-10-25-Managing types in React Typescript, the right way](https://umeshtharukaofficial.medium.com/managing-types-in-react-typescript-the-right-way-a6f21f48722d?source=rss------react-5) 
 
