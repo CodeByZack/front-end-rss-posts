@@ -2166,6 +2166,106 @@
         "title": "Vue指令v-once",
         "link": "https://juejin.cn/post/7158734168929599519",
         "date": "2022-10-26"
+      },
+      {
+        "title": "2022年你应该需要知道的CSS新特性-布局篇",
+        "link": "https://juejin.cn/post/7159096447483576334",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "【前端&运维那点事儿】十五：Linux中的进程管理",
+        "link": "https://juejin.cn/post/7159091811854581768",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "前端初学者必学（promise的初使用）",
+        "link": "https://juejin.cn/post/7159073572328046600",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Vue实现组件间通信的七种方式",
+        "link": "https://juejin.cn/post/7159064353898463269",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Canvas粒子进度条",
+        "link": "https://juejin.cn/post/7159043192132730894",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Vue3源码分析(7)-组件挂载之其他配置处理与生命周期函数注册",
+        "link": "https://juejin.cn/post/7159041900270321672",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "react源码中的hooks",
+        "link": "https://juejin.cn/post/7159039565812989989",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "用 css 画一个太极图，才几行代码就开始喊难了？",
+        "link": "https://juejin.cn/post/7159036856774950920",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "从组件按需引入深入前端打包构建",
+        "link": "https://juejin.cn/post/7159033848741756936",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "这些 function 的细节你都知道吗？",
+        "link": "https://juejin.cn/post/7159029805030047758",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "前端工具Vite的出现解决了什么？",
+        "link": "https://juejin.cn/post/7159029243937030175",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "协调eslint和prettier，让代码书写更加流畅",
+        "link": "https://juejin.cn/post/7159026148687478792",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "React/虚拟DOM及Diff算法",
+        "link": "https://juejin.cn/post/7159017546031562766",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "从React源码分析看useEffect",
+        "link": "https://juejin.cn/post/7159016807066517518",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "v-formly - 一个让你不用画UI就可以构建create/edit页面的库",
+        "link": "https://juejin.cn/post/7159015808113311774",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "从bundle中分析webpack5 Module Federation",
+        "link": "https://juejin.cn/post/7158873605059641374",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "花一点点时间，快速入门webpack",
+        "link": "https://juejin.cn/post/7158861969498308622",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "React-redux",
+        "link": "https://juejin.cn/post/7158856944357212190",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "✨✨做一个伪3D效果的卡片列表来复习一下CSS动画吧~",
+        "link": "https://juejin.cn/post/7158848986659422244",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "浏览器是如何通过 defer 与 async 属性，优化页面加载速度的？",
+        "link": "https://juejin.cn/post/7158254068228423694",
+        "date": "2022-10-25"
       }
     ]
   },
@@ -2641,6 +2741,56 @@
         "title": "5 Alasan Belajar React Languages",
         "link": "https://medium.com/@appardana/5-alasan-belajar-react-languages-a21b5a4d6290?source=rss------frontend-5",
         "date": "2022-10-26"
+      },
+      {
+        "title": "Deep understanding of ES Module through animation",
+        "link": "https://medium.com/@pythonlearn1024/deep-understanding-of-es-module-through-animation-fb1b8b662f60?source=rss------frontend-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "How to load local JS files on live Production sites",
+        "link": "https://requestly.medium.com/how-to-load-local-js-files-on-live-production-sites-e481beeda133?source=rss------frontend-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Vue project elegantly encrypts url parameters",
+        "link": "https://medium.com/@pythonlearn1024/vue-project-elegantly-encrypts-url-parameters-6e981c837c0?source=rss------frontend-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "How to add try/catch to all async functions, an elegant ES ORM framework EE | Nuggets Week 10.26",
+        "link": "https://medium.com/@pythonlearn1024/how-to-add-try-catch-to-all-async-functions-an-elegant-es-orm-framework-ee-nuggets-week-10-26-760655bca32?source=rss------frontend-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "20 common front-end algorithm questions, do you know all of them?",
+        "link": "https://medium.com/@pythonlearn1024/20-common-front-end-algorithm-questions-do-you-know-all-of-them-e43a9b388f5f?source=rss------frontend-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "3D Visualization to quickly build page structure",
+        "link": "https://medium.com/@pythonlearn1024/3d-visualization-to-quickly-build-page-structure-87ebc82072ef?source=rss------frontend-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "“Pick one or other” props required in React with TypeScript",
+        "link": "https://medium.com/efishery-engineering/pick-one-or-other-props-required-in-react-with-typescript-3eee530e6528?source=rss------frontend-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "A subtle but important change of debounce operator in Rxjs 7",
+        "link": "https://medium.com/@yiupang.ch/a-subtle-but-important-change-of-debounce-operator-in-rxjs-7-dd411023f16f?source=rss------frontend-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Babel을 사용해도 최신 JS를 사용할 수 없을 때 (core-js, polyfill)",
+        "link": "https://medium.com/@uk960214/babel%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%8F%84-%EC%B5%9C%EC%8B%A0-js-%EB%AC%B8%EB%B2%95%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%97%86%EC%9D%84-%EB%95%8C-core-js-polyfill-13db50aa7cf5?source=rss------frontend-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Why we&#39;re ditching CSS-in-JS",
+        "link": "https://medium.com/@pythonlearn1024/why-we-39-re-ditching-css-in-js-d49f38855b7c?source=rss------frontend-5",
+        "date": "2022-10-27"
       }
     ]
   },
@@ -3461,6 +3611,56 @@
         "title": "JavaScript DSA",
         "link": "https://medium.com/@biplavmazumdar5/javascript-dsa-a6b430ad192c?source=rss------react-5",
         "date": "2022-10-26"
+      },
+      {
+        "title": "3D Animations with Framer Motion",
+        "link": "https://medium.com/nicasource/3d-animations-with-framer-motion-13445d46e8c5?source=rss------react-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "How to orchestrate your graph application with Docker Compose",
+        "link": "https://medium.com/@supe.katarina/how-to-orchestrate-your-graph-application-with-docker-compose-eeb1f454171c?source=rss------react-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "NextAuth.js ‘secret’ . Server error, CLIENT_FETCH_ERROR_CHALLENGE",
+        "link": "https://medium.com/@pether.maciejewski/nextauth-js-secret-server-error-client-fetch-error-challenge-2313d580ad6b?source=rss------react-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "The Washington Post revealed last week that Musk let imminent financial backers know that he…",
+        "link": "https://medium.com/@ashrafmishkat288/the-washington-post-revealed-last-week-that-musk-let-imminent-financial-backers-know-that-he-3bda28c350b2?source=rss------react-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Answer.dev trending at #1 on GitHub",
+        "link": "https://medium.com/@Answer.dev/answer-dev-trending-at-1-on-github-773b0634d8d?source=rss------react-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Technologies I root for. PART -1",
+        "link": "https://medium.com/@korathbasil/technologies-i-root-for-part-1-81104e3ae1f1?source=rss------react-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "“Pick one or other” props required in React with TypeScript",
+        "link": "https://medium.com/efishery-engineering/pick-one-or-other-props-required-in-react-with-typescript-3eee530e6528?source=rss------react-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Fix Error React Native in Macbook M2 Chip",
+        "link": "https://medium.com/@irwansyafani/fix-error-react-native-in-macbook-m2-chip-f63c078ae3c6?source=rss------react-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Compre dinheiro falso online (WhatsApp +33744196307)",
+        "link": "https://medium.com/@paulmarion55/compre-dinheiro-falso-online-whatsapp-33744196307-ce4fdbcf89f7?source=rss------react-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Web performance enhancements — 4 points basis my personal experience",
+        "link": "https://engg.glance.com/web-performance-enhancements-4-points-basis-my-personal-experience-30842887e0f1?source=rss------react-5",
+        "date": "2022-10-27"
       }
     ]
   },
