@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-10-28 01:53，更新条数: +38
+更新时间: 2022-10-28 12:40，更新条数: +40
 
 ## 文章链接
 
@@ -60,6 +60,34 @@
 
 
 - [2022-10-28-视频回退播放操作](https://juejin.cn/post/7159364721706663966) 
+
+- [2022-10-28-Chrome DevTools 的 Network 还能这么用？](https://juejin.cn/post/7159519090229887013) 
+
+- [2022-10-28-重构 改善既有代码的设计](https://juejin.cn/post/7159511400736538660) 
+
+- [2022-10-28-Promise之链式调用](https://juejin.cn/post/7159493194160275492) 
+
+- [2022-10-28-JS手写 reduce](https://juejin.cn/post/7159490445897596942) 
+
+- [2022-10-28-2022年你应该需要知道的CSS新特性-图形与图像](https://juejin.cn/post/7159484036820729892) 
+
+- [2022-10-28-Sanitizers 系列之 address sanitizer 用法篇](https://juejin.cn/post/7159480521624387614) 
+
+- [2022-10-28-SVG 学习笔记](https://juejin.cn/post/7159477364248805390) 
+
+- [2022-10-28-Aptos 来了，前端应该如何快速进入新 web3 世界](https://juejin.cn/post/7159472690779127821) 
+
+- [2022-10-28-前端监控系列4 ｜ SDK 体积与性能优化实践](https://juejin.cn/post/7159455028917305381) 
+
+- [2022-10-28-「手写系列」从 0 到 1 实现 Micro React](https://juejin.cn/post/7159439522759966733) 
+
+- [2022-10-28-大屏可视化落地](https://juejin.cn/post/7159406648476794893) 
+
+- [2022-10-28-由一个报错引发的浏览器跨域隔离探索](https://juejin.cn/post/7159391029135671333) 
+
+- [2022-10-28-【硬核拆解】从源码实现一个rxjs（Observable篇）](https://juejin.cn/post/7159378517484896269) 
+
+- [2022-10-28-是时候用UnoCSS来美化你的组件了](https://juejin.cn/post/7159366401097433095) 
 
 - [2022-10-27-2022年你应该需要知道的CSS新特性-布局篇](https://juejin.cn/post/7159096447483576334) 
 
@@ -128,6 +156,18 @@
 - [2022-10-27-JS-手写 Array.pototype.flag](https://juejin.cn/post/7159108447378604040) 
 
 - [2022-10-27-前端工作中常用Css知识点整理](https://juejin.cn/post/7159105009232117774) 
+
+- [2022-10-27-从事物的特质出发，千字总结万圣节专题糖果🍭如何用纯CSS实现](https://juejin.cn/post/7159338318046429197) 
+
+- [2022-10-27-利用Xtrabackup进行mysql增量备份](https://juejin.cn/post/7159222876455829517) 
+
+- [2022-10-27-Vue3 中使用 defineCustomElement 定义组件](https://juejin.cn/post/7159221717959704589) 
+
+- [2022-10-27-深入对象系列（二）——原型与原型链](https://juejin.cn/post/7159214711517659166) 
+
+- [2022-10-27-⭐webpack5开发指南（三）如何使用loader解析并压缩css资源](https://juejin.cn/post/7159213459439026207) 
+
+- [2022-10-27-写给前端开发者的 Rust 入门指南 Part 3 - 借用](https://juejin.cn/post/7159195626415079460) 
 
 - [2022-10-26-纯原生开发 Web Components 超详细分享](https://juejin.cn/post/7158717654369304612) 
 
@@ -839,6 +879,8 @@
 
 - [2022-10-21-奇舞周刊第 468 期](https://weekly.75.team/issue468.html) 
 
+- [2022-10-21-奇舞周刊第 469 期](https://weekly.75.team/issue469.html) 
+
 - [2022-10-14-奇舞周刊第 467 期](https://weekly.75.team/issue467.html) 
 
 - [2022-09-23-奇舞周刊第 466 期](https://weekly.75.team/issue466.html) 
@@ -1076,6 +1118,24 @@
 
 - [2022-10-28-Apa itu Frontend dan Backend](https://ypcode.medium.com/apa-itu-frontend-dan-backend-10f737019386?source=rss------frontend-5) 
 
+- [2022-10-28-How to optimize front-end project packaging [webpack]](https://medium.com/@pythonlearn1024/how-to-optimize-front-end-project-packaging-webpack-e875bd566708?source=rss------frontend-5) 
+
+- [2022-10-28-Front-end Interview Part 4 Redrawing and Rearrangement (Reflow)](https://medium.com/@pythonlearn1024/front-end-interview-part-4-redrawing-and-rearrangement-reflow-300dc1e3aa6d?source=rss------frontend-5) 
+
+- [2022-10-28-A Preliminary Study of IntersectionObserver Implementing Virtual Lists](https://medium.com/@pythonlearn1024/a-preliminary-study-of-intersectionobserver-implementing-virtual-lists-a8167983d4f8?source=rss------frontend-5) 
+
+- [2022-10-28-Remember a PR experience, I became a contributor of vite](https://medium.com/@pythonlearn1024/remember-a-pr-experience-i-became-a-contributor-of-vite-a317fdf856c8?source=rss------frontend-5) 
+
+- [2022-10-28-I finally learned the matrix rain in The Matrix](https://medium.com/@pythonlearn1024/i-finally-learned-the-matrix-rain-in-the-matrix-a73acaccc55b?source=rss------frontend-5) 
+
+- [2022-10-28-How do I debug Element UI source code](https://medium.com/@pythonlearn1024/how-do-i-debug-element-ui-source-code-140ff58462bd?source=rss------frontend-5) 
+
+- [2022-10-28-&quot;Byte Internal Course&quot; Watch wonderful courses and win surprise gifts](https://medium.com/@pythonlearn1024/quot-byte-internal-course-quot-watch-wonderful-courses-and-win-surprise-gifts-50e0810fff1d?source=rss------frontend-5) 
+
+- [2022-10-28-Turbopack, a bundler that is 700x faster than Webpack and 10x faster than Vite](https://medium.com/@pythonlearn1024/turbopack-a-bundler-that-is-700x-faster-than-webpack-and-10x-faster-than-vite-de311697d1dd?source=rss------frontend-5) 
+
+- [2022-10-28-I use these 9 tips to package Vue components, and the boss praises me for &#39;well sealed&#39;](https://medium.com/@pythonlearn1024/i-use-these-9-tips-to-package-vue-components-and-the-boss-praises-me-for-39-well-sealed-39-dd2284eb78e4?source=rss------frontend-5) 
+
 - [2022-10-27-Turbopack 10x faster than Vite! ? Successor to Webpack.](https://medium.com/@pythonlearn1024/turbopack-10x-faster-than-vite-successor-to-webpack-f42b0c2d848c?source=rss------frontend-5) 
 
 - [2022-10-27-Deep understanding of ES Module through animation](https://medium.com/@pythonlearn1024/deep-understanding-of-es-module-through-animation-fb1b8b662f60?source=rss------frontend-5) 
@@ -1308,6 +1368,26 @@
 - [2022-10-28-How to Create Forms in React using react-hook-form](https://umeshtharukaofficial.medium.com/how-to-create-forms-in-react-using-react-hook-form-decd5b4ad2ec?source=rss------react-5) 
 
 - [2022-10-28-What the heck is State and why is it important to understand for React?](https://medium.com/@trey.delcamp/what-the-heck-is-state-and-why-is-it-important-to-understand-for-react-5e0beb48af96?source=rss------react-5) 
+
+- [2022-10-28-Partial Object Destructuring of React Props With ... Rest Parameters Syntax](https://medium.com/coding-at-dawn/partial-object-destructuring-of-react-props-with-rest-parameters-syntax-4e8629a02035?source=rss------react-5) 
+
+- [2022-10-28-Caluanie Muelear Oxidize Parteurize fornitori, Whatsapp: +31653689014](https://medium.com/@greenhousedoctor420/caluanie-muelear-oxidize-parteurize-fornitori-whatsapp-31653689014-ad9b2b3e78fc?source=rss------react-5) 
+
+- [2022-10-28-What We Need to Know About Next.js 13?](https://medium.com/codex/what-we-need-to-know-about-next-js-13-7d52cc55b7c3?source=rss------react-5) 
+
+- [2022-10-28-How I Made My Portfolio with Next.js](https://j471n.medium.com/how-i-made-my-portfolio-with-next-js-cbd0cc8fe18?source=rss------react-5) 
+
+- [2022-10-28-React Todo CRUD App with Redux and Typescript](https://rjohongirmirzohon.medium.com/react-todo-crud-app-with-redux-and-typescript-5bda50cc2a82?source=rss------react-5) 
+
+- [2022-10-28-React practices you need to follow](https://medium.com/@rivo.agency2010/react-practices-b8d09f2557d7?source=rss------react-5) 
+
+- [2022-10-28-How to use the redux toolkit in react js](https://medium.com/@sasidharan_39972/how-to-use-the-redux-toolkit-in-react-js-5f955ee653dd?source=rss------react-5) 
+
+- [2022-10-28-What does (123[‘toString’].length + 123) Print Out in JavaScript?](https://javascript.plainenglish.io/what-does-123-tostring-length-123-print-out-in-javascript-31ed0fc716f?source=rss------react-5) 
+
+- [2022-10-28-React Native Development A Brief Guide](https://hirereactnativedeveloper.medium.com/react-native-development-a-brief-guide-ea94566dcf41?source=rss------react-5) 
+
+- [2022-10-28-Creating a Design System](https://medium.com/myntra-engineering/creating-a-design-system-aa1aabe78172?source=rss------react-5) 
 
 - [2022-10-27-React i18next](https://emrekirca.medium.com/react-i18next-85cef372fb9b?source=rss------react-5) 
 

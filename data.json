@@ -466,6 +466,11 @@
         "title": "奇舞周刊第 468 期",
         "link": "https://weekly.75.team/issue468.html",
         "date": "2022-10-21"
+      },
+      {
+        "title": "奇舞周刊第 469 期",
+        "link": "https://weekly.75.team/issue469.html",
+        "date": "2022-10-21"
       }
     ]
   },
@@ -2376,6 +2381,106 @@
         "title": "前端工作中常用Css知识点整理",
         "link": "https://juejin.cn/post/7159105009232117774",
         "date": "2022-10-27"
+      },
+      {
+        "title": "Chrome DevTools 的 Network 还能这么用？",
+        "link": "https://juejin.cn/post/7159519090229887013",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "重构 改善既有代码的设计",
+        "link": "https://juejin.cn/post/7159511400736538660",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "Promise之链式调用",
+        "link": "https://juejin.cn/post/7159493194160275492",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "JS手写 reduce",
+        "link": "https://juejin.cn/post/7159490445897596942",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "2022年你应该需要知道的CSS新特性-图形与图像",
+        "link": "https://juejin.cn/post/7159484036820729892",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "Sanitizers 系列之 address sanitizer 用法篇",
+        "link": "https://juejin.cn/post/7159480521624387614",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "SVG 学习笔记",
+        "link": "https://juejin.cn/post/7159477364248805390",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "Aptos 来了，前端应该如何快速进入新 web3 世界",
+        "link": "https://juejin.cn/post/7159472690779127821",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "前端监控系列4 ｜ SDK 体积与性能优化实践",
+        "link": "https://juejin.cn/post/7159455028917305381",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "「手写系列」从 0 到 1 实现 Micro React",
+        "link": "https://juejin.cn/post/7159439522759966733",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "大屏可视化落地",
+        "link": "https://juejin.cn/post/7159406648476794893",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "由一个报错引发的浏览器跨域隔离探索",
+        "link": "https://juejin.cn/post/7159391029135671333",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "【硬核拆解】从源码实现一个rxjs（Observable篇）",
+        "link": "https://juejin.cn/post/7159378517484896269",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "是时候用UnoCSS来美化你的组件了",
+        "link": "https://juejin.cn/post/7159366401097433095",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "从事物的特质出发，千字总结万圣节专题糖果🍭如何用纯CSS实现",
+        "link": "https://juejin.cn/post/7159338318046429197",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "利用Xtrabackup进行mysql增量备份",
+        "link": "https://juejin.cn/post/7159222876455829517",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Vue3 中使用 defineCustomElement 定义组件",
+        "link": "https://juejin.cn/post/7159221717959704589",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "深入对象系列（二）——原型与原型链",
+        "link": "https://juejin.cn/post/7159214711517659166",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "⭐webpack5开发指南（三）如何使用loader解析并压缩css资源",
+        "link": "https://juejin.cn/post/7159213459439026207",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "写给前端开发者的 Rust 入门指南 Part 3 - 借用",
+        "link": "https://juejin.cn/post/7159195626415079460",
+        "date": "2022-10-27"
       }
     ]
   },
@@ -2931,6 +3036,51 @@
         "title": "Turbopack, which is 700 times faster than Webpack, where is it faster?",
         "link": "https://medium.com/@pythonlearn1024/turbopack-which-is-700-times-faster-than-webpack-where-is-it-faster-db595568338d?source=rss------frontend-5",
         "date": "2022-10-27"
+      },
+      {
+        "title": "How to optimize front-end project packaging [webpack]",
+        "link": "https://medium.com/@pythonlearn1024/how-to-optimize-front-end-project-packaging-webpack-e875bd566708?source=rss------frontend-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "Front-end Interview Part 4 Redrawing and Rearrangement (Reflow)",
+        "link": "https://medium.com/@pythonlearn1024/front-end-interview-part-4-redrawing-and-rearrangement-reflow-300dc1e3aa6d?source=rss------frontend-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "A Preliminary Study of IntersectionObserver Implementing Virtual Lists",
+        "link": "https://medium.com/@pythonlearn1024/a-preliminary-study-of-intersectionobserver-implementing-virtual-lists-a8167983d4f8?source=rss------frontend-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "Remember a PR experience, I became a contributor of vite",
+        "link": "https://medium.com/@pythonlearn1024/remember-a-pr-experience-i-became-a-contributor-of-vite-a317fdf856c8?source=rss------frontend-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "I finally learned the matrix rain in The Matrix",
+        "link": "https://medium.com/@pythonlearn1024/i-finally-learned-the-matrix-rain-in-the-matrix-a73acaccc55b?source=rss------frontend-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "How do I debug Element UI source code",
+        "link": "https://medium.com/@pythonlearn1024/how-do-i-debug-element-ui-source-code-140ff58462bd?source=rss------frontend-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "&quot;Byte Internal Course&quot; Watch wonderful courses and win surprise gifts",
+        "link": "https://medium.com/@pythonlearn1024/quot-byte-internal-course-quot-watch-wonderful-courses-and-win-surprise-gifts-50e0810fff1d?source=rss------frontend-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "Turbopack, a bundler that is 700x faster than Webpack and 10x faster than Vite",
+        "link": "https://medium.com/@pythonlearn1024/turbopack-a-bundler-that-is-700x-faster-than-webpack-and-10x-faster-than-vite-de311697d1dd?source=rss------frontend-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "I use these 9 tips to package Vue components, and the boss praises me for &#39;well sealed&#39;",
+        "link": "https://medium.com/@pythonlearn1024/i-use-these-9-tips-to-package-vue-components-and-the-boss-praises-me-for-39-well-sealed-39-dd2284eb78e4?source=rss------frontend-5",
+        "date": "2022-10-28"
       }
     ]
   },
@@ -3851,6 +4001,56 @@
         "title": "Use Virtual Backgrounds in your Video Chat Website with the Agora Web UIKit",
         "link": "https://ekaansh.medium.com/use-virtual-backgrounds-in-your-video-chat-website-with-the-agora-web-uikit-6922cf104631?source=rss------react-5",
         "date": "2022-10-27"
+      },
+      {
+        "title": "Partial Object Destructuring of React Props With ... Rest Parameters Syntax",
+        "link": "https://medium.com/coding-at-dawn/partial-object-destructuring-of-react-props-with-rest-parameters-syntax-4e8629a02035?source=rss------react-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "Caluanie Muelear Oxidize Parteurize fornitori, Whatsapp: +31653689014",
+        "link": "https://medium.com/@greenhousedoctor420/caluanie-muelear-oxidize-parteurize-fornitori-whatsapp-31653689014-ad9b2b3e78fc?source=rss------react-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "What We Need to Know About Next.js 13?",
+        "link": "https://medium.com/codex/what-we-need-to-know-about-next-js-13-7d52cc55b7c3?source=rss------react-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "How I Made My Portfolio with Next.js",
+        "link": "https://j471n.medium.com/how-i-made-my-portfolio-with-next-js-cbd0cc8fe18?source=rss------react-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "React Todo CRUD App with Redux and Typescript",
+        "link": "https://rjohongirmirzohon.medium.com/react-todo-crud-app-with-redux-and-typescript-5bda50cc2a82?source=rss------react-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "React practices you need to follow",
+        "link": "https://medium.com/@rivo.agency2010/react-practices-b8d09f2557d7?source=rss------react-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "How to use the redux toolkit in react js",
+        "link": "https://medium.com/@sasidharan_39972/how-to-use-the-redux-toolkit-in-react-js-5f955ee653dd?source=rss------react-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "What does (123[‘toString’].length + 123) Print Out in JavaScript?",
+        "link": "https://javascript.plainenglish.io/what-does-123-tostring-length-123-print-out-in-javascript-31ed0fc716f?source=rss------react-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "React Native Development A Brief Guide",
+        "link": "https://hirereactnativedeveloper.medium.com/react-native-development-a-brief-guide-ea94566dcf41?source=rss------react-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "Creating a Design System",
+        "link": "https://medium.com/myntra-engineering/creating-a-design-system-aa1aabe78172?source=rss------react-5",
+        "date": "2022-10-28"
       }
     ]
   },
