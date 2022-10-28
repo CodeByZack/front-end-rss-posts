@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-10-27 12:41，更新条数: +40
+更新时间: 2022-10-28 01:53，更新条数: +38
 
 ## 文章链接
 
@@ -59,6 +59,8 @@
 </summary>
 
 
+- [2022-10-28-视频回退播放操作](https://juejin.cn/post/7159364721706663966) 
+
 - [2022-10-27-2022年你应该需要知道的CSS新特性-布局篇](https://juejin.cn/post/7159096447483576334) 
 
 - [2022-10-27-【前端&运维那点事儿】十五：Linux中的进程管理](https://juejin.cn/post/7159091811854581768) 
@@ -88,6 +90,44 @@
 - [2022-10-27-从React源码分析看useEffect](https://juejin.cn/post/7159016807066517518) 
 
 - [2022-10-27-v-formly - 一个让你不用画UI就可以构建create/edit页面的库](https://juejin.cn/post/7159015808113311774) 
+
+- [2022-10-27-第122期：高德地图绘制热力图遇到的一个问题](https://juejin.cn/post/7159233857084981279) 
+
+- [2022-10-27-一文弄懂JavaScript的错误类型，捕获及上报](https://juejin.cn/post/7159231003712552973) 
+
+- [2022-10-27-CSS Flex布局小记](https://juejin.cn/post/7159229788693987335) 
+
+- [2022-10-27-React之Fiber及setState简述](https://juejin.cn/post/7159225656675401764) 
+
+- [2022-10-27-css实现一个简单的加载动画](https://juejin.cn/post/7159223323355217928) 
+
+- [2022-10-27-开发个 json 格式化工具 兼容常见异常格式（不带引号的key 末尾多余逗号）](https://juejin.cn/post/7159222601707946015) 
+
+- [2022-10-27-webpack开发模式下的服务器](https://juejin.cn/post/7159218661733957662) 
+
+- [2022-10-27-Turbopack似乎并没有那么牛](https://juejin.cn/post/7159215235058892831) 
+
+- [2022-10-27-brython | timer 计时器](https://juejin.cn/post/7159205094901153829) 
+
+- [2022-10-27-Photoshop 10s生成炫酷的y2k风格字体，文章品质提升到NextLevel 💥](https://juejin.cn/post/7159166379843649549) 
+
+- [2022-10-27-vue之浅析extend与手动挂载$mount](https://juejin.cn/post/7159150798000095240) 
+
+- [2022-10-27-Mob开发者后台短信模块功能使用](https://juejin.cn/post/7159137360238608397) 
+
+- [2022-10-27-add_input_stream添加输入流](https://juejin.cn/post/7159137260166709285) 
+
+- [2022-10-27-InputStream数据结构分析](https://juejin.cn/post/7159136303391440909) 
+
+- [2022-10-27-open_input_file打开输入文件](https://juejin.cn/post/7159136453732073480) 
+
+- [2022-10-27-React中classnames库使用](https://juejin.cn/post/7159132262548635684) 
+
+- [2022-10-27-「代码实操」 从根儿上理解浏览器缓存](https://juejin.cn/post/7159119728345088007) 
+
+- [2022-10-27-JS-手写 Array.pototype.flag](https://juejin.cn/post/7159108447378604040) 
+
+- [2022-10-27-前端工作中常用Css知识点整理](https://juejin.cn/post/7159105009232117774) 
 
 - [2022-10-26-纯原生开发 Web Components 超详细分享](https://juejin.cn/post/7158717654369304612) 
 
@@ -828,6 +868,8 @@
 </summary>
 
 
+- [2022-10-28-科技爱好者周刊（第 228 期）：人类和人生的意义](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html) 
+
 - [2022-10-25-羊了个羊，如何自己实现（暨"码上掘金"编程挑战赛介绍）](http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html) 
 
 - [2022-10-23-最简单的 Git 服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html) 
@@ -928,6 +970,8 @@
  Node Weekly
 </summary>
 
+
+- [2022-10-27-Node 18 goes LTS](https://nodeweekly.com/issues/460) 
 
 - [2022-10-20-Node 19 released](https://nodeweekly.com/issues/459) 
 
@@ -1030,6 +1074,8 @@
 </summary>
 
 
+- [2022-10-28-Apa itu Frontend dan Backend](https://ypcode.medium.com/apa-itu-frontend-dan-backend-10f737019386?source=rss------frontend-5) 
+
 - [2022-10-27-Turbopack 10x faster than Vite! ? Successor to Webpack.](https://medium.com/@pythonlearn1024/turbopack-10x-faster-than-vite-successor-to-webpack-f42b0c2d848c?source=rss------frontend-5) 
 
 - [2022-10-27-Deep understanding of ES Module through animation](https://medium.com/@pythonlearn1024/deep-understanding-of-es-module-through-animation-fb1b8b662f60?source=rss------frontend-5) 
@@ -1051,6 +1097,16 @@
 - [2022-10-27-Babel을 사용해도 최신 JS를 사용할 수 없을 때 (core-js, polyfill)](https://medium.com/@uk960214/babel%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%8F%84-%EC%B5%9C%EC%8B%A0-js-%EB%AC%B8%EB%B2%95%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%97%86%EC%9D%84-%EB%95%8C-core-js-polyfill-13db50aa7cf5?source=rss------frontend-5) 
 
 - [2022-10-27-Why we&#39;re ditching CSS-in-JS](https://medium.com/@pythonlearn1024/why-we-39-re-ditching-css-in-js-d49f38855b7c?source=rss------frontend-5) 
+
+- [2022-10-27-Deployment of Cloud Load Balancing between Regions in the USA and Europe for global high…](https://medium.com/@jeannpaul6/deployment-of-cloud-load-balancing-between-regions-in-the-usa-and-europe-for-global-high-368bb44cf52a?source=rss------frontend-5) 
+
+- [2022-10-27-Who is Web Designer? Who is Frontend Designer? What is the difference? What is common?](https://iamdtms.medium.com/who-is-web-designer-who-is-frontend-designer-what-is-the-difference-what-is-common-43b2657498d7?source=rss------frontend-5) 
+
+- [2022-10-27-Should I store access tokens in browser storage?](https://medium.com/ackee/should-i-store-access-tokens-in-browser-storage-6492b1c6ce41?source=rss------frontend-5) 
+
+- [2022-10-27-How To Become A Frontend Developer in 2022](https://medium.com/@smashcode.dev/how-to-become-a-frontend-developer-in-2022-de42acd557?source=rss------frontend-5) 
+
+- [2022-10-27-Turbopack, which is 700 times faster than Webpack, where is it faster?](https://medium.com/@pythonlearn1024/turbopack-which-is-700-times-faster-than-webpack-where-is-it-faster-db595568338d?source=rss------frontend-5) 
 
 - [2022-10-26-Why is the implementation of bind a test of the understanding of the prototype chain?](https://medium.com/@pythonlearn1024/why-is-the-implementation-of-bind-a-test-of-the-understanding-of-the-prototype-chain-2fc74e81b235?source=rss------frontend-5) 
 
@@ -1247,6 +1303,12 @@
 </summary>
 
 
+- [2022-10-28-How to Call a String as a Function: Use Case in a Form with Multiple Controlled Inputs](https://medium.com/@bvcage/how-to-call-a-string-as-a-function-use-case-in-a-form-with-multiple-controlled-inputs-c22f86baf57b?source=rss------react-5) 
+
+- [2022-10-28-How to Create Forms in React using react-hook-form](https://umeshtharukaofficial.medium.com/how-to-create-forms-in-react-using-react-hook-form-decd5b4ad2ec?source=rss------react-5) 
+
+- [2022-10-28-What the heck is State and why is it important to understand for React?](https://medium.com/@trey.delcamp/what-the-heck-is-state-and-why-is-it-important-to-understand-for-react-5e0beb48af96?source=rss------react-5) 
+
 - [2022-10-27-React i18next](https://emrekirca.medium.com/react-i18next-85cef372fb9b?source=rss------react-5) 
 
 - [2022-10-27-Firebase e React — Criando, Editando e Buscando um Registro no Banco de Dados.](https://thiagopetherson.medium.com/firebase-e-react-criando-editando-e-buscando-um-registro-no-banco-de-dados-2bfc4aab6c6b?source=rss------react-5) 
@@ -1270,6 +1332,20 @@
 - [2022-10-27-Compre dinheiro falso online (WhatsApp +33744196307)](https://medium.com/@paulmarion55/compre-dinheiro-falso-online-whatsapp-33744196307-ce4fdbcf89f7?source=rss------react-5) 
 
 - [2022-10-27-Web performance enhancements — 4 points basis my personal experience](https://engg.glance.com/web-performance-enhancements-4-points-basis-my-personal-experience-30842887e0f1?source=rss------react-5) 
+
+- [2022-10-27-The concept of “sustainable programming”](https://medium.com/@chowraynold_97740/the-concept-of-sustainable-programming-a453c2c0c0e6?source=rss------react-5) 
+
+- [2022-10-27-Micro-Frontend Architecture — Explained](https://medium.com/@smriti1396/how-to-implement-micro-frontend-architecture-bbc003a7ac51?source=rss------react-5) 
+
+- [2022-10-27-The Rebel Gig worker](https://medium.com/@AngelJ/the-rebel-gig-worker-88ff6f5c56ac?source=rss------react-5) 
+
+- [2022-10-27-How To Low-Code & No-Code Live Video With React and Express](https://medium.com/bingewave/how-to-low-code-no-code-live-video-with-react-and-express-5724b24b62ff?source=rss------react-5) 
+
+- [2022-10-27-Let’s Match our Dogs!](https://medium.com/@annaestania/lets-match-our-dogs-da73b2404174?source=rss------react-5) 
+
+- [2022-10-27-probe.gl — Benchmarking in Node.js](https://danielkon.medium.com/probe-gl-benchmarking-in-node-js-2362548d4a99?source=rss------react-5) 
+
+- [2022-10-27-Use Virtual Backgrounds in your Video Chat Website with the Agora Web UIKit](https://ekaansh.medium.com/use-virtual-backgrounds-in-your-video-chat-website-with-the-agora-web-uikit-6922cf104631?source=rss------react-5) 
 
 - [2022-10-26-How to Update Objects in React State](https://medium.com/code-tricks/how-to-update-objects-in-react-state-f971665ddcb5?source=rss------react-5) 
 

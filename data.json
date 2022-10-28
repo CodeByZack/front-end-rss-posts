@@ -26,6 +26,11 @@
         "title": "Node 19 released",
         "link": "https://nodeweekly.com/issues/459",
         "date": "2022-10-20"
+      },
+      {
+        "title": "Node 18 goes LTS",
+        "link": "https://nodeweekly.com/issues/460",
+        "date": "2022-10-27"
       }
     ]
   },
@@ -256,6 +261,11 @@
         "title": "羊了个羊，如何自己实现（暨\"码上掘金\"编程挑战赛介绍）",
         "link": "http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html",
         "date": "2022-10-25"
+      },
+      {
+        "title": "科技爱好者周刊（第 228 期）：人类和人生的意义",
+        "link": "http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html",
+        "date": "2022-10-28"
       }
     ]
   },
@@ -2266,6 +2276,106 @@
         "title": "浏览器是如何通过 defer 与 async 属性，优化页面加载速度的？",
         "link": "https://juejin.cn/post/7158254068228423694",
         "date": "2022-10-25"
+      },
+      {
+        "title": "视频回退播放操作",
+        "link": "https://juejin.cn/post/7159364721706663966",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "第122期：高德地图绘制热力图遇到的一个问题",
+        "link": "https://juejin.cn/post/7159233857084981279",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "一文弄懂JavaScript的错误类型，捕获及上报",
+        "link": "https://juejin.cn/post/7159231003712552973",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "CSS Flex布局小记",
+        "link": "https://juejin.cn/post/7159229788693987335",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "React之Fiber及setState简述",
+        "link": "https://juejin.cn/post/7159225656675401764",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "css实现一个简单的加载动画",
+        "link": "https://juejin.cn/post/7159223323355217928",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "开发个 json 格式化工具 兼容常见异常格式（不带引号的key 末尾多余逗号）",
+        "link": "https://juejin.cn/post/7159222601707946015",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "webpack开发模式下的服务器",
+        "link": "https://juejin.cn/post/7159218661733957662",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Turbopack似乎并没有那么牛",
+        "link": "https://juejin.cn/post/7159215235058892831",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "brython | timer 计时器",
+        "link": "https://juejin.cn/post/7159205094901153829",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Photoshop 10s生成炫酷的y2k风格字体，文章品质提升到NextLevel 💥",
+        "link": "https://juejin.cn/post/7159166379843649549",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "vue之浅析extend与手动挂载$mount",
+        "link": "https://juejin.cn/post/7159150798000095240",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Mob开发者后台短信模块功能使用",
+        "link": "https://juejin.cn/post/7159137360238608397",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "add_input_stream添加输入流",
+        "link": "https://juejin.cn/post/7159137260166709285",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "InputStream数据结构分析",
+        "link": "https://juejin.cn/post/7159136303391440909",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "open_input_file打开输入文件",
+        "link": "https://juejin.cn/post/7159136453732073480",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "React中classnames库使用",
+        "link": "https://juejin.cn/post/7159132262548635684",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "「代码实操」 从根儿上理解浏览器缓存",
+        "link": "https://juejin.cn/post/7159119728345088007",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "JS-手写 Array.pototype.flag",
+        "link": "https://juejin.cn/post/7159108447378604040",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "前端工作中常用Css知识点整理",
+        "link": "https://juejin.cn/post/7159105009232117774",
+        "date": "2022-10-27"
       }
     ]
   },
@@ -2790,6 +2900,36 @@
       {
         "title": "Why we&#39;re ditching CSS-in-JS",
         "link": "https://medium.com/@pythonlearn1024/why-we-39-re-ditching-css-in-js-d49f38855b7c?source=rss------frontend-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Apa itu Frontend dan Backend",
+        "link": "https://ypcode.medium.com/apa-itu-frontend-dan-backend-10f737019386?source=rss------frontend-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "Deployment of Cloud Load Balancing between Regions in the USA and Europe for global high…",
+        "link": "https://medium.com/@jeannpaul6/deployment-of-cloud-load-balancing-between-regions-in-the-usa-and-europe-for-global-high-368bb44cf52a?source=rss------frontend-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Who is Web Designer? Who is Frontend Designer? What is the difference? What is common?",
+        "link": "https://iamdtms.medium.com/who-is-web-designer-who-is-frontend-designer-what-is-the-difference-what-is-common-43b2657498d7?source=rss------frontend-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Should I store access tokens in browser storage?",
+        "link": "https://medium.com/ackee/should-i-store-access-tokens-in-browser-storage-6492b1c6ce41?source=rss------frontend-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "How To Become A Frontend Developer in 2022",
+        "link": "https://medium.com/@smashcode.dev/how-to-become-a-frontend-developer-in-2022-de42acd557?source=rss------frontend-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Turbopack, which is 700 times faster than Webpack, where is it faster?",
+        "link": "https://medium.com/@pythonlearn1024/turbopack-which-is-700-times-faster-than-webpack-where-is-it-faster-db595568338d?source=rss------frontend-5",
         "date": "2022-10-27"
       }
     ]
@@ -3660,6 +3800,56 @@
       {
         "title": "Web performance enhancements — 4 points basis my personal experience",
         "link": "https://engg.glance.com/web-performance-enhancements-4-points-basis-my-personal-experience-30842887e0f1?source=rss------react-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "How to Call a String as a Function: Use Case in a Form with Multiple Controlled Inputs",
+        "link": "https://medium.com/@bvcage/how-to-call-a-string-as-a-function-use-case-in-a-form-with-multiple-controlled-inputs-c22f86baf57b?source=rss------react-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "How to Create Forms in React using react-hook-form",
+        "link": "https://umeshtharukaofficial.medium.com/how-to-create-forms-in-react-using-react-hook-form-decd5b4ad2ec?source=rss------react-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "What the heck is State and why is it important to understand for React?",
+        "link": "https://medium.com/@trey.delcamp/what-the-heck-is-state-and-why-is-it-important-to-understand-for-react-5e0beb48af96?source=rss------react-5",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "The concept of “sustainable programming”",
+        "link": "https://medium.com/@chowraynold_97740/the-concept-of-sustainable-programming-a453c2c0c0e6?source=rss------react-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Micro-Frontend Architecture — Explained",
+        "link": "https://medium.com/@smriti1396/how-to-implement-micro-frontend-architecture-bbc003a7ac51?source=rss------react-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "The Rebel Gig worker",
+        "link": "https://medium.com/@AngelJ/the-rebel-gig-worker-88ff6f5c56ac?source=rss------react-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "How To Low-Code & No-Code Live Video With React and Express",
+        "link": "https://medium.com/bingewave/how-to-low-code-no-code-live-video-with-react-and-express-5724b24b62ff?source=rss------react-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Let’s Match our Dogs!",
+        "link": "https://medium.com/@annaestania/lets-match-our-dogs-da73b2404174?source=rss------react-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "probe.gl — Benchmarking in Node.js",
+        "link": "https://danielkon.medium.com/probe-gl-benchmarking-in-node-js-2362548d4a99?source=rss------react-5",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Use Virtual Backgrounds in your Video Chat Website with the Agora Web UIKit",
+        "link": "https://ekaansh.medium.com/use-virtual-backgrounds-in-your-video-chat-website-with-the-agora-web-uikit-6922cf104631?source=rss------react-5",
         "date": "2022-10-27"
       }
     ]
