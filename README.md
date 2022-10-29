@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-10-29 01:38，更新条数: +25
+更新时间: 2022-10-29 12:32，更新条数: +40
 
 ## 文章链接
 
@@ -58,6 +58,46 @@
  掘金 前端
 </summary>
 
+
+- [2022-10-29-基于Vue 3 + TypeScript + Vite + TSX + Pinia 开发的一个音乐播放器](https://juejin.cn/post/7159889080761712677) 
+
+- [2022-10-29-今天来讲讲 scale、translate 和 rotate 这三个属性，你不会以为我是要讲的是 transform 吧？](https://juejin.cn/post/7159873802325721118) 
+
+- [2022-10-29-Vue中过滤器定义及使用](https://juejin.cn/post/7159871778506932261) 
+
+- [2022-10-29-[专栏04]：完善工程环境开发第一个组件！](https://juejin.cn/post/7159868038857097246) 
+
+- [2022-10-29-【每日LeetCode】手把手教你刷题之按奇偶排序数组](https://juejin.cn/post/7159857631782240264) 
+
+- [2022-10-29-Echarts 折线图根据容器宽度自适应展示](https://juejin.cn/post/7159842802099027981) 
+
+- [2022-10-29-首屏渲染优化实战 (Webpack 打包优化)](https://juejin.cn/post/7159841154400272398) 
+
+- [2022-10-29-Vue3源码学习4(下) | 响应系统的作用与实现](https://juejin.cn/post/7159830145262419999) 
+
+- [2022-10-29-Vue—怎样编写代码，Vue3的基本语法](https://juejin.cn/post/7159817390530756645) 
+
+- [2022-10-29-国内第一篇讲如何减少卡顿的代码级别详细文章](https://juejin.cn/post/7159807927908302884) 
+
+- [2022-10-29-vue3.js+tauri整合聊天|tauri仿微信|vite3+tauri聊天室](https://juejin.cn/post/7159783024995860494) 
+
+- [2022-10-29-React Router与权限管理](https://juejin.cn/post/7159776565759311908) 
+
+- [2022-10-29-[TypeScript]实践--手动封装一个事件监听器（基于对发布订阅模式的理解）](https://juejin.cn/post/7159773241194577950) 
+
+- [2022-10-29-react中的调度和时间切片原理](https://juejin.cn/post/7159768909392904222) 
+
+- [2022-10-29-VUE框架响应系统简单实现](https://juejin.cn/post/7159768844234391559) 
+
+- [2022-10-29-手撕hook](https://juejin.cn/post/7159765342338678821) 
+
+- [2022-10-29-Canvas 文字拖拽排列组合](https://juejin.cn/post/7159763440913874980) 
+
+- [2022-10-29-Echarts柱状图表的使用](https://juejin.cn/post/7159735097552273422) 
+
+- [2022-10-29-react源码分析：实现react时间分片](https://juejin.cn/post/7159730358966026276) 
+
+- [2022-10-29-vue中Axios添加拦截器刷新token的实现方法](https://juejin.cn/post/7159727466439770119) 
 
 - [2022-10-28-视频回退播放操作](https://juejin.cn/post/7159364721706663966) 
 
@@ -1134,6 +1174,26 @@
 
 - [2022-10-29-Clean Architecture on Frontend applications](https://medium.com/@matheushf/clean-architecture-on-frontend-applications-7d724d250432?source=rss------frontend-5) 
 
+- [2022-10-29-v-formly — A library that lets you build create/edit pages without drawing UI](https://medium.com/@pythonlearn1024/v-formly-a-library-that-lets-you-build-create-edit-pages-without-drawing-ui-15261d8c1ffc?source=rss------frontend-5) 
+
+- [2022-10-29-&quot;Pure CSS Implementation&quot; Use CSS to develop a cool rotating ball](https://medium.com/@pythonlearn1024/quot-pure-css-implementation-quot-use-css-to-develop-a-cool-rotating-ball-35b45b44eacd?source=rss------frontend-5) 
+
+- [2022-10-29-According to the official statistics of Github, since 2016, the Github platform has added more than…](https://medium.com/@pythonlearn1024/according-to-the-official-statistics-of-github-since-2016-the-github-platform-has-added-more-than-c1362f9f262e?source=rss------frontend-5) 
+
+- [2022-10-29-Draw a tai chi diagram with css, and start shouting difficult after only a few lines of code?](https://medium.com/@pythonlearn1024/draw-a-tai-chi-diagram-with-css-and-start-shouting-difficult-after-only-a-few-lines-of-code-7bf2d240874c?source=rss------frontend-5) 
+
+- [2022-10-29-[Jie Ge takes you to play with Android automation] &quot;Empower&quot; the automatic punch-in…](https://medium.com/@pythonlearn1024/jie-ge-takes-you-to-play-with-android-automation-quot-empower-quot-the-automatic-punch-in-58af5f707c71?source=rss------frontend-5) 
+
+- [2022-10-29-theme: condensed-night-purple — -w This article is the first signing article of the rare earth…](https://medium.com/@pythonlearn1024/theme-condensed-night-purple-w-this-article-is-the-first-signing-article-of-the-rare-earth-e147fb9d436f?source=rss------frontend-5) 
+
+- [2022-10-29-Turbopack doesn&#39;t seem to be that good](https://medium.com/@pythonlearn1024/turbopack-doesn-39-t-seem-to-be-that-good-b48a91a7c8cb?source=rss------frontend-5) 
+
+- [2022-10-29-Write automation scripts in JS, not bash!](https://medium.com/@pythonlearn1024/write-automation-scripts-in-js-not-bash-eacee7658eba?source=rss------frontend-5) 
+
+- [2022-10-29-JavaScript — front-end modularization](https://medium.com/@roperluo.me/javascript-front-end-modularization-99984f57667?source=rss------frontend-5) 
+
+- [2022-10-29-1. What is refreshToken without feeling refresh?](https://medium.com/@pythonlearn1024/1-what-is-refreshtoken-without-feeling-refresh-c98aa2c54663?source=rss------frontend-5) 
+
 - [2022-10-28-Apa itu Frontend dan Backend](https://ypcode.medium.com/apa-itu-frontend-dan-backend-10f737019386?source=rss------frontend-5) 
 
 - [2022-10-28-How to optimize front-end project packaging [webpack]](https://medium.com/@pythonlearn1024/how-to-optimize-front-end-project-packaging-webpack-e875bd566708?source=rss------frontend-5) 
@@ -1392,6 +1452,26 @@
  React on Medium
 </summary>
 
+
+- [2022-10-29-3 FREE Resources to Learn React in 2022](https://medium.com/@sid-js/3-free-resources-to-learn-react-in-2022-7c17989b5654?source=rss------react-5) 
+
+- [2022-10-29-Create Velocity scroll animation in React with Framer Motion](https://blog.bitsrc.io/create-velocity-scroll-animation-in-react-with-framer-motion-4f1d00dbe26?source=rss------react-5) 
+
+- [2022-10-29-5 Reasons to use Magic Link for Authentication in your application](https://medium.com/@zinedkaloc/5-reasons-to-use-magic-link-for-authentication-in-your-application-c9412e3ff0c4?source=rss------react-5) 
+
+- [2022-10-29-Custom React Inputs to Speed Up Coding](https://ckramp.medium.com/custom-react-inputs-to-speed-up-coding-b42ec4831673?source=rss------react-5) 
+
+- [2022-10-29-Ciclo de Vida de um Componente em React](https://medium.com/@alanfernandes.mm/ciclo-de-vida-de-um-componente-em-react-2076233536b0?source=rss------react-5) 
+
+- [2022-10-29-theme: condensed-night-purple — -w This article is the first signing article of the rare earth…](https://medium.com/@pythonlearn1024/theme-condensed-night-purple-w-this-article-is-the-first-signing-article-of-the-rare-earth-e147fb9d436f?source=rss------react-5) 
+
+- [2022-10-29-Caluanie Muelear Oxidize Parteurize Anbieter, WhatsApp: +31653689014](https://medium.com/@borisbobby790/caluanie-muelear-oxidize-parteurize-anbieter-whatsapp-31653689014-99f6f00c841f?source=rss------react-5) 
+
+- [2022-10-29-HeadlessUI- Transitions Part 2- showing and hiding content](https://ckmobile.medium.com/headlessui-transitions-part-2-showing-and-hiding-content-a105a01b2c13?source=rss------react-5) 
+
+- [2022-10-29-A Roadmap for React Beginners (HTML/CSS) #1](https://medium.com/@mert172317/a-roadmap-for-react-beginners-html-css-1-a6286c1a8ca9?source=rss------react-5) 
+
+- [2022-10-29-Chapter 7: Book Library React JS Front End with Firebase Authentication deployed on k8s, with…](https://abvijaykumar.medium.com/chapter-7-book-library-react-js-front-end-with-firebase-authentication-deployed-on-k8s-with-c4d150ae8d1b?source=rss------react-5) 
 
 - [2022-10-28-How to Call a String as a Function: Use Case in a Form with Multiple Controlled Inputs](https://medium.com/@bvcage/how-to-call-a-string-as-a-function-use-case-in-a-form-with-multiple-controlled-inputs-c22f86baf57b?source=rss------react-5) 
 
