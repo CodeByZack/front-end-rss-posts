@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-10-28 12:40，更新条数: +40
+更新时间: 2022-10-29 01:38，更新条数: +25
 
 ## 文章链接
 
@@ -88,6 +88,18 @@
 - [2022-10-28-【硬核拆解】从源码实现一个rxjs（Observable篇）](https://juejin.cn/post/7159378517484896269) 
 
 - [2022-10-28-是时候用UnoCSS来美化你的组件了](https://juejin.cn/post/7159366401097433095) 
+
+- [2022-10-28-如何规范App广告的隐私获取，让用户拥有更多知情权？](https://juejin.cn/post/7159643003772993573) 
+
+- [2022-10-28-深入理解函数式编程（上）](https://juejin.cn/post/7159642907501133832) 
+
+- [2022-10-28-技术周报·WebAssembly的核心语言特性与未来发展](https://juejin.cn/post/7159605469542088712) 
+
+- [2022-10-28-CSS 常用选择器小记](https://juejin.cn/post/7159593815995580453) 
+
+- [2022-10-28-【vue进阶之旅】如何自定义组件v-model，封装属于自己的组件库？](https://juejin.cn/post/7159546514010963998) 
+
+- [2022-10-28-微信小程序发布流程简析](https://juejin.cn/post/7159518716441886756) 
 
 - [2022-10-27-2022年你应该需要知道的CSS新特性-布局篇](https://juejin.cn/post/7159096447483576334) 
 
@@ -1034,6 +1046,8 @@
 </summary>
 
 
+- [2022-10-28-Turbo-charged incremental bundling au Rust](https://javascriptweekly.com/issues/612) 
+
 - [2022-10-21-🪜 Decorating with Dr. Axel](https://javascriptweekly.com/issues/611) 
 
 - [2022-10-14-Node to keep an eye on your code](https://javascriptweekly.com/issues/610) 
@@ -1116,6 +1130,10 @@
 </summary>
 
 
+- [2022-10-29-✨✨Make a pseudo 3D effect card list to review CSS animation~](https://medium.com/@pythonlearn1024/make-a-pseudo-3d-effect-card-list-to-review-css-animation-be5c22139fad?source=rss------frontend-5) 
+
+- [2022-10-29-Clean Architecture on Frontend applications](https://medium.com/@matheushf/clean-architecture-on-frontend-applications-7d724d250432?source=rss------frontend-5) 
+
 - [2022-10-28-Apa itu Frontend dan Backend](https://ypcode.medium.com/apa-itu-frontend-dan-backend-10f737019386?source=rss------frontend-5) 
 
 - [2022-10-28-How to optimize front-end project packaging [webpack]](https://medium.com/@pythonlearn1024/how-to-optimize-front-end-project-packaging-webpack-e875bd566708?source=rss------frontend-5) 
@@ -1135,6 +1153,18 @@
 - [2022-10-28-Turbopack, a bundler that is 700x faster than Webpack and 10x faster than Vite](https://medium.com/@pythonlearn1024/turbopack-a-bundler-that-is-700x-faster-than-webpack-and-10x-faster-than-vite-de311697d1dd?source=rss------frontend-5) 
 
 - [2022-10-28-I use these 9 tips to package Vue components, and the boss praises me for &#39;well sealed&#39;](https://medium.com/@pythonlearn1024/i-use-these-9-tips-to-package-vue-components-and-the-boss-praises-me-for-39-well-sealed-39-dd2284eb78e4?source=rss------frontend-5) 
+
+- [2022-10-28-Common Css knowledge points in front-end work](https://medium.com/@pythonlearn1024/common-css-knowledge-points-in-front-end-work-41542b51c1c0?source=rss------frontend-5) 
+
+- [2022-10-28-CSS gradient vanishing](https://medium.com/@pythonlearn1024/css-gradient-vanishing-e840e1a36c47?source=rss------frontend-5) 
+
+- [2022-10-28-How to: React portfolio deployed into AWS — Part 1](https://currosoriaf.medium.com/how-to-react-portfolio-deployed-into-aws-part-1-92ab8bc37b44?source=rss------frontend-5) 
+
+- [2022-10-28-&quot;Code Practice&quot; Understand browser caching from the root](https://medium.com/@pythonlearn1024/quot-code-practice-quot-understand-browser-caching-from-the-root-f24c95159e64?source=rss------frontend-5) 
+
+- [2022-10-28-Want to use RN to write a novel APP on the first day [page structure ]](https://medium.com/@pythonlearn1024/want-to-use-rn-to-write-a-novel-app-on-the-first-day-page-structure-806c34a8a875?source=rss------frontend-5) 
+
+- [2022-10-28-QR code component](https://medium.com/@vr4576503/qr-code-component-4cc2d73bc4f1?source=rss------frontend-5) 
 
 - [2022-10-27-Turbopack 10x faster than Vite! ? Successor to Webpack.](https://medium.com/@pythonlearn1024/turbopack-10x-faster-than-vite-successor-to-webpack-f42b0c2d848c?source=rss------frontend-5) 
 
@@ -1388,6 +1418,26 @@
 - [2022-10-28-React Native Development A Brief Guide](https://hirereactnativedeveloper.medium.com/react-native-development-a-brief-guide-ea94566dcf41?source=rss------react-5) 
 
 - [2022-10-28-Creating a Design System](https://medium.com/myntra-engineering/creating-a-design-system-aa1aabe78172?source=rss------react-5) 
+
+- [2022-10-28-Configure Tailwind CSS with Html project in 7 easy steps in one PDF](https://medium.com/@hamza786504/configure-tailwind-css-with-html-project-in-7-easy-steps-in-one-pdf-35ab6be9c498?source=rss------react-5) 
+
+- [2022-10-28-Encaminhamento de Refs — React](https://jean-molino.medium.com/encaminhamento-de-refs-react-8aa4ed7c0c42?source=rss------react-5) 
+
+- [2022-10-28-How to: React portfolio deployed into AWS — Part 1](https://currosoriaf.medium.com/how-to-react-portfolio-deployed-into-aws-part-1-92ab8bc37b44?source=rss------react-5) 
+
+- [2022-10-28-Firebase Authentication (SignIn, SignUp, and SignOut) with ReactJS](https://medium.com/@frontendadarsh/firebase-authentication-signin-signup-and-signout-with-reactjs-13e6be3591b?source=rss------react-5) 
+
+- [2022-10-28-Custom Controller Actions](https://medium.com/@yurie.hong0827/custom-controller-actions-17c7349e7822?source=rss------react-5) 
+
+- [2022-10-28-Is it worth using React Native?](https://medium.com/@mtcpe.fy/is-it-worth-using-react-native-f664c3c48f7a?source=rss------react-5) 
+
+- [2022-10-28-Building an over-engineered low-code CRUD for SaaS apps](https://alexandromtzg.medium.com/building-an-over-engineered-low-code-crud-for-saas-apps-4d3d0c4cd39d?source=rss------react-5) 
+
+- [2022-10-28-【Redux】看官方文件學 Redux Toolkit- createSlice](https://medium.com/@ted31539/redux-%E7%9C%8B%E5%AE%98%E6%96%B9%E6%96%87%E4%BB%B6%E5%AD%B8-redux-toolkit-createslice-b4850e63610e?source=rss------react-5) 
+
+- [2022-10-28-Automated Component Generation with React](https://blog.geekyants.com/automated-component-generation-with-react-46fa4750d664?source=rss------react-5) 
+
+- [2022-10-28-State Management with React](https://jvzaniolo.medium.com/state-management-with-react-f7d21005f31f?source=rss------react-5) 
 
 - [2022-10-27-React i18next](https://emrekirca.medium.com/react-i18next-85cef372fb9b?source=rss------react-5) 
 
