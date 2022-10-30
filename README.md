@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-10-29 12:32，更新条数: +40
+更新时间: 2022-10-30 01:56，更新条数: +30
 
 ## 文章链接
 
@@ -98,6 +98,34 @@
 - [2022-10-29-react源码分析：实现react时间分片](https://juejin.cn/post/7159730358966026276) 
 
 - [2022-10-29-vue中Axios添加拦截器刷新token的实现方法](https://juejin.cn/post/7159727466439770119) 
+
+- [2022-10-29-你好，Next.js 13](https://juejin.cn/post/7160084572942630926) 
+
+- [2022-10-29-configure_filtergraph配置滤镜容器](https://juejin.cn/post/7160028929657405471) 
+
+- [2022-10-29-send_frame_to_filters滤镜处理](https://juejin.cn/post/7160028806114181133) 
+
+- [2022-10-29-decode_video解码视频帧](https://juejin.cn/post/7160028600790908936) 
+
+- [2022-10-29-process_input_packet解码封装](https://juejin.cn/post/7160023179782520846) 
+
+- [2022-10-29-process_input处理输入文件](https://juejin.cn/post/7160001503820775437) 
+
+- [2022-10-29-利用京东云Web应用防火墙实现Web入侵防护](https://juejin.cn/post/7159998606596898829) 
+
+- [2022-10-29-软件要想做的好，测试必定少不了](https://juejin.cn/post/7159999983519793166) 
+
+- [2022-10-29-CSS 文字渐变填坑技巧](https://juejin.cn/post/7159971527520157709) 
+
+- [2022-10-29-corner css 一个手绘主题库](https://juejin.cn/post/7159964726523330568) 
+
+- [2022-10-29-我开发了个：所有数据只保存在 localStorage 的实用备忘录](https://juejin.cn/post/7159964175714746382) 
+
+- [2022-10-29-用 xterm.js 在web端实现Terminal](https://juejin.cn/post/7159961916167700488) 
+
+- [2022-10-29-2022年你应该需要知道的CSS新特性-颜色篇](https://juejin.cn/post/7159948787425755167) 
+
+- [2022-10-29-『 纯 CSS 实现』使用 CSS 开发一个伪 3D 旋转圆柱](https://juejin.cn/post/7159921010681053191) 
 
 - [2022-10-28-视频回退播放操作](https://juejin.cn/post/7159364721706663966) 
 
@@ -1170,6 +1198,10 @@
 </summary>
 
 
+- [2022-10-30-Server in webpack development mode](https://medium.com/@pythonlearn1024/server-in-webpack-development-mode-f9841acffb74?source=rss------frontend-5) 
+
+- [2022-10-30-Use defineCustomElement to define components in Vue3](https://medium.com/@pythonlearn1024/use-definecustomelement-to-define-components-in-vue3-42482f5134c6?source=rss------frontend-5) 
+
 - [2022-10-29-✨✨Make a pseudo 3D effect card list to review CSS animation~](https://medium.com/@pythonlearn1024/make-a-pseudo-3d-effect-card-list-to-review-css-animation-be5c22139fad?source=rss------frontend-5) 
 
 - [2022-10-29-Clean Architecture on Frontend applications](https://medium.com/@matheushf/clean-architecture-on-frontend-applications-7d724d250432?source=rss------frontend-5) 
@@ -1193,6 +1225,14 @@
 - [2022-10-29-JavaScript — front-end modularization](https://medium.com/@roperluo.me/javascript-front-end-modularization-99984f57667?source=rss------frontend-5) 
 
 - [2022-10-29-1. What is refreshToken without feeling refresh?](https://medium.com/@pythonlearn1024/1-what-is-refreshtoken-without-feeling-refresh-c98aa2c54663?source=rss------frontend-5) 
+
+- [2022-10-29-Cookies vs Session storage vs Local storage](https://martin-sobrero-m.medium.com/cookies-vs-session-storage-vs-local-storage-c63e49d1e064?source=rss------frontend-5) 
+
+- [2022-10-29-Entendendo CSS: Display Inline, Block e Inline-Block](https://sucodelarangela.medium.com/entendendo-css-display-inline-block-e-inline-block-918c1145e027?source=rss------frontend-5) 
+
+- [2022-10-29-React First Step (Part I)](https://medium.com/@mohamedfadelmoumeni/react-first-step-part-i-ae958bee0e22?source=rss------frontend-5) 
+
+- [2022-10-29-The first domestic code-level detailed article on how to reduce stuttering](https://medium.com/@pythonlearn1024/the-first-domestic-code-level-detailed-article-on-how-to-reduce-stuttering-1d2a6d7e3ff3?source=rss------frontend-5) 
 
 - [2022-10-28-Apa itu Frontend dan Backend](https://ypcode.medium.com/apa-itu-frontend-dan-backend-10f737019386?source=rss------frontend-5) 
 
@@ -1453,6 +1493,8 @@
 </summary>
 
 
+- [2022-10-30-How to get started with React Router V6](https://medium.com/@evareitzel/react-router-version-6-explained-13430b617d56?source=rss------react-5) 
+
 - [2022-10-29-3 FREE Resources to Learn React in 2022](https://medium.com/@sid-js/3-free-resources-to-learn-react-in-2022-7c17989b5654?source=rss------react-5) 
 
 - [2022-10-29-Create Velocity scroll animation in React with Framer Motion](https://blog.bitsrc.io/create-velocity-scroll-animation-in-react-with-framer-motion-4f1d00dbe26?source=rss------react-5) 
@@ -1472,6 +1514,24 @@
 - [2022-10-29-A Roadmap for React Beginners (HTML/CSS) #1](https://medium.com/@mert172317/a-roadmap-for-react-beginners-html-css-1-a6286c1a8ca9?source=rss------react-5) 
 
 - [2022-10-29-Chapter 7: Book Library React JS Front End with Firebase Authentication deployed on k8s, with…](https://abvijaykumar.medium.com/chapter-7-book-library-react-js-front-end-with-firebase-authentication-deployed-on-k8s-with-c4d150ae8d1b?source=rss------react-5) 
+
+- [2022-10-29-React: Components, Props, State, and Hooks](https://medium.com/@k.ezenekwe/react-components-props-state-and-hooks-1f2880d4101c?source=rss------react-5) 
+
+- [2022-10-29-Using React State and Components](https://medium.com/@claytoncripe/using-react-state-and-components-d899a712768?source=rss------react-5) 
+
+- [2022-10-29-React First Step (Part I)](https://medium.com/@mohamedfadelmoumeni/react-first-step-part-i-ae958bee0e22?source=rss------react-5) 
+
+- [2022-10-29-Updating and deleting the Firebase Collection](https://medium.com/@frontendadarsh/updating-and-deleting-the-firebase-collection-742d5d2ecf00?source=rss------react-5) 
+
+- [2022-10-29-Self destructing messages using NodeJS/React/AES256, Part 2](https://medium.com/@0xd0a/self-destructing-messages-using-nodejs-react-aes256-part-2-90c6b907333d?source=rss------react-5) 
+
+- [2022-10-29-Building with Appwrite and Netlify](https://medium.com/@shrutipal700/building-with-appwrite-and-netlify-dcffb85ddcf8?source=rss------react-5) 
+
+- [2022-10-29-Use TypeScript Record Types for Better Code](https://chrlschn.medium.com/use-typescript-record-types-for-better-code-ce1768c6cb53?source=rss------react-5) 
+
+- [2022-10-29-How to Load and Test Inline Script with Custom Hook, Vitest and React Testing Library](https://medium.com/@samuelhenshaw2020/how-to-load-and-test-inline-script-with-custom-hook-vitest-and-react-testing-library-6d5ab48a1506?source=rss------react-5) 
+
+- [2022-10-29-Power Gord: A Dev Journal Pt.4](https://jordforb.medium.com/power-gord-a-dev-journal-pt-4-85536ef76d69?source=rss------react-5) 
 
 - [2022-10-28-How to Call a String as a Function: Use Case in a Form with Multiple Controlled Inputs](https://medium.com/@bvcage/how-to-call-a-string-as-a-function-use-case-in-a-form-with-multiple-controlled-inputs-c22f86baf57b?source=rss------react-5) 
 
