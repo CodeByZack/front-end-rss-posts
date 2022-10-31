@@ -2786,6 +2786,106 @@
         "title": "对Scheduler调度器的理解",
         "link": "https://juejin.cn/post/7159939757554810911",
         "date": "2022-10-29"
+      },
+      {
+        "title": "精读《Rest vs Spread 语法》",
+        "link": "https://juejin.cn/post/7160474215097827341",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "Socket 是如何支持 HTTP 通信的",
+        "link": "https://juejin.cn/post/7160472823884939295",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "写了个插件跟喜欢的女生表白，结果......😭😭😭",
+        "link": "https://juejin.cn/post/7160467329334607908",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "跟着 vant4 源码学习如何用 vue3+ts 开发一个 loading 组件，仅88行代码",
+        "link": "https://juejin.cn/post/7160465286036979748",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "蒜物语——HTML与WebGL的融合之旅",
+        "link": "https://juejin.cn/post/7160463663504031781",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "那些你不知道的炫酷导航交互效果",
+        "link": "https://juejin.cn/post/7160456498470977543",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "纯 CSS 实现 | 送你一杯热气腾腾的下午茶☕️，温暖你整个午后",
+        "link": "https://juejin.cn/post/7160455183191769124",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "《 关于我用拓展运算符把项目搞崩这件事 》",
+        "link": "https://juejin.cn/post/7160449924209836039",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "【每日LeetCode】手把手教你刷题之搜索插入位置",
+        "link": "https://juejin.cn/post/7160445049703464990",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "从 Vue2 到 Vue3，那些可能让你眼前一亮的小细节！",
+        "link": "https://juejin.cn/post/7160445097388179487",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "FFmpeg转换器转码结束分析",
+        "link": "https://juejin.cn/post/7160401145137987597",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "FFmpeg转换器总结",
+        "link": "https://juejin.cn/post/7160400868985012254",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "do_audio_out音频编码封装",
+        "link": "https://juejin.cn/post/7160399947945213965",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "init_output_stream初始化输出流",
+        "link": "https://juejin.cn/post/7160400432274571277",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "do_video_out视频编码封装",
+        "link": "https://juejin.cn/post/7160385811735642126",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "reap_filters收割滤镜",
+        "link": "https://juejin.cn/post/7160374921338552351",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "FFmpeg解码模块总结",
+        "link": "https://juejin.cn/post/7160395161606815774",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "领域驱动设计（1）--概念与生命周期",
+        "link": "https://juejin.cn/post/7160370809586843661",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "动态适配 web 终端的尺寸",
+        "link": "https://juejin.cn/post/7160332506015727629",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "使用 Web Animations API 实现点击阅读更多动画",
+        "link": "https://juejin.cn/post/7160315441015947301",
+        "date": "2022-10-30"
       }
     ]
   },
@@ -3550,6 +3650,41 @@
       {
         "title": "Canvas particle progress bar",
         "link": "https://medium.com/@pythonlearn1024/canvas-particle-progress-bar-9ca8249fc3d1?source=rss------frontend-5",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "The future of the web is Edge, ditch SSR+ Serverless, use SSR + Edge",
+        "link": "https://medium.com/@pythonlearn1024/the-future-of-the-web-is-edge-ditch-ssr-serverless-use-ssr-edge-e90cd7f2b03e?source=rss------frontend-5",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "Deploy mit Hetzner 1",
+        "link": "https://medium.com/@semihorscelik/deploy-mit-hetzner-1-9f3d5416048?source=rss------frontend-5",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "Apa itu javascript-( js )",
+        "link": "https://ypcode.medium.com/apa-itu-javascript-js-d4ae8f4bdabe?source=rss------frontend-5",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "Understanding Hoisting in JavaScript",
+        "link": "https://medium.com/@shamilovakamala/understanding-is-hoisting-in-javascript-6ef21d977bad?source=rss------frontend-5",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "vue3.js+tauri integrated chat | tauri imitates WeChat | vite3+tauri chat room",
+        "link": "https://medium.com/@pythonlearn1024/vue3-js-tauri-integrated-chat-tauri-imitates-wechat-vite3-tauri-chat-room-6c46c2da933?source=rss------frontend-5",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "A music player based on Vue 3 + TypeScript + Vite + TSX + Pinia",
+        "link": "https://medium.com/@pythonlearn1024/a-music-player-based-on-vue-3-typescript-vite-tsx-pinia-4b623a54892e?source=rss------frontend-5",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "React & Redux Cheatsheet (Q&A — Concepts You Need to Know to Pass Tech Interview)",
+        "link": "https://hanwenzhang123.medium.com/react-redux-cheatsheet-q-a-concepts-you-need-to-know-to-pass-tech-interview-18df6c95ec54?source=rss------frontend-5",
         "date": "2022-10-30"
       }
     ]
@@ -4721,6 +4856,56 @@
         "title": "Create a precise Javascript stopwatch",
         "link": "https://medium.com/@dominik.selmeci/create-a-precise-javascript-stopwatch-6d6174f31db3?source=rss------react-5",
         "date": "2022-10-30"
+      },
+      {
+        "title": "Class Components Lifecycle vs Functional Components Lifecycle in React",
+        "link": "https://medium.com/@fa19-bse-004/class-components-lifecycle-vs-functional-components-lifecycle-in-react-a8f1291690d4?source=rss------react-5",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "React nedir, Neden tercih etmelisiniz ve React projesi oluşturma",
+        "link": "https://medium.com/@onuronuronur/react-nedir-neden-tercih-etmelisiniz-ve-react-projesi-olu%C5%9Fturma-1fe2e7ab44e1?source=rss------react-5",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "What Is React Native? The Rise of Hybrid Mobile Apps",
+        "link": "https://medium.com/@mtcpe.fy/what-is-react-native-the-rise-of-hybrid-mobile-apps-ec73ea1dca2a?source=rss------react-5",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "Adopting React Native as a web developer",
+        "link": "https://medium.com/@mtcpe.fy/adopting-react-native-as-a-web-developer-8d3ea7e1a2d3?source=rss------react-5",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "How to improve the performance of a React Native App?",
+        "link": "https://medium.com/@mtcpe.fy/how-to-improve-the-performance-of-a-react-native-app-269154b2408a?source=rss------react-5",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "What Do I Need To Know About React Native Coming From React JS?",
+        "link": "https://medium.com/@mtcpe.fy/what-do-i-need-to-know-about-react-native-coming-from-react-js-f643c9c25d18?source=rss------react-5",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "Post JavaScript REACTion",
+        "link": "https://medium.com/@hippidyhop2013/post-javascript-reaction-bad95e9f88a3?source=rss------react-5",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "What I Learned as a Web Dev on My First React Native Project",
+        "link": "https://medium.com/@mtcpe.fy/what-i-learned-as-a-web-dev-on-my-first-react-native-project-4efdd6955b94?source=rss------react-5",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "12 Exercises to Learn React Native",
+        "link": "https://medium.com/@mtcpe.fy/12-exercises-to-learn-react-native-f2bc59fe5cd9?source=rss------react-5",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "Best React Native Books To Read In 2022",
+        "link": "https://medium.com/@mtcpe.fy/best-react-native-books-to-read-in-2022-3d1ccd25eabb?source=rss------react-5",
+        "date": "2022-10-30"
       }
     ]
   },
@@ -4791,6 +4976,11 @@
         "title": "React Digest Issue #379",
         "link": "https://reactdigest.net/digests/379",
         "date": "2022-10-23"
+      },
+      {
+        "title": "React Digest Issue #380",
+        "link": "https://reactdigest.net/digests/380",
+        "date": "2022-10-30"
       }
     ]
   },

@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-10-30 12:34，更新条数: +39
+更新时间: 2022-10-31 01:56，更新条数: +38
 
 ## 文章链接
 
@@ -59,6 +59,16 @@
 </summary>
 
 
+- [2022-10-31-精读《Rest vs Spread 语法》](https://juejin.cn/post/7160474215097827341) 
+
+- [2022-10-31-Socket 是如何支持 HTTP 通信的](https://juejin.cn/post/7160472823884939295) 
+
+- [2022-10-31-写了个插件跟喜欢的女生表白，结果......😭😭😭](https://juejin.cn/post/7160467329334607908) 
+
+- [2022-10-31-跟着 vant4 源码学习如何用 vue3+ts 开发一个 loading 组件，仅88行代码](https://juejin.cn/post/7160465286036979748) 
+
+- [2022-10-31-蒜物语——HTML与WebGL的融合之旅](https://juejin.cn/post/7160463663504031781) 
+
 - [2022-10-30-如何使用Monorepo实现跨项目共享组件和模块](https://juejin.cn/post/7160229239840014343) 
 
 - [2022-10-30-原型链、__proto__、constructor、prototype都是些啥玩意儿？](https://juejin.cn/post/7160225485719339021) 
@@ -86,6 +96,36 @@
 - [2022-10-30-JavaScript-防抖](https://juejin.cn/post/7160131031364796430) 
 
 - [2022-10-30-如何在Unity中实现漫反射光照模型](https://juejin.cn/post/7160114128525197326) 
+
+- [2022-10-30-那些你不知道的炫酷导航交互效果](https://juejin.cn/post/7160456498470977543) 
+
+- [2022-10-30-纯 CSS 实现 | 送你一杯热气腾腾的下午茶☕️，温暖你整个午后](https://juejin.cn/post/7160455183191769124) 
+
+- [2022-10-30-《 关于我用拓展运算符把项目搞崩这件事 》](https://juejin.cn/post/7160449924209836039) 
+
+- [2022-10-30-【每日LeetCode】手把手教你刷题之搜索插入位置](https://juejin.cn/post/7160445049703464990) 
+
+- [2022-10-30-从 Vue2 到 Vue3，那些可能让你眼前一亮的小细节！](https://juejin.cn/post/7160445097388179487) 
+
+- [2022-10-30-FFmpeg转换器转码结束分析](https://juejin.cn/post/7160401145137987597) 
+
+- [2022-10-30-FFmpeg转换器总结](https://juejin.cn/post/7160400868985012254) 
+
+- [2022-10-30-do_audio_out音频编码封装](https://juejin.cn/post/7160399947945213965) 
+
+- [2022-10-30-init_output_stream初始化输出流](https://juejin.cn/post/7160400432274571277) 
+
+- [2022-10-30-do_video_out视频编码封装](https://juejin.cn/post/7160385811735642126) 
+
+- [2022-10-30-reap_filters收割滤镜](https://juejin.cn/post/7160374921338552351) 
+
+- [2022-10-30-FFmpeg解码模块总结](https://juejin.cn/post/7160395161606815774) 
+
+- [2022-10-30-领域驱动设计（1）--概念与生命周期](https://juejin.cn/post/7160370809586843661) 
+
+- [2022-10-30-动态适配 web 终端的尺寸](https://juejin.cn/post/7160332506015727629) 
+
+- [2022-10-30-使用 Web Animations API 实现点击阅读更多动画](https://juejin.cn/post/7160315441015947301) 
 
 - [2022-10-29-基于Vue 3 + TypeScript + Vite + TSX + Pinia 开发的一个音乐播放器](https://juejin.cn/post/7159889080761712677) 
 
@@ -1238,6 +1278,8 @@
 </summary>
 
 
+- [2022-10-31-The future of the web is Edge, ditch SSR+ Serverless, use SSR + Edge](https://medium.com/@pythonlearn1024/the-future-of-the-web-is-edge-ditch-ssr-serverless-use-ssr-edge-e90cd7f2b03e?source=rss------frontend-5) 
+
 - [2022-10-30-Server in webpack development mode](https://medium.com/@pythonlearn1024/server-in-webpack-development-mode-f9841acffb74?source=rss------frontend-5) 
 
 - [2022-10-30-Use defineCustomElement to define components in Vue3](https://medium.com/@pythonlearn1024/use-definecustomelement-to-define-components-in-vue3-42482f5134c6?source=rss------frontend-5) 
@@ -1259,6 +1301,18 @@
 - [2022-10-30-Can Chrome DevTools&#39; Network still work like this?](https://medium.com/@pythonlearn1024/can-chrome-devtools-39-network-still-work-like-this-c6c9cfdd440?source=rss------frontend-5) 
 
 - [2022-10-30-Canvas particle progress bar](https://medium.com/@pythonlearn1024/canvas-particle-progress-bar-9ca8249fc3d1?source=rss------frontend-5) 
+
+- [2022-10-30-Deploy mit Hetzner 1](https://medium.com/@semihorscelik/deploy-mit-hetzner-1-9f3d5416048?source=rss------frontend-5) 
+
+- [2022-10-30-Apa itu javascript-( js )](https://ypcode.medium.com/apa-itu-javascript-js-d4ae8f4bdabe?source=rss------frontend-5) 
+
+- [2022-10-30-Understanding Hoisting in JavaScript](https://medium.com/@shamilovakamala/understanding-is-hoisting-in-javascript-6ef21d977bad?source=rss------frontend-5) 
+
+- [2022-10-30-vue3.js+tauri integrated chat | tauri imitates WeChat | vite3+tauri chat room](https://medium.com/@pythonlearn1024/vue3-js-tauri-integrated-chat-tauri-imitates-wechat-vite3-tauri-chat-room-6c46c2da933?source=rss------frontend-5) 
+
+- [2022-10-30-A music player based on Vue 3 + TypeScript + Vite + TSX + Pinia](https://medium.com/@pythonlearn1024/a-music-player-based-on-vue-3-typescript-vite-tsx-pinia-4b623a54892e?source=rss------frontend-5) 
+
+- [2022-10-30-React & Redux Cheatsheet (Q&A — Concepts You Need to Know to Pass Tech Interview)](https://hanwenzhang123.medium.com/react-redux-cheatsheet-q-a-concepts-you-need-to-know-to-pass-tech-interview-18df6c95ec54?source=rss------frontend-5) 
 
 - [2022-10-29-✨✨Make a pseudo 3D effect card list to review CSS animation~](https://medium.com/@pythonlearn1024/make-a-pseudo-3d-effect-card-list-to-review-css-animation-be5c22139fad?source=rss------frontend-5) 
 
@@ -1572,6 +1626,26 @@
 - [2022-10-30-stopPropagation vs stopImmediatePropagation](https://rahuulmiishra.medium.com/stoppropagation-vs-stopimmediatepropagation-f6b51f1e791?source=rss------react-5) 
 
 - [2022-10-30-Create a precise Javascript stopwatch](https://medium.com/@dominik.selmeci/create-a-precise-javascript-stopwatch-6d6174f31db3?source=rss------react-5) 
+
+- [2022-10-30-Class Components Lifecycle vs Functional Components Lifecycle in React](https://medium.com/@fa19-bse-004/class-components-lifecycle-vs-functional-components-lifecycle-in-react-a8f1291690d4?source=rss------react-5) 
+
+- [2022-10-30-React nedir, Neden tercih etmelisiniz ve React projesi oluşturma](https://medium.com/@onuronuronur/react-nedir-neden-tercih-etmelisiniz-ve-react-projesi-olu%C5%9Fturma-1fe2e7ab44e1?source=rss------react-5) 
+
+- [2022-10-30-What Is React Native? The Rise of Hybrid Mobile Apps](https://medium.com/@mtcpe.fy/what-is-react-native-the-rise-of-hybrid-mobile-apps-ec73ea1dca2a?source=rss------react-5) 
+
+- [2022-10-30-Adopting React Native as a web developer](https://medium.com/@mtcpe.fy/adopting-react-native-as-a-web-developer-8d3ea7e1a2d3?source=rss------react-5) 
+
+- [2022-10-30-How to improve the performance of a React Native App?](https://medium.com/@mtcpe.fy/how-to-improve-the-performance-of-a-react-native-app-269154b2408a?source=rss------react-5) 
+
+- [2022-10-30-What Do I Need To Know About React Native Coming From React JS?](https://medium.com/@mtcpe.fy/what-do-i-need-to-know-about-react-native-coming-from-react-js-f643c9c25d18?source=rss------react-5) 
+
+- [2022-10-30-Post JavaScript REACTion](https://medium.com/@hippidyhop2013/post-javascript-reaction-bad95e9f88a3?source=rss------react-5) 
+
+- [2022-10-30-What I Learned as a Web Dev on My First React Native Project](https://medium.com/@mtcpe.fy/what-i-learned-as-a-web-dev-on-my-first-react-native-project-4efdd6955b94?source=rss------react-5) 
+
+- [2022-10-30-12 Exercises to Learn React Native](https://medium.com/@mtcpe.fy/12-exercises-to-learn-react-native-f2bc59fe5cd9?source=rss------react-5) 
+
+- [2022-10-30-Best React Native Books To Read In 2022](https://medium.com/@mtcpe.fy/best-react-native-books-to-read-in-2022-3d1ccd25eabb?source=rss------react-5) 
 
 - [2022-10-29-3 FREE Resources to Learn React in 2022](https://medium.com/@sid-js/3-free-resources-to-learn-react-in-2022-7c17989b5654?source=rss------react-5) 
 
@@ -2046,6 +2120,8 @@
  React Digest
 </summary>
 
+
+- [2022-10-30-React Digest Issue #380](https://reactdigest.net/digests/380) 
 
 - [2022-10-23-React Digest Issue #379](https://reactdigest.net/digests/379) 
 
