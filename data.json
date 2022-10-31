@@ -411,6 +411,11 @@
         "title": "Building a tooltip component",
         "link": "https://web.dev/building-a-tooltip-component/",
         "date": "2022-10-25"
+      },
+      {
+        "title": "New to the web platform in October",
+        "link": "https://web.dev/web-platform-10-2022/",
+        "date": "2022-10-31"
       }
     ]
   },
@@ -2886,6 +2891,106 @@
         "title": "使用 Web Animations API 实现点击阅读更多动画",
         "link": "https://juejin.cn/post/7160315441015947301",
         "date": "2022-10-30"
+      },
+      {
+        "title": "JS手写数组扁平化（flat）方法",
+        "link": "https://juejin.cn/post/7160615056562978829",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "webpack打包优化",
+        "link": "https://juejin.cn/post/7160596941452574727",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "被忽视的 npm init",
+        "link": "https://juejin.cn/post/7160589377725268005",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "TypeScript 命名空间",
+        "link": "https://juejin.cn/post/7160584754104893453",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "【从入门到提桶】低成本构建\"类monorepo\"项目——多页面应用(multi-page)模式",
+        "link": "https://juejin.cn/post/7160581239970201608",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "使用python爬虫实现网页视频自动下载并保存",
+        "link": "https://juejin.cn/post/7160579675050213390",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "实现vue选项卡Tabs组件",
+        "link": "https://juejin.cn/post/7160576621806616583",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "优化前端Docker打包慢，从2000多秒降到100多秒",
+        "link": "https://juejin.cn/post/7160567063449829407",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "【IE11兼容】ElementUI之日期选择器组件(DatePicker-range)的问题和处理",
+        "link": "https://juejin.cn/post/7160565795141976101",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "踩坑 || ios横屏失效 || 横屏ios不生效问题的问题 || uniapp横屏兼容问题",
+        "link": "https://juejin.cn/post/7160561807126429726",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "面试中最全的手写JS题",
+        "link": "https://juejin.cn/post/7160558136477581325",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "【Dart】异步编程、生成器以及自定义类型的用法",
+        "link": "https://juejin.cn/post/7160554327395237896",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "实战案例：初探工程配置 & 图标组件热身",
+        "link": "https://juejin.cn/post/7160549169566842893",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "react-component-function",
+        "link": "https://juejin.cn/post/7160547316154236964",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "前端缓存",
+        "link": "https://juejin.cn/post/7160506746010599432",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "JavaScript是怎么被运行起来的?",
+        "link": "https://juejin.cn/post/7160477811239550989",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "如何花一天时间打造一款前端在线代码编辑器——实现代码预览",
+        "link": "https://juejin.cn/post/7160358329934413837",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "Vue 项目中使用 Echarts 5",
+        "link": "https://juejin.cn/post/7160335410546081829",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "逃脱长篇大论，7张脑图解读package.json配置信息！",
+        "link": "https://juejin.cn/post/7160325877841002527",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "【专栏04】：完善工程环境开发第一个组件！",
+        "link": "https://juejin.cn/post/7159868038857097246",
+        "date": "2022-10-29"
       }
     ]
   },
@@ -3686,6 +3791,51 @@
         "title": "React & Redux Cheatsheet (Q&A — Concepts You Need to Know to Pass Tech Interview)",
         "link": "https://hanwenzhang123.medium.com/react-redux-cheatsheet-q-a-concepts-you-need-to-know-to-pass-tech-interview-18df6c95ec54?source=rss------frontend-5",
         "date": "2022-10-30"
+      },
+      {
+        "title": "10 крутих інструментів екосистеми Vue",
+        "link": "https://medium.com/@winato/10-%D0%BA%D1%80%D1%83%D1%82%D0%B8%D1%85-%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%96%D0%B2-%D0%B5%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8-vue-b2cc4c29b2f8?source=rss------frontend-5",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "[Column 04]: Improve the engineering environment to develop the first component!",
+        "link": "https://medium.com/@pythonlearn1024/column-04-improve-the-engineering-environment-to-develop-the-first-component-98d306c22066?source=rss------frontend-5",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "Navigation Guard — — Don&#39;t show it if you don&#39;t log in!",
+        "link": "https://medium.com/@pythonlearn1024/navigation-guard-don-39-t-show-it-if-you-don-39-t-log-in-74d87ff8b582?source=rss------frontend-5",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "Why is the dynamic introduction of pictures in vue required, those things you don&#39;t know",
+        "link": "https://medium.com/@pythonlearn1024/why-is-the-dynamic-introduction-of-pictures-in-vue-required-those-things-you-don-39-t-know-16c50085b72b?source=rss------frontend-5",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "Soul question: Do you really use TypeScript in business projects?",
+        "link": "https://medium.com/@pythonlearn1024/soul-question-do-you-really-use-typescript-in-business-projects-74d578fbaf2a?source=rss------frontend-5",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "Vue&#39;s analysis of extend and manual mount $mount",
+        "link": "https://medium.com/@pythonlearn1024/vue-39-s-analysis-of-extend-and-manual-mount-mount-e94d79d6ecf?source=rss------frontend-5",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "Brief Analysis of WeChat Mini Program Publishing Process",
+        "link": "https://medium.com/@pythonlearn1024/brief-analysis-of-wechat-mini-program-publishing-process-a5c739086106?source=rss------frontend-5",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "&quot;Pure CSS Implementation&quot; uses CSS to develop a pseudo 3D rotating cylinder",
+        "link": "https://medium.com/@pythonlearn1024/quot-pure-css-implementation-quot-uses-css-to-develop-a-pseudo-3d-rotating-cylinder-322b4b9b23c3?source=rss------frontend-5",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "friends ask me for help",
+        "link": "https://medium.com/@pythonlearn1024/friends-ask-me-for-help-cadad1e20273?source=rss------frontend-5",
+        "date": "2022-10-31"
       }
     ]
   },
@@ -4906,6 +5056,56 @@
         "title": "Best React Native Books To Read In 2022",
         "link": "https://medium.com/@mtcpe.fy/best-react-native-books-to-read-in-2022-3d1ccd25eabb?source=rss------react-5",
         "date": "2022-10-30"
+      },
+      {
+        "title": "How React works behind the scenes",
+        "link": "https://amrtawfik160.medium.com/how-react-works-behind-the-scenes-d20eee9f1764?source=rss------react-5",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "Learn React — Authentication with Firebase",
+        "link": "https://medium.com/@daboigbae/learn-react-authentication-with-firebase-83c12a08f0f5?source=rss------react-5",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "3 Exercises to refresh your React Knowledge",
+        "link": "https://medium.com/@piyushyadav0191/3-exercises-to-refresh-your-react-knowledge-4db081ee2e6d?source=rss------react-5",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "Absolute path in React",
+        "link": "https://hidaytrahman.medium.com/absolute-path-in-react-929ba9464c0f?source=rss------react-5",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "Optimizing Database Queries with Pagination in Rails/React",
+        "link": "https://medium.com/@nkulik/optimizing-database-queries-with-pagination-in-rails-react-e286400a1731?source=rss------react-5",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "How to Fix Your React App after Upgrading to Version 18",
+        "link": "https://medium.com/@yuval.bar.levi/how-to-fix-your-react-app-after-upgrading-to-version-18-a309d9db5707?source=rss------react-5",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "Single Page Todos App in React.js",
+        "link": "https://aneeqa-k25.medium.com/single-page-todos-app-in-react-js-cacf437eb7a3?source=rss------react-5",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "React Memoization",
+        "link": "https://medium.com/@abongsjoel/react-memoization-e1aabfd5e322?source=rss------react-5",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "React Kütüphanesinin ‘useState’ ve ‘useEffect’ Hook Fonksiyonları",
+        "link": "https://medium.com/@oktayozgur94/react-k%C3%BCt%C3%BCphanesinin-usestate-ve-useeffect-hook-fonksiyonlar%C4%B1-f5c5f95298b9?source=rss------react-5",
+        "date": "2022-10-31"
+      },
+      {
+        "title": "Understanding Redux & Redux Saga With TypeScript",
+        "link": "https://medium.com/@mhtariq29/understanding-redux-redux-saga-with-typescript-500e861789fd?source=rss------react-5",
+        "date": "2022-10-31"
       }
     ]
   },

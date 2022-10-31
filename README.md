@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-10-31 01:56，更新条数: +38
+更新时间: 2022-10-31 12:39，更新条数: +40
 
 ## 文章链接
 
@@ -69,6 +69,38 @@
 
 - [2022-10-31-蒜物语——HTML与WebGL的融合之旅](https://juejin.cn/post/7160463663504031781) 
 
+- [2022-10-31-JS手写数组扁平化（flat）方法](https://juejin.cn/post/7160615056562978829) 
+
+- [2022-10-31-webpack打包优化](https://juejin.cn/post/7160596941452574727) 
+
+- [2022-10-31-被忽视的 npm init](https://juejin.cn/post/7160589377725268005) 
+
+- [2022-10-31-TypeScript 命名空间](https://juejin.cn/post/7160584754104893453) 
+
+- [2022-10-31-【从入门到提桶】低成本构建"类monorepo"项目——多页面应用(multi-page)模式](https://juejin.cn/post/7160581239970201608) 
+
+- [2022-10-31-使用python爬虫实现网页视频自动下载并保存](https://juejin.cn/post/7160579675050213390) 
+
+- [2022-10-31-实现vue选项卡Tabs组件](https://juejin.cn/post/7160576621806616583) 
+
+- [2022-10-31-优化前端Docker打包慢，从2000多秒降到100多秒](https://juejin.cn/post/7160567063449829407) 
+
+- [2022-10-31-【IE11兼容】ElementUI之日期选择器组件(DatePicker-range)的问题和处理](https://juejin.cn/post/7160565795141976101) 
+
+- [2022-10-31-踩坑 || ios横屏失效 || 横屏ios不生效问题的问题 || uniapp横屏兼容问题](https://juejin.cn/post/7160561807126429726) 
+
+- [2022-10-31-面试中最全的手写JS题](https://juejin.cn/post/7160558136477581325) 
+
+- [2022-10-31-【Dart】异步编程、生成器以及自定义类型的用法](https://juejin.cn/post/7160554327395237896) 
+
+- [2022-10-31-实战案例：初探工程配置 & 图标组件热身](https://juejin.cn/post/7160549169566842893) 
+
+- [2022-10-31-react-component-function](https://juejin.cn/post/7160547316154236964) 
+
+- [2022-10-31-前端缓存](https://juejin.cn/post/7160506746010599432) 
+
+- [2022-10-31-JavaScript是怎么被运行起来的?](https://juejin.cn/post/7160477811239550989) 
+
 - [2022-10-30-如何使用Monorepo实现跨项目共享组件和模块](https://juejin.cn/post/7160229239840014343) 
 
 - [2022-10-30-原型链、__proto__、constructor、prototype都是些啥玩意儿？](https://juejin.cn/post/7160225485719339021) 
@@ -126,6 +158,12 @@
 - [2022-10-30-动态适配 web 终端的尺寸](https://juejin.cn/post/7160332506015727629) 
 
 - [2022-10-30-使用 Web Animations API 实现点击阅读更多动画](https://juejin.cn/post/7160315441015947301) 
+
+- [2022-10-30-如何花一天时间打造一款前端在线代码编辑器——实现代码预览](https://juejin.cn/post/7160358329934413837) 
+
+- [2022-10-30-Vue 项目中使用 Echarts 5](https://juejin.cn/post/7160335410546081829) 
+
+- [2022-10-30-逃脱长篇大论，7张脑图解读package.json配置信息！](https://juejin.cn/post/7160325877841002527) 
 
 - [2022-10-29-基于Vue 3 + TypeScript + Vite + TSX + Pinia 开发的一个音乐播放器](https://juejin.cn/post/7159889080761712677) 
 
@@ -206,6 +244,8 @@
 - [2022-10-29-浅谈 React 和 TypeScript 开发中的泛型实践](https://juejin.cn/post/7159942291023462407) 
 
 - [2022-10-29-对Scheduler调度器的理解](https://juejin.cn/post/7159939757554810911) 
+
+- [2022-10-29-【专栏04】：完善工程环境开发第一个组件！](https://juejin.cn/post/7159868038857097246) 
 
 - [2022-10-28-视频回退播放操作](https://juejin.cn/post/7159364721706663966) 
 
@@ -1215,6 +1255,8 @@
 </summary>
 
 
+- [2022-10-31-New to the web platform in October](https://web.dev/web-platform-10-2022/) 
+
 - [2022-10-25-CSS Animated Grid Layouts](https://web.dev/css-animated-grid-layouts/) 
 
 - [2022-10-25-Building a tooltip component](https://web.dev/building-a-tooltip-component/) 
@@ -1279,6 +1321,24 @@
 
 
 - [2022-10-31-The future of the web is Edge, ditch SSR+ Serverless, use SSR + Edge](https://medium.com/@pythonlearn1024/the-future-of-the-web-is-edge-ditch-ssr-serverless-use-ssr-edge-e90cd7f2b03e?source=rss------frontend-5) 
+
+- [2022-10-31-10 крутих інструментів екосистеми Vue](https://medium.com/@winato/10-%D0%BA%D1%80%D1%83%D1%82%D0%B8%D1%85-%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%96%D0%B2-%D0%B5%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8-vue-b2cc4c29b2f8?source=rss------frontend-5) 
+
+- [2022-10-31-[Column 04]: Improve the engineering environment to develop the first component!](https://medium.com/@pythonlearn1024/column-04-improve-the-engineering-environment-to-develop-the-first-component-98d306c22066?source=rss------frontend-5) 
+
+- [2022-10-31-Navigation Guard — — Don&#39;t show it if you don&#39;t log in!](https://medium.com/@pythonlearn1024/navigation-guard-don-39-t-show-it-if-you-don-39-t-log-in-74d87ff8b582?source=rss------frontend-5) 
+
+- [2022-10-31-Why is the dynamic introduction of pictures in vue required, those things you don&#39;t know](https://medium.com/@pythonlearn1024/why-is-the-dynamic-introduction-of-pictures-in-vue-required-those-things-you-don-39-t-know-16c50085b72b?source=rss------frontend-5) 
+
+- [2022-10-31-Soul question: Do you really use TypeScript in business projects?](https://medium.com/@pythonlearn1024/soul-question-do-you-really-use-typescript-in-business-projects-74d578fbaf2a?source=rss------frontend-5) 
+
+- [2022-10-31-Vue&#39;s analysis of extend and manual mount $mount](https://medium.com/@pythonlearn1024/vue-39-s-analysis-of-extend-and-manual-mount-mount-e94d79d6ecf?source=rss------frontend-5) 
+
+- [2022-10-31-Brief Analysis of WeChat Mini Program Publishing Process](https://medium.com/@pythonlearn1024/brief-analysis-of-wechat-mini-program-publishing-process-a5c739086106?source=rss------frontend-5) 
+
+- [2022-10-31-&quot;Pure CSS Implementation&quot; uses CSS to develop a pseudo 3D rotating cylinder](https://medium.com/@pythonlearn1024/quot-pure-css-implementation-quot-uses-css-to-develop-a-pseudo-3d-rotating-cylinder-322b4b9b23c3?source=rss------frontend-5) 
+
+- [2022-10-31-friends ask me for help](https://medium.com/@pythonlearn1024/friends-ask-me-for-help-cadad1e20273?source=rss------frontend-5) 
 
 - [2022-10-30-Server in webpack development mode](https://medium.com/@pythonlearn1024/server-in-webpack-development-mode-f9841acffb74?source=rss------frontend-5) 
 
@@ -1604,6 +1664,26 @@
  React on Medium
 </summary>
 
+
+- [2022-10-31-How React works behind the scenes](https://amrtawfik160.medium.com/how-react-works-behind-the-scenes-d20eee9f1764?source=rss------react-5) 
+
+- [2022-10-31-Learn React — Authentication with Firebase](https://medium.com/@daboigbae/learn-react-authentication-with-firebase-83c12a08f0f5?source=rss------react-5) 
+
+- [2022-10-31-3 Exercises to refresh your React Knowledge](https://medium.com/@piyushyadav0191/3-exercises-to-refresh-your-react-knowledge-4db081ee2e6d?source=rss------react-5) 
+
+- [2022-10-31-Absolute path in React](https://hidaytrahman.medium.com/absolute-path-in-react-929ba9464c0f?source=rss------react-5) 
+
+- [2022-10-31-Optimizing Database Queries with Pagination in Rails/React](https://medium.com/@nkulik/optimizing-database-queries-with-pagination-in-rails-react-e286400a1731?source=rss------react-5) 
+
+- [2022-10-31-How to Fix Your React App after Upgrading to Version 18](https://medium.com/@yuval.bar.levi/how-to-fix-your-react-app-after-upgrading-to-version-18-a309d9db5707?source=rss------react-5) 
+
+- [2022-10-31-Single Page Todos App in React.js](https://aneeqa-k25.medium.com/single-page-todos-app-in-react-js-cacf437eb7a3?source=rss------react-5) 
+
+- [2022-10-31-React Memoization](https://medium.com/@abongsjoel/react-memoization-e1aabfd5e322?source=rss------react-5) 
+
+- [2022-10-31-React Kütüphanesinin ‘useState’ ve ‘useEffect’ Hook Fonksiyonları](https://medium.com/@oktayozgur94/react-k%C3%BCt%C3%BCphanesinin-usestate-ve-useeffect-hook-fonksiyonlar%C4%B1-f5c5f95298b9?source=rss------react-5) 
+
+- [2022-10-31-Understanding Redux & Redux Saga With TypeScript](https://medium.com/@mhtariq29/understanding-redux-redux-saga-with-typescript-500e861789fd?source=rss------react-5) 
 
 - [2022-10-30-How to get started with React Router V6](https://medium.com/@evareitzel/react-router-version-6-explained-13430b617d56?source=rss------react-5) 
 
