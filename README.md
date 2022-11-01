@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-10-31 12:39，更新条数: +40
+更新时间: 2022-11-01 02:03，更新条数: +40
 
 ## 文章链接
 
@@ -100,6 +100,46 @@
 - [2022-10-31-前端缓存](https://juejin.cn/post/7160506746010599432) 
 
 - [2022-10-31-JavaScript是怎么被运行起来的?](https://juejin.cn/post/7160477811239550989) 
+
+- [2022-10-31-如何用 JavaScript 编写你的第一个单元测试](https://juejin.cn/post/7160827470474641421) 
+
+- [2022-10-31-前端食堂技术周刊第 57 期：Turbopack、Next.js13、Chrome107、Vite3.2、图解 TLS 1.3](https://juejin.cn/post/7160827407203565576) 
+
+- [2022-10-31-从 wepy 到 uniapp 变形记](https://juejin.cn/post/7160740710507872287) 
+
+- [2022-10-31-React组件库Concis | 组件突破50+,移动端concis起步,新增英文文档,持续更新中...](https://juejin.cn/post/7160720944288235527) 
+
+- [2022-10-31-D3(v7)入门一：初识SVG](https://juejin.cn/post/7160684957919903775) 
+
+- [2022-10-31-我从 webpack 换到 vite，又换回了 webpack](https://juejin.cn/post/7160670274521104397) 
+
+- [2022-10-31-node-pty 创建 web 终端服务](https://juejin.cn/post/7160663596123291685) 
+
+- [2022-10-31-取代Webpack的打包工具Turbopack究竟有多快](https://juejin.cn/post/7160651020958335007) 
+
+- [2022-10-31-小程序初识及前置准备](https://juejin.cn/post/7160637351390740517) 
+
+- [2022-10-31-组件之间的通信，你会几种？](https://juejin.cn/post/7160635741096116261) 
+
+- [2022-10-31-JS手写ES6的Object.create方法](https://juejin.cn/post/7160622425426640932) 
+
+- [2022-10-31-2022年你应该需要知道的CSS新特性-选择器和AT规则篇](https://juejin.cn/post/7160616305211473956) 
+
+- [2022-10-31-2022年你应该需要知道的CSS新特性-交互篇](https://juejin.cn/post/7160614804359479304) 
+
+- [2022-10-31-模块化发展都经历了什么](https://juejin.cn/post/7160609731285876773) 
+
+- [2022-10-31-前端比较好的培训机构是哪家？](https://juejin.cn/post/7160609310572019743) 
+
+- [2022-10-31-SVG 实现分享菜单按钮的粘滞融合效果](https://juejin.cn/post/7160608232250032165) 
+
+- [2022-10-31-web前端开发培训有前途吗？](https://juejin.cn/post/7160607806775623688) 
+
+- [2022-10-31-前端培训学习的人这么多，行业前景怎样](https://juejin.cn/post/7160606985992273951) 
+
+- [2022-10-31-深圳开发培训学习怎么选择靠谱的机构？](https://juejin.cn/post/7160606462463442958) 
+
+- [2022-10-31-这么多大数据培训机构怎么来选择呢](https://juejin.cn/post/7160606007993827342) 
 
 - [2022-10-30-如何使用Monorepo实现跨项目共享组件和模块](https://juejin.cn/post/7160229239840014343) 
 
@@ -1257,6 +1297,8 @@
 
 - [2022-10-31-New to the web platform in October](https://web.dev/web-platform-10-2022/) 
 
+- [2022-10-31-Building Chrometober!](https://web.dev/building-chrometober/) 
+
 - [2022-10-25-CSS Animated Grid Layouts](https://web.dev/css-animated-grid-layouts/) 
 
 - [2022-10-25-Building a tooltip component](https://web.dev/building-a-tooltip-component/) 
@@ -1320,6 +1362,8 @@
 </summary>
 
 
+- [2022-11-01-Don’t Get Tangled in Your Own Code](https://medium.com/blackrock-engineering/dont-get-tangled-in-your-own-code-29d77792f84?source=rss------frontend-5) 
+
 - [2022-10-31-The future of the web is Edge, ditch SSR+ Serverless, use SSR + Edge](https://medium.com/@pythonlearn1024/the-future-of-the-web-is-edge-ditch-ssr-serverless-use-ssr-edge-e90cd7f2b03e?source=rss------frontend-5) 
 
 - [2022-10-31-10 крутих інструментів екосистеми Vue](https://medium.com/@winato/10-%D0%BA%D1%80%D1%83%D1%82%D0%B8%D1%85-%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%96%D0%B2-%D0%B5%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8-vue-b2cc4c29b2f8?source=rss------frontend-5) 
@@ -1339,6 +1383,22 @@
 - [2022-10-31-&quot;Pure CSS Implementation&quot; uses CSS to develop a pseudo 3D rotating cylinder](https://medium.com/@pythonlearn1024/quot-pure-css-implementation-quot-uses-css-to-develop-a-pseudo-3d-rotating-cylinder-322b4b9b23c3?source=rss------frontend-5) 
 
 - [2022-10-31-friends ask me for help](https://medium.com/@pythonlearn1024/friends-ask-me-for-help-cadad1e20273?source=rss------frontend-5) 
+
+- [2022-10-31-Clone an array using spread operator](https://medium.com/@elizabeththomas92/clone-an-array-using-spread-operator-b8ea1cc5c004?source=rss------frontend-5) 
+
+- [2022-10-31-Pure front-end implementation detection version release update prompt](https://medium.com/@pythonlearn1024/pure-front-end-implementation-detection-version-release-update-prompt-e72cb0257de4?source=rss------frontend-5) 
+
+- [2022-10-31-How to Create React SPA](https://medium.com/@fikret.caner/how-to-create-react-spa-f6d8e9bd1f70?source=rss------frontend-5) 
+
+- [2022-10-31-Implementing Terminal on the web side with xterm.js](https://medium.com/@pythonlearn1024/implementing-terminal-on-the-web-side-with-xterm-js-1b2e2d07f717?source=rss------frontend-5) 
+
+- [2022-10-31-I got the virtual DOM&#39;s diff algorithm process moving](https://medium.com/@pythonlearn1024/i-got-the-virtual-dom-39-s-diff-algorithm-process-moving-8a0237426ecd?source=rss------frontend-5) 
+
+- [2022-10-31-Hello Next.js 13](https://medium.com/@pythonlearn1024/hello-next-js-13-f5fc6c787c82?source=rss------frontend-5) 
+
+- [2022-10-31-What is Quark Design?](https://medium.com/@pythonlearn1024/what-is-quark-design-da32b3547632?source=rss------frontend-5) 
+
+- [2022-10-31-Strategy pattern combined with engineering theory and practice in front-end code differentiation](https://medium.com/@roperluo.me/strategy-pattern-combined-with-engineering-theory-and-practice-in-front-end-code-differentiation-12e1599d852e?source=rss------frontend-5) 
 
 - [2022-10-30-Server in webpack development mode](https://medium.com/@pythonlearn1024/server-in-webpack-development-mode-f9841acffb74?source=rss------frontend-5) 
 
@@ -1665,6 +1725,8 @@
 </summary>
 
 
+- [2022-11-01-Abdur’s React/React Native/Typescript/JS Articles](https://medium.com/@rafayk66/abdurs-react-react-native-articles-4a2231b26daf?source=rss------react-5) 
+
 - [2022-10-31-How React works behind the scenes](https://amrtawfik160.medium.com/how-react-works-behind-the-scenes-d20eee9f1764?source=rss------react-5) 
 
 - [2022-10-31-Learn React — Authentication with Firebase](https://medium.com/@daboigbae/learn-react-authentication-with-firebase-83c12a08f0f5?source=rss------react-5) 
@@ -1684,6 +1746,24 @@
 - [2022-10-31-React Kütüphanesinin ‘useState’ ve ‘useEffect’ Hook Fonksiyonları](https://medium.com/@oktayozgur94/react-k%C3%BCt%C3%BCphanesinin-usestate-ve-useeffect-hook-fonksiyonlar%C4%B1-f5c5f95298b9?source=rss------react-5) 
 
 - [2022-10-31-Understanding Redux & Redux Saga With TypeScript](https://medium.com/@mhtariq29/understanding-redux-redux-saga-with-typescript-500e861789fd?source=rss------react-5) 
+
+- [2022-10-31-Firebase e React — Trabalhando com Listas (Listando e Monitorando)](https://thiagopetherson.medium.com/firebase-e-react-trabalhando-com-listas-listando-e-monitorando-b297c1630333?source=rss------react-5) 
+
+- [2022-10-31-Apa itu React.js](https://ypcode.medium.com/apa-itu-react-js-d2883ca75803?source=rss------react-5) 
+
+- [2022-10-31-Introducción al desarrollo de aplicaciones con Laravel y React 3](https://medium.com/@luismiguel.cabezas/introducci%C3%B3n-al-desarrollo-de-aplicaciones-con-laravel-y-react-3-41885d32f451?source=rss------react-5) 
+
+- [2022-10-31-Componente de componentDidUpdate vs useEffect: Qual é a diferença?](https://medium.com/@highlanderfullstack/componente-de-componentdidupdate-vs-useeffect-qual-%C3%A9-a-diferen%C3%A7a-2e71b26d5f50?source=rss------react-5) 
+
+- [2022-10-31-Find the perfect time to commute with Puppeteer, GCP Cloud Jobs, Cloud Scheduler, Firebase and…](https://medium.com/@mwoodward23/find-the-perfect-time-to-commute-with-puppeteer-gcp-cloud-jobs-cloud-scheduler-firebase-and-32991f5ac3eb?source=rss------react-5) 
+
+- [2022-10-31-Building a One-page Data-driven Site With Google Sheets and React](https://betterprogramming.pub/building-a-one-page-data-driven-site-with-google-sheets-and-react-68a50a00a2e6?source=rss------react-5) 
+
+- [2022-10-31-Framer-Motion](https://medium.com/@peyton006/framer-motion-36212cee3355?source=rss------react-5) 
+
+- [2022-10-31-Should You Stop Using isMounted in React?](https://betterprogramming.pub/should-you-stop-using-ismounted-in-react-a4feab96ee02?source=rss------react-5) 
+
+- [2022-10-31-Synchronizing States Between Two Clients Enabling Users To Share Code Editor](https://medium.com/codingsquad/synchronizing-states-between-two-clients-enabling-users-to-share-code-editor-94a0f9875bbd?source=rss------react-5) 
 
 - [2022-10-30-How to get started with React Router V6](https://medium.com/@evareitzel/react-router-version-6-explained-13430b617d56?source=rss------react-5) 
 
