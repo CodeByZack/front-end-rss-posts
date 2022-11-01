@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-01 02:03，更新条数: +40
+更新时间: 2022-11-01 12:42，更新条数: +39
 
 ## 文章链接
 
@@ -58,6 +58,46 @@
  掘金 前端
 </summary>
 
+
+- [2022-11-01-一个表格复制引发的血案😇](https://juejin.cn/post/7160976446498799652) 
+
+- [2022-11-01-Vue.js的基于模型的轻量级验证 - vuelidate](https://juejin.cn/post/7160957743019327496) 
+
+- [2022-11-01-Vue.js对Chart.js的包装器](https://juejin.cn/post/7160957308418146311) 
+
+- [2022-11-01-Vue.js的虚拟滚动网格](https://juejin.cn/post/7160957041966579726) 
+
+- [2022-11-01-适用于Vue 3的触摸式图像缩放器](https://juejin.cn/post/7160957040150446116) 
+
+- [2022-11-01-在一个可折叠的树中显示JSON的教程](https://juejin.cn/post/7160956857081659423) 
+
+- [2022-11-01-设置Vue 3的动画幸运轮的实例教程](https://juejin.cn/post/7160956752811261966) 
+
+- [2022-11-01-键盘导航的Vue指令 - KeyboardTrap](https://juejin.cn/post/7160956242624512031) 
+
+- [2022-11-01-前端实现一个最近抖音很火的图片选择题特效](https://juejin.cn/post/7160950934812983303) 
+
+- [2022-11-01-深入剖析nodejs中间件](https://juejin.cn/post/7160947067370602532) 
+
+- [2022-11-01-深入理解Node.js的进程与子进程](https://juejin.cn/post/7160946809467060231) 
+
+- [2022-11-01-深度理解NodeJS事件循环](https://juejin.cn/post/7160946513890738183) 
+
+- [2022-11-01-webpack热更新原理(面试大概率会问)](https://juejin.cn/post/7160939003212988424) 
+
+- [2022-11-01-webpack配置优化,让你的构建速度飞起](https://juejin.cn/post/7160938768797532196) 
+
+- [2022-11-01-快速了解 Pinia （上）基础篇](https://juejin.cn/post/7160934086314295303) 
+
+- [2022-11-01-前端小游戏【强烈推荐】](https://juejin.cn/post/7160929646337327111) 
+
+- [2022-11-01-vue实战-完全掌握Vue自定义指令](https://juejin.cn/post/7160902991564767269) 
+
+- [2022-11-01-JavaScript复习之闭包](https://juejin.cn/post/7160896026914586632) 
+
+- [2022-11-01-JavaScript复习之作用域链](https://juejin.cn/post/7160895589176049672) 
+
+- [2022-11-01-多媒体技术原理及应用场景探索](https://juejin.cn/post/7160876696189534245) 
 
 - [2022-10-31-精读《Rest vs Spread 语法》](https://juejin.cn/post/7160474215097827341) 
 
@@ -1364,6 +1404,24 @@
 
 - [2022-11-01-Don’t Get Tangled in Your Own Code](https://medium.com/blackrock-engineering/dont-get-tangled-in-your-own-code-29d77792f84?source=rss------frontend-5) 
 
+- [2022-11-01-UX- How build amazing user interfaces?](https://medium.com/@felipefo/ux-how-build-amazing-user-interfaces-f05e6d7144d0?source=rss------frontend-5) 
+
+- [2022-11-01-Time for a cup of coffee ☕️ to talk about js asynchronous solutions](https://medium.com/@pythonlearn1024/time-for-a-cup-of-coffee-%EF%B8%8F-to-talk-about-js-asynchronous-solutions-604033a067b5?source=rss------frontend-5) 
+
+- [2022-11-01-This article covers the server-side architecture knowledge that the front-end should know](https://medium.com/@pythonlearn1024/this-article-covers-the-server-side-architecture-knowledge-that-the-front-end-should-know-679788ddf707?source=rss------frontend-5) 
+
+- [2022-11-01-From Vue2 to Vue3, those little details that may make your eyes shine!](https://medium.com/@pythonlearn1024/from-vue2-to-vue3-those-little-details-that-may-make-your-eyes-shine-a0471dbee73a?source=rss------frontend-5) 
+
+- [2022-11-01-What are the design patterns for the front end? Does that count? share my understanding](https://medium.com/@pythonlearn1024/what-are-the-design-patterns-for-the-front-end-does-that-count-share-my-understanding-649effa2e81b?source=rss------frontend-5) 
+
+- [2022-11-01-&quot;About my use of the spread operator to crash the project&quot;](https://medium.com/@pythonlearn1024/quot-about-my-use-of-the-spread-operator-to-crash-the-project-quot-2c4c3000dfc2?source=rss------frontend-5) 
+
+- [2022-11-01-I believe this is the correct posture for vue3 to reuse code!](https://medium.com/@pythonlearn1024/i-believe-this-is-the-correct-posture-for-vue3-to-reuse-code-8c710352be88?source=rss------frontend-5) 
+
+- [2022-11-01-New React component design concept Headless UI](https://medium.com/@pythonlearn1024/new-react-component-design-concept-headless-ui-2aad0b3aa9e0?source=rss------frontend-5) 
+
+- [2022-11-01-I switched from webpack to vite and back to webpack](https://medium.com/@pythonlearn1024/i-switched-from-webpack-to-vite-and-back-to-webpack-552d29c12ff4?source=rss------frontend-5) 
+
 - [2022-10-31-The future of the web is Edge, ditch SSR+ Serverless, use SSR + Edge](https://medium.com/@pythonlearn1024/the-future-of-the-web-is-edge-ditch-ssr-serverless-use-ssr-edge-e90cd7f2b03e?source=rss------frontend-5) 
 
 - [2022-10-31-10 крутих інструментів екосистеми Vue](https://medium.com/@winato/10-%D0%BA%D1%80%D1%83%D1%82%D0%B8%D1%85-%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%96%D0%B2-%D0%B5%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8-vue-b2cc4c29b2f8?source=rss------frontend-5) 
@@ -1726,6 +1784,26 @@
 
 
 - [2022-11-01-Abdur’s React/React Native/Typescript/JS Articles](https://medium.com/@rafayk66/abdurs-react-react-native-articles-4a2231b26daf?source=rss------react-5) 
+
+- [2022-11-01-Top JavaScript Frameworks for 2023](https://javascript.plainenglish.io/top-javascript-frameworks-for-2023-c49d81aa6ebc?source=rss------react-5) 
+
+- [2022-11-01-How to use forwardRef in React.](https://medium.com/@shriharim006/how-to-use-forwardref-in-react-cd890bf99780?source=rss------react-5) 
+
+- [2022-11-01-How to Create a Stripe Subscription with React and Node.js](https://javascript.plainenglish.io/how-to-create-a-stripe-subscription-with-react-and-node-js-b7c5e5e24967?source=rss------react-5) 
+
+- [2022-11-01-Создаем динамические модули используя Webpack Module Federation](https://medium.com/@hydrock/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B5%D0%BC-%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8F-webpack-module-federation-27eb34891bd?source=rss------react-5) 
+
+- [2022-11-01-Best React libraries for Ethereum](https://medium.com/@hamzakhchichine/best-react-libraries-for-ethereum-ab091cdcaa31?source=rss------react-5) 
+
+- [2022-11-01-Batch Updates in React 17 or Earlier Versions](https://javascript.plainenglish.io/batch-updates-in-react-17-or-earlier-versions-5f76d58e3af1?source=rss------react-5) 
+
+- [2022-11-01-New React component design concept Headless UI](https://medium.com/@pythonlearn1024/new-react-component-design-concept-headless-ui-2aad0b3aa9e0?source=rss------react-5) 
+
+- [2022-11-01-Cookie consent in NextJs](https://matheswaaran.medium.com/cookie-consent-in-nextjs-a05af7c941c8?source=rss------react-5) 
+
+- [2022-11-01-Advanced topics in React (Encapsulating stateful logic)](https://medium.com/@shub.sharma350/advanced-topics-in-react-encapsulating-stateful-logic-40de35941b7?source=rss------react-5) 
+
+- [2022-11-01-How To Validate Password And Confirm Password In React JS](https://websolutionstuff.medium.com/how-to-validate-password-and-confirm-password-in-react-js-ec7ef6fbf42f?source=rss------react-5) 
 
 - [2022-10-31-How React works behind the scenes](https://amrtawfik160.medium.com/how-react-works-behind-the-scenes-d20eee9f1764?source=rss------react-5) 
 
