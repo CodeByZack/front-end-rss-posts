@@ -671,6 +671,11 @@
         "title": "Webpack 创始人推出比Webpack“快700倍”的Turbopack，基于Rust编写",
         "link": "https://www.infoq.cn/article/iKecr1k4eQMMpCaaXEDr",
         "date": "2022-10-26"
+      },
+      {
+        "title": "基于Angular的微前端理念与实践",
+        "link": "https://www.infoq.cn/article/U9ledeUpKTm2xc7b8cRG",
+        "date": "2022-10-31"
       }
     ]
   },
@@ -3196,6 +3201,101 @@
         "title": "多媒体技术原理及应用场景探索",
         "link": "https://juejin.cn/post/7160876696189534245",
         "date": "2022-11-01"
+      },
+      {
+        "title": "IDEA中配置tomcat8.5中文乱码问题",
+        "link": "https://juejin.cn/post/7161114260557266975",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "Oracle故障处理：Rman-06207&Rman-06214",
+        "link": "https://juejin.cn/post/7161113266821791758",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "初识React (二) 之组件三大核心属性",
+        "link": "https://juejin.cn/post/7161064742348406814",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "一文吃透 React 和 Vue 的多节点 diff 原理",
+        "link": "https://juejin.cn/post/7161063643105198093",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "Element Plus 组件库核心技术揭秘：5. 从终端命令解析器说起谈谈 npm 包管理工具的运行原理",
+        "link": "https://juejin.cn/post/7161063570594070559",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "Vite 在运行过程中是如何发现新增依赖的？",
+        "link": "https://juejin.cn/post/7161054649112494087",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "ES6 Proxy",
+        "link": "https://juejin.cn/post/7161054106851737613",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "手写 Puppeteer：自动下载 Chromium",
+        "link": "https://juejin.cn/post/7161042364499247140",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "用真心打造一个沉淀知识的工具，为学渣如我的道友们，提供助力",
+        "link": "https://juejin.cn/post/7161020844372656135",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "D3(v7)入门二：D3操作DOM",
+        "link": "https://juejin.cn/post/7160983086040088607",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "记录一个版本问题：vue 和vue-template-compiler",
+        "link": "https://juejin.cn/post/7160982137263374350",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "React 之 createElement 源码解读",
+        "link": "https://juejin.cn/post/7160981608885927972",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "前端全栈之路 - 玩转 Docker (Dockerfile)",
+        "link": "https://juejin.cn/post/7160972042757079077",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "Angular 快速入门 ｜ Standalone Component",
+        "link": "https://juejin.cn/post/7160970222181023751",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "Angular 快速入门 ｜ Http ( 错误处理 / 请求拦截 )",
+        "link": "https://juejin.cn/post/7160963199708168228",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "使用Vue.js 3和Bootstrap 5的材料设计UI套件",
+        "link": "https://juejin.cn/post/7160959262217224229",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "轻量级和移动友好的日期时间选择器 - vue-date-pick",
+        "link": "https://juejin.cn/post/7160959011771121671",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "Vue的简单可扩展甘特图 - Ganttastic",
+        "link": "https://juejin.cn/post/7160957659506556959",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "利用tensorflowjs实现B站的弹幕不遮挡人物效果。",
+        "link": "https://juejin.cn/post/7157955440549036069",
+        "date": "2022-10-24"
       }
     ]
   },
@@ -4130,6 +4230,16 @@
       {
         "title": "I switched from webpack to vite and back to webpack",
         "link": "https://medium.com/@pythonlearn1024/i-switched-from-webpack-to-vite-and-back-to-webpack-552d29c12ff4?source=rss------frontend-5",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "Interpretation of React&#39;s createElement source code",
+        "link": "https://medium.com/@pythonlearn1024/interpretation-of-react-39-s-createelement-source-code-4fc73910a29e?source=rss------frontend-5",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "Lazy Loading",
+        "link": "https://medium.com/@ozgert34/lazy-loading-4a5cc14f83e1?source=rss------frontend-5",
         "date": "2022-11-01"
       }
     ]
@@ -5500,6 +5610,56 @@
       {
         "title": "How To Validate Password And Confirm Password In React JS",
         "link": "https://websolutionstuff.medium.com/how-to-validate-password-and-confirm-password-in-react-js-ec7ef6fbf42f?source=rss------react-5",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "Getting Around React (Part 2): Typechecking Props With PropTypes",
+        "link": "https://medium.com/@omar.assed/getting-around-react-part-2-typechecking-props-with-proptypes-caf5f172706?source=rss------react-5",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "How effective is useEffect?",
+        "link": "https://medium.com/@mitchelljm04/how-effective-is-useeffect-4e7ebd407946?source=rss------react-5",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "How to make POST request to the server with React?",
+        "link": "https://medium.com/@slobodan.draksimovic/how-to-make-post-request-to-the-server-with-react-3f00721335be?source=rss------react-5",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "Folder Structuring for any React project",
+        "link": "https://medium.com/@furqan.fiqi/folder-structuring-for-any-react-project-465b5a77e2b2?source=rss------react-5",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "How to Run Ganache in a Browser",
+        "link": "https://betterprogramming.pub/how-to-run-ganache-in-a-browser-399db3eaa22?source=rss------react-5",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "How to Seamlessly Support Web3 Connectivity Options in React.js",
+        "link": "https://betterprogramming.pub/how-to-seamlessly-support-web3-connectivity-options-in-react-js-fd461cc44550?source=rss------react-5",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "Creating Booking Functionality using React Dropdown Menu & Calendly for Business Clients",
+        "link": "https://medium.com/@clever.tech.memes/creating-booking-functionality-using-react-dropdown-menu-calendly-for-business-clients-b4bbcffac0b1?source=rss------react-5",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "The biggest question — does the browser know React?",
+        "link": "https://medium.com/@under_the_hook/the-biggest-question-does-the-browser-know-react-93a1d14d4fcc?source=rss------react-5",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "How Does the useDeferredValue Hook Work in React?",
+        "link": "https://javascript.plainenglish.io/react-usedeferredvalue-b510b375bb1d?source=rss------react-5",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "How To Build A Responsive Web Portfolio With React",
+        "link": "https://medium.com/@juanprubio/how-to-build-a-responsive-web-portfolio-with-react-4ef2cf44688d?source=rss------react-5",
         "date": "2022-11-01"
       }
     ]

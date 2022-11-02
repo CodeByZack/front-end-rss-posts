@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-01 12:42，更新条数: +39
+更新时间: 2022-11-02 01:55，更新条数: +32
 
 ## 文章链接
 
@@ -98,6 +98,42 @@
 - [2022-11-01-JavaScript复习之作用域链](https://juejin.cn/post/7160895589176049672) 
 
 - [2022-11-01-多媒体技术原理及应用场景探索](https://juejin.cn/post/7160876696189534245) 
+
+- [2022-11-01-IDEA中配置tomcat8.5中文乱码问题](https://juejin.cn/post/7161114260557266975) 
+
+- [2022-11-01-Oracle故障处理：Rman-06207&Rman-06214](https://juejin.cn/post/7161113266821791758) 
+
+- [2022-11-01-初识React (二) 之组件三大核心属性](https://juejin.cn/post/7161064742348406814) 
+
+- [2022-11-01-一文吃透 React 和 Vue 的多节点 diff 原理](https://juejin.cn/post/7161063643105198093) 
+
+- [2022-11-01-Element Plus 组件库核心技术揭秘：5. 从终端命令解析器说起谈谈 npm 包管理工具的运行原理](https://juejin.cn/post/7161063570594070559) 
+
+- [2022-11-01-Vite 在运行过程中是如何发现新增依赖的？](https://juejin.cn/post/7161054649112494087) 
+
+- [2022-11-01-ES6 Proxy](https://juejin.cn/post/7161054106851737613) 
+
+- [2022-11-01-手写 Puppeteer：自动下载 Chromium](https://juejin.cn/post/7161042364499247140) 
+
+- [2022-11-01-用真心打造一个沉淀知识的工具，为学渣如我的道友们，提供助力](https://juejin.cn/post/7161020844372656135) 
+
+- [2022-11-01-D3(v7)入门二：D3操作DOM](https://juejin.cn/post/7160983086040088607) 
+
+- [2022-11-01-记录一个版本问题：vue 和vue-template-compiler](https://juejin.cn/post/7160982137263374350) 
+
+- [2022-11-01-React 之 createElement 源码解读](https://juejin.cn/post/7160981608885927972) 
+
+- [2022-11-01-前端全栈之路 - 玩转 Docker (Dockerfile)](https://juejin.cn/post/7160972042757079077) 
+
+- [2022-11-01-Angular 快速入门 ｜ Standalone Component](https://juejin.cn/post/7160970222181023751) 
+
+- [2022-11-01-Angular 快速入门 ｜ Http ( 错误处理 / 请求拦截 )](https://juejin.cn/post/7160963199708168228) 
+
+- [2022-11-01-使用Vue.js 3和Bootstrap 5的材料设计UI套件](https://juejin.cn/post/7160959262217224229) 
+
+- [2022-11-01-轻量级和移动友好的日期时间选择器 - vue-date-pick](https://juejin.cn/post/7160959011771121671) 
+
+- [2022-11-01-Vue的简单可扩展甘特图 - Ganttastic](https://juejin.cn/post/7160957659506556959) 
 
 - [2022-10-31-精读《Rest vs Spread 语法》](https://juejin.cn/post/7160474215097827341) 
 
@@ -691,6 +727,8 @@
 
 - [2022-10-24-【以太坊】初识以太坊 | Web3到底是什么？](https://juejin.cn/post/7158089469663543304) 
 
+- [2022-10-24-利用tensorflowjs实现B站的弹幕不遮挡人物效果。](https://juejin.cn/post/7157955440549036069) 
+
 - [2022-10-23-这一次彻底搞懂，vuex原理](https://juejin.cn/post/7157616962074312734) 
 
 - [2022-10-23-深入了解 React 中的虚拟 DOM](https://juejin.cn/post/7157592289487880199) 
@@ -1076,6 +1114,8 @@
 </summary>
 
 
+- [2022-10-31-基于Angular的微前端理念与实践](https://www.infoq.cn/article/U9ledeUpKTm2xc7b8cRG) 
+
 - [2022-10-26-Webpack 创始人推出比Webpack“快700倍”的Turbopack，基于Rust编写](https://www.infoq.cn/article/iKecr1k4eQMMpCaaXEDr) 
 
 - [2022-10-25-让小型企业提高 20 倍效率的统一技术栈](https://www.infoq.cn/article/1FVdeQRF0ca3auUQOJVM) 
@@ -1421,6 +1461,10 @@
 - [2022-11-01-New React component design concept Headless UI](https://medium.com/@pythonlearn1024/new-react-component-design-concept-headless-ui-2aad0b3aa9e0?source=rss------frontend-5) 
 
 - [2022-11-01-I switched from webpack to vite and back to webpack](https://medium.com/@pythonlearn1024/i-switched-from-webpack-to-vite-and-back-to-webpack-552d29c12ff4?source=rss------frontend-5) 
+
+- [2022-11-01-Interpretation of React&#39;s createElement source code](https://medium.com/@pythonlearn1024/interpretation-of-react-39-s-createelement-source-code-4fc73910a29e?source=rss------frontend-5) 
+
+- [2022-11-01-Lazy Loading](https://medium.com/@ozgert34/lazy-loading-4a5cc14f83e1?source=rss------frontend-5) 
 
 - [2022-10-31-The future of the web is Edge, ditch SSR+ Serverless, use SSR + Edge](https://medium.com/@pythonlearn1024/the-future-of-the-web-is-edge-ditch-ssr-serverless-use-ssr-edge-e90cd7f2b03e?source=rss------frontend-5) 
 
@@ -1783,6 +1827,8 @@
 </summary>
 
 
+- [2022-11-02-Getting Around React (Part 2): Typechecking Props With PropTypes](https://medium.com/@omar.assed/getting-around-react-part-2-typechecking-props-with-proptypes-caf5f172706?source=rss------react-5) 
+
 - [2022-11-01-Abdur’s React/React Native/Typescript/JS Articles](https://medium.com/@rafayk66/abdurs-react-react-native-articles-4a2231b26daf?source=rss------react-5) 
 
 - [2022-11-01-Top JavaScript Frameworks for 2023](https://javascript.plainenglish.io/top-javascript-frameworks-for-2023-c49d81aa6ebc?source=rss------react-5) 
@@ -1804,6 +1850,24 @@
 - [2022-11-01-Advanced topics in React (Encapsulating stateful logic)](https://medium.com/@shub.sharma350/advanced-topics-in-react-encapsulating-stateful-logic-40de35941b7?source=rss------react-5) 
 
 - [2022-11-01-How To Validate Password And Confirm Password In React JS](https://websolutionstuff.medium.com/how-to-validate-password-and-confirm-password-in-react-js-ec7ef6fbf42f?source=rss------react-5) 
+
+- [2022-11-01-How effective is useEffect?](https://medium.com/@mitchelljm04/how-effective-is-useeffect-4e7ebd407946?source=rss------react-5) 
+
+- [2022-11-01-How to make POST request to the server with React?](https://medium.com/@slobodan.draksimovic/how-to-make-post-request-to-the-server-with-react-3f00721335be?source=rss------react-5) 
+
+- [2022-11-01-Folder Structuring for any React project](https://medium.com/@furqan.fiqi/folder-structuring-for-any-react-project-465b5a77e2b2?source=rss------react-5) 
+
+- [2022-11-01-How to Run Ganache in a Browser](https://betterprogramming.pub/how-to-run-ganache-in-a-browser-399db3eaa22?source=rss------react-5) 
+
+- [2022-11-01-How to Seamlessly Support Web3 Connectivity Options in React.js](https://betterprogramming.pub/how-to-seamlessly-support-web3-connectivity-options-in-react-js-fd461cc44550?source=rss------react-5) 
+
+- [2022-11-01-Creating Booking Functionality using React Dropdown Menu & Calendly for Business Clients](https://medium.com/@clever.tech.memes/creating-booking-functionality-using-react-dropdown-menu-calendly-for-business-clients-b4bbcffac0b1?source=rss------react-5) 
+
+- [2022-11-01-The biggest question — does the browser know React?](https://medium.com/@under_the_hook/the-biggest-question-does-the-browser-know-react-93a1d14d4fcc?source=rss------react-5) 
+
+- [2022-11-01-How Does the useDeferredValue Hook Work in React?](https://javascript.plainenglish.io/react-usedeferredvalue-b510b375bb1d?source=rss------react-5) 
+
+- [2022-11-01-How To Build A Responsive Web Portfolio With React](https://medium.com/@juanprubio/how-to-build-a-responsive-web-portfolio-with-react-4ef2cf44688d?source=rss------react-5) 
 
 - [2022-10-31-How React works behind the scenes](https://amrtawfik160.medium.com/how-react-works-behind-the-scenes-d20eee9f1764?source=rss------react-5) 
 
