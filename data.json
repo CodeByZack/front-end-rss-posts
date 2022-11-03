@@ -676,6 +676,11 @@
         "title": "基于Angular的微前端理念与实践",
         "link": "https://www.infoq.cn/article/U9ledeUpKTm2xc7b8cRG",
         "date": "2022-10-31"
+      },
+      {
+        "title": "Shopify 收购开源 Web 框架 Remix",
+        "link": "https://www.infoq.cn/article/rlQqsVMLw2AleJ8wceEv",
+        "date": "2022-11-03"
       }
     ]
   },
@@ -3406,6 +3411,81 @@
         "title": "好未来基于北极星注册中心的最佳实践",
         "link": "https://juejin.cn/post/7161366575118254111",
         "date": "2022-11-02"
+      },
+      {
+        "title": "深入浅出react（fiber原理解析）",
+        "link": "https://juejin.cn/post/7161704351847677983",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "云原生架构最强实践-DevOps、k8s、kubernetes、Docker",
+        "link": "https://juejin.cn/post/7161700705538375688",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "PixiJs学前篇（一）：Canvas基础【上篇】",
+        "link": "https://juejin.cn/post/7161696893695688740",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "《从Canvas到PixiJs》专栏简介",
+        "link": "https://juejin.cn/post/7161696291469131806",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "用低代码平台搭建低代码平台",
+        "link": "https://juejin.cn/post/7161695238988234788",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "3. webpack构建整体流程的组织：webpack -> Compiler -> Compilation",
+        "link": "https://juejin.cn/post/7161658350617231368",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "2. webpack构建的基石: tapable@1.1.3源码分析",
+        "link": "https://juejin.cn/post/7161657360346251300",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "前端性能优化——图片懒加载",
+        "link": "https://juejin.cn/post/7161653866050617380",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "手写 Puppeteer：远程控制 Chromium",
+        "link": "https://juejin.cn/post/7161290738444664845",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "计算机底层知识之内存和磁盘的关系&数据压缩",
+        "link": "https://juejin.cn/post/7161250651702296612",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "我的 React 最佳实践",
+        "link": "https://juejin.cn/post/7161244682008133639",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "低代码海报平台的组件库如何设计？",
+        "link": "https://juejin.cn/post/7161243271233175560",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "小而美的 css 的原子化",
+        "link": "https://juejin.cn/post/7161211941652791304",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "Chrome插件实战（一）写个插件随时运营掘金文章",
+        "link": "https://juejin.cn/post/7161202611847168031",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "RichTalk 快报 第 8 期",
+        "link": "https://juejin.cn/post/7161199051340251167",
+        "date": "2022-11-01"
       }
     ]
   },
@@ -4411,6 +4491,41 @@
         "title": "Hire outsourcing on the front-end development team",
         "link": "https://medium.com/@itsmeroydano/hire-outsourcing-on-the-front-end-development-team-ccaaba53ced5?source=rss------frontend-5",
         "date": "2022-11-02"
+      },
+      {
+        "title": "OutSystems UI Extensibility: Part I",
+        "link": "https://medium.com/@bernardocardoso/outsystems-ui-extensibility-part-i-f0d5304896ee?source=rss------frontend-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "React JS Pemula: Apa itu React JS?",
+        "link": "https://medium.com/@elvanfiernesernando/react-js-pemula-apa-itu-react-js-b3eaa38d78b8?source=rss------frontend-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "foreword",
+        "link": "https://medium.com/@pythonlearn1024/foreword-101724884512?source=rss------frontend-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Yuxi You: Is Turbopack really 10 times faster than Vite?",
+        "link": "https://medium.com/@pythonlearn1024/yuxi-you-is-turbopack-really-10-times-faster-than-vite-b78ff0504866?source=rss------frontend-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Front-end full stack road — play with Docker (Dockerfile)",
+        "link": "https://medium.com/@pythonlearn1024/front-end-full-stack-road-play-with-docker-dockerfile-46ea0dbb79f0?source=rss------frontend-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "The difference between elements and components in React",
+        "link": "https://medium.com/@pythonlearn1024/the-difference-between-elements-and-components-in-react-4462922d384d?source=rss------frontend-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "You Yuxi responded: Is Vite really 10 times slower than Turbopack?",
+        "link": "https://medium.com/@pythonlearn1024/you-yuxi-responded-is-vite-really-10-times-slower-than-turbopack-22980284e3b7?source=rss------frontend-5",
+        "date": "2022-11-03"
       }
     ]
   },
@@ -5931,6 +6046,56 @@
         "title": "Your response is your responsibility.",
         "link": "https://steve-douglas.medium.com/your-response-is-your-responsibility-f42e91c97dca?source=rss------react-5",
         "date": "2022-11-02"
+      },
+      {
+        "title": "Check whether the user is Online or Offline using React hooks and providers.",
+        "link": "https://vijaytembugade.medium.com/check-whether-the-user-is-online-or-offline-using-react-hooks-and-providers-5f9df308640e?source=rss------react-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "How to Change Background Color in React on Mouse Click (Dynamically)",
+        "link": "https://ghost-together.medium.com/how-to-change-background-color-dynamically-in-react-on-mouse-click-8af02fdc5e95?source=rss------react-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Top 6 MaterialUI components for you to use in your next project",
+        "link": "https://medium.com/@aadarshthakur80501/top-6-materialui-components-for-you-to-use-in-your-next-project-62fa3a69235b?source=rss------react-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Acquista Caluanie Muelear Oxidize Parturize Thermos Thermos nocivo, Whatsapp: +31653689014",
+        "link": "https://medium.com/@frankybills35/acquista-caluanie-muelear-oxidize-parturize-thermos-thermos-nocivo-whatsapp-31653689014-3ed25594d6ca?source=rss------react-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "T1 — How To Get Started with a Navigation bar in Your React Project in 2 mins",
+        "link": "https://medium.com/@superflowsapp3/how-to-get-started-with-a-navigation-bar-in-your-react-project-in-2-mins-24ef0f91c9aa?source=rss------react-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Framer motion — useMotionValue & useTransform",
+        "link": "https://medium.com/@siddharth0x/framer-motion-usemotionvalue-usetransform-512cf1d5a712?source=rss------react-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "An Affection Letter To React",
+        "link": "https://umeshtharukaofficial.medium.com/an-affection-letter-to-react-8be9f794d85a?source=rss------react-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Create Navbar using React",
+        "link": "https://medium.com/@chimaifeanyi29/create-navbar-using-react-8ccafd55aadb?source=rss------react-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "React JS Pemula: Apa itu React JS?",
+        "link": "https://medium.com/@elvanfiernesernando/react-js-pemula-apa-itu-react-js-b3eaa38d78b8?source=rss------react-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Frontend Career Path — Day 1",
+        "link": "https://medium.com/@sringtho/frontend-career-path-day-1-769cfca6136e?source=rss------react-5",
+        "date": "2022-11-03"
       }
     ]
   },
