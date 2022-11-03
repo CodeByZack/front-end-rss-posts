@@ -3376,6 +3376,36 @@
         "title": "为什么说 bind 的实现非常考验对原型链的理解？",
         "link": "https://juejin.cn/post/7158009281735262239",
         "date": "2022-10-24"
+      },
+      {
+        "title": "[Hacker News 周报] 快速启动隔离开发环境；JSON 可视化工具；Heroku 即将停止免费额度",
+        "link": "https://juejin.cn/post/7161485004483067917",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "淘宝小程序体验优化：数据分析和优化实践",
+        "link": "https://juejin.cn/post/7161484047565193230",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "useReducer+createContext真的可以代替Redux吗？",
+        "link": "https://juejin.cn/post/7161458530984132622",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "package.json 配置完全解读",
+        "link": "https://juejin.cn/post/7161392772665540644",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "腾讯云微服务引擎 TSE 10月产品动态",
+        "link": "https://juejin.cn/post/7161379550817943565",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "好未来基于北极星注册中心的最佳实践",
+        "link": "https://juejin.cn/post/7161366575118254111",
+        "date": "2022-11-02"
       }
     ]
   },
@@ -4365,6 +4395,21 @@
       {
         "title": "wangpeng1478.github.io/web/ImageSe…",
         "link": "https://medium.com/@pythonlearn1024/wangpeng1478-github-io-web-imagese-d64b3d651516?source=rss------frontend-5",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "First acquaintance with the three core attributes of React (2) components",
+        "link": "https://medium.com/@pythonlearn1024/first-acquaintance-with-the-three-core-attributes-of-react-2-components-f62a3d56b65e?source=rss------frontend-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "One article thoroughly understands the principle of multi-node diff of React and Vue",
+        "link": "https://medium.com/@pythonlearn1024/one-article-thoroughly-understands-the-principle-of-multi-node-diff-of-react-and-vue-20e000c458fd?source=rss------frontend-5",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "Hire outsourcing on the front-end development team",
+        "link": "https://medium.com/@itsmeroydano/hire-outsourcing-on-the-front-end-development-team-ccaaba53ced5?source=rss------frontend-5",
         "date": "2022-11-02"
       }
     ]
@@ -5836,6 +5881,56 @@
         "title": "Full Guide: Add Husky to your React Project",
         "link": "https://medium.com/@steveleung9527/full-guide-add-husky-to-your-react-project-e049935f20d5?source=rss------react-5",
         "date": "2022-11-02"
+      },
+      {
+        "title": "What Is the Future of ReactJS?",
+        "link": "https://umeshtharukaofficial.medium.com/what-is-the-future-of-reactjs-4191191219c?source=rss------react-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "First acquaintance with the three core attributes of React (2) components",
+        "link": "https://medium.com/@pythonlearn1024/first-acquaintance-with-the-three-core-attributes-of-react-2-components-f62a3d56b65e?source=rss------react-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Firebase e React — Excluindo Um Item do Banco de Dados",
+        "link": "https://thiagopetherson.medium.com/firebase-e-react-excluindo-um-item-do-banco-de-dados-3499774e2b84?source=rss------react-5",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "Firebase e React — Editando um Registro do Banco de Dados",
+        "link": "https://thiagopetherson.medium.com/firebase-e-react-editando-um-registro-do-banco-de-dados-fa83999a37ef?source=rss------react-5",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "Tests components in all Front-ends",
+        "link": "https://medium.com/@rodrigozcma/tests-components-in-all-front-ends-1c43612f721e?source=rss------react-5",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "Minimum Viable Product Rollout with ReactJS and Serverless Architecture",
+        "link": "https://medium.com/@chinmayjoshi/minimum-viable-product-rollout-with-reactjs-and-serverless-architecture-f41c9c8a1fb1?source=rss------react-5",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "Designing a social authentication for a DRF + React/Vuejs app(from scratch)",
+        "link": "https://medium.com/@simofirdoussi/designing-a-social-authentication-for-a-drf-react-vuejs-app-from-scratch-d7cba8188c39?source=rss------react-5",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "Best React Router V6 Tutorial",
+        "link": "https://ghost-together.medium.com/best-react-router-v6-tutorial-9925921aec2e?source=rss------react-5",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "React: Why array keys as indexes is a bad idea?",
+        "link": "https://medium.com/@vincent.bocquet/react-why-array-keys-as-indexes-is-a-bad-idea-b0e46a3f7bec?source=rss------react-5",
+        "date": "2022-11-02"
+      },
+      {
+        "title": "Your response is your responsibility.",
+        "link": "https://steve-douglas.medium.com/your-response-is-your-responsibility-f42e91c97dca?source=rss------react-5",
+        "date": "2022-11-02"
       }
     ]
   },
@@ -5871,6 +5966,11 @@
         "title": "Stepping forward with Next.js 13",
         "link": "https://react.statuscode.com/issues/311",
         "date": "2022-10-26"
+      },
+      {
+        "title": "Going from Figma to React, responsively",
+        "link": "https://react.statuscode.com/issues/312",
+        "date": "2022-11-02"
       }
     ]
   },

@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-02 12:39，更新条数: +35
+更新时间: 2022-11-03 01:41，更新条数: +20
 
 ## 文章链接
 
@@ -84,6 +84,18 @@
 - [2022-11-02-深聊Nodejs模块化](https://juejin.cn/post/7161234096121708581) 
 
 - [2022-11-02-React源码分析(三)：useState，useReducer](https://juejin.cn/post/7161202965208891405) 
+
+- [2022-11-02-[Hacker News 周报] 快速启动隔离开发环境；JSON 可视化工具；Heroku 即将停止免费额度](https://juejin.cn/post/7161485004483067917) 
+
+- [2022-11-02-淘宝小程序体验优化：数据分析和优化实践](https://juejin.cn/post/7161484047565193230) 
+
+- [2022-11-02-useReducer+createContext真的可以代替Redux吗？](https://juejin.cn/post/7161458530984132622) 
+
+- [2022-11-02-package.json 配置完全解读](https://juejin.cn/post/7161392772665540644) 
+
+- [2022-11-02-腾讯云微服务引擎 TSE 10月产品动态](https://juejin.cn/post/7161379550817943565) 
+
+- [2022-11-02-好未来基于北极星注册中心的最佳实践](https://juejin.cn/post/7161366575118254111) 
 
 - [2022-11-01-一个表格复制引发的血案😇](https://juejin.cn/post/7160976446498799652) 
 
@@ -1474,6 +1486,8 @@
 </summary>
 
 
+- [2022-11-03-First acquaintance with the three core attributes of React (2) components](https://medium.com/@pythonlearn1024/first-acquaintance-with-the-three-core-attributes-of-react-2-components-f62a3d56b65e?source=rss------frontend-5) 
+
 - [2022-11-02-Lessons learned from building reusable UI components](https://engineering.razorpay.com/lessons-learned-from-building-reusable-ui-components-bb34289cd438?source=rss------frontend-5) 
 
 - [2022-11-02-5.3k games on Github! The production ideas of the Alien Factory](https://medium.com/@pythonlearn1024/5-3k-games-on-github-the-production-ideas-of-the-alien-factory-52507ed4cebc?source=rss------frontend-5) 
@@ -1491,6 +1505,10 @@
 - [2022-11-02-Learn fast, forget fast, I want to summarize the reasons](https://medium.com/@pythonlearn1024/learn-fast-forget-fast-i-want-to-summarize-the-reasons-9d5e5b1a921d?source=rss------frontend-5) 
 
 - [2022-11-02-wangpeng1478.github.io/web/ImageSe…](https://medium.com/@pythonlearn1024/wangpeng1478-github-io-web-imagese-d64b3d651516?source=rss------frontend-5) 
+
+- [2022-11-02-One article thoroughly understands the principle of multi-node diff of React and Vue](https://medium.com/@pythonlearn1024/one-article-thoroughly-understands-the-principle-of-multi-node-diff-of-react-and-vue-20e000c458fd?source=rss------frontend-5) 
+
+- [2022-11-02-Hire outsourcing on the front-end development team](https://medium.com/@itsmeroydano/hire-outsourcing-on-the-front-end-development-team-ccaaba53ced5?source=rss------frontend-5) 
 
 - [2022-11-01-Don’t Get Tangled in Your Own Code](https://medium.com/blackrock-engineering/dont-get-tangled-in-your-own-code-29d77792f84?source=rss------frontend-5) 
 
@@ -1877,6 +1895,10 @@
 </summary>
 
 
+- [2022-11-03-What Is the Future of ReactJS?](https://umeshtharukaofficial.medium.com/what-is-the-future-of-reactjs-4191191219c?source=rss------react-5) 
+
+- [2022-11-03-First acquaintance with the three core attributes of React (2) components](https://medium.com/@pythonlearn1024/first-acquaintance-with-the-three-core-attributes-of-react-2-components-f62a3d56b65e?source=rss------react-5) 
+
 - [2022-11-02-Getting Around React (Part 2): Typechecking Props With PropTypes](https://medium.com/@omar.assed/getting-around-react-part-2-typechecking-props-with-proptypes-caf5f172706?source=rss------react-5) 
 
 - [2022-11-02-Why do I recommend JavaScript to new programming students?](https://medium.com/@hi.taleghani/why-do-i-recommend-javascript-to-new-programming-students-3e4b40d47a9b?source=rss------react-5) 
@@ -1898,6 +1920,22 @@
 - [2022-11-02-Building a WeatherApp with React 18, Redux Toolkit, AsyncThunks, Jest and Testing Library [part #1…](https://medium.com/@anagonm/building-a-weatherapp-with-react-18-redux-toolkit-asyncthunks-jest-and-testing-library-part-1-2f49e059e0f9?source=rss------react-5) 
 
 - [2022-11-02-Full Guide: Add Husky to your React Project](https://medium.com/@steveleung9527/full-guide-add-husky-to-your-react-project-e049935f20d5?source=rss------react-5) 
+
+- [2022-11-02-Firebase e React — Excluindo Um Item do Banco de Dados](https://thiagopetherson.medium.com/firebase-e-react-excluindo-um-item-do-banco-de-dados-3499774e2b84?source=rss------react-5) 
+
+- [2022-11-02-Firebase e React — Editando um Registro do Banco de Dados](https://thiagopetherson.medium.com/firebase-e-react-editando-um-registro-do-banco-de-dados-fa83999a37ef?source=rss------react-5) 
+
+- [2022-11-02-Tests components in all Front-ends](https://medium.com/@rodrigozcma/tests-components-in-all-front-ends-1c43612f721e?source=rss------react-5) 
+
+- [2022-11-02-Minimum Viable Product Rollout with ReactJS and Serverless Architecture](https://medium.com/@chinmayjoshi/minimum-viable-product-rollout-with-reactjs-and-serverless-architecture-f41c9c8a1fb1?source=rss------react-5) 
+
+- [2022-11-02-Designing a social authentication for a DRF + React/Vuejs app(from scratch)](https://medium.com/@simofirdoussi/designing-a-social-authentication-for-a-drf-react-vuejs-app-from-scratch-d7cba8188c39?source=rss------react-5) 
+
+- [2022-11-02-Best React Router V6 Tutorial](https://ghost-together.medium.com/best-react-router-v6-tutorial-9925921aec2e?source=rss------react-5) 
+
+- [2022-11-02-React: Why array keys as indexes is a bad idea?](https://medium.com/@vincent.bocquet/react-why-array-keys-as-indexes-is-a-bad-idea-b0e46a3f7bec?source=rss------react-5) 
+
+- [2022-11-02-Your response is your responsibility.](https://steve-douglas.medium.com/your-response-is-your-responsibility-f42e91c97dca?source=rss------react-5) 
 
 - [2022-11-01-Abdur’s React/React Native/Typescript/JS Articles](https://medium.com/@rafayk66/abdurs-react-react-native-articles-4a2231b26daf?source=rss------react-5) 
 
@@ -2471,6 +2509,8 @@
  React Status
 </summary>
 
+
+- [2022-11-02-Going from Figma to React, responsively](https://react.statuscode.com/issues/312) 
 
 - [2022-10-26-Stepping forward with Next.js 13](https://react.statuscode.com/issues/311) 
 
