@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-04 01:46，更新条数: +45
+更新时间: 2022-11-04 12:36，更新条数: +31
 
 ## 文章链接
 
@@ -59,6 +59,40 @@
 </summary>
 
 
+- [2022-11-04-杂谈：$parent/$children的底层逻辑](https://juejin.cn/post/7162097166725414942) 
+
+- [2022-11-04-思维导图display:flex弹性盒子](https://juejin.cn/post/7162082467518611470) 
+
+- [2022-11-04-简单聊一聊 Vite 开发模式下的缓存策略](https://juejin.cn/post/7162082035513688071) 
+
+- [2022-11-04-调试分析yarn存在6年之久的bug](https://juejin.cn/post/7162077789456662541) 
+
+- [2022-11-04-关于给对象新增属性的一个小知识点](https://juejin.cn/post/7162077072246964232) 
+
+- [2022-11-04-怎么处理 Loading CSS chunk xx failed](https://juejin.cn/post/7162075336983707661) 
+
+- [2022-11-04-还不会发包？30S教会你](https://juejin.cn/post/7162071714535325704) 
+
+- [2022-11-04-如何实现水面波动？一种代码实现两种效果【shader 奇技淫巧】](https://juejin.cn/post/7162064066574450718) 
+
+- [2022-11-04-我用组件化把上千行代码优化到15行](https://juejin.cn/post/7162048815778758669) 
+
+- [2022-11-04-深入理解闭包的形成过程及应用！](https://juejin.cn/post/7162039251071139876) 
+
+- [2022-11-04-如何获取 cnpm 的 packages 下载量](https://juejin.cn/post/7162001243852767240) 
+
+- [2022-11-04-如何编写更易读的代码](https://juejin.cn/post/7162000470012067876) 
+
+- [2022-11-04-CSS之pointer-events优雅处理鼠标拖拽问题](https://juejin.cn/post/7161994445334773791) 
+
+- [2022-11-04-未来如何更好的避免样式冲突？CSS @layer](https://juejin.cn/post/7161986634886905870) 
+
+- [2022-11-04-实时通信Socket.io的使用](https://juejin.cn/post/7161983096256987172) 
+
+- [2022-11-04-el-form嵌套为何会导致频繁触发外层表单校验？](https://juejin.cn/post/7161977119306678280) 
+
+- [2022-11-04-自研搭建前端监控平台🔥](https://juejin.cn/post/7161976218626031630) 
+
 - [2022-11-03-深入浅出react（fiber原理解析）](https://juejin.cn/post/7161704351847677983) 
 
 - [2022-11-03-云原生架构最强实践-DevOps、k8s、kubernetes、Docker](https://juejin.cn/post/7161700705538375688) 
@@ -98,6 +132,8 @@
 - [2022-11-03-重构改造Javascript项目为Typescript项目](https://juejin.cn/post/7161717444027875364) 
 
 - [2022-11-03-canvas非正式笔记：能用的几个例子](https://juejin.cn/post/7161701840508174350) 
+
+- [2022-11-03-微前端方案调研](https://juejin.cn/post/7161677082211123207) 
 
 - [2022-11-02-尤雨溪：Turbopack 真的比 Vite 快 10 倍吗？](https://juejin.cn/post/7161356191614894088) 
 
@@ -1305,6 +1341,8 @@
 </summary>
 
 
+- [2022-11-04-奇舞周刊第 470 期](https://weekly.75.team/issue470.html) 
+
 - [2022-10-21-奇舞周刊第 468 期](https://weekly.75.team/issue468.html) 
 
 - [2022-10-21-奇舞周刊第 469 期](https://weekly.75.team/issue469.html) 
@@ -1561,6 +1599,10 @@
 - [2022-11-04-Complete interpretation of package.json configuration](https://medium.com/@pythonlearn1024/complete-interpretation-of-package-json-configuration-c6e06379e4f6?source=rss------frontend-5) 
 
 - [2022-11-04-40-word summary of my interview in 2022 (Node, webpack, performance optimization)](https://medium.com/@pythonlearn1024/40-word-summary-of-my-interview-in-2022-node-webpack-performance-optimization-88a6461bd72f?source=rss------frontend-5) 
+
+- [2022-11-04-Front-end JS handwritten programming question bank, finally open source Github](https://medium.com/@pythonlearn1024/front-end-js-handwritten-programming-question-bank-finally-open-source-github-69da2c80766?source=rss------frontend-5) 
+
+- [2022-11-04-Web3.0 is friendly to the front end?](https://medium.com/@pythonlearn1024/web3-0-is-friendly-to-the-front-end-2a81edb4215d?source=rss------frontend-5) 
 
 - [2022-11-03-First acquaintance with the three core attributes of React (2) components](https://medium.com/@pythonlearn1024/first-acquaintance-with-the-three-core-attributes-of-react-2-components-f62a3d56b65e?source=rss------frontend-5) 
 
@@ -2002,6 +2044,26 @@
 
 
 - [2022-11-04-Next js Developer Portfolio Website With Source Code](https://medium.com/@websoftskills/next-js-developer-portfolio-website-with-source-code-a29ebdd3b749?source=rss------react-5) 
+
+- [2022-11-04-How to settle the React memoization debate](https://medium.com/ryancollinsio/how-to-use-memoization-in-react-6ac93c00418c?source=rss------react-5) 
+
+- [2022-11-04-Passwordless Authentication with React and MojoAuth](https://medium.com/@mojoauth/passwordless-authentication-with-react-and-mojoauth-f6984cb1c524?source=rss------react-5) 
+
+- [2022-11-04-Getting started with React Context API](https://medium.com/@abhisheksingh98/getting-started-with-react-context-api-1faeda0b4ae8?source=rss------react-5) 
+
+- [2022-11-04-Can I run JSX natively in the browser?](https://medium.com/@under_the_hook/can-i-run-jsx-natively-in-the-browser-579ee7483e44?source=rss------react-5) 
+
+- [2022-11-04-Interviewer: Why Does ‘[] instanceof Object’ Return ‘true’?](https://javascript.plainenglish.io/interviewer-why-does-instanceof-object-return-true-6b5ee5325bcb?source=rss------react-5) 
+
+- [2022-11-04-Learn React JS by doing — Part 2](https://medium.com/@hareeshchamarthi/learn-react-js-by-doing-part-2-940ec5637b7f?source=rss------react-5) 
+
+- [2022-11-04-Learn React JS by doing — Part 1](https://medium.com/@hareeshchamarthi/learn-react-js-by-doing-part-1-a885983c66e2?source=rss------react-5) 
+
+- [2022-11-04-React/React Native Folder Structure best Practices 2022](https://medium.com/@mohandere/react-react-native-folder-structure-best-practices-2022-72bf09e34b67?source=rss------react-5) 
+
+- [2022-11-04-Why is React superior to vanilla Javascript?](https://medium.com/@dylandiamond34/why-is-react-superior-to-vanilla-javascript-91be90619f70?source=rss------react-5) 
+
+- [2022-11-04-5 React Cybersecurity Best Practices](https://codylillyw.medium.com/5-react-cybersecurity-best-practices-7ddb515f0a9b?source=rss------react-5) 
 
 - [2022-11-03-What Is the Future of ReactJS?](https://umeshtharukaofficial.medium.com/what-is-the-future-of-reactjs-4191191219c?source=rss------react-5) 
 

@@ -506,6 +506,11 @@
         "title": "奇舞周刊第 469 期",
         "link": "https://weekly.75.team/issue469.html",
         "date": "2022-10-21"
+      },
+      {
+        "title": "奇舞周刊第 470 期",
+        "link": "https://weekly.75.team/issue470.html",
+        "date": "2022-11-04"
       }
     ]
   },
@@ -3586,6 +3591,96 @@
         "title": "全栈开发—Vue+Element+Koa 实战发布平台CRUD！",
         "link": "https://juejin.cn/post/7160488833954349086",
         "date": "2022-10-31"
+      },
+      {
+        "title": "杂谈：$parent/$children的底层逻辑",
+        "link": "https://juejin.cn/post/7162097166725414942",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "思维导图display:flex弹性盒子",
+        "link": "https://juejin.cn/post/7162082467518611470",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "简单聊一聊 Vite 开发模式下的缓存策略",
+        "link": "https://juejin.cn/post/7162082035513688071",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "调试分析yarn存在6年之久的bug",
+        "link": "https://juejin.cn/post/7162077789456662541",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "关于给对象新增属性的一个小知识点",
+        "link": "https://juejin.cn/post/7162077072246964232",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "怎么处理 Loading CSS chunk xx failed",
+        "link": "https://juejin.cn/post/7162075336983707661",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "还不会发包？30S教会你",
+        "link": "https://juejin.cn/post/7162071714535325704",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "如何实现水面波动？一种代码实现两种效果【shader 奇技淫巧】",
+        "link": "https://juejin.cn/post/7162064066574450718",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "我用组件化把上千行代码优化到15行",
+        "link": "https://juejin.cn/post/7162048815778758669",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "深入理解闭包的形成过程及应用！",
+        "link": "https://juejin.cn/post/7162039251071139876",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "如何获取 cnpm 的 packages 下载量",
+        "link": "https://juejin.cn/post/7162001243852767240",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "如何编写更易读的代码",
+        "link": "https://juejin.cn/post/7162000470012067876",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "CSS之pointer-events优雅处理鼠标拖拽问题",
+        "link": "https://juejin.cn/post/7161994445334773791",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "未来如何更好的避免样式冲突？CSS @layer",
+        "link": "https://juejin.cn/post/7161986634886905870",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "实时通信Socket.io的使用",
+        "link": "https://juejin.cn/post/7161983096256987172",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "el-form嵌套为何会导致频繁触发外层表单校验？",
+        "link": "https://juejin.cn/post/7161977119306678280",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "自研搭建前端监控平台🔥",
+        "link": "https://juejin.cn/post/7161976218626031630",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "微前端方案调研",
+        "link": "https://juejin.cn/post/7161677082211123207",
+        "date": "2022-11-03"
       }
     ]
   },
@@ -4676,6 +4771,16 @@
         "title": "Nest.js Advanced Series Five: Using Redis in Node.js is so simple",
         "link": "https://medium.com/@pythonlearn1024/nest-js-advanced-series-five-using-redis-in-node-js-is-so-simple-1afa06903bee?source=rss------frontend-5",
         "date": "2022-11-03"
+      },
+      {
+        "title": "Front-end JS handwritten programming question bank, finally open source Github",
+        "link": "https://medium.com/@pythonlearn1024/front-end-js-handwritten-programming-question-bank-finally-open-source-github-69da2c80766?source=rss------frontend-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "Web3.0 is friendly to the front end?",
+        "link": "https://medium.com/@pythonlearn1024/web3-0-is-friendly-to-the-front-end-2a81edb4215d?source=rss------frontend-5",
+        "date": "2022-11-04"
       }
     ]
   },
@@ -6296,6 +6401,56 @@
         "title": "Web Development Is Still The Wild, Wild West",
         "link": "https://medium.com/@ryanewilson/web-development-is-still-the-wild-wild-west-e97a954cd0f9?source=rss------react-5",
         "date": "2022-11-03"
+      },
+      {
+        "title": "How to settle the React memoization debate",
+        "link": "https://medium.com/ryancollinsio/how-to-use-memoization-in-react-6ac93c00418c?source=rss------react-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "Passwordless Authentication with React and MojoAuth",
+        "link": "https://medium.com/@mojoauth/passwordless-authentication-with-react-and-mojoauth-f6984cb1c524?source=rss------react-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "Getting started with React Context API",
+        "link": "https://medium.com/@abhisheksingh98/getting-started-with-react-context-api-1faeda0b4ae8?source=rss------react-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "Can I run JSX natively in the browser?",
+        "link": "https://medium.com/@under_the_hook/can-i-run-jsx-natively-in-the-browser-579ee7483e44?source=rss------react-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "Interviewer: Why Does ‘[] instanceof Object’ Return ‘true’?",
+        "link": "https://javascript.plainenglish.io/interviewer-why-does-instanceof-object-return-true-6b5ee5325bcb?source=rss------react-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "Learn React JS by doing — Part 2",
+        "link": "https://medium.com/@hareeshchamarthi/learn-react-js-by-doing-part-2-940ec5637b7f?source=rss------react-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "Learn React JS by doing — Part 1",
+        "link": "https://medium.com/@hareeshchamarthi/learn-react-js-by-doing-part-1-a885983c66e2?source=rss------react-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "React/React Native Folder Structure best Practices 2022",
+        "link": "https://medium.com/@mohandere/react-react-native-folder-structure-best-practices-2022-72bf09e34b67?source=rss------react-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "Why is React superior to vanilla Javascript?",
+        "link": "https://medium.com/@dylandiamond34/why-is-react-superior-to-vanilla-javascript-91be90619f70?source=rss------react-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "5 React Cybersecurity Best Practices",
+        "link": "https://codylillyw.medium.com/5-react-cybersecurity-best-practices-7ddb515f0a9b?source=rss------react-5",
+        "date": "2022-11-04"
       }
     ]
   },
