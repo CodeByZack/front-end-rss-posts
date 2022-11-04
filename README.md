@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-03 12:37，更新条数: +33
+更新时间: 2022-11-04 01:46，更新条数: +45
 
 ## 文章链接
 
@@ -74,6 +74,30 @@
 - [2022-11-03-2. webpack构建的基石: tapable@1.1.3源码分析](https://juejin.cn/post/7161657360346251300) 
 
 - [2022-11-03-前端性能优化——图片懒加载](https://juejin.cn/post/7161653866050617380) 
+
+- [2022-11-03-JavaScript设计模式之迭代器模式](https://juejin.cn/post/7161818772385792014) 
+
+- [2022-11-03-复写0双指针解法](https://juejin.cn/post/7161818618030882829) 
+
+- [2022-11-03-《每个人都必须知道的区块链六大公链》](https://juejin.cn/post/7161816709983109127) 
+
+- [2022-11-03-Web Components 入门实战（下篇）](https://juejin.cn/post/7161816035186720781) 
+
+- [2022-11-03-第123期：Dart的基本知识（变量的声明）](https://juejin.cn/post/7161812223315148830) 
+
+- [2022-11-03-史海峰：成为技术领导者 从技术到管理的必经之路丨声网开发者创业讲堂 • 第 5 期](https://juejin.cn/post/7161803810262761503) 
+
+- [2022-11-03-Qwik中文文档新鲜出炉了，欢迎访问~](https://juejin.cn/post/7161798869246820365) 
+
+- [2022-11-03-利用css3写一个旋转木马](https://juejin.cn/post/7161767757749436453) 
+
+- [2022-11-03-项目里没用过设计模式？看看 Nest.js 怎么用的](https://juejin.cn/post/7161759664755965965) 
+
+- [2022-11-03-React 之 Refs 的使用和 forwardRef 的源码解读](https://juejin.cn/post/7161719602652086308) 
+
+- [2022-11-03-重构改造Javascript项目为Typescript项目](https://juejin.cn/post/7161717444027875364) 
+
+- [2022-11-03-canvas非正式笔记：能用的几个例子](https://juejin.cn/post/7161701840508174350) 
 
 - [2022-11-02-尤雨溪：Turbopack 真的比 Vite 快 10 倍吗？](https://juejin.cn/post/7161356191614894088) 
 
@@ -207,6 +231,12 @@
 
 - [2022-11-01-RichTalk 快报 第 8 期](https://juejin.cn/post/7161199051340251167) 
 
+- [2022-11-01-Nest.js进阶系列五： Node.js中使用Redis原来这么简单](https://juejin.cn/post/7160936006517014558) 
+
+- [2022-11-01-手摸手打造类码上掘金在线IDE（二）——编辑器篇](https://juejin.cn/post/7160869798493028359) 
+
+- [2022-11-01-「React深入」一文吃透React v16事件系统](https://juejin.cn/post/7160857324691652616) 
+
 - [2022-10-31-精读《Rest vs Spread 语法》](https://juejin.cn/post/7160474215097827341) 
 
 - [2022-10-31-Socket 是如何支持 HTTP 通信的](https://juejin.cn/post/7160472823884939295) 
@@ -288,6 +318,8 @@
 - [2022-10-31-深圳开发培训学习怎么选择靠谱的机构？](https://juejin.cn/post/7160606462463442958) 
 
 - [2022-10-31-这么多大数据培训机构怎么来选择呢](https://juejin.cn/post/7160606007993827342) 
+
+- [2022-10-31-全栈开发—Vue+Element+Koa 实战发布平台CRUD！](https://juejin.cn/post/7160488833954349086) 
 
 - [2022-10-30-如何使用Monorepo实现跨项目共享组件和模块](https://juejin.cn/post/7160229239840014343) 
 
@@ -1306,6 +1338,8 @@
 </summary>
 
 
+- [2022-11-04-科技爱好者周刊（第 229 期）：手机充电问题的解决](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html) 
+
 - [2022-10-28-科技爱好者周刊（第 228 期）：人类和人生的意义](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html) 
 
 - [2022-10-25-羊了个羊，如何自己实现（暨"码上掘金"编程挑战赛介绍）](http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html) 
@@ -1409,6 +1443,8 @@
 </summary>
 
 
+- [2022-11-03-Getting Rusty with Node, but in a good way](https://nodeweekly.com/issues/461) 
+
 - [2022-10-27-Node 18 goes LTS](https://nodeweekly.com/issues/460) 
 
 - [2022-10-20-Node 19 released](https://nodeweekly.com/issues/459) 
@@ -1450,6 +1486,10 @@
  web.dev
 </summary>
 
+
+- [2022-11-03-Speedy CSS Tip! Animated Gradient Text](https://web.dev/speedy-css-tip-animated-gradient-text/) 
+
+- [2022-11-03-New patterns for media apps](https://web.dev/new-patterns-for-media-apps/) 
 
 - [2022-10-31-New to the web platform in October](https://web.dev/web-platform-10-2022/) 
 
@@ -1518,6 +1558,10 @@
 </summary>
 
 
+- [2022-11-04-Complete interpretation of package.json configuration](https://medium.com/@pythonlearn1024/complete-interpretation-of-package-json-configuration-c6e06379e4f6?source=rss------frontend-5) 
+
+- [2022-11-04-40-word summary of my interview in 2022 (Node, webpack, performance optimization)](https://medium.com/@pythonlearn1024/40-word-summary-of-my-interview-in-2022-node-webpack-performance-optimization-88a6461bd72f?source=rss------frontend-5) 
+
 - [2022-11-03-First acquaintance with the three core attributes of React (2) components](https://medium.com/@pythonlearn1024/first-acquaintance-with-the-three-core-attributes-of-react-2-components-f62a3d56b65e?source=rss------frontend-5) 
 
 - [2022-11-03-OutSystems UI Extensibility: Part I](https://medium.com/@bernardocardoso/outsystems-ui-extensibility-part-i-f0d5304896ee?source=rss------frontend-5) 
@@ -1533,6 +1577,22 @@
 - [2022-11-03-The difference between elements and components in React](https://medium.com/@pythonlearn1024/the-difference-between-elements-and-components-in-react-4462922d384d?source=rss------frontend-5) 
 
 - [2022-11-03-You Yuxi responded: Is Vite really 10 times slower than Turbopack?](https://medium.com/@pythonlearn1024/you-yuxi-responded-is-vite-really-10-times-slower-than-turbopack-22980284e3b7?source=rss------frontend-5) 
+
+- [2022-11-03-Cypress: Count the total number of elements on a page](https://medium.com/@anshita.bhasin/cypress-count-the-total-number-of-elements-on-a-page-66e37ffaf08?source=rss------frontend-5) 
+
+- [2022-11-03-Introducing Sveltool!](https://medium.com/@daurand303/introducing-sveltool-20d2cc1977a8?source=rss------frontend-5) 
+
+- [2022-11-03-Building an App from Scratch: Part 3](https://medium.com/codex/building-an-app-from-scratch-part-3-b0b40db3ecee?source=rss------frontend-5) 
+
+- [2022-11-03-Using query parameters for API requests in Next.js](https://medium.com/@serhatpolat/using-query-parameters-for-api-requests-in-next-js-4a147573f809?source=rss------frontend-5) 
+
+- [2022-11-03-React : this Keyword](https://medium.com/@aravindariharan/react-this-keyword-d7be9281b528?source=rss------frontend-5) 
+
+- [2022-11-03-React : Components The ALL](https://medium.com/@aravindariharan/react-components-the-all-adb37cd0cac0?source=rss------frontend-5) 
+
+- [2022-11-03-Como hospedar um JSON e receber os dados através de uma API no Front-End de forma gratuita.](https://medium.com/@guilhermedunguel/como-hospedar-um-json-e-receber-os-dados-atrav%C3%A9s-de-uma-api-no-front-end-de-forma-gratuita-5cbc3bb549a3?source=rss------frontend-5) 
+
+- [2022-11-03-Nest.js Advanced Series Five: Using Redis in Node.js is so simple](https://medium.com/@pythonlearn1024/nest-js-advanced-series-five-using-redis-in-node-js-is-so-simple-1afa06903bee?source=rss------frontend-5) 
 
 - [2022-11-02-Lessons learned from building reusable UI components](https://engineering.razorpay.com/lessons-learned-from-building-reusable-ui-components-bb34289cd438?source=rss------frontend-5) 
 
@@ -1941,6 +2001,8 @@
 </summary>
 
 
+- [2022-11-04-Next js Developer Portfolio Website With Source Code](https://medium.com/@websoftskills/next-js-developer-portfolio-website-with-source-code-a29ebdd3b749?source=rss------react-5) 
+
 - [2022-11-03-What Is the Future of ReactJS?](https://umeshtharukaofficial.medium.com/what-is-the-future-of-reactjs-4191191219c?source=rss------react-5) 
 
 - [2022-11-03-First acquaintance with the three core attributes of React (2) components](https://medium.com/@pythonlearn1024/first-acquaintance-with-the-three-core-attributes-of-react-2-components-f62a3d56b65e?source=rss------react-5) 
@@ -1964,6 +2026,24 @@
 - [2022-11-03-React JS Pemula: Apa itu React JS?](https://medium.com/@elvanfiernesernando/react-js-pemula-apa-itu-react-js-b3eaa38d78b8?source=rss------react-5) 
 
 - [2022-11-03-Frontend Career Path — Day 1](https://medium.com/@sringtho/frontend-career-path-day-1-769cfca6136e?source=rss------react-5) 
+
+- [2022-11-03-Firebase e React — Autenticação (Cadastrando Usuário)](https://thiagopetherson.medium.com/firebase-e-react-autentica%C3%A7%C3%A3o-cadastrando-usu%C3%A1rio-4dcb23f364?source=rss------react-5) 
+
+- [2022-11-03-The coming use(promise) hook in React](https://irvingvjuarez.medium.com/the-coming-use-promise-hook-in-react-a5fe78186288?source=rss------react-5) 
+
+- [2022-11-03-Manipulando o useState com Typescript em strings, objetos e arrays.](https://g-mendes.medium.com/manipulando-o-usestate-com-typescript-em-strings-objetos-e-arrays-c259641cf1c8?source=rss------react-5) 
+
+- [2022-11-03-I Improved My Next.js API Handler](https://medium.com/@brandonlostboy/i-improved-my-next-js-api-handler-dc604184353f?source=rss------react-5) 
+
+- [2022-11-03-ลองใช้ Render props ใน React ด้วย Typescript กัน](https://medium.com/@piyachai.kaewchum/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%8A%E0%B9%89-render-props-%E0%B9%83%E0%B8%99-react-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-typescript-%E0%B8%81%E0%B8%B1%E0%B8%99-af972e831889?source=rss------react-5) 
+
+- [2022-11-03-Hook, Line, and Stinker](https://medium.com/@pklawansky/hook-line-and-stinker-cb0c513a84f1?source=rss------react-5) 
+
+- [2022-11-03-Github Actions, AWS and React App](https://zafarsaleem.medium.com/github-actions-aws-and-react-app-98ef1847ed5?source=rss------react-5) 
+
+- [2022-11-03-Displaying Associated Data using Nested Routes](https://medium.com/@laynaoyervides/displaying-associated-data-using-nested-routes-3bf232fc8d8d?source=rss------react-5) 
+
+- [2022-11-03-Web Development Is Still The Wild, Wild West](https://medium.com/@ryanewilson/web-development-is-still-the-wild-wild-west-e97a954cd0f9?source=rss------react-5) 
 
 - [2022-11-02-Getting Around React (Part 2): Typechecking Props With PropTypes](https://medium.com/@omar.assed/getting-around-react-part-2-typechecking-props-with-proptypes-caf5f172706?source=rss------react-5) 
 
@@ -2601,13 +2681,23 @@
 
 - [2022-10-30-React Digest Issue #380](https://reactdigest.net/digests/380) 
 
+- [2022-10-30-We Improved React Loading Times by 70% with Next.js](https://reactdigest.net/digests/602) 
+
 - [2022-10-23-React Digest Issue #379](https://reactdigest.net/digests/379) 
+
+- [2022-10-23-Building a chat app with Socket.io and React Native 🤯](https://reactdigest.net/digests/601) 
 
 - [2022-10-16-React Digest Issue #378](https://reactdigest.net/digests/378) 
 
+- [2022-10-16-RFC: First class support for promises and async/await](https://reactdigest.net/digests/600) 
+
 - [2022-10-09-React Digest Issue #377](https://reactdigest.net/digests/377) 
 
+- [2022-10-09-Guide to React Rendering Behavior Updated to cover React 18](https://reactdigest.net/digests/599) 
+
 - [2022-10-02-React Digest Issue #376](https://reactdigest.net/digests/376) 
+
+- [2022-10-02-Get in Zoomer, We're Saving React](https://reactdigest.net/digests/598) 
 
 - [2022-09-25-React Digest Issue #375](https://reactdigest.net/digests/375) 
 

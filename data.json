@@ -31,6 +31,11 @@
         "title": "Node 18 goes LTS",
         "link": "https://nodeweekly.com/issues/460",
         "date": "2022-10-27"
+      },
+      {
+        "title": "Getting Rusty with Node, but in a good way",
+        "link": "https://nodeweekly.com/issues/461",
+        "date": "2022-11-03"
       }
     ]
   },
@@ -271,6 +276,11 @@
         "title": "科技爱好者周刊（第 228 期）：人类和人生的意义",
         "link": "http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html",
         "date": "2022-10-28"
+      },
+      {
+        "title": "科技爱好者周刊（第 229 期）：手机充电问题的解决",
+        "link": "http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html",
+        "date": "2022-11-04"
       }
     ]
   },
@@ -421,6 +431,16 @@
         "title": "Building Chrometober!",
         "link": "https://web.dev/building-chrometober/",
         "date": "2022-10-31"
+      },
+      {
+        "title": "Speedy CSS Tip! Animated Gradient Text",
+        "link": "https://web.dev/speedy-css-tip-animated-gradient-text/",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "New patterns for media apps",
+        "link": "https://web.dev/new-patterns-for-media-apps/",
+        "date": "2022-11-03"
       }
     ]
   },
@@ -3486,6 +3506,86 @@
         "title": "RichTalk 快报 第 8 期",
         "link": "https://juejin.cn/post/7161199051340251167",
         "date": "2022-11-01"
+      },
+      {
+        "title": "JavaScript设计模式之迭代器模式",
+        "link": "https://juejin.cn/post/7161818772385792014",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "复写0双指针解法",
+        "link": "https://juejin.cn/post/7161818618030882829",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "《每个人都必须知道的区块链六大公链》",
+        "link": "https://juejin.cn/post/7161816709983109127",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Web Components 入门实战（下篇）",
+        "link": "https://juejin.cn/post/7161816035186720781",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "第123期：Dart的基本知识（变量的声明）",
+        "link": "https://juejin.cn/post/7161812223315148830",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "史海峰：成为技术领导者 从技术到管理的必经之路丨声网开发者创业讲堂 • 第 5 期",
+        "link": "https://juejin.cn/post/7161803810262761503",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Qwik中文文档新鲜出炉了，欢迎访问~",
+        "link": "https://juejin.cn/post/7161798869246820365",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "利用css3写一个旋转木马",
+        "link": "https://juejin.cn/post/7161767757749436453",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "项目里没用过设计模式？看看 Nest.js 怎么用的",
+        "link": "https://juejin.cn/post/7161759664755965965",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "React 之 Refs 的使用和 forwardRef 的源码解读",
+        "link": "https://juejin.cn/post/7161719602652086308",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "重构改造Javascript项目为Typescript项目",
+        "link": "https://juejin.cn/post/7161717444027875364",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "canvas非正式笔记：能用的几个例子",
+        "link": "https://juejin.cn/post/7161701840508174350",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Nest.js进阶系列五： Node.js中使用Redis原来这么简单",
+        "link": "https://juejin.cn/post/7160936006517014558",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "手摸手打造类码上掘金在线IDE（二）——编辑器篇",
+        "link": "https://juejin.cn/post/7160869798493028359",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "「React深入」一文吃透React v16事件系统",
+        "link": "https://juejin.cn/post/7160857324691652616",
+        "date": "2022-11-01"
+      },
+      {
+        "title": "全栈开发—Vue+Element+Koa 实战发布平台CRUD！",
+        "link": "https://juejin.cn/post/7160488833954349086",
+        "date": "2022-10-31"
       }
     ]
   },
@@ -4525,6 +4625,56 @@
       {
         "title": "You Yuxi responded: Is Vite really 10 times slower than Turbopack?",
         "link": "https://medium.com/@pythonlearn1024/you-yuxi-responded-is-vite-really-10-times-slower-than-turbopack-22980284e3b7?source=rss------frontend-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Complete interpretation of package.json configuration",
+        "link": "https://medium.com/@pythonlearn1024/complete-interpretation-of-package-json-configuration-c6e06379e4f6?source=rss------frontend-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "40-word summary of my interview in 2022 (Node, webpack, performance optimization)",
+        "link": "https://medium.com/@pythonlearn1024/40-word-summary-of-my-interview-in-2022-node-webpack-performance-optimization-88a6461bd72f?source=rss------frontend-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "Cypress: Count the total number of elements on a page",
+        "link": "https://medium.com/@anshita.bhasin/cypress-count-the-total-number-of-elements-on-a-page-66e37ffaf08?source=rss------frontend-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Introducing Sveltool!",
+        "link": "https://medium.com/@daurand303/introducing-sveltool-20d2cc1977a8?source=rss------frontend-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Building an App from Scratch: Part 3",
+        "link": "https://medium.com/codex/building-an-app-from-scratch-part-3-b0b40db3ecee?source=rss------frontend-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Using query parameters for API requests in Next.js",
+        "link": "https://medium.com/@serhatpolat/using-query-parameters-for-api-requests-in-next-js-4a147573f809?source=rss------frontend-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "React : this Keyword",
+        "link": "https://medium.com/@aravindariharan/react-this-keyword-d7be9281b528?source=rss------frontend-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "React : Components The ALL",
+        "link": "https://medium.com/@aravindariharan/react-components-the-all-adb37cd0cac0?source=rss------frontend-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Como hospedar um JSON e receber os dados através de uma API no Front-End de forma gratuita.",
+        "link": "https://medium.com/@guilhermedunguel/como-hospedar-um-json-e-receber-os-dados-atrav%C3%A9s-de-uma-api-no-front-end-de-forma-gratuita-5cbc3bb549a3?source=rss------frontend-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Nest.js Advanced Series Five: Using Redis in Node.js is so simple",
+        "link": "https://medium.com/@pythonlearn1024/nest-js-advanced-series-five-using-redis-in-node-js-is-so-simple-1afa06903bee?source=rss------frontend-5",
         "date": "2022-11-03"
       }
     ]
@@ -6096,6 +6246,56 @@
         "title": "Frontend Career Path — Day 1",
         "link": "https://medium.com/@sringtho/frontend-career-path-day-1-769cfca6136e?source=rss------react-5",
         "date": "2022-11-03"
+      },
+      {
+        "title": "Next js Developer Portfolio Website With Source Code",
+        "link": "https://medium.com/@websoftskills/next-js-developer-portfolio-website-with-source-code-a29ebdd3b749?source=rss------react-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "Firebase e React — Autenticação (Cadastrando Usuário)",
+        "link": "https://thiagopetherson.medium.com/firebase-e-react-autentica%C3%A7%C3%A3o-cadastrando-usu%C3%A1rio-4dcb23f364?source=rss------react-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "The coming use(promise) hook in React",
+        "link": "https://irvingvjuarez.medium.com/the-coming-use-promise-hook-in-react-a5fe78186288?source=rss------react-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Manipulando o useState com Typescript em strings, objetos e arrays.",
+        "link": "https://g-mendes.medium.com/manipulando-o-usestate-com-typescript-em-strings-objetos-e-arrays-c259641cf1c8?source=rss------react-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "I Improved My Next.js API Handler",
+        "link": "https://medium.com/@brandonlostboy/i-improved-my-next-js-api-handler-dc604184353f?source=rss------react-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "ลองใช้ Render props ใน React ด้วย Typescript กัน",
+        "link": "https://medium.com/@piyachai.kaewchum/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%8A%E0%B9%89-render-props-%E0%B9%83%E0%B8%99-react-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-typescript-%E0%B8%81%E0%B8%B1%E0%B8%99-af972e831889?source=rss------react-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Hook, Line, and Stinker",
+        "link": "https://medium.com/@pklawansky/hook-line-and-stinker-cb0c513a84f1?source=rss------react-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Github Actions, AWS and React App",
+        "link": "https://zafarsaleem.medium.com/github-actions-aws-and-react-app-98ef1847ed5?source=rss------react-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Displaying Associated Data using Nested Routes",
+        "link": "https://medium.com/@laynaoyervides/displaying-associated-data-using-nested-routes-3bf232fc8d8d?source=rss------react-5",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Web Development Is Still The Wild, Wild West",
+        "link": "https://medium.com/@ryanewilson/web-development-is-still-the-wild-wild-west-e97a954cd0f9?source=rss------react-5",
+        "date": "2022-11-03"
       }
     ]
   },
@@ -6176,6 +6376,31 @@
         "title": "React Digest Issue #380",
         "link": "https://reactdigest.net/digests/380",
         "date": "2022-10-30"
+      },
+      {
+        "title": "We Improved React Loading Times by 70% with Next.js",
+        "link": "https://reactdigest.net/digests/602",
+        "date": "2022-10-30"
+      },
+      {
+        "title": "Building a chat app with Socket.io and React Native 🤯",
+        "link": "https://reactdigest.net/digests/601",
+        "date": "2022-10-23"
+      },
+      {
+        "title": "RFC: First class support for promises and async/await",
+        "link": "https://reactdigest.net/digests/600",
+        "date": "2022-10-16"
+      },
+      {
+        "title": "Guide to React Rendering Behavior Updated to cover React 18",
+        "link": "https://reactdigest.net/digests/599",
+        "date": "2022-10-09"
+      },
+      {
+        "title": "Get in Zoomer, We're Saving React",
+        "link": "https://reactdigest.net/digests/598",
+        "date": "2022-10-02"
       }
     ]
   },
