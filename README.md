@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-04 12:36，更新条数: +31
+更新时间: 2022-11-05 01:40，更新条数: +21
 
 ## 文章链接
 
@@ -92,6 +92,16 @@
 - [2022-11-04-el-form嵌套为何会导致频繁触发外层表单校验？](https://juejin.cn/post/7161977119306678280) 
 
 - [2022-11-04-自研搭建前端监控平台🔥](https://juejin.cn/post/7161976218626031630) 
+
+- [2022-11-04-老弟想学Web Component，我用Stencil和Dumi整了个简版组件库，他直呼神奇，但唯手熟尔](https://juejin.cn/post/7162167060787642381) 
+
+- [2022-11-04-你会用SVG绘制时间进度条嘛？](https://juejin.cn/post/7162127536820862983) 
+
+- [2022-11-04-关于原型设计在高等教育行业中的运营分析报告](https://juejin.cn/post/7162097850610876430) 
+
+- [2022-11-04-等级用户专属活动上线啦丨写好文，瓜分6万元现金大奖](https://juejin.cn/post/7162096952883019783) 
+
+- [2022-11-04-(必看！！)一文对比Vuex 与 Pinia 的设计实现](https://juejin.cn/post/7162080970357604382) 
 
 - [2022-11-03-深入浅出react（fiber原理解析）](https://juejin.cn/post/7161704351847677983) 
 
@@ -1504,6 +1514,8 @@
 </summary>
 
 
+- [2022-11-04-Is Turbopack really 10x faster than Vite?](https://javascriptweekly.com/issues/613) 
+
 - [2022-10-28-Turbo-charged incremental bundling au Rust](https://javascriptweekly.com/issues/612) 
 
 - [2022-10-21-🪜 Decorating with Dr. Axel](https://javascriptweekly.com/issues/611) 
@@ -1596,6 +1608,8 @@
 </summary>
 
 
+- [2022-11-05-The use of React&#39;s Refs and the source code interpretation of forwardRef](https://medium.com/@pythonlearn1024/the-use-of-react-39-s-refs-and-the-source-code-interpretation-of-forwardref-fde98ac181a8?source=rss------frontend-5) 
+
 - [2022-11-04-Complete interpretation of package.json configuration](https://medium.com/@pythonlearn1024/complete-interpretation-of-package-json-configuration-c6e06379e4f6?source=rss------frontend-5) 
 
 - [2022-11-04-40-word summary of my interview in 2022 (Node, webpack, performance optimization)](https://medium.com/@pythonlearn1024/40-word-summary-of-my-interview-in-2022-node-webpack-performance-optimization-88a6461bd72f?source=rss------frontend-5) 
@@ -1603,6 +1617,16 @@
 - [2022-11-04-Front-end JS handwritten programming question bank, finally open source Github](https://medium.com/@pythonlearn1024/front-end-js-handwritten-programming-question-bank-finally-open-source-github-69da2c80766?source=rss------frontend-5) 
 
 - [2022-11-04-Web3.0 is friendly to the front end?](https://medium.com/@pythonlearn1024/web3-0-is-friendly-to-the-front-end-2a81edb4215d?source=rss------frontend-5) 
+
+- [2022-11-04-Explaining Tech roles to Nigerian parents](https://medium.com/@joyceoguh51/explaining-tech-roles-to-nigerian-parents-c3c3859d1a9f?source=rss------frontend-5) 
+
+- [2022-11-04-Pozició nevezéktan és anomáliák](https://iamdtms.medium.com/pozici%C3%B3-nevez%C3%A9ktan-%C3%A9s-anom%C3%A1li%C3%A1k-3e0f12a9059a?source=rss------frontend-5) 
+
+- [2022-11-04-Approaching Technical Writing as a Beginner](https://medium.com/@aasiyaabubakar/approaching-technical-writing-as-a-beginner-7470f95ccdca?source=rss------frontend-5) 
+
+- [2022-11-04-How do apps like Hotstar, meet keep your screen awake?](https://medium.com/@alokmishra_24225/how-do-apps-like-hotstar-meet-keep-your-screen-awake-ce912ff15296?source=rss------frontend-5) 
+
+- [2022-11-04-You don&#39;t know Whistle yet? Create the most comfortable grab bag environment!](https://medium.com/@pythonlearn1024/you-don-39-t-know-whistle-yet-create-the-most-comfortable-grab-bag-environment-3be75c495b56?source=rss------frontend-5) 
 
 - [2022-11-03-First acquaintance with the three core attributes of React (2) components](https://medium.com/@pythonlearn1024/first-acquaintance-with-the-three-core-attributes-of-react-2-components-f62a3d56b65e?source=rss------frontend-5) 
 
@@ -2043,6 +2067,10 @@
 </summary>
 
 
+- [2022-11-05-The use of React&#39;s Refs and the source code interpretation of forwardRef](https://medium.com/@pythonlearn1024/the-use-of-react-39-s-refs-and-the-source-code-interpretation-of-forwardref-fde98ac181a8?source=rss------react-5) 
+
+- [2022-11-05-Fantastic online Resources for Learning React.js](https://medium.com/@shamilovakamala/fantastic-online-resources-for-learning-react-js-5031d79e6175?source=rss------react-5) 
+
 - [2022-11-04-Next js Developer Portfolio Website With Source Code](https://medium.com/@websoftskills/next-js-developer-portfolio-website-with-source-code-a29ebdd3b749?source=rss------react-5) 
 
 - [2022-11-04-How to settle the React memoization debate](https://medium.com/ryancollinsio/how-to-use-memoization-in-react-6ac93c00418c?source=rss------react-5) 
@@ -2064,6 +2092,20 @@
 - [2022-11-04-Why is React superior to vanilla Javascript?](https://medium.com/@dylandiamond34/why-is-react-superior-to-vanilla-javascript-91be90619f70?source=rss------react-5) 
 
 - [2022-11-04-5 React Cybersecurity Best Practices](https://codylillyw.medium.com/5-react-cybersecurity-best-practices-7ddb515f0a9b?source=rss------react-5) 
+
+- [2022-11-04-React Native Genel Bakış](https://medium.com/@orhann.1512/react-native-genel-bak%C4%B1%C5%9F-86610d736f26?source=rss------react-5) 
+
+- [2022-11-04-Dynamic Tic-Tac-Toe using React-Typescript with MiniMax](https://abiyogaaron.medium.com/dynamic-tic-tac-toe-using-react-typescript-with-minimax-820774742910?source=rss------react-5) 
+
+- [2022-11-04-Working with numbers in ReactJS](https://medium.com/@gdurant34/working-with-numbers-in-reactjs-3da6354637c7?source=rss------react-5) 
+
+- [2022-11-04-Lighthouse — Kafka Visualization](https://medium.com/@christian_70270/lighthouse-kafka-visualization-797acb360d70?source=rss------react-5) 
+
+- [2022-11-04-React App using TypeScript, ESLint, and Prettier](https://medium.com/@joshnav/react-app-using-typescript-eslint-and-prettier-180de72db460?source=rss------react-5) 
+
+- [2022-11-04-React Component Hierarchy](https://medium.com/@ryanpierce_45175/react-component-hierarchy-21289cf8c14e?source=rss------react-5) 
+
+- [2022-11-04-Maintainable React Component](https://medium.com/@rajajaganathan/maintainable-react-component-10f4e4785396?source=rss------react-5) 
 
 - [2022-11-03-What Is the Future of ReactJS?](https://umeshtharukaofficial.medium.com/what-is-the-future-of-reactjs-4191191219c?source=rss------react-5) 
 

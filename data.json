@@ -71,6 +71,11 @@
         "title": "Turbo-charged incremental bundling au Rust",
         "link": "https://javascriptweekly.com/issues/612",
         "date": "2022-10-28"
+      },
+      {
+        "title": "Is Turbopack really 10x faster than Vite?",
+        "link": "https://javascriptweekly.com/issues/613",
+        "date": "2022-11-04"
       }
     ]
   },
@@ -3681,6 +3686,31 @@
         "title": "微前端方案调研",
         "link": "https://juejin.cn/post/7161677082211123207",
         "date": "2022-11-03"
+      },
+      {
+        "title": "老弟想学Web Component，我用Stencil和Dumi整了个简版组件库，他直呼神奇，但唯手熟尔",
+        "link": "https://juejin.cn/post/7162167060787642381",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "你会用SVG绘制时间进度条嘛？",
+        "link": "https://juejin.cn/post/7162127536820862983",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "关于原型设计在高等教育行业中的运营分析报告",
+        "link": "https://juejin.cn/post/7162097850610876430",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "等级用户专属活动上线啦丨写好文，瓜分6万元现金大奖",
+        "link": "https://juejin.cn/post/7162096952883019783",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "(必看！！)一文对比Vuex 与 Pinia 的设计实现",
+        "link": "https://juejin.cn/post/7162080970357604382",
+        "date": "2022-11-04"
       }
     ]
   },
@@ -4780,6 +4810,36 @@
       {
         "title": "Web3.0 is friendly to the front end?",
         "link": "https://medium.com/@pythonlearn1024/web3-0-is-friendly-to-the-front-end-2a81edb4215d?source=rss------frontend-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "The use of React&#39;s Refs and the source code interpretation of forwardRef",
+        "link": "https://medium.com/@pythonlearn1024/the-use-of-react-39-s-refs-and-the-source-code-interpretation-of-forwardref-fde98ac181a8?source=rss------frontend-5",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "Explaining Tech roles to Nigerian parents",
+        "link": "https://medium.com/@joyceoguh51/explaining-tech-roles-to-nigerian-parents-c3c3859d1a9f?source=rss------frontend-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "Pozició nevezéktan és anomáliák",
+        "link": "https://iamdtms.medium.com/pozici%C3%B3-nevez%C3%A9ktan-%C3%A9s-anom%C3%A1li%C3%A1k-3e0f12a9059a?source=rss------frontend-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "Approaching Technical Writing as a Beginner",
+        "link": "https://medium.com/@aasiyaabubakar/approaching-technical-writing-as-a-beginner-7470f95ccdca?source=rss------frontend-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "How do apps like Hotstar, meet keep your screen awake?",
+        "link": "https://medium.com/@alokmishra_24225/how-do-apps-like-hotstar-meet-keep-your-screen-awake-ce912ff15296?source=rss------frontend-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "You don&#39;t know Whistle yet? Create the most comfortable grab bag environment!",
+        "link": "https://medium.com/@pythonlearn1024/you-don-39-t-know-whistle-yet-create-the-most-comfortable-grab-bag-environment-3be75c495b56?source=rss------frontend-5",
         "date": "2022-11-04"
       }
     ]
@@ -6450,6 +6510,51 @@
       {
         "title": "5 React Cybersecurity Best Practices",
         "link": "https://codylillyw.medium.com/5-react-cybersecurity-best-practices-7ddb515f0a9b?source=rss------react-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "The use of React&#39;s Refs and the source code interpretation of forwardRef",
+        "link": "https://medium.com/@pythonlearn1024/the-use-of-react-39-s-refs-and-the-source-code-interpretation-of-forwardref-fde98ac181a8?source=rss------react-5",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "Fantastic online Resources for Learning React.js",
+        "link": "https://medium.com/@shamilovakamala/fantastic-online-resources-for-learning-react-js-5031d79e6175?source=rss------react-5",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "React Native Genel Bakış",
+        "link": "https://medium.com/@orhann.1512/react-native-genel-bak%C4%B1%C5%9F-86610d736f26?source=rss------react-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "Dynamic Tic-Tac-Toe using React-Typescript with MiniMax",
+        "link": "https://abiyogaaron.medium.com/dynamic-tic-tac-toe-using-react-typescript-with-minimax-820774742910?source=rss------react-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "Working with numbers in ReactJS",
+        "link": "https://medium.com/@gdurant34/working-with-numbers-in-reactjs-3da6354637c7?source=rss------react-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "Lighthouse — Kafka Visualization",
+        "link": "https://medium.com/@christian_70270/lighthouse-kafka-visualization-797acb360d70?source=rss------react-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "React App using TypeScript, ESLint, and Prettier",
+        "link": "https://medium.com/@joshnav/react-app-using-typescript-eslint-and-prettier-180de72db460?source=rss------react-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "React Component Hierarchy",
+        "link": "https://medium.com/@ryanpierce_45175/react-component-hierarchy-21289cf8c14e?source=rss------react-5",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "Maintainable React Component",
+        "link": "https://medium.com/@rajajaganathan/maintainable-react-component-10f4e4785396?source=rss------react-5",
         "date": "2022-11-04"
       }
     ]
