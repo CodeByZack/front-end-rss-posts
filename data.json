@@ -246,6 +246,11 @@
         "title": "关于list-style-type项目符号你应该知道的事情",
         "link": "https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/",
         "date": "2022-11-05"
+      },
+      {
+        "title": "Web前端开发中的反向与倒序",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/",
+        "date": "2022-11-06"
       }
     ]
   },
@@ -716,6 +721,11 @@
         "title": "Shopify 收购开源 Web 框架 Remix",
         "link": "https://www.infoq.cn/article/rlQqsVMLw2AleJ8wceEv",
         "date": "2022-11-03"
+      },
+      {
+        "title": "前端又开撕了：用Rust写的Turbopack，比Vite快10倍？",
+        "link": "https://www.infoq.cn/article/wdRX0deAbrI0yl8R4OsC",
+        "date": "2022-11-06"
       }
     ]
   },
@@ -3816,6 +3826,56 @@
         "title": "Concent, born for react -1",
         "link": "https://juejin.cn/post/6844903760112648206",
         "date": "2019-01-12"
+      },
+      {
+        "title": "vite - 多渠道差异化打包插件",
+        "link": "https://juejin.cn/post/7162812410108051464",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "Linux 环境变量",
+        "link": "https://juejin.cn/post/7162788361328361502",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "前端图形学实战: 100行代码实现几何画板的撤销重做等功能(vue3 + vite版)",
+        "link": "https://juejin.cn/post/7162781339920367630",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "理解 Next.js 中的 CSR、SSR、SSG、ISR 以及 Streaming",
+        "link": "https://juejin.cn/post/7162775935828115469",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "计算机底层知识之汇编语言",
+        "link": "https://juejin.cn/post/7162770051853418504",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "你小子,又在偷偷学this指向",
+        "link": "https://juejin.cn/post/7162747517350707213",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "面试高频的ES6中的Map和Set数据结构详解",
+        "link": "https://juejin.cn/post/7162742176684703757",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "SourceMap解析CLI工具实现",
+        "link": "https://juejin.cn/post/7162731769223970830",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "D3(v7)入门六：折线图",
+        "link": "https://juejin.cn/post/7162720725801893901",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "React 为什么会 re-renders",
+        "link": "https://juejin.cn/post/7162717557235908644",
+        "date": "2022-11-06"
       }
     ]
   },
@@ -5016,6 +5076,31 @@
         "title": "Component creation &amp; status update of concent Sao operation",
         "link": "https://medium.com/@pythonlearn1024/component-creation-amp-status-update-of-concent-sao-operation-770b9955529?source=rss------frontend-5",
         "date": "2022-11-05"
+      },
+      {
+        "title": "Regarding the micro-frontend, do you understand the ultimate meaning?",
+        "link": "https://medium.com/@pythonlearn1024/regarding-the-micro-frontend-do-you-understand-the-ultimate-meaning-c3e80f0f389b?source=rss------frontend-5",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "Would you use SVG to draw a time progress bar?",
+        "link": "https://medium.com/@pythonlearn1024/would-you-use-svg-to-draw-a-time-progress-bar-af0ae399a43f?source=rss------frontend-5",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "Complete Roadmap To Become a Frontend Developer In 2023!",
+        "link": "https://medium.com/@CodeWithMasood/complete-roadmap-to-become-a-frontend-developer-in-2023-67c20721fe35?source=rss------frontend-5",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "[Module federation sdk hel-micro tutorial 1] Publish and use remote js library",
+        "link": "https://medium.com/@pythonlearn1024/module-federation-sdk-hel-micro-tutorial-1-publish-and-use-remote-js-library-c452e834262a?source=rss------frontend-5",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "Concent, born for react -1",
+        "link": "https://medium.com/@pythonlearn1024/concent-born-for-react-1-34f40aad193?source=rss------frontend-5",
+        "date": "2022-11-06"
       }
     ]
   },
@@ -6816,6 +6901,41 @@
         "title": "Creating a website in React JS is simple and easy to do!",
         "link": "https://medium.com/@2kubazary/creating-a-website-in-react-js-is-simple-and-easy-to-do-df01576d21b7?source=rss------react-5",
         "date": "2022-11-05"
+      },
+      {
+        "title": "NodeJS and React — Go LIVE in 5 minutes using Render",
+        "link": "https://medium.com/@appseed.us/nodejs-and-react-go-live-in-5-minutes-using-render-324c03163a83?source=rss------react-5",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "Short: The React Virtual DOM",
+        "link": "https://medium.com/@dantes8419/short-the-react-virtual-dom-45527e62c4d4?source=rss------react-5",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "React frontend Rails API backend",
+        "link": "https://medium.com/@yasminarchibald/react-frontend-rails-api-backend-32f58c9cdd55?source=rss------react-5",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "React + Rust + Wasm: Image Processing",
+        "link": "https://guptanikhil.medium.com/react-rust-wasm-image-processing-34acb979e169?source=rss------react-5",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "How to easily add sign-in to your React app with FirebaseUI",
+        "link": "https://fahimahammed-cse.medium.com/how-to-easily-add-sign-in-to-your-react-app-with-firebaseui-77c9031c73bd?source=rss------react-5",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "Let’s simplify the logic of data fetching in your React project with SWR",
+        "link": "https://medium.com/nerd-for-tech/lets-simplify-the-logic-of-data-fetching-in-your-react-project-with-swr-155c00dd54bf?source=rss------react-5",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "Concent, born for react -1",
+        "link": "https://medium.com/@pythonlearn1024/concent-born-for-react-1-34f40aad193?source=rss------react-5",
+        "date": "2022-11-06"
       }
     ]
   },
