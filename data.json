@@ -241,6 +241,11 @@
         "title": "告别pointer-events:none使用HTML inert属性真正禁用",
         "link": "https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/",
         "date": "2022-10-20"
+      },
+      {
+        "title": "关于list-style-type项目符号你应该知道的事情",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/",
+        "date": "2022-11-05"
       }
     ]
   },
@@ -3761,6 +3766,56 @@
         "title": "babel从入门到毁灭系列一",
         "link": "https://juejin.cn/post/7162105884112814117",
         "date": "2022-11-04"
+      },
+      {
+        "title": "关于微前端，你理解到究极奥义了么？",
+        "link": "https://juejin.cn/post/7162539136577404964",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "webpack 编译时样式美化",
+        "link": "https://juejin.cn/post/7162480528548069384",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "【模块联邦sdk hel-micro教程2】本地联调远程js库",
+        "link": "https://juejin.cn/post/7158646033927372836",
+        "date": "2022-10-26"
+      },
+      {
+        "title": "【模块联邦sdk hel-micro教程1】发布和使用远程js库",
+        "link": "https://juejin.cn/post/7157331969305968676",
+        "date": "2022-10-22"
+      },
+      {
+        "title": "concent 骚操作之组件创建&状态更新",
+        "link": "https://juejin.cn/post/6844903986290491405",
+        "date": "2019-11-05"
+      },
+      {
+        "title": "使用concent，渐进式的重构你的react应用吧",
+        "link": "https://juejin.cn/post/6844903925565374472",
+        "date": "2019-08-27"
+      },
+      {
+        "title": "cc版本的react counter，给你不一样的体验",
+        "link": "https://juejin.cn/post/6844903790286471175",
+        "date": "2019-03-05"
+      },
+      {
+        "title": "Concent, born for react -4",
+        "link": "https://juejin.cn/post/6844903780404707341",
+        "date": "2019-02-21"
+      },
+      {
+        "title": "Concent, born for react -3",
+        "link": "https://juejin.cn/post/6844903764080459784",
+        "date": "2019-01-19"
+      },
+      {
+        "title": "Concent, born for react -1",
+        "link": "https://juejin.cn/post/6844903760112648206",
+        "date": "2019-01-12"
       }
     ]
   },
@@ -4940,6 +4995,26 @@
       {
         "title": "Front-end project specification",
         "link": "https://medium.com/@pythonlearn1024/front-end-project-specification-14527c119a45?source=rss------frontend-5",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "Webpack nedir?",
+        "link": "https://uufukttas.medium.com/webpack-nedir-8839d29c0c4a?source=rss------frontend-5",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "The Front of House/Back of House with ActiveModel::Serializers",
+        "link": "https://medium.com/@jedwardmook/the-front-of-house-back-of-house-with-activemodel-serializers-bfa226d00d26?source=rss------frontend-5",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "Shenzhen job hunting for half a month, front-end self-help guide",
+        "link": "https://medium.com/@pythonlearn1024/shenzhen-job-hunting-for-half-a-month-front-end-self-help-guide-578d14269222?source=rss------frontend-5",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "Component creation &amp; status update of concent Sao operation",
+        "link": "https://medium.com/@pythonlearn1024/component-creation-amp-status-update-of-concent-sao-operation-770b9955529?source=rss------frontend-5",
         "date": "2022-11-05"
       }
     ]
@@ -6690,6 +6765,56 @@
       {
         "title": "7 Awesome GitHub Repositories to dig into React.JS",
         "link": "https://blog.bitsrc.io/7-awesome-github-repositories-to-dig-into-react-js-88ab41c089c5?source=rss------react-5",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "POST method for REACT",
+        "link": "https://medium.com/@mikahado/post-method-for-react-44bcd8973895?source=rss------react-5",
+        "date": "2022-11-06"
+      },
+      {
+        "title": "Currying and it’s use in JavaScript",
+        "link": "https://medium.com/@jnsopko/currying-and-its-use-in-javascript-50ff45af8be9?source=rss------react-5",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "React list filtering, sorting cause of great misery",
+        "link": "https://medium.com/@sumanchapai/react-list-filtering-sorting-cause-of-great-misery-f464b608bb07?source=rss------react-5",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "Invite a user to your app with Devise Invitable in a React app with Rails backend",
+        "link": "https://medium.com/@anri.kawahara/invite-a-user-to-your-app-with-devise-invitable-in-a-react-app-with-rails-backend-e965499e46c6?source=rss------react-5",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "You don’t need the framework that builds you a blog in 10 minutes.",
+        "link": "https://medium.com/@noriller/you-dont-need-the-framework-that-builds-you-a-blog-in-10-minutes-bc340e47993c?source=rss------react-5",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "Setting up React, Babel, Webpack, & TypeScript Without Create-React-App",
+        "link": "https://medium.com/@rincon.camilo/setting-up-react-babel-webpack-typescript-without-create-react-app-daf2fa3224aa?source=rss------react-5",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "How to build a robust react form with React-Hook-Form and Material UI",
+        "link": "https://medium.com/@neihed/how-to-build-a-robust-react-form-with-react-hook-form-and-material-ui-8fdb74321d1?source=rss------react-5",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "React Component Life Cycle in just 5 Minutes",
+        "link": "https://medium.com/@am123malikk/react-component-life-cycle-in-just-5-minutes-c1875328d9b3?source=rss------react-5",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "You need to build these 3 react.js projects in 2022!",
+        "link": "https://medium.com/@2kubazary/you-need-to-build-these-3-react-js-projects-in-2022-1a740370593a?source=rss------react-5",
+        "date": "2022-11-05"
+      },
+      {
+        "title": "Creating a website in React JS is simple and easy to do!",
+        "link": "https://medium.com/@2kubazary/creating-a-website-in-react-js-is-simple-and-easy-to-do-df01576d21b7?source=rss------react-5",
         "date": "2022-11-05"
       }
     ]
