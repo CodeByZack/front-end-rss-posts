@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-06 12:31，更新条数: +24
+更新时间: 2022-11-07 01:38，更新条数: +26
 
 ## 文章链接
 
@@ -79,6 +79,14 @@
 
 - [2022-11-06-React 为什么会 re-renders](https://juejin.cn/post/7162717557235908644) 
 
+- [2022-11-06-强化版的uni-app小程序持续集成](https://juejin.cn/post/7162908926764122142) 
+
+- [2022-11-06-十大常见排序算法——附C#代码实现](https://juejin.cn/post/7162897808977035272) 
+
+- [2022-11-06-前端工程师个人的价值在哪里（换一个人能不能做？）【前端晋升必看】](https://juejin.cn/post/7162844191205589005) 
+
+- [2022-11-06-二叉树中和为某一值的路径](https://juejin.cn/post/7162835195899445279) 
+
 - [2022-11-05-十月份火火火的 GitHub 开源项目](https://juejin.cn/post/7162461841027760135) 
 
 - [2022-11-05-本文推荐 4 个开源微信小程序](https://juejin.cn/post/7162461047729684510) 
@@ -96,6 +104,8 @@
 - [2022-11-05-关于微前端，你理解到究极奥义了么？](https://juejin.cn/post/7162539136577404964) 
 
 - [2022-11-05-webpack 编译时样式美化](https://juejin.cn/post/7162480528548069384) 
+
+- [2022-11-05-三维地球可视化从入门到进阶 - Viewer、Scene、Camera、加载第三方影像、地形服务](https://juejin.cn/post/7162520808923856903) 
 
 - [2022-11-04-杂谈：$parent/$children的底层逻辑](https://juejin.cn/post/7162097166725414942) 
 
@@ -1674,6 +1684,8 @@
 </summary>
 
 
+- [2022-11-07-Do you only use the front-end data to bury the SDK?](https://medium.com/@roperluo.me/do-you-only-use-the-front-end-data-to-bury-the-sdk-bb345918c67a?source=rss------frontend-5) 
+
 - [2022-11-06-Regarding the micro-frontend, do you understand the ultimate meaning?](https://medium.com/@pythonlearn1024/regarding-the-micro-frontend-do-you-understand-the-ultimate-meaning-c3e80f0f389b?source=rss------frontend-5) 
 
 - [2022-11-06-Would you use SVG to draw a time progress bar?](https://medium.com/@pythonlearn1024/would-you-use-svg-to-draw-a-time-progress-bar-af0ae399a43f?source=rss------frontend-5) 
@@ -1683,6 +1695,24 @@
 - [2022-11-06-[Module federation sdk hel-micro tutorial 1] Publish and use remote js library](https://medium.com/@pythonlearn1024/module-federation-sdk-hel-micro-tutorial-1-publish-and-use-remote-js-library-c452e834262a?source=rss------frontend-5) 
 
 - [2022-11-06-Concent, born for react -1](https://medium.com/@pythonlearn1024/concent-born-for-react-1-34f40aad193?source=rss------frontend-5) 
+
+- [2022-11-06-webpack compile-time style beautification](https://medium.com/@pythonlearn1024/webpack-compile-time-style-beautification-aed1ea9da56e?source=rss------frontend-5) 
+
+- [2022-11-06-FRONTEND Ortam Kurulumu](https://medium.com/@mutlukodcu/frontend-ortam-kurulumu-3e277397e16c?source=rss------frontend-5) 
+
+- [2022-11-06-The hottest GitHub open source projects in October](https://medium.com/@pythonlearn1024/the-hottest-github-open-source-projects-in-october-b92a56df0b03?source=rss------frontend-5) 
+
+- [2022-11-06-React’a giriş](https://medium.com/@developerxpe/reacta-giri%C5%9F-f4db1eea4e78?source=rss------frontend-5) 
+
+- [2022-11-06-Where is the value of a front-end engineer as an individual (can another person do it?)](https://medium.com/@roperluo.me/where-is-the-value-of-a-front-end-engineer-as-an-individual-can-another-person-do-it-c79ae454cf11?source=rss------frontend-5) 
+
+- [2022-11-06-Issue 125: 4000 custom markers created in the Gaode map](https://medium.com/@pythonlearn1024/issue-125-4000-custom-markers-created-in-the-gaode-map-3bb456e86747?source=rss------frontend-5) 
+
+- [2022-11-06-In-depth understanding of the formation process and application of closures!](https://medium.com/@pythonlearn1024/in-depth-understanding-of-the-formation-process-and-application-of-closures-8947cd394611?source=rss------frontend-5) 
+
+- [2022-11-06-How to configure the front-end engineer development environment](https://medium.com/@pythonlearn1024/how-to-configure-the-front-end-engineer-development-environment-f9a823d0dbed?source=rss------frontend-5) 
+
+- [2022-11-06-The 10 most common JavaScript problems developers face](https://medium.com/@pythonlearn1024/the-10-most-common-javascript-problems-developers-face-958316fcc626?source=rss------frontend-5) 
 
 - [2022-11-05-The use of React&#39;s Refs and the source code interpretation of forwardRef](https://medium.com/@pythonlearn1024/the-use-of-react-39-s-refs-and-the-source-code-interpretation-of-forwardref-fde98ac181a8?source=rss------frontend-5) 
 
@@ -2186,6 +2216,26 @@
 - [2022-11-06-Let’s simplify the logic of data fetching in your React project with SWR](https://medium.com/nerd-for-tech/lets-simplify-the-logic-of-data-fetching-in-your-react-project-with-swr-155c00dd54bf?source=rss------react-5) 
 
 - [2022-11-06-Concent, born for react -1](https://medium.com/@pythonlearn1024/concent-born-for-react-1-34f40aad193?source=rss------react-5) 
+
+- [2022-11-06-I did 100 days of code, and this is what I learned ‍](https://medium.com/@xanhtham.cuc/i-did-100-days-of-code-and-this-is-what-i-learned-17e6a8ddf626?source=rss------react-5) 
+
+- [2022-11-06-How to Deploy a React Monorepo to Netlify Using Lerna and GitHub Actions](https://levelup.gitconnected.com/how-to-deploy-a-react-monorepo-to-netlify-using-lerna-and-github-actions-2a4ff4ad4c84?source=rss------react-5) 
+
+- [2022-11-06-Metro Bundler : Under the hood](https://levelup.gitconnected.com/metro-bundler-under-the-hood-ffa254b5ca9c?source=rss------react-5) 
+
+- [2022-11-06-Learning React & Redux — Part 2](https://waxlyrical.medium.com/learning-react-redux-part-2-288a380845be?source=rss------react-5) 
+
+- [2022-11-06-The cool thing about APIs: a Picsart case study](https://medium.com/@tomideadeoye/the-cool-thing-about-apis-a-picsart-case-study-de4bb28eb5df?source=rss------react-5) 
+
+- [2022-11-06-Improving Instagram Posts in React](https://blog.devgenius.io/improving-instagram-posts-in-react-cea3eec4dbaa?source=rss------react-5) 
+
+- [2022-11-06-Firebase e React — Monitorando e Fazendo Login](https://thiagopetherson.medium.com/firebase-e-react-monitorando-e-fazendo-login-7670da6915cd?source=rss------react-5) 
+
+- [2022-11-06-Shopify App Development (Part 2)](https://medium.com/@jamalsoueidan/shopify-app-development-part-2-35cdc644d1d7?source=rss------react-5) 
+
+- [2022-11-06-Redux in React.js with Redux Toolkit](https://abbasimusab2000.medium.com/redux-in-react-js-with-redux-toolkit-e4eae66150e0?source=rss------react-5) 
+
+- [2022-11-06-React’a giriş](https://medium.com/@developerxpe/reacta-giri%C5%9F-f4db1eea4e78?source=rss------react-5) 
 
 - [2022-11-05-The use of React&#39;s Refs and the source code interpretation of forwardRef](https://medium.com/@pythonlearn1024/the-use-of-react-39-s-refs-and-the-source-code-interpretation-of-forwardref-fde98ac181a8?source=rss------react-5) 
 
@@ -2934,6 +2984,8 @@
  React Digest
 </summary>
 
+
+- [2022-11-06-Build responsive Figma-to-React components with almost no code](https://reactdigest.net/digests/1405) 
 
 - [2022-10-30-React Digest Issue #380](https://reactdigest.net/digests/380) 
 
