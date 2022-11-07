@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-07 01:38，更新条数: +26
+更新时间: 2022-11-07 12:37，更新条数: +39
 
 ## 文章链接
 
@@ -58,6 +58,44 @@
  掘金 前端
 </summary>
 
+
+- [2022-11-07-前端食堂技术周刊第 58 期：TypeScript 4.9 RC、10 月登陆浏览器的新功能、Turbopack 真的比 Vite 快 10 倍吗？](https://juejin.cn/post/7163235734361473055) 
+
+- [2022-11-07-C2D 代码转设计稿是怎么实现的？](https://juejin.cn/post/7163220544253329422) 
+
+- [2022-11-07-Canvas实战：绘制一个时钟](https://juejin.cn/post/7163216209196875812) 
+
+- [2022-11-07-统一开发环境、了解配置原理（上）](https://juejin.cn/post/7163214891740823588) 
+
+- [2022-11-07-React 之 Race Condition](https://juejin.cn/post/7163202327594139679) 
+
+- [2022-11-07-electron 踩坑之旅(六) —— electron 线程解决方案 -Web Worker](https://juejin.cn/post/7163201677493796872) 
+
+- [2022-11-07-万字避坑指南！C++的缺陷与思考（上）](https://juejin.cn/post/7163190266013188103) 
+
+- [2022-11-07-你不知道的 TCP 三次握手（不止于八股）](https://juejin.cn/post/7163184927536578574) 
+
+- [2022-11-07-【React】使用React Hooks开发一个打字小游戏](https://juejin.cn/post/7163167702578626596) 
+
+- [2022-11-07-只使用简单的 JavaScript 创建文件共享型网站](https://juejin.cn/post/7163163900324610079) 
+
+- [2022-11-07-为什么我把项目的状态管理框架从 Provider 升级到了 Riverpod](https://juejin.cn/post/7163158051803889701) 
+
+- [2022-11-07-VS Code For Web 深入浅出 -- Server 模块设计篇](https://juejin.cn/post/7163157651692617765) 
+
+- [2022-11-07-一篇解决内存泄漏问题](https://juejin.cn/post/7163152277056782350) 
+
+- [2022-11-07-npm依赖包的版本锁定原理](https://juejin.cn/post/7163150684747989005) 
+
+- [2022-11-07-前端加载优化之速度优化解决方案](https://juejin.cn/post/7163150168521441287) 
+
+- [2022-11-07-vue2集成JSSDK优化路程](https://juejin.cn/post/7163140186245693477) 
+
+- [2022-11-07-Apache Cordova Android原理与应用](https://juejin.cn/post/7163108849967169543) 
+
+- [2022-11-07-React源码分析7-state计算流程和优先级](https://juejin.cn/post/7163102775578984456) 
+
+- [2022-11-07-从 ECMAScript 认识 JS（章三）：我们到底应该怎样理解作用域查找？](https://juejin.cn/post/7163082079498928159) 
 
 - [2022-11-06-vite - 多渠道差异化打包插件](https://juejin.cn/post/7162812410108051464) 
 
@@ -156,6 +194,8 @@
 - [2022-11-04-带一朋友速通Web Component，用Stencil和Dumi搭了个组件库，他直呼太强，但基操勿六](https://juejin.cn/post/7162167060787642381) 
 
 - [2022-11-04-babel从入门到毁灭系列一](https://juejin.cn/post/7162105884112814117) 
+
+- [2022-11-04-TypeScript高频面试题汇总](https://juejin.cn/post/7162011064819777567) 
 
 - [2022-11-03-深入浅出react（fiber原理解析）](https://juejin.cn/post/7161704351847677983) 
 
@@ -1686,6 +1726,24 @@
 
 - [2022-11-07-Do you only use the front-end data to bury the SDK?](https://medium.com/@roperluo.me/do-you-only-use-the-front-end-data-to-bury-the-sdk-bb345918c67a?source=rss------frontend-5) 
 
+- [2022-11-07-D3 (v7) entry five: histogram](https://medium.com/@pythonlearn1024/d3-v7-entry-five-histogram-6379d5cbf51e?source=rss------frontend-5) 
+
+- [2022-11-07-SourceMap parsing CLI tool implementation](https://medium.com/@pythonlearn1024/sourcemap-parsing-cli-tool-implementation-2edeb7e5c611?source=rss------frontend-5) 
+
+- [2022-11-07-You kid, you&#39;re secretly learning this pointer again](https://medium.com/@pythonlearn1024/you-kid-you-39-re-secretly-learning-this-pointer-again-2474d1481531?source=rss------frontend-5) 
+
+- [2022-11-07-Operational Analysis Report on Prototyping in the Higher Education Industry](https://medium.com/@pythonlearn1024/operational-analysis-report-on-prototyping-in-the-higher-education-industry-c96cedaddd5f?source=rss------frontend-5) 
+
+- [2022-11-07-Babel from entry to destruction series one](https://medium.com/@pythonlearn1024/babel-from-entry-to-destruction-series-one-e173c77f8d74?source=rss------frontend-5) 
+
+- [2022-11-07-Ng-News: Episode 22/44](https://medium.com/ng-news/ng-news-episode-22-44-e4f453615635?source=rss------frontend-5) 
+
+- [2022-11-07-Still not shipping? 30S teaches you](https://medium.com/@pythonlearn1024/still-not-shipping-30s-teaches-you-168b6d67305e?source=rss------frontend-5) 
+
+- [2022-11-07-[module federation sdk hel-micro tutorial 2] local joint debugging of remote js library](https://medium.com/@pythonlearn1024/module-federation-sdk-hel-micro-tutorial-2-local-joint-debugging-of-remote-js-library-89e8e295b199?source=rss------frontend-5) 
+
+- [2022-11-07-Visually understand how React’s Reconciliation & The Diffing Algorithm works.](https://medium.com/@bidas/visually-understand-how-reacts-reconciliation-the-diffing-algorithm-works-bdb13ca16370?source=rss------frontend-5) 
+
 - [2022-11-06-Regarding the micro-frontend, do you understand the ultimate meaning?](https://medium.com/@pythonlearn1024/regarding-the-micro-frontend-do-you-understand-the-ultimate-meaning-c3e80f0f389b?source=rss------frontend-5) 
 
 - [2022-11-06-Would you use SVG to draw a time progress bar?](https://medium.com/@pythonlearn1024/would-you-use-svg-to-draw-a-time-progress-bar-af0ae399a43f?source=rss------frontend-5) 
@@ -2200,6 +2258,26 @@
  React on Medium
 </summary>
 
+
+- [2022-11-07-HOW TO DEPLOY REACT & GO PROJECT ON VPS USING NGINX](https://medium.com/@ayberkdikcinar/how-to-deploy-react-go-project-on-vps-using-nginx-73df7930f85f?source=rss------react-5) 
+
+- [2022-11-07-Best ReactJS Alternatives](https://medium.com/@sophiacara1233/best-reactjs-alternatives-1f0a636ed026?source=rss------react-5) 
+
+- [2022-11-07-Handle async side-effects in React Chrome extension](https://js-dev.medium.com/handle-async-side-effects-in-react-chrome-extension-176ff4680d35?source=rss------react-5) 
+
+- [2022-11-07-Dockerization of your first React + Node.js App](https://medium.com/@bhoomi97/dockerization-of-your-first-react-node-js-app-e8d6d5cec38c?source=rss------react-5) 
+
+- [2022-11-07-Better Logging in Next.js Apps with Pino](https://medium.com/@tatml721/better-logging-in-next-js-apps-with-pino-f973de4dd8dd?source=rss------react-5) 
+
+- [2022-11-07-React Comfort — conditional rendering in react become easier and cleaner.](https://rubenarushanyan.medium.com/react-comfort-conditional-rendering-in-react-become-easier-and-cleaner-c7b1e90c1f00?source=rss------react-5) 
+
+- [2022-11-07-Setting up Sanity with Next 13s app directory & React](https://medium.com/@peterrolfsen/setting-up-sanity-with-next-13s-app-folder-react-507b91b69535?source=rss------react-5) 
+
+- [2022-11-07-Top 9 most popular javascript libraries for front end and back end developer in 2023](https://akchauhan556.medium.com/top-9-most-popular-javascript-libraries-for-front-end-and-back-end-developer-in-2023-4d2718abe29e?source=rss------react-5) 
+
+- [2022-11-07-Props in React](https://mohamadbachirkhoder.medium.com/props-in-react-73d861a0e06?source=rss------react-5) 
+
+- [2022-11-07-Learn React JS by doing — 3](https://medium.com/@hareeshchamarthi/learn-react-js-by-doing-3-72e7ecf5bee0?source=rss------react-5) 
 
 - [2022-11-06-POST method for REACT](https://medium.com/@mikahado/post-method-for-react-44bcd8973895?source=rss------react-5) 
 
