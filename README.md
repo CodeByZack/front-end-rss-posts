@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-08 01:37，更新条数: +30
+更新时间: 2022-11-08 12:39，更新条数: +35
 
 ## 文章链接
 
@@ -58,6 +58,22 @@
  掘金 前端
 </summary>
 
+
+- [2022-11-08-纯前端生成二维码与文字的图片，并批量打包成压缩包下载](https://juejin.cn/post/7163570301882597383) 
+
+- [2022-11-08-【面试指南】前端面试题汇总（66道）--持续更新中···](https://juejin.cn/post/7163559692932186142) 
+
+- [2022-11-08-【超详细】Zod 入门教程](https://juejin.cn/post/7163548790787358756) 
+
+- [2022-11-08-聚沙成塔【45天玩转uni-app】初探uni-app](https://juejin.cn/post/7163543611462647815) 
+
+- [2022-11-08-信仰崩了？Preact 开始采用 Vue3 的响应式设计](https://juejin.cn/post/7163528906539008030) 
+
+- [2022-11-08-数据可视化-SVG动画](https://juejin.cn/post/7163503276602687502) 
+
+- [2022-11-08-react源码中的协调与调度](https://juejin.cn/post/7163467245669056548) 
+
+- [2022-11-08-React源码分析8-状态更新的优先级机制](https://juejin.cn/post/7163447394493792264) 
 
 - [2022-11-07-前端食堂技术周刊第 58 期：TypeScript 4.9 RC、10 月登陆浏览器的新功能、Turbopack 真的比 Vite 快 10 倍吗？](https://juejin.cn/post/7163235734361473055) 
 
@@ -117,6 +133,20 @@
 
 - [2022-11-07-从 ECMAScript 认识 JS（章三）：我们到底应该怎样理解作用域查找](https://juejin.cn/post/7163082079498928159) 
 
+- [2022-11-07-小程序优化之旅(三) -- 预请求优化](https://juejin.cn/post/7163324902689210405) 
+
+- [2022-11-07-【炫丽】从0开始做一个WPF+Blazor对话小程序](https://juejin.cn/post/7163321024681869343) 
+
+- [2022-11-07-使用svg实现一个带加载进度的loading](https://juejin.cn/post/7163306370672885768) 
+
+- [2022-11-07-🐟 🐟 JavaScript执行机制之变量提升](https://juejin.cn/post/7163087221371699230) 
+
+- [2022-11-07-前端全栈之路 - 玩转 Nginx (下)](https://juejin.cn/post/7163081532960309256) 
+
+- [2022-11-07-「React 深入」畅聊React 事件系统（v17、v18版本）](https://juejin.cn/post/7163079446683992100) 
+
+- [2022-11-07-✨从代码复用讲起，专栏阶段性作结，聊聊？](https://juejin.cn/post/7163079295986827294) 
+
 - [2022-11-06-vite - 多渠道差异化打包插件](https://juejin.cn/post/7162812410108051464) 
 
 - [2022-11-06-Linux 环境变量](https://juejin.cn/post/7162788361328361502) 
@@ -144,6 +174,8 @@
 - [2022-11-06-前端工程师个人的价值在哪里（换一个人能不能做？）【前端晋升必看】](https://juejin.cn/post/7162844191205589005) 
 
 - [2022-11-06-二叉树中和为某一值的路径](https://juejin.cn/post/7162835195899445279) 
+
+- [2022-11-06-✨从响应式讲起，Observable：穿个马甲你就不认识啦？（附实战）](https://juejin.cn/post/7163039175158005796) 
 
 - [2022-11-05-十月份火火火的 GitHub 开源项目](https://juejin.cn/post/7162461841027760135) 
 
@@ -1396,6 +1428,8 @@
 </summary>
 
 
+- [2022-11-08-veImageX 演进之路：我用图像压缩算法为公司省了30%成本](https://www.infoq.cn/article/ruW1ETT3VhEVvE6YKe24) 
+
 - [2022-11-06-前端又开撕了：用Rust写的Turbopack，比Vite快10倍？](https://www.infoq.cn/article/wdRX0deAbrI0yl8R4OsC) 
 
 - [2022-11-03-Shopify 收购开源 Web 框架 Remix](https://www.infoq.cn/article/rlQqsVMLw2AleJ8wceEv) 
@@ -1745,6 +1779,22 @@
 
 
 - [2022-11-08-Pure css love code-love code in the recent super hot lighter and princess dress (simple version)](https://medium.com/@pythonlearn1024/pure-css-love-code-love-code-in-the-recent-super-hot-lighter-and-princess-dress-simple-version-1aebc6bdb38?source=rss------frontend-5) 
+
+- [2022-11-08-5 frontend project ideas](https://medium.com/@albericoJr/5-frontend-project-ideas-d6e6353e4664?source=rss------frontend-5) 
+
+- [2022-11-08-Implement a backgammon game with TypeScript type operations](https://medium.com/@pythonlearn1024/implement-a-backgammon-game-with-typescript-type-operations-92b1e0adf406?source=rss------frontend-5) 
+
+- [2022-11-08-Summary of TypeScript high-frequency interview questions](https://medium.com/@pythonlearn1024/summary-of-typescript-high-frequency-interview-questions-a65cda87afc1?source=rss------frontend-5) 
+
+- [2022-11-08-SpriteJS: those things that make the wheels of the graphics library](https://medium.com/@pythonlearn1024/spritejs-those-things-that-make-the-wheels-of-the-graphics-library-31d195d9d339?source=rss------frontend-5) 
+
+- [2022-11-08-A useful CSS property you may not know about: clip-path](https://medium.com/@pythonlearn1024/a-useful-css-property-you-may-not-know-about-clip-path-2454ed460e3b?source=rss------frontend-5) 
+
+- [2022-11-08-background](https://medium.com/@pythonlearn1024/background-59fae55c43b2?source=rss------frontend-5) 
+
+- [2022-11-08-localStorage capacity too small? Try them](https://medium.com/@pythonlearn1024/localstorage-capacity-too-small-try-them-b9b6d8ee6374?source=rss------frontend-5) 
+
+- [2022-11-08-I am back](https://medium.com/@pythonlearn1024/i-am-back-fa2c1bccab36?source=rss------frontend-5) 
 
 - [2022-11-07-Do you only use the front-end data to bury the SDK?](https://medium.com/@roperluo.me/do-you-only-use-the-front-end-data-to-bury-the-sdk-bb345918c67a?source=rss------frontend-5) 
 
@@ -2304,6 +2354,26 @@
 - [2022-11-08-How to use Storybook with Typscript and React !](https://medium.com/@rifat.kazak/how-to-use-storybook-with-typscript-and-react-29fba9118e15?source=rss------react-5) 
 
 - [2022-11-08-5 Core Web Vitals Optimisations That Worked For Us](https://propertyguru.tech/5-core-web-vitals-optimisations-that-worked-for-us-5110537906f0?source=rss------react-5) 
+
+- [2022-11-08-How To Configure HTTPS in a React App on Localhost.](https://merndev.medium.com/how-to-configure-https-in-a-react-app-on-localhost-ac827e8ffe75?source=rss------react-5) 
+
+- [2022-11-08-React Vs React Native- All The Key Differences Explained](https://medium.com/@io.ptymize/react-vs-react-native-all-the-key-differences-explained-5689959f7675?source=rss------react-5) 
+
+- [2022-11-08-End-to-end testing in React Native](https://levelup.gitconnected.com/end-to-end-testing-in-react-native-79d23dbf0168?source=rss------react-5) 
+
+- [2022-11-08-How to Open a Link in a New Tab in React](https://javascript.plainenglish.io/react-open-link-in-new-tab-b48fca2ce86f?source=rss------react-5) 
+
+- [2022-11-08-How Birdie teams build independently using Micro Frontends.](https://medium.com/engineering-at-birdie/how-birdie-teams-build-independently-using-micro-frontends-7792e95bd6e6?source=rss------react-5) 
+
+- [2022-11-08-How to Add a Sign In Button to your React Navbar](https://medium.com/@superflowsapp3/how-to-add-a-sign-in-button-to-your-react-navbar-7981d241e320?source=rss------react-5) 
+
+- [2022-11-08-How effective the Redux is ?](https://medium.com/@karthikavel2000/how-effective-the-redux-is-ee8432b821fd?source=rss------react-5) 
+
+- [2022-11-08-Test Automation in the Front-End](https://lorenzogm.medium.com/test-automation-in-the-front-end-4a03a395f3bc?source=rss------react-5) 
+
+- [2022-11-08-Mobile development — but how? An attempt to find the right approach](https://medium.com/enkronos/mobile-development-but-how-an-attempt-to-find-the-right-approach-2feda9083046?source=rss------react-5) 
+
+- [2022-11-08-11 ошибок при использовании React в 2022](https://medium.com/@catherineriver/11-%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA-%D0%BF%D1%80%D0%B8-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-react-%D0%B2-2022-f2ae797cb963?source=rss------react-5) 
 
 - [2022-11-07-HOW TO DEPLOY REACT & GO PROJECT ON VPS USING NGINX](https://medium.com/@ayberkdikcinar/how-to-deploy-react-go-project-on-vps-using-nginx-73df7930f85f?source=rss------react-5) 
 

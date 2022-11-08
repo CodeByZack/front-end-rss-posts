@@ -726,6 +726,11 @@
         "title": "前端又开撕了：用Rust写的Turbopack，比Vite快10倍？",
         "link": "https://www.infoq.cn/article/wdRX0deAbrI0yl8R4OsC",
         "date": "2022-11-06"
+      },
+      {
+        "title": "veImageX 演进之路：我用图像压缩算法为公司省了30%成本",
+        "link": "https://www.infoq.cn/article/ruW1ETT3VhEVvE6YKe24",
+        "date": "2022-11-08"
       }
     ]
   },
@@ -4051,6 +4056,86 @@
         "title": "从 ECMAScript 认识 JS（章三）：我们到底应该怎样理解作用域查找",
         "link": "https://juejin.cn/post/7163082079498928159",
         "date": "2022-11-07"
+      },
+      {
+        "title": "纯前端生成二维码与文字的图片，并批量打包成压缩包下载",
+        "link": "https://juejin.cn/post/7163570301882597383",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "【面试指南】前端面试题汇总（66道）--持续更新中···",
+        "link": "https://juejin.cn/post/7163559692932186142",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "【超详细】Zod 入门教程",
+        "link": "https://juejin.cn/post/7163548790787358756",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "聚沙成塔【45天玩转uni-app】初探uni-app",
+        "link": "https://juejin.cn/post/7163543611462647815",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "信仰崩了？Preact 开始采用 Vue3 的响应式设计",
+        "link": "https://juejin.cn/post/7163528906539008030",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "数据可视化-SVG动画",
+        "link": "https://juejin.cn/post/7163503276602687502",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "react源码中的协调与调度",
+        "link": "https://juejin.cn/post/7163467245669056548",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "React源码分析8-状态更新的优先级机制",
+        "link": "https://juejin.cn/post/7163447394493792264",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "小程序优化之旅(三) -- 预请求优化",
+        "link": "https://juejin.cn/post/7163324902689210405",
+        "date": "2022-11-07"
+      },
+      {
+        "title": "【炫丽】从0开始做一个WPF+Blazor对话小程序",
+        "link": "https://juejin.cn/post/7163321024681869343",
+        "date": "2022-11-07"
+      },
+      {
+        "title": "使用svg实现一个带加载进度的loading",
+        "link": "https://juejin.cn/post/7163306370672885768",
+        "date": "2022-11-07"
+      },
+      {
+        "title": "🐟 🐟 JavaScript执行机制之变量提升",
+        "link": "https://juejin.cn/post/7163087221371699230",
+        "date": "2022-11-07"
+      },
+      {
+        "title": "前端全栈之路 - 玩转 Nginx (下)",
+        "link": "https://juejin.cn/post/7163081532960309256",
+        "date": "2022-11-07"
+      },
+      {
+        "title": "「React 深入」畅聊React 事件系统（v17、v18版本）",
+        "link": "https://juejin.cn/post/7163079446683992100",
+        "date": "2022-11-07"
+      },
+      {
+        "title": "✨从代码复用讲起，专栏阶段性作结，聊聊？",
+        "link": "https://juejin.cn/post/7163079295986827294",
+        "date": "2022-11-07"
+      },
+      {
+        "title": "✨从响应式讲起，Observable：穿个马甲你就不认识啦？（附实战）",
+        "link": "https://juejin.cn/post/7163039175158005796",
+        "date": "2022-11-06"
       }
     ]
   },
@@ -5421,6 +5506,46 @@
         "title": "Who are Frontend developers:",
         "link": "https://medium.com/@panditg7692/who-are-frontend-developers-3310c75f391a?source=rss------frontend-5",
         "date": "2022-11-07"
+      },
+      {
+        "title": "5 frontend project ideas",
+        "link": "https://medium.com/@albericoJr/5-frontend-project-ideas-d6e6353e4664?source=rss------frontend-5",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "Implement a backgammon game with TypeScript type operations",
+        "link": "https://medium.com/@pythonlearn1024/implement-a-backgammon-game-with-typescript-type-operations-92b1e0adf406?source=rss------frontend-5",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "Summary of TypeScript high-frequency interview questions",
+        "link": "https://medium.com/@pythonlearn1024/summary-of-typescript-high-frequency-interview-questions-a65cda87afc1?source=rss------frontend-5",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "SpriteJS: those things that make the wheels of the graphics library",
+        "link": "https://medium.com/@pythonlearn1024/spritejs-those-things-that-make-the-wheels-of-the-graphics-library-31d195d9d339?source=rss------frontend-5",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "A useful CSS property you may not know about: clip-path",
+        "link": "https://medium.com/@pythonlearn1024/a-useful-css-property-you-may-not-know-about-clip-path-2454ed460e3b?source=rss------frontend-5",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "background",
+        "link": "https://medium.com/@pythonlearn1024/background-59fae55c43b2?source=rss------frontend-5",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "localStorage capacity too small? Try them",
+        "link": "https://medium.com/@pythonlearn1024/localstorage-capacity-too-small-try-them-b9b6d8ee6374?source=rss------frontend-5",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "I am back",
+        "link": "https://medium.com/@pythonlearn1024/i-am-back-fa2c1bccab36?source=rss------frontend-5",
+        "date": "2022-11-08"
       }
     ]
   },
@@ -7406,6 +7531,56 @@
         "title": "Transfer Data from Back-end to Front-end without Sockets? | Server Sent Events (SSE)",
         "link": "https://medium.com/@dillibabukadati/transfer-data-from-back-end-to-front-end-without-sockets-server-sent-events-sse-4a0b54c7eb6e?source=rss------react-5",
         "date": "2022-11-07"
+      },
+      {
+        "title": "How To Configure HTTPS in a React App on Localhost.",
+        "link": "https://merndev.medium.com/how-to-configure-https-in-a-react-app-on-localhost-ac827e8ffe75?source=rss------react-5",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "React Vs React Native- All The Key Differences Explained",
+        "link": "https://medium.com/@io.ptymize/react-vs-react-native-all-the-key-differences-explained-5689959f7675?source=rss------react-5",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "End-to-end testing in React Native",
+        "link": "https://levelup.gitconnected.com/end-to-end-testing-in-react-native-79d23dbf0168?source=rss------react-5",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "How to Open a Link in a New Tab in React",
+        "link": "https://javascript.plainenglish.io/react-open-link-in-new-tab-b48fca2ce86f?source=rss------react-5",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "How Birdie teams build independently using Micro Frontends.",
+        "link": "https://medium.com/engineering-at-birdie/how-birdie-teams-build-independently-using-micro-frontends-7792e95bd6e6?source=rss------react-5",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "How to Add a Sign In Button to your React Navbar",
+        "link": "https://medium.com/@superflowsapp3/how-to-add-a-sign-in-button-to-your-react-navbar-7981d241e320?source=rss------react-5",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "How effective the Redux is ?",
+        "link": "https://medium.com/@karthikavel2000/how-effective-the-redux-is-ee8432b821fd?source=rss------react-5",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "Test Automation in the Front-End",
+        "link": "https://lorenzogm.medium.com/test-automation-in-the-front-end-4a03a395f3bc?source=rss------react-5",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "Mobile development — but how? An attempt to find the right approach",
+        "link": "https://medium.com/enkronos/mobile-development-but-how-an-attempt-to-find-the-right-approach-2feda9083046?source=rss------react-5",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "11 ошибок при использовании React в 2022",
+        "link": "https://medium.com/@catherineriver/11-%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA-%D0%BF%D1%80%D0%B8-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-react-%D0%B2-2022-f2ae797cb963?source=rss------react-5",
+        "date": "2022-11-08"
       }
     ]
   },
