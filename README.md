@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-07 12:37，更新条数: +39
+更新时间: 2022-11-08 01:37，更新条数: +30
 
 ## 文章链接
 
@@ -96,6 +96,26 @@
 - [2022-11-07-React源码分析7-state计算流程和优先级](https://juejin.cn/post/7163102775578984456) 
 
 - [2022-11-07-从 ECMAScript 认识 JS（章三）：我们到底应该怎样理解作用域查找？](https://juejin.cn/post/7163082079498928159) 
+
+- [2022-11-07-CSS 如何实现五彩斑斓的“呼吸字”？速度拿去装杯！😏](https://juejin.cn/post/7163416841354739742) 
+
+- [2022-11-07-🥳🥳🥳Worker中还可以创建多个Worker，打开多线程编程的大门](https://juejin.cn/post/7163281017107644429) 
+
+- [2022-11-07-brython | 笨办法写个连连看-1.核心功能实现](https://juejin.cn/post/7163275811594698759) 
+
+- [2022-11-07-从前端视角看转转售后业务](https://juejin.cn/post/7163272614289506312) 
+
+- [2022-11-07-D3(v7)入门七：饼图、环图、玫瑰图](https://juejin.cn/post/7163265841725866020) 
+
+- [2022-11-07-你不知道的JavaScript-对象篇](https://juejin.cn/post/7163239446501031944) 
+
+- [2022-11-07-一次性弄懂Unicode和UTF-8](https://juejin.cn/post/7163232181463023629) 
+
+- [2022-11-07-第127期：Dart基础知识（类）](https://juejin.cn/post/7163228012698140709) 
+
+- [2022-11-07-你不知道的TCP三次握手：不止于八股文！](https://juejin.cn/post/7163184927536578574) 
+
+- [2022-11-07-从 ECMAScript 认识 JS（章三）：我们到底应该怎样理解作用域查找](https://juejin.cn/post/7163082079498928159) 
 
 - [2022-11-06-vite - 多渠道差异化打包插件](https://juejin.cn/post/7162812410108051464) 
 
@@ -1724,6 +1744,8 @@
 </summary>
 
 
+- [2022-11-08-Pure css love code-love code in the recent super hot lighter and princess dress (simple version)](https://medium.com/@pythonlearn1024/pure-css-love-code-love-code-in-the-recent-super-hot-lighter-and-princess-dress-simple-version-1aebc6bdb38?source=rss------frontend-5) 
+
 - [2022-11-07-Do you only use the front-end data to bury the SDK?](https://medium.com/@roperluo.me/do-you-only-use-the-front-end-data-to-bury-the-sdk-bb345918c67a?source=rss------frontend-5) 
 
 - [2022-11-07-D3 (v7) entry five: histogram](https://medium.com/@pythonlearn1024/d3-v7-entry-five-histogram-6379d5cbf51e?source=rss------frontend-5) 
@@ -1743,6 +1765,24 @@
 - [2022-11-07-[module federation sdk hel-micro tutorial 2] local joint debugging of remote js library](https://medium.com/@pythonlearn1024/module-federation-sdk-hel-micro-tutorial-2-local-joint-debugging-of-remote-js-library-89e8e295b199?source=rss------frontend-5) 
 
 - [2022-11-07-Visually understand how React’s Reconciliation & The Diffing Algorithm works.](https://medium.com/@bidas/visually-understand-how-reacts-reconciliation-the-diffing-algorithm-works-bdb13ca16370?source=rss------frontend-5) 
+
+- [2022-11-07-(번역) 우리가 CSS-in-JS와 헤어지는 이유](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%9A%B0%EB%A6%AC%EA%B0%80-css-in-js%EC%99%80-%ED%97%A4%EC%96%B4%EC%A7%80%EB%8A%94-%EC%9D%B4%EC%9C%A0-a2e726d6ace6?source=rss------frontend-5) 
+
+- [2022-11-07-Understanding CSR, SSR, SSG, ISR and Streaming in Next.js](https://medium.com/@pythonlearn1024/understanding-csr-ssr-ssg-isr-and-streaming-in-next-js-bc8e6f014ec1?source=rss------frontend-5) 
+
+- [2022-11-07-Intro to Doctype](https://medium.com/@shadab78692athar/intro-to-doctype-14d437be3017?source=rss------frontend-5) 
+
+- [2022-11-07-Briefly talk about the caching strategy in Vite development mode](https://medium.com/@pythonlearn1024/briefly-talk-about-the-caching-strategy-in-vite-development-mode-2e2fdc185733?source=rss------frontend-5) 
+
+- [2022-11-07-Enhanced version of uni-app applet continuous integration](https://medium.com/@pythonlearn1024/enhanced-version-of-uni-app-applet-continuous-integration-1f4a7482e789?source=rss------frontend-5) 
+
+- [2022-11-07-Concent, born for react -3](https://medium.com/@pythonlearn1024/concent-born-for-react-3-ab4b8b285132?source=rss------frontend-5) 
+
+- [2022-11-07-Delicious value: ](https://medium.com/@roperluo.me/delicious-value-6b36844773a3?source=rss------frontend-5) 
+
+- [2022-11-07-From a front-end perspective on re-sale and after-sale business](https://medium.com/@roperluo.me/from-a-front-end-perspective-on-re-sale-and-after-sale-business-b7b6ae483a32?source=rss------frontend-5) 
+
+- [2022-11-07-Who are Frontend developers:](https://medium.com/@panditg7692/who-are-frontend-developers-3310c75f391a?source=rss------frontend-5) 
 
 - [2022-11-06-Regarding the micro-frontend, do you understand the ultimate meaning?](https://medium.com/@pythonlearn1024/regarding-the-micro-frontend-do-you-understand-the-ultimate-meaning-c3e80f0f389b?source=rss------frontend-5) 
 
@@ -2259,6 +2299,12 @@
 </summary>
 
 
+- [2022-11-08-크몽 Frontend, 모놀리스 분할의 역사](https://blog.kmong.com/%ED%81%AC%EB%AA%BD-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%AA%A8%EB%86%80%EB%A6%AC%EC%8A%A4-%EB%B6%84%ED%95%A0%EC%9D%98-%EC%97%AD%EC%82%AC-fd14a307bb20?source=rss------react-5) 
+
+- [2022-11-08-How to use Storybook with Typscript and React !](https://medium.com/@rifat.kazak/how-to-use-storybook-with-typscript-and-react-29fba9118e15?source=rss------react-5) 
+
+- [2022-11-08-5 Core Web Vitals Optimisations That Worked For Us](https://propertyguru.tech/5-core-web-vitals-optimisations-that-worked-for-us-5110537906f0?source=rss------react-5) 
+
 - [2022-11-07-HOW TO DEPLOY REACT & GO PROJECT ON VPS USING NGINX](https://medium.com/@ayberkdikcinar/how-to-deploy-react-go-project-on-vps-using-nginx-73df7930f85f?source=rss------react-5) 
 
 - [2022-11-07-Best ReactJS Alternatives](https://medium.com/@sophiacara1233/best-reactjs-alternatives-1f0a636ed026?source=rss------react-5) 
@@ -2278,6 +2324,20 @@
 - [2022-11-07-Props in React](https://mohamadbachirkhoder.medium.com/props-in-react-73d861a0e06?source=rss------react-5) 
 
 - [2022-11-07-Learn React JS by doing — 3](https://medium.com/@hareeshchamarthi/learn-react-js-by-doing-3-72e7ecf5bee0?source=rss------react-5) 
+
+- [2022-11-07-This is how experienced developers cleanse data in React](https://medium.com/we-code-we-write/this-is-how-experienced-developers-cleanse-data-in-react-361d01709492?source=rss------react-5) 
+
+- [2022-11-07-How create a React App with Vite](https://medium.com/@pedr0d1as/how-create-a-react-app-with-vite-4332d8e4d6c4?source=rss------react-5) 
+
+- [2022-11-07-WHAT IS REACT?](https://medium.com/@Mohammadmustafa_44981/what-is-react-e2d759b07102?source=rss------react-5) 
+
+- [2022-11-07-Using GraphQL subscriptions to build more reactive apps](https://medium.com/@devcraft/using-graphql-subscriptions-to-build-more-reactive-apps-74f93a6b8882?source=rss------react-5) 
+
+- [2022-11-07-Learn the TCP/IP Protocol Suite And TCP Three Handshakes](https://javascript.plainenglish.io/learn-the-tcp-ip-protocol-suite-and-tcp-three-handshakes-a4a0f56deb9c?source=rss------react-5) 
+
+- [2022-11-07-Use Any Emoji as a Favicon in Less Than One Minute](https://kr1st1nagr03g3r.medium.com/use-any-emoji-as-a-favicon-in-less-than-one-minute-75d12fdd92d4?source=rss------react-5) 
+
+- [2022-11-07-Transfer Data from Back-end to Front-end without Sockets? | Server Sent Events (SSE)](https://medium.com/@dillibabukadati/transfer-data-from-back-end-to-front-end-without-sockets-server-sent-events-sse-4a0b54c7eb6e?source=rss------react-5) 
 
 - [2022-11-06-POST method for REACT](https://medium.com/@mikahado/post-method-for-react-44bcd8973895?source=rss------react-5) 
 
