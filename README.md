@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-08 12:39，更新条数: +35
+更新时间: 2022-11-09 01:48，更新条数: +28
 
 ## 文章链接
 
@@ -74,6 +74,28 @@
 - [2022-11-08-react源码中的协调与调度](https://juejin.cn/post/7163467245669056548) 
 
 - [2022-11-08-React源码分析8-状态更新的优先级机制](https://juejin.cn/post/7163447394493792264) 
+
+- [2022-11-08-【笔记】Vite+Vue 3+TS 配置记录](https://juejin.cn/post/7163662410312581150) 
+
+- [2022-11-08-第129期：Next.js 和 React 到底该选哪一个？](https://juejin.cn/post/7163660046734196744) 
+
+- [2022-11-08-RichTalk 快报 第 9 期](https://juejin.cn/post/7163615853815005220) 
+
+- [2022-11-08-前端必备的定时任务技能 - Cron + node-schedule](https://juejin.cn/post/7163608389233147918) 
+
+- [2022-11-08-你不知道的JavaScript-异步篇](https://juejin.cn/post/7163591357234151461) 
+
+- [2022-11-08-不买NAS，也能用cpolar搭建私有云盘3 （群晖系统存储空间设置）](https://juejin.cn/post/7163587504560406559) 
+
+- [2022-11-08-不买NAS，也能用cpolar搭建私有云盘2 （安装Synology Assistant）](https://juejin.cn/post/7163587432862973959) 
+
+- [2022-11-08-不买NAS，也能用cpolar搭建私有云盘1 （虚拟机安装群晖）](https://juejin.cn/post/7163587309177634846) 
+
+- [2022-11-08-用cpolar穿透内网 远程访问群晖NAS](https://juejin.cn/post/7163587082198188045) 
+
+- [2022-11-08-蚂蚁互动图形引擎 Oasis Engine v0.9 发布](https://juejin.cn/post/7163575262653710373) 
+
+- [2022-11-08-vue - Vue2兼容低版本浏览器](https://juejin.cn/post/7163566506796810254) 
 
 - [2022-11-07-前端食堂技术周刊第 58 期：TypeScript 4.9 RC、10 月登陆浏览器的新功能、Turbopack 真的比 Vite 快 10 倍吗？](https://juejin.cn/post/7163235734361473055) 
 
@@ -1796,6 +1818,20 @@
 
 - [2022-11-08-I am back](https://medium.com/@pythonlearn1024/i-am-back-fa2c1bccab36?source=rss------frontend-5) 
 
+- [2022-11-08-Unify the development environment and understand the configuration principle (Part 1)](https://medium.com/@pythonlearn1024/unify-the-development-environment-and-understand-the-configuration-principle-part-1-b39afd35b714?source=rss------frontend-5) 
+
+- [2022-11-08-Necessary timing task skills for front-end — Cron + node-schedule](https://medium.com/@roperluo.me/necessary-timing-task-skills-for-front-end-cron-node-schedule-8415103a128?source=rss------frontend-5) 
+
+- [2022-11-08-Detailed explanation of Map and Set data structures in ES6 with high interview frequency](https://medium.com/@pythonlearn1024/detailed-explanation-of-map-and-set-data-structures-in-es6-with-high-interview-frequency-9a068f7125ab?source=rss------frontend-5) 
+
+- [2022-11-08-Front-end full stack road — play with Nginx (below)](https://medium.com/@pythonlearn1024/front-end-full-stack-road-play-with-nginx-below-9132b36e75d3?source=rss------frontend-5) 
+
+- [2022-11-08-Worker can also create multiple Workers, opening the door to multi-threaded programming](https://medium.com/@pythonlearn1024/worker-can-also-create-multiple-workers-opening-the-door-to-multi-threaded-programming-eab302881ef1?source=rss------frontend-5) 
+
+- [2022-11-08-프론트엔드 공부 방법](https://medium.com/@srlee010/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B3%B5%EB%B6%80-%EB%B0%A9%EB%B2%95-cf63d795a0e8?source=rss------frontend-5) 
+
+- [2022-11-08-Integration of Google Maps with React | Part 1](https://medium.com/scalereal/integration-of-google-maps-with-react-part-1-86c075ab452a?source=rss------frontend-5) 
+
 - [2022-11-07-Do you only use the front-end data to bury the SDK?](https://medium.com/@roperluo.me/do-you-only-use-the-front-end-data-to-bury-the-sdk-bb345918c67a?source=rss------frontend-5) 
 
 - [2022-11-07-D3 (v7) entry five: histogram](https://medium.com/@pythonlearn1024/d3-v7-entry-five-histogram-6379d5cbf51e?source=rss------frontend-5) 
@@ -2349,6 +2385,8 @@
 </summary>
 
 
+- [2022-11-09-¿Así que quieres aprender React?](https://medium.com/@abril.nzky77/as%C3%AD-que-quieres-aprender-react-ea7d44664b95?source=rss------react-5) 
+
 - [2022-11-08-크몽 Frontend, 모놀리스 분할의 역사](https://blog.kmong.com/%ED%81%AC%EB%AA%BD-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%AA%A8%EB%86%80%EB%A6%AC%EC%8A%A4-%EB%B6%84%ED%95%A0%EC%9D%98-%EC%97%AD%EC%82%AC-fd14a307bb20?source=rss------react-5) 
 
 - [2022-11-08-How to use Storybook with Typscript and React !](https://medium.com/@rifat.kazak/how-to-use-storybook-with-typscript-and-react-29fba9118e15?source=rss------react-5) 
@@ -2374,6 +2412,24 @@
 - [2022-11-08-Mobile development — but how? An attempt to find the right approach](https://medium.com/enkronos/mobile-development-but-how-an-attempt-to-find-the-right-approach-2feda9083046?source=rss------react-5) 
 
 - [2022-11-08-11 ошибок при использовании React в 2022](https://medium.com/@catherineriver/11-%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA-%D0%BF%D1%80%D0%B8-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-react-%D0%B2-2022-f2ae797cb963?source=rss------react-5) 
+
+- [2022-11-08-My Scrimba Front End Developer Journey — Entry 3](https://medium.com/@markbh/my-scrimba-front-end-developer-journey-entry-3-928844407e71?source=rss------react-5) 
+
+- [2022-11-08-How To Host a React Static Website on Firebase Hosting](https://medium.com/bb-tutorials-and-thoughts/how-to-host-a-react-static-website-on-firebase-hosting-1d79c1e0e56a?source=rss------react-5) 
+
+- [2022-11-08-How to Open a Link in a New Tab Programmatically in React](https://blog.devgenius.io/react-open-link-in-new-tab-programmatically-232824bb5694?source=rss------react-5) 
+
+- [2022-11-08-5 React mistakes I’ve learned to avoid in my coding career](https://medium.com/@elicina/5-reactjs-mistakes-ive-learned-to-avoid-in-my-coding-career-df19ec38c85?source=rss------react-5) 
+
+- [2022-11-08-React](https://medium.com/@mehmet.r.river/react-567552a9a10e?source=rss------react-5) 
+
+- [2022-11-08-Learn React JS in One Month is it possible?](https://medium.com/@yassinehouta/learn-react-js-in-one-month-is-it-possible-3587e2300430?source=rss------react-5) 
+
+- [2022-11-08-React fetch data with orcid API](https://medium.com/@oleksandrvoichyshyn/react-fetch-data-with-orcid-api-1eab82f7b137?source=rss------react-5) 
+
+- [2022-11-08-It’s not late to optimize your React Native Code](https://medium.com/@ebochoradze/its-not-late-to-optimize-your-react-native-code-5468b96e486a?source=rss------react-5) 
+
+- [2022-11-08-How To Structure React Project Files](https://medium.com/@sean.yasno/how-to-structure-react-project-files-87e82fa0fec1?source=rss------react-5) 
 
 - [2022-11-07-HOW TO DEPLOY REACT & GO PROJECT ON VPS USING NGINX](https://medium.com/@ayberkdikcinar/how-to-deploy-react-go-project-on-vps-using-nginx-73df7930f85f?source=rss------react-5) 
 
