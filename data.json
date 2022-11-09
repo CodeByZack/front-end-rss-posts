@@ -456,6 +456,11 @@
         "title": "New patterns for media apps",
         "link": "https://web.dev/new-patterns-for-media-apps/",
         "date": "2022-11-03"
+      },
+      {
+        "title": "GDE community highlight: Lars Knudsen",
+        "link": "https://web.dev/gde-focus-lars-knudsen/",
+        "date": "2022-11-09"
       }
     ]
   },
@@ -4191,6 +4196,101 @@
         "title": "vue - Vue2兼容低版本浏览器",
         "link": "https://juejin.cn/post/7163566506796810254",
         "date": "2022-11-08"
+      },
+      {
+        "title": "如何做出技术和测试都喜欢的需求文档?",
+        "link": "https://juejin.cn/post/7163911738708983845",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "9/10月金选作者公布、Canvas仿明日方舟Logo粒子动画｜掘金一周 11.09",
+        "link": "https://juejin.cn/post/7163906418948390942",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "🐟 🐟包教包会——作用域链+闭包",
+        "link": "https://juejin.cn/post/7163893183804342308",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Web 中的字体和 SVG 图标，你了解多少？",
+        "link": "https://juejin.cn/post/7163889112364089380",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "你不知道的JavaScript-生成器",
+        "link": "https://juejin.cn/post/7163877299538886669",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "详解css中伪元素::before和::after和创意用法",
+        "link": "https://juejin.cn/post/7163867155639828488",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "web前端面试技巧-如何自我介绍？如何应对hr？",
+        "link": "https://juejin.cn/post/7163849862599933983",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "flutter：实现扫码枪获取数据源，禁止系统键盘弹窗",
+        "link": "https://juejin.cn/post/7163845736411430920",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "JS 中异常抛出与处理",
+        "link": "https://juejin.cn/post/7163841597124116516",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "浏览器_知识点精讲",
+        "link": "https://juejin.cn/post/7163838596275765261",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "不使用JavaScript也能直接修改样式，这一波你学废了吗？",
+        "link": "https://juejin.cn/post/7163836963705847822",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "前端架构师的一些思考和总结",
+        "link": "https://juejin.cn/post/7163835739447230501",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "周末考古——ASCIIFlow中文支持探索",
+        "link": "https://juejin.cn/post/7163696728641077284",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "JavaScript中的箭头函数",
+        "link": "https://juejin.cn/post/7163646537006841886",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "TS入门小记（三）TS与高级类型",
+        "link": "https://juejin.cn/post/7163643008255016973",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "规范化构建npm包",
+        "link": "https://juejin.cn/post/7163631242565877768",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "http请求数定量研究--记一次前端深度性能调优的实际案例",
+        "link": "https://juejin.cn/post/7163630871491117087",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "Nginx 中运行 JavaScript",
+        "link": "https://juejin.cn/post/7163569033634119687",
+        "date": "2022-11-08"
+      },
+      {
+        "title": "从零构建自己的SSR同构框架（包含Vite + Vite-plugin-ssr + React + Nest 等内容 )",
+        "link": "https://juejin.cn/post/7163566391881105415",
+        "date": "2022-11-08"
       }
     ]
   },
@@ -5636,6 +5736,46 @@
         "title": "Integration of Google Maps with React | Part 1",
         "link": "https://medium.com/scalereal/integration-of-google-maps-with-react-part-1-86c075ab452a?source=rss------frontend-5",
         "date": "2022-11-08"
+      },
+      {
+        "title": "The interviewer asked me the difference and choice between watch and computed?",
+        "link": "https://medium.com/@pythonlearn1024/the-interviewer-asked-me-the-difference-and-choice-between-watch-and-computed-f7129404423e?source=rss------frontend-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "New Typescript, React and Safari Releases — Frontend News #29",
+        "link": "https://medium.com/liki-blog/new-typescript-react-and-safari-releases-frontend-news-29-5a0446485d82?source=rss------frontend-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Quantitative research on the number of http requests",
+        "link": "https://medium.com/@pythonlearn1024/quantitative-research-on-the-number-of-http-requests-ec8e52d95b10?source=rss------frontend-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "This article is participating “Golden Stone Project. Share 60,000 Cash Prizes”",
+        "link": "https://medium.com/@pythonlearn1024/this-article-is-participating-golden-stone-project-share-60-000-cash-prizes-9244a90bfbbc?source=rss------frontend-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Interviewer: You understand HTTP caching, so how do you implement forced browser refresh?",
+        "link": "https://medium.com/@pythonlearn1024/interviewer-you-understand-http-caching-so-how-do-you-implement-forced-browser-refresh-50efd90cb060?source=rss------frontend-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "How to control the number of concurrent requests?",
+        "link": "https://medium.com/@pythonlearn1024/how-to-control-the-number-of-concurrent-requests-922e1977baa?source=rss------frontend-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "How does CSS achieve colorful &quot;breathing words&quot;? Hurry up and get a cup! ",
+        "link": "https://medium.com/@pythonlearn1024/how-does-css-achieve-colorful-quot-breathing-words-quot-hurry-up-and-get-a-cup-6a6fc6be3dde?source=rss------frontend-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Cerita Studi Independen Bersertifikat Dicoding Batch 2",
+        "link": "https://fityannugroho.medium.com/cerita-studi-independen-bersertifikat-dicoding-batch-2-b882e800aa0b?source=rss------frontend-5",
+        "date": "2022-11-09"
       }
     ]
   },
@@ -7721,6 +7861,56 @@
         "title": "How To Structure React Project Files",
         "link": "https://medium.com/@sean.yasno/how-to-structure-react-project-files-87e82fa0fec1?source=rss------react-5",
         "date": "2022-11-08"
+      },
+      {
+        "title": "7 Useful React Libraries You Should Use in Your Next Project",
+        "link": "https://javascript.plainenglish.io/7-useful-react-libraries-you-should-use-in-your-next-project-29194fbace7a?source=rss------react-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "New Typescript, React and Safari Releases — Frontend News #29",
+        "link": "https://medium.com/liki-blog/new-typescript-react-and-safari-releases-frontend-news-29-5a0446485d82?source=rss------react-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "What’s New in Next.js 13?",
+        "link": "https://javascript.plainenglish.io/whats-new-in-next-js-13-40b79d1e79be?source=rss------react-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "How to Use Three.js And React to Render a 3D Model of Your Self",
+        "link": "https://medium.com/@pa.causa121/how-to-use-three-js-and-react-to-render-a-3d-model-of-your-self-a099d95a52e3?source=rss------react-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Create your own Rich Text Editor in React with Slate.Js (Part-1)",
+        "link": "https://blaze2004.medium.com/create-your-own-rich-text-editor-in-react-with-slate-js-part-1-2f5169278464?source=rss------react-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Creating Protected Route with React Router",
+        "link": "https://medium.com/@burakbalci/creating-protected-route-with-react-router-3ba14cfa4f2b?source=rss------react-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Build A Simple Counter App In React for Beginners",
+        "link": "https://medium.com/@ziontutorial/build-a-simple-counter-app-in-react-for-beginners-4e91d380e0a7?source=rss------react-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Iniz: Makes ReactJS actually reactive",
+        "link": "https://itnext.io/iniz-makes-reactjs-actually-reactive-a25fd873370a?source=rss------react-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Convert Seconds to Date using Moment.js",
+        "link": "https://medium.com/@bijayagyawali70/convert-seconds-to-date-using-moment-js-b635594c6800?source=rss------react-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Six Months Of Learning React-JS",
+        "link": "https://lavizp.medium.com/six-month-of-learning-react-aec06aedb6c3?source=rss------react-5",
+        "date": "2022-11-09"
       }
     ]
   },

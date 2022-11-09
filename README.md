@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-09 01:48，更新条数: +28
+更新时间: 2022-11-09 12:40，更新条数: +38
 
 ## 文章链接
 
@@ -59,6 +59,30 @@
 </summary>
 
 
+- [2022-11-09-如何做出技术和测试都喜欢的需求文档?](https://juejin.cn/post/7163911738708983845) 
+
+- [2022-11-09-9/10月金选作者公布、Canvas仿明日方舟Logo粒子动画｜掘金一周 11.09](https://juejin.cn/post/7163906418948390942) 
+
+- [2022-11-09-🐟 🐟包教包会——作用域链+闭包](https://juejin.cn/post/7163893183804342308) 
+
+- [2022-11-09-Web 中的字体和 SVG 图标，你了解多少？](https://juejin.cn/post/7163889112364089380) 
+
+- [2022-11-09-你不知道的JavaScript-生成器](https://juejin.cn/post/7163877299538886669) 
+
+- [2022-11-09-详解css中伪元素::before和::after和创意用法](https://juejin.cn/post/7163867155639828488) 
+
+- [2022-11-09-web前端面试技巧-如何自我介绍？如何应对hr？](https://juejin.cn/post/7163849862599933983) 
+
+- [2022-11-09-flutter：实现扫码枪获取数据源，禁止系统键盘弹窗](https://juejin.cn/post/7163845736411430920) 
+
+- [2022-11-09-JS 中异常抛出与处理](https://juejin.cn/post/7163841597124116516) 
+
+- [2022-11-09-浏览器_知识点精讲](https://juejin.cn/post/7163838596275765261) 
+
+- [2022-11-09-不使用JavaScript也能直接修改样式，这一波你学废了吗？](https://juejin.cn/post/7163836963705847822) 
+
+- [2022-11-09-前端架构师的一些思考和总结](https://juejin.cn/post/7163835739447230501) 
+
 - [2022-11-08-纯前端生成二维码与文字的图片，并批量打包成压缩包下载](https://juejin.cn/post/7163570301882597383) 
 
 - [2022-11-08-【面试指南】前端面试题汇总（66道）--持续更新中···](https://juejin.cn/post/7163559692932186142) 
@@ -96,6 +120,20 @@
 - [2022-11-08-蚂蚁互动图形引擎 Oasis Engine v0.9 发布](https://juejin.cn/post/7163575262653710373) 
 
 - [2022-11-08-vue - Vue2兼容低版本浏览器](https://juejin.cn/post/7163566506796810254) 
+
+- [2022-11-08-周末考古——ASCIIFlow中文支持探索](https://juejin.cn/post/7163696728641077284) 
+
+- [2022-11-08-JavaScript中的箭头函数](https://juejin.cn/post/7163646537006841886) 
+
+- [2022-11-08-TS入门小记（三）TS与高级类型](https://juejin.cn/post/7163643008255016973) 
+
+- [2022-11-08-规范化构建npm包](https://juejin.cn/post/7163631242565877768) 
+
+- [2022-11-08-http请求数定量研究--记一次前端深度性能调优的实际案例](https://juejin.cn/post/7163630871491117087) 
+
+- [2022-11-08-Nginx 中运行 JavaScript](https://juejin.cn/post/7163569033634119687) 
+
+- [2022-11-08-从零构建自己的SSR同构框架（包含Vite + Vite-plugin-ssr + React + Nest 等内容 )](https://juejin.cn/post/7163566391881105415) 
 
 - [2022-11-07-前端食堂技术周刊第 58 期：TypeScript 4.9 RC、10 月登陆浏览器的新功能、Turbopack 真的比 Vite 快 10 倍吗？](https://juejin.cn/post/7163235734361473055) 
 
@@ -1729,6 +1767,8 @@
 </summary>
 
 
+- [2022-11-09-GDE community highlight: Lars Knudsen](https://web.dev/gde-focus-lars-knudsen/) 
+
 - [2022-11-03-Speedy CSS Tip! Animated Gradient Text](https://web.dev/speedy-css-tip-animated-gradient-text/) 
 
 - [2022-11-03-New patterns for media apps](https://web.dev/new-patterns-for-media-apps/) 
@@ -1799,6 +1839,22 @@
  Frontend on Medium
 </summary>
 
+
+- [2022-11-09-The interviewer asked me the difference and choice between watch and computed?](https://medium.com/@pythonlearn1024/the-interviewer-asked-me-the-difference-and-choice-between-watch-and-computed-f7129404423e?source=rss------frontend-5) 
+
+- [2022-11-09-New Typescript, React and Safari Releases — Frontend News #29](https://medium.com/liki-blog/new-typescript-react-and-safari-releases-frontend-news-29-5a0446485d82?source=rss------frontend-5) 
+
+- [2022-11-09-Quantitative research on the number of http requests](https://medium.com/@pythonlearn1024/quantitative-research-on-the-number-of-http-requests-ec8e52d95b10?source=rss------frontend-5) 
+
+- [2022-11-09-This article is participating “Golden Stone Project. Share 60,000 Cash Prizes”](https://medium.com/@pythonlearn1024/this-article-is-participating-golden-stone-project-share-60-000-cash-prizes-9244a90bfbbc?source=rss------frontend-5) 
+
+- [2022-11-09-Interviewer: You understand HTTP caching, so how do you implement forced browser refresh?](https://medium.com/@pythonlearn1024/interviewer-you-understand-http-caching-so-how-do-you-implement-forced-browser-refresh-50efd90cb060?source=rss------frontend-5) 
+
+- [2022-11-09-How to control the number of concurrent requests?](https://medium.com/@pythonlearn1024/how-to-control-the-number-of-concurrent-requests-922e1977baa?source=rss------frontend-5) 
+
+- [2022-11-09-How does CSS achieve colorful &quot;breathing words&quot;? Hurry up and get a cup! ](https://medium.com/@pythonlearn1024/how-does-css-achieve-colorful-quot-breathing-words-quot-hurry-up-and-get-a-cup-6a6fc6be3dde?source=rss------frontend-5) 
+
+- [2022-11-09-Cerita Studi Independen Bersertifikat Dicoding Batch 2](https://fityannugroho.medium.com/cerita-studi-independen-bersertifikat-dicoding-batch-2-b882e800aa0b?source=rss------frontend-5) 
 
 - [2022-11-08-Pure css love code-love code in the recent super hot lighter and princess dress (simple version)](https://medium.com/@pythonlearn1024/pure-css-love-code-love-code-in-the-recent-super-hot-lighter-and-princess-dress-simple-version-1aebc6bdb38?source=rss------frontend-5) 
 
@@ -2386,6 +2442,26 @@
 
 
 - [2022-11-09-¿Así que quieres aprender React?](https://medium.com/@abril.nzky77/as%C3%AD-que-quieres-aprender-react-ea7d44664b95?source=rss------react-5) 
+
+- [2022-11-09-7 Useful React Libraries You Should Use in Your Next Project](https://javascript.plainenglish.io/7-useful-react-libraries-you-should-use-in-your-next-project-29194fbace7a?source=rss------react-5) 
+
+- [2022-11-09-New Typescript, React and Safari Releases — Frontend News #29](https://medium.com/liki-blog/new-typescript-react-and-safari-releases-frontend-news-29-5a0446485d82?source=rss------react-5) 
+
+- [2022-11-09-What’s New in Next.js 13?](https://javascript.plainenglish.io/whats-new-in-next-js-13-40b79d1e79be?source=rss------react-5) 
+
+- [2022-11-09-How to Use Three.js And React to Render a 3D Model of Your Self](https://medium.com/@pa.causa121/how-to-use-three-js-and-react-to-render-a-3d-model-of-your-self-a099d95a52e3?source=rss------react-5) 
+
+- [2022-11-09-Create your own Rich Text Editor in React with Slate.Js (Part-1)](https://blaze2004.medium.com/create-your-own-rich-text-editor-in-react-with-slate-js-part-1-2f5169278464?source=rss------react-5) 
+
+- [2022-11-09-Creating Protected Route with React Router](https://medium.com/@burakbalci/creating-protected-route-with-react-router-3ba14cfa4f2b?source=rss------react-5) 
+
+- [2022-11-09-Build A Simple Counter App In React for Beginners](https://medium.com/@ziontutorial/build-a-simple-counter-app-in-react-for-beginners-4e91d380e0a7?source=rss------react-5) 
+
+- [2022-11-09-Iniz: Makes ReactJS actually reactive](https://itnext.io/iniz-makes-reactjs-actually-reactive-a25fd873370a?source=rss------react-5) 
+
+- [2022-11-09-Convert Seconds to Date using Moment.js](https://medium.com/@bijayagyawali70/convert-seconds-to-date-using-moment-js-b635594c6800?source=rss------react-5) 
+
+- [2022-11-09-Six Months Of Learning React-JS](https://lavizp.medium.com/six-month-of-learning-react-aec06aedb6c3?source=rss------react-5) 
 
 - [2022-11-08-크몽 Frontend, 모놀리스 분할의 역사](https://blog.kmong.com/%ED%81%AC%EB%AA%BD-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%AA%A8%EB%86%80%EB%A6%AC%EC%8A%A4-%EB%B6%84%ED%95%A0%EC%9D%98-%EC%97%AD%EC%82%AC-fd14a307bb20?source=rss------react-5) 
 
