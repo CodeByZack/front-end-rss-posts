@@ -461,6 +461,11 @@
         "title": "GDE community highlight: Lars Knudsen",
         "link": "https://web.dev/gde-focus-lars-knudsen/",
         "date": "2022-11-09"
+      },
+      {
+        "title": "Community highlight: Olutimilehin Olushuyi",
+        "link": "https://web.dev/community-highlight-shuyi/",
+        "date": "2022-11-09"
       }
     ]
   },
@@ -4291,6 +4296,66 @@
         "title": "从零构建自己的SSR同构框架（包含Vite + Vite-plugin-ssr + React + Nest 等内容 )",
         "link": "https://juejin.cn/post/7163566391881105415",
         "date": "2022-11-08"
+      },
+      {
+        "title": "Docker 安装 MongoDB 6.x 详解",
+        "link": "https://juejin.cn/post/7164047485306929183",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "学习一个用于线框组件和HTML元素的调试插件",
+        "link": "https://juejin.cn/post/7164042775351017486",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "学习用于Vue 3/2的简易数字格式库",
+        "link": "https://juejin.cn/post/7164042291190398983",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "新 CSS 属性 offset-path 使元素沿着不规则路径运动",
+        "link": "https://juejin.cn/post/7164024405280948231",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "码上掘金之 rawUrl 功能",
+        "link": "https://juejin.cn/post/7164016902837764132",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "配置化表单FormRender初尝试",
+        "link": "https://juejin.cn/post/7164008040138539021",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "当你有了技术深度，很可能也同时有了技术广度",
+        "link": "https://juejin.cn/post/7164007268952834084",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "聊聊低代码海报平台的服务端技术选型",
+        "link": "https://juejin.cn/post/7163985518311505951",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Javascript 如何获取字符串的宽度？",
+        "link": "https://juejin.cn/post/7163981351501168677",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Vuex使用详解",
+        "link": "https://juejin.cn/post/7163940876014583821",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "雪球跨端架构建设之跨端容器篇",
+        "link": "https://juejin.cn/post/7163938672474062885",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "React 之 Suspense",
+        "link": "https://juejin.cn/post/7163934860694781989",
+        "date": "2022-11-09"
       }
     ]
   },
@@ -5775,6 +5840,41 @@
       {
         "title": "Cerita Studi Independen Bersertifikat Dicoding Batch 2",
         "link": "https://fityannugroho.medium.com/cerita-studi-independen-bersertifikat-dicoding-batch-2-b882e800aa0b?source=rss------frontend-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Ant Interactive Graphics Engine Oasis Engine v0.9 released",
+        "link": "https://medium.com/@pythonlearn1024/ant-interactive-graphics-engine-oasis-engine-v0-9-released-41564955b6af?source=rss------frontend-5",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "The Function of Crypto Influencer Marketing in the Blockchain Industry",
+        "link": "https://medium.com/@thebadwriter/the-function-of-crypto-influencer-marketing-in-the-blockchain-industry-cadfecab4494?source=rss------frontend-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "A popular online tool is reverse image search.",
+        "link": "https://medium.com/@thebadwriter/a-popular-online-tool-is-reverse-image-search-46e7383f18a6?source=rss------frontend-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Don’t be afraid to reduce",
+        "link": "https://medium.com/@ted.sczelecki/dont-be-afraid-to-reduce-19adee391d5f?source=rss------frontend-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Speed ​​optimization solution for front-end loading optimization",
+        "link": "https://medium.com/@pythonlearn1024/speed-optimization-solution-for-front-end-loading-optimization-39d7bab24ab0?source=rss------frontend-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "VITE + REACT ENTEGRASYONU",
+        "link": "https://medium.com/@yusufakcekoce/vite-react-entegrasyonu-ca65a8313936?source=rss------frontend-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "useState the most important React hook",
+        "link": "https://medium.com/@Luciano.S/usestate-the-most-important-react-hook-9c68c64be01f?source=rss------frontend-5",
         "date": "2022-11-09"
       }
     ]
@@ -7911,6 +8011,56 @@
         "title": "Six Months Of Learning React-JS",
         "link": "https://lavizp.medium.com/six-month-of-learning-react-aec06aedb6c3?source=rss------react-5",
         "date": "2022-11-09"
+      },
+      {
+        "title": "O que acontece com o StrictMode no React?",
+        "link": "https://unicorncoder.medium.com/o-que-acontece-com-o-strictmode-no-react-89795b1a8f8e?source=rss------react-5",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "5 Best Places to Learn React.js in 2023",
+        "link": "https://medium.com/@yuridem/5-best-places-to-learn-react-js-in-2023-fac7841383a4?source=rss------react-5",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "Practical React Patterns : Dynamic Styling",
+        "link": "https://medium.com/@ngrato/practical-react-patterns-dynamic-styling-2e4b700dbdac?source=rss------react-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Have you ever tried to use your Kotlin code in React project? If not you should!",
+        "link": "https://medium.com/@vladiachuk/have-you-ever-tried-to-use-your-kotlin-code-in-react-project-if-not-you-should-d2facbf144d6?source=rss------react-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Introduction to React Hook Form",
+        "link": "https://medium.com/@tepes_alexandru/introduction-to-react-hook-form-1adddb7017d6?source=rss------react-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "onChange event handler for multiple inputs",
+        "link": "https://medium.com/@kozlareknicholas/onchange-event-handler-for-multiple-inputs-eefa826624e6?source=rss------react-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "REACT ‘E BAŞLAMAK",
+        "link": "https://medium.com/@mehmet.r.river/react-e-ba%C5%9Flamak-97156ef702b0?source=rss------react-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Understanding State for Beginners",
+        "link": "https://medium.com/@billfl93/understanding-state-for-beginners-e60c314af5f5?source=rss------react-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "A super quick introduction to React",
+        "link": "https://medium.com/@vimfinn/a-super-quick-introduction-to-react-9828e2c8d764?source=rss------react-5",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "Import WebAssembly in create-react-app 5",
+        "link": "https://medium.com/@georgemarcus92/import-webassembly-in-create-react-app-5-b5c3f9215b82?source=rss------react-5",
+        "date": "2022-11-09"
       }
     ]
   },
@@ -7951,6 +8101,11 @@
         "title": "Going from Figma to React, responsively",
         "link": "https://react.statuscode.com/issues/312",
         "date": "2022-11-02"
+      },
+      {
+        "title": "Gatsby 5 - faster than ever before",
+        "link": "https://react.statuscode.com/issues/313",
+        "date": "2022-11-09"
       }
     ]
   },
