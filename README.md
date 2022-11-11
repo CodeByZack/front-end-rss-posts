@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-10 12:38，更新条数: +39
+更新时间: 2022-11-11 01:41，更新条数: +33
 
 ## 文章链接
 
@@ -93,6 +93,28 @@
 
 - [2022-11-10-🔥🔥异形工厂 更新和修复BUG](https://juejin.cn/post/7164181085473996813) 
 
+- [2022-11-10-涨姿势了，这 4 个场景可用 CSS 完全取代 JS ~](https://juejin.cn/post/7164527444731363336) 
+
+- [2022-11-10-第131期：Dart类型和类型推断](https://juejin.cn/post/7164423040959250469) 
+
+- [2022-11-10-使用 CSS mask 对图像应用遮罩效果](https://juejin.cn/post/7164411148136087565) 
+
+- [2022-11-10-TypeScript 类型体操：合并映射类型的处理结果为联合类型](https://juejin.cn/post/7164407257151569956) 
+
+- [2022-11-10-Web 实时通信技术WebRTC](https://juejin.cn/post/7164407041799225358) 
+
+- [2022-11-10-React 之从视觉暂留到 FPS、刷新率再到显卡、垂直同步再到16ms的故事](https://juejin.cn/post/7164394153848078350) 
+
+- [2022-11-10-基于CSS mask和clip-path实现切角的技巧](https://juejin.cn/post/7164374695691681828) 
+
+- [2022-11-10-你不知道的JavaScript-闭包篇](https://juejin.cn/post/7164368699858616351) 
+
+- [2022-11-10-JavaScript 中的声明提升](https://juejin.cn/post/7164361677104742436) 
+
+- [2022-11-10-关于字典项(下拉列表)在前后端的实践思考](https://juejin.cn/post/7164357890759737352) 
+
+- [2022-11-10-Vue3实现文章内容中多个"关键词"标记高亮显示](https://juejin.cn/post/7164335340696633374) 
+
 - [2022-11-09-如何做出技术和测试都喜欢的需求文档?](https://juejin.cn/post/7163911738708983845) 
 
 - [2022-11-09-9/10月金选作者公布、Canvas仿明日方舟Logo粒子动画｜掘金一周 11.09](https://juejin.cn/post/7163906418948390942) 
@@ -146,6 +168,14 @@
 - [2022-11-09-css3动画+svg实现水球进度条](https://juejin.cn/post/7164050832181166094) 
 
 - [2022-11-09-可拖动的穿梭框组件CustormTransfer.vue](https://juejin.cn/post/7164039204261855268) 
+
+- [2022-11-09-OpenGL教程（三）](https://juejin.cn/post/7164038617731366926) 
+
+- [2022-11-09-手写 useState 真的好麻烦啊！为什么不写一个vscode 插件帮你生成？](https://juejin.cn/post/7163934832207069191) 
+
+- [2022-11-09-一次搞懂数据大屏适配方案 (vw vh、rem、scale)](https://juejin.cn/post/7163932925955112996) 
+
+- [2022-11-09-关于Vue-Router4路由导航守卫的全面解析](https://juejin.cn/post/7163844983290593294) 
 
 - [2022-11-08-纯前端生成二维码与文字的图片，并批量打包成压缩包下载](https://juejin.cn/post/7163570301882597383) 
 
@@ -1552,6 +1582,10 @@
 </summary>
 
 
+- [2022-11-10-我们如何使用 Next.js 将 React 加载时间缩短 70%](https://www.infoq.cn/article/9G0lBWi2W58114ggfyge) 
+
+- [2022-11-09-Node.js中的关注点分离](https://www.infoq.cn/article/wCEHqZ87ib6wQcNdAsRC) 
+
 - [2022-11-08-veImageX 演进之路：我用图像压缩算法为公司省了30%成本](https://www.infoq.cn/article/ruW1ETT3VhEVvE6YKe24) 
 
 - [2022-11-06-前端又开撕了：用Rust写的Turbopack，比Vite快10倍？](https://www.infoq.cn/article/wdRX0deAbrI0yl8R4OsC) 
@@ -1676,6 +1710,8 @@
 </summary>
 
 
+- [2022-11-11-科技爱好者周刊（第 230 期）：电子产品的用电量](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html) 
+
 - [2022-11-04-科技爱好者周刊（第 229 期）：手机充电问题的解决](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html) 
 
 - [2022-10-28-科技爱好者周刊（第 228 期）：人类和人生的意义](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html) 
@@ -1784,6 +1820,8 @@
  Node Weekly
 </summary>
 
+
+- [2022-11-10-It's all about security](https://nodeweekly.com/issues/462) 
 
 - [2022-11-03-Getting Rusty with Node, but in a good way](https://nodeweekly.com/issues/461) 
 
@@ -1927,6 +1965,16 @@
 - [2022-11-10-[Notes] Vite+Vue 3+TS configuration record](https://medium.com/@pythonlearn1024/notes-vite-vue-3-ts-configuration-record-c437e065f3dd?source=rss------frontend-5) 
 
 - [2022-11-10-The number of characters in this book is 4500+, and the reading time is about 12 minutes.](https://medium.com/@pythonlearn1024/the-number-of-characters-in-this-book-is-4500-and-the-reading-time-is-about-12-minutes-5a654cd7a170?source=rss------frontend-5) 
+
+- [2022-11-10-How create a Hight Order Components (HOC) in React](https://medium.com/@nicolamela_66998/how-create-a-hight-order-components-hoc-in-react-f5312ff100aa?source=rss------frontend-5) 
+
+- [2022-11-10-Best WebStorm Shortcuts You Need To Know](https://medium.com/@nicolamela_66998/best-webstorm-shortcuts-you-need-to-know-60534055ad7f?source=rss------frontend-5) 
+
+- [2022-11-10-H5 perfectly realizes Taobao&#39;s physical return key to close the pop-up window](https://medium.com/@pythonlearn1024/h5-perfectly-realizes-taobao-39-s-physical-return-key-to-close-the-pop-up-window-fd6f9bc838e2?source=rss------frontend-5) 
+
+- [2022-11-10-Tips to secure the Nginx server- should every DovOps know-](https://medium.com/@ladoui.bilal/tips-to-secure-nginx-server-should-every-dovops-know-ae76cd4bf7d7?source=rss------frontend-5) 
+
+- [2022-11-10-Flutter — Clean Architecture](https://medium.com/@mirko.rapisarda/flutter-clean-architecture-719d01ccc11d?source=rss------frontend-5) 
 
 - [2022-11-09-The interviewer asked me the difference and choice between watch and computed?](https://medium.com/@pythonlearn1024/the-interviewer-asked-me-the-difference-and-choice-between-watch-and-computed-f7129404423e?source=rss------frontend-5) 
 
@@ -2541,6 +2589,8 @@
 </summary>
 
 
+- [2022-11-11-[DevOps]Docker Series — Local dev ReactJS & Nginx setup](https://kaizendev.medium.com/devops-docker-series-local-dev-reactjs-nginx-setup-c7b55b8e3c7d?source=rss------react-5) 
+
 - [2022-11-10-O que acontece com o StrictMode no React?](https://unicorncoder.medium.com/o-que-acontece-com-o-strictmode-no-react-89795b1a8f8e?source=rss------react-5) 
 
 - [2022-11-10-5 Best Places to Learn React.js in 2023](https://medium.com/@yuridem/5-best-places-to-learn-react-js-in-2023-fac7841383a4?source=rss------react-5) 
@@ -2562,6 +2612,22 @@
 - [2022-11-10-Vite — Frontend Tooling](https://medium.com/yavar/vite-frontend-tooling-3eeea3c8625d?source=rss------react-5) 
 
 - [2022-11-10-How to Check for Malware in your NPM Packages](https://dpericich.medium.com/how-to-check-for-malware-in-your-npm-packages-a246e437132f?source=rss------react-5) 
+
+- [2022-11-10-Fix Cors Problem in 2 Simple Steps](https://medium.com/@shay2442/fix-cors-problem-in-2-simple-steps-1435e46c3a5b?source=rss------react-5) 
+
+- [2022-11-10-Integrating TradingView Charting Library with React.js](https://medium.com/@amadghorbani/integrating-tradingview-charting-library-with-react-js-e499d8343425?source=rss------react-5) 
+
+- [2022-11-10-GitHub CI/CD for multi-environment deployment on Firebase multiple sites](https://thizizrid.medium.com/github-ci-cd-for-multi-environment-deployment-on-firebase-multiple-sites-43f53d4849fd?source=rss------react-5) 
+
+- [2022-11-10-How to quickly setup multiple Graphql endpoints in Apollo Client and Codegen [React]](https://hartaniyassir.medium.com/how-to-quickly-setup-multiple-graphql-endpoints-in-apollo-client-and-codegen-react-24bba2e2f941?source=rss------react-5) 
+
+- [2022-11-10-HELLO WORLD](https://medium.com/@mehmet.r.river/hello-world-64e5bb5c9743?source=rss------react-5) 
+
+- [2022-11-10-My React project is a mess.](https://medium.embengineering.com/my-react-project-is-a-mess-debc45fa45af?source=rss------react-5) 
+
+- [2022-11-10-Building a beautiful Kanban board with Node.js, React, and Websockets  ✨](https://medium.com/@pa.causa121/building-a-beautiful-kanban-board-with-node-js-react-and-websockets-179696ab67e7?source=rss------react-5) 
+
+- [2022-11-10-Building a Login System using Redux](https://medium.com/@danielonugha0/building-a-login-system-using-redux-c5ffea9b4f70?source=rss------react-5) 
 
 - [2022-11-09-¿Así que quieres aprender React?](https://medium.com/@abril.nzky77/as%C3%AD-que-quieres-aprender-react-ea7d44664b95?source=rss------react-5) 
 

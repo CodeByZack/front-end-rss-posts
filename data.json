@@ -36,6 +36,11 @@
         "title": "Getting Rusty with Node, but in a good way",
         "link": "https://nodeweekly.com/issues/461",
         "date": "2022-11-03"
+      },
+      {
+        "title": "It's all about security",
+        "link": "https://nodeweekly.com/issues/462",
+        "date": "2022-11-10"
       }
     ]
   },
@@ -296,6 +301,11 @@
         "title": "科技爱好者周刊（第 229 期）：手机充电问题的解决",
         "link": "http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html",
         "date": "2022-11-04"
+      },
+      {
+        "title": "科技爱好者周刊（第 230 期）：电子产品的用电量",
+        "link": "http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html",
+        "date": "2022-11-11"
       }
     ]
   },
@@ -741,6 +751,16 @@
         "title": "veImageX 演进之路：我用图像压缩算法为公司省了30%成本",
         "link": "https://www.infoq.cn/article/ruW1ETT3VhEVvE6YKe24",
         "date": "2022-11-08"
+      },
+      {
+        "title": "我们如何使用 Next.js 将 React 加载时间缩短 70%",
+        "link": "https://www.infoq.cn/article/9G0lBWi2W58114ggfyge",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "Node.js中的关注点分离",
+        "link": "https://www.infoq.cn/article/wCEHqZ87ib6wQcNdAsRC",
+        "date": "2022-11-09"
       }
     ]
   },
@@ -4456,6 +4476,81 @@
         "title": "可拖动的穿梭框组件CustormTransfer.vue",
         "link": "https://juejin.cn/post/7164039204261855268",
         "date": "2022-11-09"
+      },
+      {
+        "title": "涨姿势了，这 4 个场景可用 CSS 完全取代 JS ~",
+        "link": "https://juejin.cn/post/7164527444731363336",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "第131期：Dart类型和类型推断",
+        "link": "https://juejin.cn/post/7164423040959250469",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "使用 CSS mask 对图像应用遮罩效果",
+        "link": "https://juejin.cn/post/7164411148136087565",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "TypeScript 类型体操：合并映射类型的处理结果为联合类型",
+        "link": "https://juejin.cn/post/7164407257151569956",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "Web 实时通信技术WebRTC",
+        "link": "https://juejin.cn/post/7164407041799225358",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "React 之从视觉暂留到 FPS、刷新率再到显卡、垂直同步再到16ms的故事",
+        "link": "https://juejin.cn/post/7164394153848078350",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "基于CSS mask和clip-path实现切角的技巧",
+        "link": "https://juejin.cn/post/7164374695691681828",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "你不知道的JavaScript-闭包篇",
+        "link": "https://juejin.cn/post/7164368699858616351",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "JavaScript 中的声明提升",
+        "link": "https://juejin.cn/post/7164361677104742436",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "关于字典项(下拉列表)在前后端的实践思考",
+        "link": "https://juejin.cn/post/7164357890759737352",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "Vue3实现文章内容中多个\"关键词\"标记高亮显示",
+        "link": "https://juejin.cn/post/7164335340696633374",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "OpenGL教程（三）",
+        "link": "https://juejin.cn/post/7164038617731366926",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "手写 useState 真的好麻烦啊！为什么不写一个vscode 插件帮你生成？",
+        "link": "https://juejin.cn/post/7163934832207069191",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "一次搞懂数据大屏适配方案 (vw vh、rem、scale)",
+        "link": "https://juejin.cn/post/7163932925955112996",
+        "date": "2022-11-09"
+      },
+      {
+        "title": "关于Vue-Router4路由导航守卫的全面解析",
+        "link": "https://juejin.cn/post/7163844983290593294",
+        "date": "2022-11-09"
       }
     ]
   },
@@ -6025,6 +6120,31 @@
       {
         "title": "The number of characters in this book is 4500+, and the reading time is about 12 minutes.",
         "link": "https://medium.com/@pythonlearn1024/the-number-of-characters-in-this-book-is-4500-and-the-reading-time-is-about-12-minutes-5a654cd7a170?source=rss------frontend-5",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "How create a Hight Order Components (HOC) in React",
+        "link": "https://medium.com/@nicolamela_66998/how-create-a-hight-order-components-hoc-in-react-f5312ff100aa?source=rss------frontend-5",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "Best WebStorm Shortcuts You Need To Know",
+        "link": "https://medium.com/@nicolamela_66998/best-webstorm-shortcuts-you-need-to-know-60534055ad7f?source=rss------frontend-5",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "H5 perfectly realizes Taobao&#39;s physical return key to close the pop-up window",
+        "link": "https://medium.com/@pythonlearn1024/h5-perfectly-realizes-taobao-39-s-physical-return-key-to-close-the-pop-up-window-fd6f9bc838e2?source=rss------frontend-5",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "Tips to secure the Nginx server- should every DovOps know-",
+        "link": "https://medium.com/@ladoui.bilal/tips-to-secure-nginx-server-should-every-dovops-know-ae76cd4bf7d7?source=rss------frontend-5",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "Flutter — Clean Architecture",
+        "link": "https://medium.com/@mirko.rapisarda/flutter-clean-architecture-719d01ccc11d?source=rss------frontend-5",
         "date": "2022-11-10"
       }
     ]
@@ -8255,6 +8375,51 @@
       {
         "title": "How to Check for Malware in your NPM Packages",
         "link": "https://dpericich.medium.com/how-to-check-for-malware-in-your-npm-packages-a246e437132f?source=rss------react-5",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "[DevOps]Docker Series — Local dev ReactJS & Nginx setup",
+        "link": "https://kaizendev.medium.com/devops-docker-series-local-dev-reactjs-nginx-setup-c7b55b8e3c7d?source=rss------react-5",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "Fix Cors Problem in 2 Simple Steps",
+        "link": "https://medium.com/@shay2442/fix-cors-problem-in-2-simple-steps-1435e46c3a5b?source=rss------react-5",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "Integrating TradingView Charting Library with React.js",
+        "link": "https://medium.com/@amadghorbani/integrating-tradingview-charting-library-with-react-js-e499d8343425?source=rss------react-5",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "GitHub CI/CD for multi-environment deployment on Firebase multiple sites",
+        "link": "https://thizizrid.medium.com/github-ci-cd-for-multi-environment-deployment-on-firebase-multiple-sites-43f53d4849fd?source=rss------react-5",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "How to quickly setup multiple Graphql endpoints in Apollo Client and Codegen [React]",
+        "link": "https://hartaniyassir.medium.com/how-to-quickly-setup-multiple-graphql-endpoints-in-apollo-client-and-codegen-react-24bba2e2f941?source=rss------react-5",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "HELLO WORLD",
+        "link": "https://medium.com/@mehmet.r.river/hello-world-64e5bb5c9743?source=rss------react-5",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "My React project is a mess.",
+        "link": "https://medium.embengineering.com/my-react-project-is-a-mess-debc45fa45af?source=rss------react-5",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "Building a beautiful Kanban board with Node.js, React, and Websockets  ✨",
+        "link": "https://medium.com/@pa.causa121/building-a-beautiful-kanban-board-with-node-js-react-and-websockets-179696ab67e7?source=rss------react-5",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "Building a Login System using Redux",
+        "link": "https://medium.com/@danielonugha0/building-a-login-system-using-redux-c5ffea9b4f70?source=rss------react-5",
         "date": "2022-11-10"
       }
     ]
