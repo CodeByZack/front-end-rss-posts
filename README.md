@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-12 01:36，更新条数: +31
+更新时间: 2022-11-12 12:30，更新条数: +28
 
 ## 文章链接
 
@@ -59,6 +59,14 @@
 </summary>
 
 
+- [2022-11-12-Electron 企业级应用开发实战（一）](https://juejin.cn/post/7164985606463258638) 
+
+- [2022-11-12-比vuex更好用的Pinia,pinia模块化如何实现?pinia如何实现数据持久化?](https://juejin.cn/post/7164957663522979848) 
+
+- [2022-11-12-手把手教你轻松手写防抖和节流🔥](https://juejin.cn/post/7164939151668674596) 
+
+- [2022-11-12-CSS + JS = JSS , 这个库你知道吗？](https://juejin.cn/post/7164920679748337701) 
+
 - [2022-11-11-CSS 的各种遮罩，让图片和背景更加多元化](https://juejin.cn/post/7164655860986150925) 
 
 - [2022-11-11-Shader从入门到放弃 —— Shader编程简介及坐标系绘制](https://juejin.cn/post/7164635658084941837) 
@@ -102,6 +110,18 @@
 - [2022-11-11-记一次 hooks 闭包陷阱问题](https://juejin.cn/post/7164694515587448863) 
 
 - [2022-11-11-解锁vue3 diff算法](https://juejin.cn/post/7164684701502799879) 
+
+- [2022-11-11-Antd 表单中使用自定义编辑器](https://juejin.cn/post/7164867599816196126) 
+
+- [2022-11-11-第132期：第二次CodeReview梳理的几个问题](https://juejin.cn/post/7164793631184797704) 
+
+- [2022-11-11-技术周报·前端框架的趋势与实践](https://juejin.cn/post/7164790138323599367) 
+
+- [2022-11-11-Canvas实战：2D点球大战](https://juejin.cn/post/7164777208509431838) 
+
+- [2022-11-11-Vue内置组件之KeepAlive原理](https://juejin.cn/post/7164746776765792270) 
+
+- [2022-11-11-TypeScript由浅到深](https://juejin.cn/post/7164709495833100325) 
 
 - [2022-11-10-多图彻底搞懂vue2 diff算法](https://juejin.cn/post/7164323495155859464) 
 
@@ -2002,6 +2022,26 @@
 
 - [2022-11-12-Technology Weekly Trends and Practices of Front-End Frameworks](https://medium.com/@roperluo.me/technology-weekly-trends-and-practices-of-front-end-frameworks-cdf471d95f68?source=rss------frontend-5) 
 
+- [2022-11-12-NLW Copa — Trilha Explorer](https://alexandresantosal.medium.com/nlw-copa-trilha-explorer-f14b186e5222?source=rss------frontend-5) 
+
+- [2022-11-12-Recommend 20 open source front-end low-code projects](https://medium.com/@pythonlearn1024/recommend-20-open-source-front-end-low-code-projects-cc43113bf8b4?source=rss------frontend-5) 
+
+- [2022-11-12-Deep dive into FrontEnd Part 1:](https://medium.com/@gvipul890/deep-dive-into-frontend-part-1-79b69ffb0cea?source=rss------frontend-5) 
+
+- [2022-11-12-Performance experience optimization practice of 95min App&#39;s large front-end product details…](https://medium.com/@pythonlearn1024/performance-experience-optimization-practice-of-95min-app-39-s-large-front-end-product-details-550eab35e2df?source=rss------frontend-5) 
+
+- [2022-11-12-Use Canvas to make full screen heart and text animation](https://medium.com/@pythonlearn1024/use-canvas-to-make-full-screen-heart-and-text-animation-91750972ed65?source=rss------frontend-5) 
+
+- [2022-11-12- Package Teaching Package — Scope Chain + Closure](https://medium.com/@pythonlearn1024/package-teaching-package-scope-chain-closure-c9f31ced8958?source=rss------frontend-5) 
+
+- [2022-11-12-Handwriting useState is really troublesome! Why not write a vscode plugin to generate it for you?](https://medium.com/@pythonlearn1024/handwriting-usestate-is-really-troublesome-why-not-write-a-vscode-plugin-to-generate-it-for-you-f41fa4e8caee?source=rss------frontend-5) 
+
+- [2022-11-12-TypeScript Type Gymnastics: merging mapped types result in union type](https://medium.com/@pythonlearn1024/typescript-type-gymnastics-merging-mapped-types-result-in-union-type-21973276092a?source=rss------frontend-5) 
+
+- [2022-11-12-Vue3 implements the highlighting of multiple &quot;keyword&quot; tags in the article content](https://medium.com/@pythonlearn1024/vue3-implements-the-highlighting-of-multiple-quot-keyword-quot-tags-in-the-article-content-1cf49beda8cf?source=rss------frontend-5) 
+
+- [2022-11-12-Apply a mask effect to an image using CSS mask](https://medium.com/@pythonlearn1024/apply-a-mask-effect-to-an-image-using-css-mask-12b8c4aeb367?source=rss------frontend-5) 
+
 - [2022-11-11-Time to interact over RUM](https://medium.com/@arati.anand.bhandare/time-to-interact-over-rum-8b7deefd1e9f?source=rss------frontend-5) 
 
 - [2022-11-11-The extension of vscode you don&#39;t know | Code positioning](https://medium.com/@pythonlearn1024/the-extension-of-vscode-you-don-39-t-know-code-positioning-a4b260f98662?source=rss------frontend-5) 
@@ -2674,6 +2714,22 @@
  React on Medium
 </summary>
 
+
+- [2022-11-12-React Native ile Basit Bir Çalışma: Note App](https://medium.com/@zehratok/react-native-ile-basit-bir-%C3%A7al%C4%B1%C5%9Fma-note-app-27c5a41e7a2?source=rss------react-5) 
+
+- [2022-11-12-Starting with Docker : Development Environnement](https://medium.com/@socarboni/starting-with-docker-development-environnement-b15dc046e120?source=rss------react-5) 
+
+- [2022-11-12-Why to Stop Using “&&” for Conditional Rendering in React](https://medium.com/@saurabh.bhadkaria/why-to-stop-using-for-conditional-rendering-in-react-2457bc445eb7?source=rss------react-5) 
+
+- [2022-11-12-3 ways to render a React component for specific times](https://medium.com/@shunsuke.hioki.dev/3-ways-to-render-a-react-component-for-specific-times-55f5e1105e5b?source=rss------react-5) 
+
+- [2022-11-12-How to Write More Reusable Code?](https://itnext.io/how-to-write-more-reusable-code-73f936283eff?source=rss------react-5) 
+
+- [2022-11-12-5 Awesome Projects every frontend developer should build in 2022](https://medium.com/@piyushkesarwani72/5-awesome-projects-every-frontend-developer-should-build-in-2022-bebe96513e43?source=rss------react-5) 
+
+- [2022-11-12-CallBack as props](https://medium.com/@aravindariharan/callback-as-props-2473ff744f1b?source=rss------react-5) 
+
+- [2022-11-12-Pass State as Props](https://medium.com/@aravindariharan/pass-state-as-props-fe3ca75d042f?source=rss------react-5) 
 
 - [2022-11-11-[DevOps]Docker Series — Local dev ReactJS & Nginx setup](https://kaizendev.medium.com/devops-docker-series-local-dev-reactjs-nginx-setup-c7b55b8e3c7d?source=rss------react-5) 
 

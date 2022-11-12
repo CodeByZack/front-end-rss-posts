@@ -4681,6 +4681,56 @@
         "title": "95分App大前端商品详情页性能体验优化实践",
         "link": "https://juejin.cn/post/7163464205125812231",
         "date": "2022-11-08"
+      },
+      {
+        "title": "Electron 企业级应用开发实战（一）",
+        "link": "https://juejin.cn/post/7164985606463258638",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "比vuex更好用的Pinia,pinia模块化如何实现?pinia如何实现数据持久化?",
+        "link": "https://juejin.cn/post/7164957663522979848",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "手把手教你轻松手写防抖和节流🔥",
+        "link": "https://juejin.cn/post/7164939151668674596",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "CSS + JS = JSS , 这个库你知道吗？",
+        "link": "https://juejin.cn/post/7164920679748337701",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "Antd 表单中使用自定义编辑器",
+        "link": "https://juejin.cn/post/7164867599816196126",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "第132期：第二次CodeReview梳理的几个问题",
+        "link": "https://juejin.cn/post/7164793631184797704",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "技术周报·前端框架的趋势与实践",
+        "link": "https://juejin.cn/post/7164790138323599367",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "Canvas实战：2D点球大战",
+        "link": "https://juejin.cn/post/7164777208509431838",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "Vue内置组件之KeepAlive原理",
+        "link": "https://juejin.cn/post/7164746776765792270",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "TypeScript由浅到深",
+        "link": "https://juejin.cn/post/7164709495833100325",
+        "date": "2022-11-11"
       }
     ]
   },
@@ -6361,6 +6411,56 @@
         "title": "Como DOCKERIZAR una aplicación en Angular V14",
         "link": "https://medium.com/@leytor/como-dockerizar-una-aplicaci%C3%B3n-en-angular-v14-a0f96e489cf8?source=rss------frontend-5",
         "date": "2022-11-11"
+      },
+      {
+        "title": "NLW Copa — Trilha Explorer",
+        "link": "https://alexandresantosal.medium.com/nlw-copa-trilha-explorer-f14b186e5222?source=rss------frontend-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "Recommend 20 open source front-end low-code projects",
+        "link": "https://medium.com/@pythonlearn1024/recommend-20-open-source-front-end-low-code-projects-cc43113bf8b4?source=rss------frontend-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "Deep dive into FrontEnd Part 1:",
+        "link": "https://medium.com/@gvipul890/deep-dive-into-frontend-part-1-79b69ffb0cea?source=rss------frontend-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "Performance experience optimization practice of 95min App&#39;s large front-end product details…",
+        "link": "https://medium.com/@pythonlearn1024/performance-experience-optimization-practice-of-95min-app-39-s-large-front-end-product-details-550eab35e2df?source=rss------frontend-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "Use Canvas to make full screen heart and text animation",
+        "link": "https://medium.com/@pythonlearn1024/use-canvas-to-make-full-screen-heart-and-text-animation-91750972ed65?source=rss------frontend-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": " Package Teaching Package — Scope Chain + Closure",
+        "link": "https://medium.com/@pythonlearn1024/package-teaching-package-scope-chain-closure-c9f31ced8958?source=rss------frontend-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "Handwriting useState is really troublesome! Why not write a vscode plugin to generate it for you?",
+        "link": "https://medium.com/@pythonlearn1024/handwriting-usestate-is-really-troublesome-why-not-write-a-vscode-plugin-to-generate-it-for-you-f41fa4e8caee?source=rss------frontend-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "TypeScript Type Gymnastics: merging mapped types result in union type",
+        "link": "https://medium.com/@pythonlearn1024/typescript-type-gymnastics-merging-mapped-types-result-in-union-type-21973276092a?source=rss------frontend-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "Vue3 implements the highlighting of multiple &quot;keyword&quot; tags in the article content",
+        "link": "https://medium.com/@pythonlearn1024/vue3-implements-the-highlighting-of-multiple-quot-keyword-quot-tags-in-the-article-content-1cf49beda8cf?source=rss------frontend-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "Apply a mask effect to an image using CSS mask",
+        "link": "https://medium.com/@pythonlearn1024/apply-a-mask-effect-to-an-image-using-css-mask-12b8c4aeb367?source=rss------frontend-5",
+        "date": "2022-11-12"
       }
     ]
   },
@@ -8736,6 +8836,46 @@
         "title": "All you need to know about REACT.",
         "link": "https://medium.com/@r789ana/all-you-need-to-know-about-react-a7209a95dad8?source=rss------react-5",
         "date": "2022-11-11"
+      },
+      {
+        "title": "React Native ile Basit Bir Çalışma: Note App",
+        "link": "https://medium.com/@zehratok/react-native-ile-basit-bir-%C3%A7al%C4%B1%C5%9Fma-note-app-27c5a41e7a2?source=rss------react-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "Starting with Docker : Development Environnement",
+        "link": "https://medium.com/@socarboni/starting-with-docker-development-environnement-b15dc046e120?source=rss------react-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "Why to Stop Using “&&” for Conditional Rendering in React",
+        "link": "https://medium.com/@saurabh.bhadkaria/why-to-stop-using-for-conditional-rendering-in-react-2457bc445eb7?source=rss------react-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "3 ways to render a React component for specific times",
+        "link": "https://medium.com/@shunsuke.hioki.dev/3-ways-to-render-a-react-component-for-specific-times-55f5e1105e5b?source=rss------react-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "How to Write More Reusable Code?",
+        "link": "https://itnext.io/how-to-write-more-reusable-code-73f936283eff?source=rss------react-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "5 Awesome Projects every frontend developer should build in 2022",
+        "link": "https://medium.com/@piyushkesarwani72/5-awesome-projects-every-frontend-developer-should-build-in-2022-bebe96513e43?source=rss------react-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "CallBack as props",
+        "link": "https://medium.com/@aravindariharan/callback-as-props-2473ff744f1b?source=rss------react-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "Pass State as Props",
+        "link": "https://medium.com/@aravindariharan/pass-state-as-props-fe3ca75d042f?source=rss------react-5",
+        "date": "2022-11-12"
       }
     ]
   },
