@@ -771,6 +771,16 @@
         "title": "Node.js中的关注点分离",
         "link": "https://www.infoq.cn/article/wCEHqZ87ib6wQcNdAsRC",
         "date": "2022-11-09"
+      },
+      {
+        "title": "马斯克称Twitter有可能破产；Meta 暴裁 1.1 万人，小扎承认犯了错；GitHub 年度报告：印度开发者增速超中国 ｜ Q资讯",
+        "link": "https://www.infoq.cn/article/Ojfj6eMPF4Peip2wb5H8",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "Emotion库维护者解释为什么Spot公司不再使用运行时CSS-in-JS",
+        "link": "https://www.infoq.cn/article/TUxYLuzuUFdsy1EQkTIm",
+        "date": "2022-11-12"
       }
     ]
   },
@@ -4731,6 +4741,31 @@
         "title": "TypeScript由浅到深",
         "link": "https://juejin.cn/post/7164709495833100325",
         "date": "2022-11-11"
+      },
+      {
+        "title": "利用框架Render特性，我做了一个与业界不一样的低代码且跨平台的UI SDK。",
+        "link": "https://juejin.cn/post/7165143717602820132",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "适合编程初学者的开源博客系统（鸿蒙ArkUI版）",
+        "link": "https://juejin.cn/post/7165141969813897253",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "D3(v7)入门七：堆叠数据与柱状图",
+        "link": "https://juejin.cn/post/7165132784602726414",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "用状态机实现一个云构建平台",
+        "link": "https://juejin.cn/post/7165077122841575454",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "JS如何使用localStorage实现计数器功能",
+        "link": "https://juejin.cn/post/7165072598307438629",
+        "date": "2022-11-12"
       }
     ]
   },
@@ -6460,6 +6495,26 @@
       {
         "title": "Apply a mask effect to an image using CSS mask",
         "link": "https://medium.com/@pythonlearn1024/apply-a-mask-effect-to-an-image-using-css-mask-12b8c4aeb367?source=rss------frontend-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "ES6 classes talk about the behavioral pattern of JavaScript design patterns (1)",
+        "link": "https://medium.com/@pythonlearn1024/es6-classes-talk-about-the-behavioral-pattern-of-javascript-design-patterns-1-875da45b2e27?source=rss------frontend-5",
+        "date": "2022-11-13"
+      },
+      {
+        "title": "CSS + JS = JSS , do you know this library?",
+        "link": "https://medium.com/@pythonlearn1024/css-js-jss-do-you-know-this-library-6159ea3b7532?source=rss------frontend-5",
+        "date": "2022-11-13"
+      },
+      {
+        "title": "Elm — a beautiful language for web development",
+        "link": "https://medium.com/@happybits/elm-a-beautiful-language-for-web-development-bc06fd0b570f?source=rss------frontend-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "自學之路學習資源大集合",
+        "link": "https://freddyluo1997.medium.com/%E8%87%AA%E5%AD%B8%E4%B9%8B%E8%B7%AF%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90%E5%A4%A7%E9%9B%86%E5%90%88-76239223a953?source=rss------frontend-5",
         "date": "2022-11-12"
       }
     ]
@@ -8875,6 +8930,56 @@
       {
         "title": "Pass State as Props",
         "link": "https://medium.com/@aravindariharan/pass-state-as-props-fe3ca75d042f?source=rss------react-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "Redux Cheatsheet and Basic Setup with Sagas (Q&A — Concepts You Need to Know to Pass Tech…",
+        "link": "https://hanwenzhang123.medium.com/redux-cheatsheet-and-basic-setup-with-sagas-q-a-concepts-you-need-to-know-to-pass-tech-7f4792c7ec81?source=rss------react-5",
+        "date": "2022-11-13"
+      },
+      {
+        "title": "Inspirational React.JS Project Structure!",
+        "link": "https://arbaz5256.medium.com/inspirational-react-js-project-structure-662b0d4e9c1a?source=rss------react-5",
+        "date": "2022-11-13"
+      },
+      {
+        "title": "Implementation and usecases of Currying in JS, TS and React",
+        "link": "https://medium.com/little-things-web/implementation-and-usecases-of-currying-in-js-ts-and-react-5223a604c799?source=rss------react-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "Storing logged-in user information with useContext (React)",
+        "link": "https://medium.com/@higgins.fred.s/storing-logged-in-user-information-with-usecontext-react-6d4965ff6641?source=rss------react-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "Best Folder Structure for React Apps in 2022",
+        "link": "https://nagibaba.medium.com/best-folder-structure-for-react-apps-in-2022-c1a34c52a01e?source=rss------react-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "Dependency injection in React. P",
+        "link": "https://medium.com/@e178551/dependency-injection-in-react-p-7e47c65e4fb2?source=rss------react-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "I’ll help you with you JS/React/Vue/Angular code FOR FREE",
+        "link": "https://medium.com/@aifos.si.prahs/ill-help-you-with-you-js-react-vue-angular-code-for-free-47c84a90b28e?source=rss------react-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "AWS Amplify Localization Tutorial",
+        "link": "https://enrico-portolan.medium.com/aws-amplify-localization-tutorial-49e4a19c7209?source=rss------react-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "What does parseInt does?",
+        "link": "https://medium.com/@karthyv/what-does-parseint-does-58880e20f45f?source=rss------react-5",
+        "date": "2022-11-12"
+      },
+      {
+        "title": "[ios app project] Let’s find an interesting meetup!",
+        "link": "https://medium.com/@yabbee0828/ios-app-project-lets-find-an-interesting-meetup-ba64791f4469?source=rss------react-5",
         "date": "2022-11-12"
       }
     ]

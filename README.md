@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-12 12:30，更新条数: +28
+更新时间: 2022-11-13 01:36，更新条数: +21
 
 ## 文章链接
 
@@ -66,6 +66,16 @@
 - [2022-11-12-手把手教你轻松手写防抖和节流🔥](https://juejin.cn/post/7164939151668674596) 
 
 - [2022-11-12-CSS + JS = JSS , 这个库你知道吗？](https://juejin.cn/post/7164920679748337701) 
+
+- [2022-11-12-利用框架Render特性，我做了一个与业界不一样的低代码且跨平台的UI SDK。](https://juejin.cn/post/7165143717602820132) 
+
+- [2022-11-12-适合编程初学者的开源博客系统（鸿蒙ArkUI版）](https://juejin.cn/post/7165141969813897253) 
+
+- [2022-11-12-D3(v7)入门七：堆叠数据与柱状图](https://juejin.cn/post/7165132784602726414) 
+
+- [2022-11-12-用状态机实现一个云构建平台](https://juejin.cn/post/7165077122841575454) 
+
+- [2022-11-12-JS如何使用localStorage实现计数器功能](https://juejin.cn/post/7165072598307438629) 
 
 - [2022-11-11-CSS 的各种遮罩，让图片和背景更加多元化](https://juejin.cn/post/7164655860986150925) 
 
@@ -1650,6 +1660,10 @@
 </summary>
 
 
+- [2022-11-12-马斯克称Twitter有可能破产；Meta 暴裁 1.1 万人，小扎承认犯了错；GitHub 年度报告：印度开发者增速超中国 ｜ Q资讯](https://www.infoq.cn/article/Ojfj6eMPF4Peip2wb5H8) 
+
+- [2022-11-12-Emotion库维护者解释为什么Spot公司不再使用运行时CSS-in-JS](https://www.infoq.cn/article/TUxYLuzuUFdsy1EQkTIm) 
+
 - [2022-11-10-我们如何使用 Next.js 将 React 加载时间缩短 70%](https://www.infoq.cn/article/9G0lBWi2W58114ggfyge) 
 
 - [2022-11-09-Node.js中的关注点分离](https://www.infoq.cn/article/wCEHqZ87ib6wQcNdAsRC) 
@@ -2016,6 +2030,10 @@
 </summary>
 
 
+- [2022-11-13-ES6 classes talk about the behavioral pattern of JavaScript design patterns (1)](https://medium.com/@pythonlearn1024/es6-classes-talk-about-the-behavioral-pattern-of-javascript-design-patterns-1-875da45b2e27?source=rss------frontend-5) 
+
+- [2022-11-13-CSS + JS = JSS , do you know this library?](https://medium.com/@pythonlearn1024/css-js-jss-do-you-know-this-library-6159ea3b7532?source=rss------frontend-5) 
+
 - [2022-11-12-The posture is up, these 4 scenarios can completely replace JS with CSS ~](https://medium.com/@pythonlearn1024/the-posture-is-up-these-4-scenarios-can-completely-replace-js-with-css-d9faa90083a1?source=rss------frontend-5) 
 
 - [2022-11-12-Don&#39;t want to buy a web server? Then use ngrok to publish web pages](https://medium.com/@pythonlearn1024/don-39-t-want-to-buy-a-web-server-then-use-ngrok-to-publish-web-pages-224e1c78e7b0?source=rss------frontend-5) 
@@ -2041,6 +2059,10 @@
 - [2022-11-12-Vue3 implements the highlighting of multiple &quot;keyword&quot; tags in the article content](https://medium.com/@pythonlearn1024/vue3-implements-the-highlighting-of-multiple-quot-keyword-quot-tags-in-the-article-content-1cf49beda8cf?source=rss------frontend-5) 
 
 - [2022-11-12-Apply a mask effect to an image using CSS mask](https://medium.com/@pythonlearn1024/apply-a-mask-effect-to-an-image-using-css-mask-12b8c4aeb367?source=rss------frontend-5) 
+
+- [2022-11-12-Elm — a beautiful language for web development](https://medium.com/@happybits/elm-a-beautiful-language-for-web-development-bc06fd0b570f?source=rss------frontend-5) 
+
+- [2022-11-12-自學之路學習資源大集合](https://freddyluo1997.medium.com/%E8%87%AA%E5%AD%B8%E4%B9%8B%E8%B7%AF%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90%E5%A4%A7%E9%9B%86%E5%90%88-76239223a953?source=rss------frontend-5) 
 
 - [2022-11-11-Time to interact over RUM](https://medium.com/@arati.anand.bhandare/time-to-interact-over-rum-8b7deefd1e9f?source=rss------frontend-5) 
 
@@ -2715,6 +2737,10 @@
 </summary>
 
 
+- [2022-11-13-Redux Cheatsheet and Basic Setup with Sagas (Q&A — Concepts You Need to Know to Pass Tech…](https://hanwenzhang123.medium.com/redux-cheatsheet-and-basic-setup-with-sagas-q-a-concepts-you-need-to-know-to-pass-tech-7f4792c7ec81?source=rss------react-5) 
+
+- [2022-11-13-Inspirational React.JS Project Structure!](https://arbaz5256.medium.com/inspirational-react-js-project-structure-662b0d4e9c1a?source=rss------react-5) 
+
 - [2022-11-12-React Native ile Basit Bir Çalışma: Note App](https://medium.com/@zehratok/react-native-ile-basit-bir-%C3%A7al%C4%B1%C5%9Fma-note-app-27c5a41e7a2?source=rss------react-5) 
 
 - [2022-11-12-Starting with Docker : Development Environnement](https://medium.com/@socarboni/starting-with-docker-development-environnement-b15dc046e120?source=rss------react-5) 
@@ -2730,6 +2756,22 @@
 - [2022-11-12-CallBack as props](https://medium.com/@aravindariharan/callback-as-props-2473ff744f1b?source=rss------react-5) 
 
 - [2022-11-12-Pass State as Props](https://medium.com/@aravindariharan/pass-state-as-props-fe3ca75d042f?source=rss------react-5) 
+
+- [2022-11-12-Implementation and usecases of Currying in JS, TS and React](https://medium.com/little-things-web/implementation-and-usecases-of-currying-in-js-ts-and-react-5223a604c799?source=rss------react-5) 
+
+- [2022-11-12-Storing logged-in user information with useContext (React)](https://medium.com/@higgins.fred.s/storing-logged-in-user-information-with-usecontext-react-6d4965ff6641?source=rss------react-5) 
+
+- [2022-11-12-Best Folder Structure for React Apps in 2022](https://nagibaba.medium.com/best-folder-structure-for-react-apps-in-2022-c1a34c52a01e?source=rss------react-5) 
+
+- [2022-11-12-Dependency injection in React. P](https://medium.com/@e178551/dependency-injection-in-react-p-7e47c65e4fb2?source=rss------react-5) 
+
+- [2022-11-12-I’ll help you with you JS/React/Vue/Angular code FOR FREE](https://medium.com/@aifos.si.prahs/ill-help-you-with-you-js-react-vue-angular-code-for-free-47c84a90b28e?source=rss------react-5) 
+
+- [2022-11-12-AWS Amplify Localization Tutorial](https://enrico-portolan.medium.com/aws-amplify-localization-tutorial-49e4a19c7209?source=rss------react-5) 
+
+- [2022-11-12-What does parseInt does?](https://medium.com/@karthyv/what-does-parseint-does-58880e20f45f?source=rss------react-5) 
+
+- [2022-11-12-[ios app project] Let’s find an interesting meetup!](https://medium.com/@yabbee0828/ios-app-project-lets-find-an-interesting-meetup-ba64791f4469?source=rss------react-5) 
 
 - [2022-11-11-[DevOps]Docker Series — Local dev ReactJS & Nginx setup](https://kaizendev.medium.com/devops-docker-series-local-dev-reactjs-nginx-setup-c7b55b8e3c7d?source=rss------react-5) 
 
