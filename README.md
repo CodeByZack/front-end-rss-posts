@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-14 01:27，更新条数: +37
+更新时间: 2022-11-14 12:40，更新条数: +33
 
 ## 文章链接
 
@@ -65,6 +65,26 @@
 
 - [2022-11-14-工作中如何使用 Git](https://juejin.cn/post/7165654391511318559) 
 
+- [2022-11-14-论“斗图”文化兴起和分享一个表情包小程序代码](https://juejin.cn/post/7165780359110459428) 
+
+- [2022-11-14-HTTP中POST提交数据的四种方式详解](https://juejin.cn/post/7165764899547643935) 
+
+- [2022-11-14-聊聊鉴权那些事](https://juejin.cn/post/7165759232078250020) 
+
+- [2022-11-14-Canvas 波纹涟漪](https://juejin.cn/post/7165758130096177183) 
+
+- [2022-11-14-Webpack的使用（搭建Vue+React环境）](https://juejin.cn/post/7165752520919220255) 
+
+- [2022-11-14-手写 Vue2 源码之实现数组的劫持](https://juejin.cn/post/7165750483783516168) 
+
+- [2022-11-14-实现一个具有差量解析算法的vscode插件](https://juejin.cn/post/7165745937766170638) 
+
+- [2022-11-14-实现Echarts 3D立体中国地图实现、世界地图、以及互相切换功能](https://juejin.cn/post/7165706791450312717) 
+
+- [2022-11-14-手摸手快速入门 正则表达式 (方法)🛫](https://juejin.cn/post/7165693250114682916) 
+
+- [2022-11-14-深入react源码看setState究竟做了什么？](https://juejin.cn/post/7165690238960926728) 
+
 - [2022-11-13-案例体验HTTP2.0多路复用](https://juejin.cn/post/7165437001909403678) 
 
 - [2022-11-13-3D旋转选秀盒，收纳刹那间的小美好](https://juejin.cn/post/7165435316109574157) 
@@ -113,6 +133,12 @@
 
 - [2022-11-13-全网唯一能够秒回粉丝的博主, 是如何做到的?](https://juejin.cn/post/7165486611361169422) 
 
+- [2022-11-13-从头开始搭建一个Nuxt3模板项目](https://juejin.cn/post/7165527740781690916) 
+
+- [2022-11-13-可视化大屏的几种屏幕适配方案，总有一种是你需要的](https://juejin.cn/post/7165480221930422303) 
+
+- [2022-11-13-巧用 webpack 在日志中记录文件行号](https://juejin.cn/post/7165396745164652558) 
+
 - [2022-11-12-Electron 企业级应用开发实战（一）](https://juejin.cn/post/7164985606463258638) 
 
 - [2022-11-12-比vuex更好用的Pinia,pinia模块化如何实现?pinia如何实现数据持久化?](https://juejin.cn/post/7164957663522979848) 
@@ -142,6 +168,8 @@
 - [2022-11-12-看了Quark Design后，我去深入了解了Web Components](https://juejin.cn/post/7165056422059704351) 
 
 - [2022-11-12-「2022」JavaScript最新高频面试题指南（上）](https://juejin.cn/post/7164928163774988302) 
+
+- [2022-11-12-Qt环境搭建：下载与安装以及开发工具的选择](https://juejin.cn/post/7165047973523816479) 
 
 - [2022-11-11-CSS 的各种遮罩，让图片和背景更加多元化](https://juejin.cn/post/7164655860986150925) 
 
@@ -2106,6 +2134,23 @@
 
 - [2022-11-14-C language midterm exam romantic love code, the front end also joins in the fun | 3D love](https://medium.com/@roperluo.me/c-language-midterm-exam-romantic-love-code-the-front-end-also-joins-in-the-fun-3d-love-e0452565dd48?source=rss------frontend-5) 
 
+- [2022-11-14-Development Terms For Non-Developers](https://medium.com/liki-blog/development-terms-for-non-developers-caa5a21aa150?source=rss------frontend-5) 
+
+- [2022-11-14-How To Get Outstanding Front-End Development Solutions In 2023](https://medium.com/@manektechteam/how-to-get-outstanding-front-end-development-solutions-in-2023-619d076a3dba?source=rss------frontend-5) 
+
+- [2022-11-14-Ng-News: Episode 22/45](https://medium.com/ng-news/ng-news-episode-22-45-eca31f75009e?source=rss------frontend-5) 
+
+- [2022-11-14-How does the only blogger on the entire network who can return fans in seconds?](https://medium.com/@pythonlearn1024/how-does-the-only-blogger-on-the-entire-network-who-can-return-fans-in-seconds-4c73e8f2400e?source=rss------frontend-5) 
+
+- [2022-11-14-How to add a unified navigation bar to multiple pages? I listed and compared 5 options](https://medium.com/@pythonlearn1024/how-to-add-a-unified-navigation-bar-to-multiple-pages-i-listed-and-compared-5-options-a4956ecb2b83?source=rss------frontend-5) 
+
+- [2022-11-14-Como criar uma rolagem horizontal usando Flexbox](https://medium.com/@mrcerebro8/como-criar-uma-rolagem-horizontal-usando-flexbox-6d3e324bc9a4?source=rss------frontend-5) 
+
+- [2022-11-14-Learn by coding: How to turn a design to React code using Tailwind CSS #1](https://medium.com/@lambouarnold/learn-by-coding-how-to-turn-a-design-to-react-code-using-tailwind-css-1-ade37afe1346?source=rss------frontend-5) 
+
+- [2022-11-14- The sample source code address of this article
+  The sample online experience address of…](https://medium.com/@pythonlearn1024/the-sample-source-code-address-of-this-article-the-sample-online-experience-address-of-306be87949e1?source=rss------frontend-5) 
+
 - [2022-11-13-ES6 classes talk about the behavioral pattern of JavaScript design patterns (1)](https://medium.com/@pythonlearn1024/es6-classes-talk-about-the-behavioral-pattern-of-javascript-design-patterns-1-875da45b2e27?source=rss------frontend-5) 
 
 - [2022-11-13-CSS + JS = JSS , do you know this library?](https://medium.com/@pythonlearn1024/css-js-jss-do-you-know-this-library-6159ea3b7532?source=rss------frontend-5) 
@@ -2842,6 +2887,26 @@
  React on Medium
 </summary>
 
+
+- [2022-11-14-Update and Clear an Array in State React](https://mohamadbachirkhoder.medium.com/update-and-clear-an-array-in-state-react-707a346e0bc?source=rss------react-5) 
+
+- [2022-11-14-Controlled Inputs and Forms in React](https://medium.com/@lui.matthew/controlled-inputs-and-forms-in-react-a3f0a618d842?source=rss------react-5) 
+
+- [2022-11-14-Create React Routers](https://medium.com/@1992season/create-react-routers-c8bdfe3762d0?source=rss------react-5) 
+
+- [2022-11-14-FULL STACK](https://medium.com/@HtopSolutions/full-stack-d67603a92739?source=rss------react-5) 
+
+- [2022-11-14-Managing State in React](https://medium.com/@ravichandola/managing-state-in-react-4378cd802ee9?source=rss------react-5) 
+
+- [2022-11-14-Nextjs User Login Authentication in 5 simple steps using Auth0.](https://raivikas.medium.com/nextjs-user-login-authentication-in-5-simple-steps-using-auth0-2de93d0c68bb?source=rss------react-5) 
+
+- [2022-11-14-Why does JavaScript’s parseInt(0.0000005) print “5”?](https://javascript.plainenglish.io/why-does-javascripts-parseint-0-0000005-print-5-63c684e186af?source=rss------react-5) 
+
+- [2022-11-14-How to use Context api in React](https://javascript.plainenglish.io/how-to-use-context-api-in-react-4d6293c9e032?source=rss------react-5) 
+
+- [2022-11-14-Using Material UI with Next.js 13 and Tailwind CSS (Part 2)](https://levelup.gitconnected.com/using-material-ui-with-next-js-13-and-tailwind-css-part-2-72d7e034baa9?source=rss------react-5) 
+
+- [2022-11-14-How to request a GraphQL API with Axios In React](https://medium.com/@surbhisoni241/how-to-request-a-graphql-api-with-axios-in-react-728022bb9841?source=rss------react-5) 
 
 - [2022-11-13-Redux Cheatsheet and Basic Setup with Sagas (Q&A — Concepts You Need to Know to Pass Tech…](https://hanwenzhang123.medium.com/redux-cheatsheet-and-basic-setup-with-sagas-q-a-concepts-you-need-to-know-to-pass-tech-7f4792c7ec81?source=rss------react-5) 
 
@@ -3896,6 +3961,8 @@
  React Digest
 </summary>
 
+
+- [2022-11-14-A love letter to React](https://reactdigest.net/digests/1416) 
 
 - [2022-11-06-Build responsive Figma-to-React components with almost no code](https://reactdigest.net/digests/1405) 
 

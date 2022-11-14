@@ -4941,6 +4941,76 @@
         "title": "5 分钟带你实现一个多页签返回定位的列表组件",
         "link": "https://juejin.cn/post/7157967612893200392",
         "date": "2022-10-24"
+      },
+      {
+        "title": "论“斗图”文化兴起和分享一个表情包小程序代码",
+        "link": "https://juejin.cn/post/7165780359110459428",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "HTTP中POST提交数据的四种方式详解",
+        "link": "https://juejin.cn/post/7165764899547643935",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "聊聊鉴权那些事",
+        "link": "https://juejin.cn/post/7165759232078250020",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Canvas 波纹涟漪",
+        "link": "https://juejin.cn/post/7165758130096177183",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Webpack的使用（搭建Vue+React环境）",
+        "link": "https://juejin.cn/post/7165752520919220255",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "手写 Vue2 源码之实现数组的劫持",
+        "link": "https://juejin.cn/post/7165750483783516168",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "实现一个具有差量解析算法的vscode插件",
+        "link": "https://juejin.cn/post/7165745937766170638",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "实现Echarts 3D立体中国地图实现、世界地图、以及互相切换功能",
+        "link": "https://juejin.cn/post/7165706791450312717",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "手摸手快速入门 正则表达式 (方法)🛫",
+        "link": "https://juejin.cn/post/7165693250114682916",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "深入react源码看setState究竟做了什么？",
+        "link": "https://juejin.cn/post/7165690238960926728",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "从头开始搭建一个Nuxt3模板项目",
+        "link": "https://juejin.cn/post/7165527740781690916",
+        "date": "2022-11-13"
+      },
+      {
+        "title": "可视化大屏的几种屏幕适配方案，总有一种是你需要的",
+        "link": "https://juejin.cn/post/7165480221930422303",
+        "date": "2022-11-13"
+      },
+      {
+        "title": "巧用 webpack 在日志中记录文件行号",
+        "link": "https://juejin.cn/post/7165396745164652558",
+        "date": "2022-11-13"
+      },
+      {
+        "title": "Qt环境搭建：下载与安装以及开发工具的选择",
+        "link": "https://juejin.cn/post/7165047973523816479",
+        "date": "2022-11-12"
       }
     ]
   },
@@ -6781,6 +6851,46 @@
         "title": "New job… Briefing post #01",
         "link": "https://medium.com/@sarahucoding/briefing-post-01-74d957fa8754?source=rss------frontend-5",
         "date": "2022-11-13"
+      },
+      {
+        "title": "Development Terms For Non-Developers",
+        "link": "https://medium.com/liki-blog/development-terms-for-non-developers-caa5a21aa150?source=rss------frontend-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "How To Get Outstanding Front-End Development Solutions In 2023",
+        "link": "https://medium.com/@manektechteam/how-to-get-outstanding-front-end-development-solutions-in-2023-619d076a3dba?source=rss------frontend-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Ng-News: Episode 22/45",
+        "link": "https://medium.com/ng-news/ng-news-episode-22-45-eca31f75009e?source=rss------frontend-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "How does the only blogger on the entire network who can return fans in seconds?",
+        "link": "https://medium.com/@pythonlearn1024/how-does-the-only-blogger-on-the-entire-network-who-can-return-fans-in-seconds-4c73e8f2400e?source=rss------frontend-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "How to add a unified navigation bar to multiple pages? I listed and compared 5 options",
+        "link": "https://medium.com/@pythonlearn1024/how-to-add-a-unified-navigation-bar-to-multiple-pages-i-listed-and-compared-5-options-a4956ecb2b83?source=rss------frontend-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Como criar uma rolagem horizontal usando Flexbox",
+        "link": "https://medium.com/@mrcerebro8/como-criar-uma-rolagem-horizontal-usando-flexbox-6d3e324bc9a4?source=rss------frontend-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Learn by coding: How to turn a design to React code using Tailwind CSS #1",
+        "link": "https://medium.com/@lambouarnold/learn-by-coding-how-to-turn-a-design-to-react-code-using-tailwind-css-1-ade37afe1346?source=rss------frontend-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": " The sample source code address of this article\n  The sample online experience address of…",
+        "link": "https://medium.com/@pythonlearn1024/the-sample-source-code-address-of-this-article-the-sample-online-experience-address-of-306be87949e1?source=rss------frontend-5",
+        "date": "2022-11-14"
       }
     ]
   },
@@ -9336,6 +9446,56 @@
         "title": "Understanding useReducer() in React",
         "link": "https://medium.com/@efficiencyhacker/understanding-usereducer-in-react-9bea2465d11a?source=rss------react-5",
         "date": "2022-11-13"
+      },
+      {
+        "title": "Update and Clear an Array in State React",
+        "link": "https://mohamadbachirkhoder.medium.com/update-and-clear-an-array-in-state-react-707a346e0bc?source=rss------react-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Controlled Inputs and Forms in React",
+        "link": "https://medium.com/@lui.matthew/controlled-inputs-and-forms-in-react-a3f0a618d842?source=rss------react-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Create React Routers",
+        "link": "https://medium.com/@1992season/create-react-routers-c8bdfe3762d0?source=rss------react-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "FULL STACK",
+        "link": "https://medium.com/@HtopSolutions/full-stack-d67603a92739?source=rss------react-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Managing State in React",
+        "link": "https://medium.com/@ravichandola/managing-state-in-react-4378cd802ee9?source=rss------react-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Nextjs User Login Authentication in 5 simple steps using Auth0.",
+        "link": "https://raivikas.medium.com/nextjs-user-login-authentication-in-5-simple-steps-using-auth0-2de93d0c68bb?source=rss------react-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Why does JavaScript’s parseInt(0.0000005) print “5”?",
+        "link": "https://javascript.plainenglish.io/why-does-javascripts-parseint-0-0000005-print-5-63c684e186af?source=rss------react-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "How to use Context api in React",
+        "link": "https://javascript.plainenglish.io/how-to-use-context-api-in-react-4d6293c9e032?source=rss------react-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Using Material UI with Next.js 13 and Tailwind CSS (Part 2)",
+        "link": "https://levelup.gitconnected.com/using-material-ui-with-next-js-13-and-tailwind-css-part-2-72d7e034baa9?source=rss------react-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "How to request a GraphQL API with Axios In React",
+        "link": "https://medium.com/@surbhisoni241/how-to-request-a-graphql-api-with-axios-in-react-728022bb9841?source=rss------react-5",
+        "date": "2022-11-14"
       }
     ]
   },
@@ -9451,6 +9611,11 @@
         "title": "Build responsive Figma-to-React components with almost no code",
         "link": "https://reactdigest.net/digests/1405",
         "date": "2022-11-06"
+      },
+      {
+        "title": "A love letter to React",
+        "link": "https://reactdigest.net/digests/1416",
+        "date": "2022-11-14"
       }
     ]
   },
