@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-14 12:40，更新条数: +33
+更新时间: 2022-11-15 01:26，更新条数: +31
 
 ## 文章链接
 
@@ -84,6 +84,32 @@
 - [2022-11-14-手摸手快速入门 正则表达式 (方法)🛫](https://juejin.cn/post/7165693250114682916) 
 
 - [2022-11-14-深入react源码看setState究竟做了什么？](https://juejin.cn/post/7165690238960926728) 
+
+- [2022-11-14-✨✨✨ ServiceWorker 让你的网页拥抱服务端的能力](https://juejin.cn/post/7165893682132959245) 
+
+- [2022-11-14-WebRTC 之媒体权限申请 getUserMedia](https://juejin.cn/post/7165886530324856863) 
+
+- [2022-11-14-Next.js 应用实现权限管理](https://juejin.cn/post/7165883583159074852) 
+
+- [2022-11-14-Webpack中Source Map配置研究](https://juejin.cn/post/7165883401596207118) 
+
+- [2022-11-14-为什么和 CSS-in-JS 说拜拜](https://juejin.cn/post/7165878751295700999) 
+
+- [2022-11-14-OpenGL教程（四）](https://juejin.cn/post/7165878464111706125) 
+
+- [2022-11-14-为什么同一表情'🧔‍♂️'.length==5但'🧔‍♂'.length==4？本文带你深入理解 String Unicode UTF8 UTF16](https://juejin.cn/post/7165859792861265928) 
+
+- [2022-11-14-JS如何使用sessionStorage实现计数器功能](https://juejin.cn/post/7165849845948203016) 
+
+- [2022-11-14-Angular DevUI 14.1.0版本已发布，快来看下都有哪些变化吧~🎉](https://juejin.cn/post/7165838530617278477) 
+
+- [2022-11-14-还在用 JS 做节流吗？CSS 也可以防止按钮重复点击](https://juejin.cn/post/7165828047520661534) 
+
+- [2022-11-14-深入浅出react（优先级管理）](https://juejin.cn/post/7165810009140527140) 
+
+- [2022-11-14-小程序使用 canvas 制作活动分享海报的一点点细节](https://juejin.cn/post/7165793269853454344) 
+
+- [2022-11-14-低代码技术在研发团队的应用模式探讨](https://juejin.cn/post/7165789688958025735) 
 
 - [2022-11-13-案例体验HTTP2.0多路复用](https://juejin.cn/post/7165437001909403678) 
 
@@ -2151,6 +2177,22 @@
 - [2022-11-14- The sample source code address of this article
   The sample online experience address of…](https://medium.com/@pythonlearn1024/the-sample-source-code-address-of-this-article-the-sample-online-experience-address-of-306be87949e1?source=rss------frontend-5) 
 
+- [2022-11-14-02 Javascript Runtime — Javascript necə işləyir?](https://iamrajabli.medium.com/02-javascript-runtime-javascript-nec%C9%99-i%C5%9Fl%C9%99yir-8a38e92b37f9?source=rss------frontend-5) 
+
+- [2022-11-14-Large screen classic components: &quot;infinite scrolling&quot; from analysis to development](https://medium.com/@pythonlearn1024/large-screen-classic-components-quot-infinite-scrolling-quot-from-analysis-to-development-353840d85ec1?source=rss------frontend-5) 
+
+- [2022-11-14-Micro-Frontend com Single-SPA + Angular](https://medium.com/@philipibovo/micro-frontend-com-single-spa-angular-29250a8cbf5a?source=rss------frontend-5) 
+
+- [2022-11-14-Fundamentals of the CSS Float and Clear Properties](https://medium.com/getpieces/fundamentals-of-the-css-float-and-clear-properties-f8ed5a408a0f?source=rss------frontend-5) 
+
+- [2022-11-14-Write a burying SDK by hand~](https://medium.com/@pythonlearn1024/write-a-burying-sdk-by-hand-930b0b38290b?source=rss------frontend-5) 
+
+- [2022-11-14-Ant Group&#39;s front-end R&amp;D quality, efficiency and experience balance practice](https://medium.com/@roperluo.me/ant-group-39-s-front-end-r-amp-d-quality-efficiency-and-experience-balance-practice-c058be962380?source=rss------frontend-5) 
+
+- [2022-11-14-Implementing a Cloud Construction Platform with State Machines](https://medium.com/@pythonlearn1024/implementing-a-cloud-construction-platform-with-state-machines-1cc6ddffbb99?source=rss------frontend-5) 
+
+- [2022-11-14-Should You Learn Front-end or Back-end Development First?](https://medium.com/@codersalman/should-you-learn-front-end-or-back-end-development-first-83b9359ff7ca?source=rss------frontend-5) 
+
 - [2022-11-13-ES6 classes talk about the behavioral pattern of JavaScript design patterns (1)](https://medium.com/@pythonlearn1024/es6-classes-talk-about-the-behavioral-pattern-of-javascript-design-patterns-1-875da45b2e27?source=rss------frontend-5) 
 
 - [2022-11-13-CSS + JS = JSS , do you know this library?](https://medium.com/@pythonlearn1024/css-js-jss-do-you-know-this-library-6159ea3b7532?source=rss------frontend-5) 
@@ -2888,6 +2930,8 @@
 </summary>
 
 
+- [2022-11-15-View Code and Business Code](https://medium.com/@robertjd333/view-code-and-business-code-bb7e3ce5ad72?source=rss------react-5) 
+
 - [2022-11-14-Update and Clear an Array in State React](https://mohamadbachirkhoder.medium.com/update-and-clear-an-array-in-state-react-707a346e0bc?source=rss------react-5) 
 
 - [2022-11-14-Controlled Inputs and Forms in React](https://medium.com/@lui.matthew/controlled-inputs-and-forms-in-react-a3f0a618d842?source=rss------react-5) 
@@ -2907,6 +2951,24 @@
 - [2022-11-14-Using Material UI with Next.js 13 and Tailwind CSS (Part 2)](https://levelup.gitconnected.com/using-material-ui-with-next-js-13-and-tailwind-css-part-2-72d7e034baa9?source=rss------react-5) 
 
 - [2022-11-14-How to request a GraphQL API with Axios In React](https://medium.com/@surbhisoni241/how-to-request-a-graphql-api-with-axios-in-react-728022bb9841?source=rss------react-5) 
+
+- [2022-11-14-Full-Stack Basics](https://medium.com/@jenniferroques/full-stack-basics-fec590aedad6?source=rss------react-5) 
+
+- [2022-11-14-Firebase e React — Auth com Banco de Dados (Parte 2)](https://thiagopetherson.medium.com/firebase-e-react-auth-com-banco-de-dados-parte-2-fa9261a1a918?source=rss------react-5) 
+
+- [2022-11-14-React and Django — Generate & Deploy with Drag & Drop](https://medium.com/@DashboardsHub/react-django-generate-and-deploy-live-5282a790cb19?source=rss------react-5) 
+
+- [2022-11-14-The Fascination of Watching People Watch Stuff](https://medium.com/@ashley_grace/the-fascination-of-watching-people-watch-stuff-140def06b2db?source=rss------react-5) 
+
+- [2022-11-14-Build a Blog App in 1 hour — Code Along (NextJS 13)](https://medium.com/eincode/build-a-blog-app-in-1-hour-code-along-nextjs-13-4af0e26a9259?source=rss------react-5) 
+
+- [2022-11-14-PROPS](https://medium.com/@mehmet.r.river/props-24f40470b21b?source=rss------react-5) 
+
+- [2022-11-14-Las bondades de Next.Js y porque creo que debes usarlo en tus sitios web](https://medium.com/we-are-shifters/las-bondades-de-next-js-y-porque-creo-que-debes-usarlo-en-tus-sitios-web-962c3019f0ba?source=rss------react-5) 
+
+- [2022-11-14-The Best VS Code Extension for Frontend Developers](https://medium.com/@frontendadarsh/the-best-vs-code-extension-for-frontend-developers-a9c899d08481?source=rss------react-5) 
+
+- [2022-11-14-Creating custom hooks using Apollo in React](https://selinabyeon.medium.com/creating-custom-hooks-using-apollo-in-react-c93ca13cd0c3?source=rss------react-5) 
 
 - [2022-11-13-Redux Cheatsheet and Basic Setup with Sagas (Q&A — Concepts You Need to Know to Pass Tech…](https://hanwenzhang123.medium.com/redux-cheatsheet-and-basic-setup-with-sagas-q-a-concepts-you-need-to-know-to-pass-tech-7f4792c7ec81?source=rss------react-5) 
 

@@ -5011,6 +5011,71 @@
         "title": "Qt环境搭建：下载与安装以及开发工具的选择",
         "link": "https://juejin.cn/post/7165047973523816479",
         "date": "2022-11-12"
+      },
+      {
+        "title": "✨✨✨ ServiceWorker 让你的网页拥抱服务端的能力",
+        "link": "https://juejin.cn/post/7165893682132959245",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "WebRTC 之媒体权限申请 getUserMedia",
+        "link": "https://juejin.cn/post/7165886530324856863",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Next.js 应用实现权限管理",
+        "link": "https://juejin.cn/post/7165883583159074852",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Webpack中Source Map配置研究",
+        "link": "https://juejin.cn/post/7165883401596207118",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "为什么和 CSS-in-JS 说拜拜",
+        "link": "https://juejin.cn/post/7165878751295700999",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "OpenGL教程（四）",
+        "link": "https://juejin.cn/post/7165878464111706125",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "为什么同一表情'🧔‍♂️'.length==5但'🧔‍♂'.length==4？本文带你深入理解 String Unicode UTF8 UTF16",
+        "link": "https://juejin.cn/post/7165859792861265928",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "JS如何使用sessionStorage实现计数器功能",
+        "link": "https://juejin.cn/post/7165849845948203016",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Angular DevUI 14.1.0版本已发布，快来看下都有哪些变化吧~🎉",
+        "link": "https://juejin.cn/post/7165838530617278477",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "还在用 JS 做节流吗？CSS 也可以防止按钮重复点击",
+        "link": "https://juejin.cn/post/7165828047520661534",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "深入浅出react（优先级管理）",
+        "link": "https://juejin.cn/post/7165810009140527140",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "小程序使用 canvas 制作活动分享海报的一点点细节",
+        "link": "https://juejin.cn/post/7165793269853454344",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "低代码技术在研发团队的应用模式探讨",
+        "link": "https://juejin.cn/post/7165789688958025735",
+        "date": "2022-11-14"
       }
     ]
   },
@@ -6890,6 +6955,46 @@
       {
         "title": " The sample source code address of this article\n  The sample online experience address of…",
         "link": "https://medium.com/@pythonlearn1024/the-sample-source-code-address-of-this-article-the-sample-online-experience-address-of-306be87949e1?source=rss------frontend-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "02 Javascript Runtime — Javascript necə işləyir?",
+        "link": "https://iamrajabli.medium.com/02-javascript-runtime-javascript-nec%C9%99-i%C5%9Fl%C9%99yir-8a38e92b37f9?source=rss------frontend-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Large screen classic components: &quot;infinite scrolling&quot; from analysis to development",
+        "link": "https://medium.com/@pythonlearn1024/large-screen-classic-components-quot-infinite-scrolling-quot-from-analysis-to-development-353840d85ec1?source=rss------frontend-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Micro-Frontend com Single-SPA + Angular",
+        "link": "https://medium.com/@philipibovo/micro-frontend-com-single-spa-angular-29250a8cbf5a?source=rss------frontend-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Fundamentals of the CSS Float and Clear Properties",
+        "link": "https://medium.com/getpieces/fundamentals-of-the-css-float-and-clear-properties-f8ed5a408a0f?source=rss------frontend-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Write a burying SDK by hand~",
+        "link": "https://medium.com/@pythonlearn1024/write-a-burying-sdk-by-hand-930b0b38290b?source=rss------frontend-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Ant Group&#39;s front-end R&amp;D quality, efficiency and experience balance practice",
+        "link": "https://medium.com/@roperluo.me/ant-group-39-s-front-end-r-amp-d-quality-efficiency-and-experience-balance-practice-c058be962380?source=rss------frontend-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Implementing a Cloud Construction Platform with State Machines",
+        "link": "https://medium.com/@pythonlearn1024/implementing-a-cloud-construction-platform-with-state-machines-1cc6ddffbb99?source=rss------frontend-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Should You Learn Front-end or Back-end Development First?",
+        "link": "https://medium.com/@codersalman/should-you-learn-front-end-or-back-end-development-first-83b9359ff7ca?source=rss------frontend-5",
         "date": "2022-11-14"
       }
     ]
@@ -9495,6 +9600,56 @@
       {
         "title": "How to request a GraphQL API with Axios In React",
         "link": "https://medium.com/@surbhisoni241/how-to-request-a-graphql-api-with-axios-in-react-728022bb9841?source=rss------react-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "View Code and Business Code",
+        "link": "https://medium.com/@robertjd333/view-code-and-business-code-bb7e3ce5ad72?source=rss------react-5",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "Full-Stack Basics",
+        "link": "https://medium.com/@jenniferroques/full-stack-basics-fec590aedad6?source=rss------react-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Firebase e React — Auth com Banco de Dados (Parte 2)",
+        "link": "https://thiagopetherson.medium.com/firebase-e-react-auth-com-banco-de-dados-parte-2-fa9261a1a918?source=rss------react-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "React and Django — Generate & Deploy with Drag & Drop",
+        "link": "https://medium.com/@DashboardsHub/react-django-generate-and-deploy-live-5282a790cb19?source=rss------react-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "The Fascination of Watching People Watch Stuff",
+        "link": "https://medium.com/@ashley_grace/the-fascination-of-watching-people-watch-stuff-140def06b2db?source=rss------react-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Build a Blog App in 1 hour — Code Along (NextJS 13)",
+        "link": "https://medium.com/eincode/build-a-blog-app-in-1-hour-code-along-nextjs-13-4af0e26a9259?source=rss------react-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "PROPS",
+        "link": "https://medium.com/@mehmet.r.river/props-24f40470b21b?source=rss------react-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Las bondades de Next.Js y porque creo que debes usarlo en tus sitios web",
+        "link": "https://medium.com/we-are-shifters/las-bondades-de-next-js-y-porque-creo-que-debes-usarlo-en-tus-sitios-web-962c3019f0ba?source=rss------react-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "The Best VS Code Extension for Frontend Developers",
+        "link": "https://medium.com/@frontendadarsh/the-best-vs-code-extension-for-frontend-developers-a9c899d08481?source=rss------react-5",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Creating custom hooks using Apollo in React",
+        "link": "https://selinabyeon.medium.com/creating-custom-hooks-using-apollo-in-react-c93ca13cd0c3?source=rss------react-5",
         "date": "2022-11-14"
       }
     ]
