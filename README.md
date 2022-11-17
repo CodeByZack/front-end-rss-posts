@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-17 01:25，更新条数: +34
+更新时间: 2022-11-17 12:35，更新条数: +37
 
 ## 文章链接
 
@@ -58,6 +58,12 @@
  掘金 前端
 </summary>
 
+
+- [2022-11-17-邀你有奖投票｜码上掘金，原来可以这么玩？](https://juejin.cn/post/7166897819373010958) 
+
+- [2022-11-17-深入理解js类型判断](https://juejin.cn/post/7166811885742850056) 
+
+- [2022-11-17-非常简单的原生AJAX的封装+请求案例+xhr level2中的超时控制及兼容性写法](https://juejin.cn/post/7166798085782241288) 
 
 - [2022-11-16-使用Uniapp实现微信小程序的GPS定位打卡](https://juejin.cn/post/7166402937625788447) 
 
@@ -114,6 +120,32 @@
 - [2022-11-16-在Canvas中绘制Geojson数据](https://juejin.cn/post/7166528271176171534) 
 
 - [2022-11-16-微信小程序web-view与H5 通信方式探索](https://juejin.cn/post/7166516470996959245) 
+
+- [2022-11-16-node脚手架搭建快速入门](https://juejin.cn/post/7166618069823913997) 
+
+- [2022-11-16-120.乾坤css隔离机制](https://juejin.cn/post/7166613066631626759) 
+
+- [2022-11-16-JS继承面试的时候怎么说？答应我，不要再死记硬背了好吗？](https://juejin.cn/post/7166562158052900871) 
+
+- [2022-11-16-为什么Vue不能检测数组和对象的变化？](https://juejin.cn/post/7166560635701067807) 
+
+- [2022-11-16-微信H5页面回退，定位到原位置做法](https://juejin.cn/post/7166534955919474702) 
+
+- [2022-11-16-如何利用 ESLint 规范 TypeScript 代码](https://juejin.cn/post/7166533217376272414) 
+
+- [2022-11-16-【若川视野 x 源码共读】第 24 期 | vue2 工具函数](https://juejin.cn/post/7166529629279715341) 
+
+- [2022-11-16-【前端实习生入职】之-threejs实现可拖动立体框](https://juejin.cn/post/7166526980152623117) 
+
+- [2022-11-16-利用openlayers实现台风轨迹](https://juejin.cn/post/7166519377955651597) 
+
+- [2022-11-16-神奇的nextTick一定能获取到最新的dom么？](https://juejin.cn/post/7166517557124415518) 
+
+- [2022-11-16-排序算法-希尔排序](https://juejin.cn/post/7166475010121400334) 
+
+- [2022-11-16-浏览器缓存造成的获取不到最新页面资源问题](https://juejin.cn/post/7166450162548604935) 
+
+- [2022-11-16-数据可视化大屏设计器开发](https://juejin.cn/post/7166439708912779278) 
 
 - [2022-11-15-❤️❤️异步的发展历程（小白版）](https://juejin.cn/post/7166150324116422664) 
 
@@ -178,6 +210,8 @@
 - [2022-11-15-「2022」JavaScript最新高频面试题指南（下）](https://juejin.cn/post/7166051817560735757) 
 
 - [2022-11-15-[好文翻译]使用AI人脸识别构建Serverless测谎仪](https://juejin.cn/post/7166032573112533000) 
+
+- [2022-11-15-vue3单元测试debug](https://juejin.cn/post/7166296728021237797) 
 
 - [2022-11-14-用摄影的故事来撬开 3D 世界的大门](https://juejin.cn/post/7165656785309663245) 
 
@@ -2290,6 +2324,26 @@
 
 - [2022-11-17-The Beginning…](https://thetechrat.medium.com/the-beginning-6765c1dc933f?source=rss------frontend-5) 
 
+- [2022-11-17-Roles and Permissions for Frontend App](https://medium.com/impelsys/roles-and-permissions-for-frontend-app-dd5941a95d16?source=rss------frontend-5) 
+
+- [2022-11-17-Exploration of the execution mechanism of requestAnimationFrame in React](https://medium.com/@pythonlearn1024/exploration-of-the-execution-mechanism-of-requestanimationframe-in-react-23076df74b26?source=rss------frontend-5) 
+
+- [2022-11-17-After two hours of self-study on the back-end and the front-end, what can be made?](https://medium.com/@pythonlearn1024/after-two-hours-of-self-study-on-the-back-end-and-the-front-end-what-can-be-made-7f26e8997f02?source=rss------frontend-5) 
+
+- [2022-11-17-Ant Design 5.0 conference agenda is here!](https://medium.com/@pythonlearn1024/ant-design-5-0-conference-agenda-is-here-ba4132e8bc7f?source=rss------frontend-5) 
+
+- [2022-11-17-Getting Started with Vite: Learn it and improve development happiness together!](https://medium.com/@pythonlearn1024/getting-started-with-vite-learn-it-and-improve-development-happiness-together-471f3974d323?source=rss------frontend-5) 
+
+- [2022-11-17-An article takes you to understand the most &quot;notorious&quot; useMemo and useCallback in React](https://medium.com/@pythonlearn1024/an-article-takes-you-to-understand-the-most-quot-notorious-quot-usememo-and-usecallback-in-react-763de950cd87?source=rss------frontend-5) 
+
+- [2022-11-17-C language mid-term exam romantic love code, the front end also joins in the fun](https://medium.com/@pythonlearn1024/c-language-mid-term-exam-romantic-love-code-the-front-end-also-joins-in-the-fun-a92c54e191df?source=rss------frontend-5) 
+
+- [2022-11-17-This article is participating “Golden Stone Project. Share 60,000 cash prize”](https://medium.com/@pythonlearn1024/this-article-is-participating-golden-stone-project-share-60-000-cash-prize-ac151264d55e?source=rss------frontend-5) 
+
+- [2022-11-17-The comments are well written ✍️, and the document is not sloppy!](https://medium.com/@pythonlearn1024/the-comments-are-well-written-%EF%B8%8F-and-the-document-is-not-sloppy-bd1162e7d95e?source=rss------frontend-5) 
+
+- [2022-11-17-[3D Game Development] Use Babylonjs+Vue3 to build our own island](https://medium.com/@pythonlearn1024/3d-game-development-use-babylonjs-vue3-to-build-our-own-island-7f77b3546d7d?source=rss------frontend-5) 
+
 - [2022-11-16-Ace CSS Architecture](https://medium.com/@arati.anand.bhandare/ace-css-architecture-1b33471fef0d?source=rss------frontend-5) 
 
 - [2022-11-16-HTML nedir ve ne işe yarar?](https://medium.com/@erdemarsl4n/html-nedir-ve-ne-i%C5%9Fe-yarar-9efceccf0d3c?source=rss------frontend-5) 
@@ -3093,6 +3147,26 @@
  React on Medium
 </summary>
 
+
+- [2022-11-17-How to implement notification functionality in MERN like Facebook and Twitter (part 1 : back-end)](https://adelpro.medium.com/how-to-implement-notification-functionality-in-mern-like-facebook-and-twitter-part-1-back-end-4e30095b23d6?source=rss------react-5) 
+
+- [2022-11-17-Const VS Function For React Functional Components](https://javascript.plainenglish.io/const-vs-function-for-react-functional-components-23e70fd0d4e0?source=rss------react-5) 
+
+- [2022-11-17-Roles and Permissions for Frontend App](https://medium.com/impelsys/roles-and-permissions-for-frontend-app-dd5941a95d16?source=rss------react-5) 
+
+- [2022-11-17-Pagination with React and Ant Design from Scratch](https://arifoglutarik.medium.com/pagination-with-react-and-ant-design-from-scratch-d319779b9b50?source=rss------react-5) 
+
+- [2022-11-17-SKI4U | dev.family](https://medium.com/@dev.family/ski4u-dev-family-71f6483502af?source=rss------react-5) 
+
+- [2022-11-17-React map() function and “key” attribute| Day 6–7| #100DaysOfCode](https://medium.com/@feyzafacan/react-map-function-and-key-attribute-day-6-7-100daysofcode-243acee33312?source=rss------react-5) 
+
+- [2022-11-17-Building Responsive React Components Using @container and: has()](https://blog.bitsrc.io/building-responsive-react-components-using-container-and-has-9052bcd4a49a?source=rss------react-5) 
+
+- [2022-11-17-Хватит использовать && для условного рендеринга в React](https://medium.com/@catherineriver/%D1%85%D0%B2%D0%B0%D1%82%D0%B8%D1%82-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B4%D0%BB%D1%8F-%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE-%D1%80%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%D0%B0-%D0%B2-react-89fcb96dd26e?source=rss------react-5) 
+
+- [2022-11-17-React States and Working with Events| SASS | Day 4–5 | #100DaysOfCode](https://medium.com/@feyzafacan/react-states-and-working-with-events-sass-day-4-5-100daysofcode-c321de481bb1?source=rss------react-5) 
+
+- [2022-11-17-Continuous X | Triumph of DevOps](https://medium.com/widle-studio/continuous-x-triumph-of-devops-a5e018786472?source=rss------react-5) 
 
 - [2022-11-16-React 102 — Basic data flows](https://medium.com/@noriller/react-102-basic-data-flows-f1aaf2ba99d?source=rss------react-5) 
 
