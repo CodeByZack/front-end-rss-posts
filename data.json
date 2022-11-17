@@ -5316,6 +5316,101 @@
         "title": "WebGL 基础 - 从计算机图形系统到三角剖分",
         "link": "https://juejin.cn/post/7166284810418143246",
         "date": "2022-11-15"
+      },
+      {
+        "title": "深入客户端储存大比拼",
+        "link": "https://juejin.cn/post/7166636169596239902",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "【前端组件化】系列第二篇——monorepo方案实战",
+        "link": "https://juejin.cn/post/7166625561769410591",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "后端自学两个小时前端，究竟能做出什么东西？",
+        "link": "https://juejin.cn/post/7166624661491580941",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "使用 Sentry 做异常监控 - 如何优雅的解决 Qiankun 下 release 配置的问题",
+        "link": "https://juejin.cn/post/7166622284948439054",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "Connect to maven.google.com:443 [maven.google.com] failed: connect timed out",
+        "link": "https://juejin.cn/post/7166618076132638728",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "查看React Native设备相关信息，用于调试",
+        "link": "https://juejin.cn/post/7166615383820992526",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "我修复了一个 Vite Bug，让我的项目首屏性能提高了 25%",
+        "link": "https://juejin.cn/post/7166606179261480967",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "适合编程初学者的开源博客系统（Flutter版）",
+        "link": "https://juejin.cn/post/7166605929549398046",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "我是如何利用持久化缓存策略来提升 Vite 开发模式下首屏性能的 ？",
+        "link": "https://juejin.cn/post/7166554132428357645",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "Vue3响应系统的实现（二）",
+        "link": "https://juejin.cn/post/7166553870779285512",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "React 之 requestIdleCallback 来了解一下",
+        "link": "https://juejin.cn/post/7166547963517337614",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "个人理解版 Typescript SOLID 原则",
+        "link": "https://juejin.cn/post/7166537062382993422",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "简单封装JS下的异步任务对象",
+        "link": "https://juejin.cn/post/7166532398237089799",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "在Canvas中绘制Geojson数据",
+        "link": "https://juejin.cn/post/7166528271176171534",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "微信小程序web-view与H5 通信方式探索",
+        "link": "https://juejin.cn/post/7166516470996959245",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "「2022」JavaScript最新高频面试题指南（下）",
+        "link": "https://juejin.cn/post/7166051817560735757",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "[好文翻译]使用AI人脸识别构建Serverless测谎仪",
+        "link": "https://juejin.cn/post/7166032573112533000",
+        "date": "2022-11-15"
+      },
+      {
+        "title": "Vite 入门篇：学会它，提升开发幸福感！",
+        "link": "https://juejin.cn/post/7165911103610814477",
+        "date": "2022-11-14"
+      },
+      {
+        "title": "Ant Design 5.0 发布会议程来了！",
+        "link": "https://juejin.cn/post/7165786707902595103",
+        "date": "2022-11-14"
       }
     ]
   },
@@ -7290,6 +7385,26 @@
       {
         "title": "JavaScript Set, Every Junior Should Know",
         "link": "https://medium.com/@imamuzzaki/javascript-set-every-junior-should-know-669f9f435c97?source=rss------frontend-5",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "The Beginning…",
+        "link": "https://thetechrat.medium.com/the-beginning-6765c1dc933f?source=rss------frontend-5",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "Angular 15 ya disponible",
+        "link": "https://medium.com/ngesyfirebase/angular-15-ya-disponible-618a5424c815?source=rss------frontend-5",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "Icons 101: Not only for designers",
+        "link": "https://blog.prototypr.io/icons-101-not-only-for-designers-a2d7a24df610?source=rss------frontend-5",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "Difference between Seal and Freeze methods in JavaScript Objects",
+        "link": "https://medium.com/@tharudaya94/difference-between-seal-and-freeze-methods-in-javascript-objects-8342c6c58dff?source=rss------frontend-5",
         "date": "2022-11-16"
       }
     ]
@@ -10096,6 +10211,56 @@
         "title": "How I set up my new ReactJS projects!",
         "link": "https://thejusr.medium.com/how-i-set-up-my-new-reactjs-projects-967c64d3e99a?source=rss------react-5",
         "date": "2022-11-16"
+      },
+      {
+        "title": "Javascript: Share Code between Apps using Parcel, Npm and Github Packages",
+        "link": "https://medium.com/@mylesdawson/javascript-share-code-between-apps-using-parcel-npm-and-github-packages-34d2c2f0c398?source=rss------react-5",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "Manage State in Web Components with Redux and without React",
+        "link": "https://medium.com/@jlanssie/manage-state-in-web-components-with-redux-and-without-react-5e8c168ac5b0?source=rss------react-5",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "13 Genuine Ways Of making $1500 per Week (Extreme 2022 Rundown) Would you like to cause an extra to…",
+        "link": "https://medium.com/@henryholt72/13-genuine-ways-of-making-1500-per-week-extreme-2022-rundown-would-you-like-to-cause-an-extra-to-821f681dbc28?source=rss------react-5",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "REACT İLE İLK UYGULAMA",
+        "link": "https://medium.com/@mehmet.r.river/react-i%CC%87le-i%CC%87lk-uygulama-4da86f60ed47?source=rss------react-5",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "The next time you’re tired of Microsoft Teams calls, join your colleagues in a game of Minesweeper.",
+        "link": "https://medium.com/@henryholt72/the-next-time-youre-tired-of-microsoft-teams-calls-join-your-colleagues-in-a-game-of-minesweeper-3a525f07fe56?source=rss------react-5",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "Enviando um e-mail usando NextJS ou ReactJS com Fetch",
+        "link": "https://medium.com/@yagasaki7k/enviando-um-e-mail-usando-nextjs-ou-reactjs-com-fetch-1715f09d98eb?source=rss------react-5",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "How to create a Chrome extension for GPT-3 questions",
+        "link": "https://betterprogramming.pub/how-to-create-a-chrome-extension-for-gpt-3-questions-8b045ad5288?source=rss------react-5",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "How to make a Layered Drink with CSS☕️",
+        "link": "https://levelup.gitconnected.com/how-to-make-a-layered-drink-with-css-%EF%B8%8F-e13b8f8eb055?source=rss------react-5",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "useHistory for redirect",
+        "link": "https://medium.com/@chohyehan/usehistory-for-redirect-7c96716d3b56?source=rss------react-5",
+        "date": "2022-11-16"
+      },
+      {
+        "title": "Routing With useHistory",
+        "link": "https://medium.com/@rafiakhandaker/routing-with-usehistory-6d1d6bfa508f?source=rss------react-5",
+        "date": "2022-11-16"
       }
     ]
   },
@@ -10141,6 +10306,11 @@
         "title": "Gatsby 5 - faster than ever before",
         "link": "https://react.statuscode.com/issues/313",
         "date": "2022-11-09"
+      },
+      {
+        "title": "Particle-arly impressive React",
+        "link": "https://react.statuscode.com/issues/314",
+        "date": "2022-11-16"
       }
     ]
   },

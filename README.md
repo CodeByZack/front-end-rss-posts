@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-16 12:33，更新条数: +30
+更新时间: 2022-11-17 01:25，更新条数: +34
 
 ## 文章链接
 
@@ -85,6 +85,36 @@
 
 - [2022-11-16-彻底搞懂Vue虚拟Dom和diff算法](https://juejin.cn/post/7166436986733985829) 
 
+- [2022-11-16-深入客户端储存大比拼](https://juejin.cn/post/7166636169596239902) 
+
+- [2022-11-16-【前端组件化】系列第二篇——monorepo方案实战](https://juejin.cn/post/7166625561769410591) 
+
+- [2022-11-16-后端自学两个小时前端，究竟能做出什么东西？](https://juejin.cn/post/7166624661491580941) 
+
+- [2022-11-16-使用 Sentry 做异常监控 - 如何优雅的解决 Qiankun 下 release 配置的问题](https://juejin.cn/post/7166622284948439054) 
+
+- [2022-11-16-Connect to maven.google.com:443 [maven.google.com] failed: connect timed out](https://juejin.cn/post/7166618076132638728) 
+
+- [2022-11-16-查看React Native设备相关信息，用于调试](https://juejin.cn/post/7166615383820992526) 
+
+- [2022-11-16-我修复了一个 Vite Bug，让我的项目首屏性能提高了 25%](https://juejin.cn/post/7166606179261480967) 
+
+- [2022-11-16-适合编程初学者的开源博客系统（Flutter版）](https://juejin.cn/post/7166605929549398046) 
+
+- [2022-11-16-我是如何利用持久化缓存策略来提升 Vite 开发模式下首屏性能的 ？](https://juejin.cn/post/7166554132428357645) 
+
+- [2022-11-16-Vue3响应系统的实现（二）](https://juejin.cn/post/7166553870779285512) 
+
+- [2022-11-16-React 之 requestIdleCallback 来了解一下](https://juejin.cn/post/7166547963517337614) 
+
+- [2022-11-16-个人理解版 Typescript SOLID 原则](https://juejin.cn/post/7166537062382993422) 
+
+- [2022-11-16-简单封装JS下的异步任务对象](https://juejin.cn/post/7166532398237089799) 
+
+- [2022-11-16-在Canvas中绘制Geojson数据](https://juejin.cn/post/7166528271176171534) 
+
+- [2022-11-16-微信小程序web-view与H5 通信方式探索](https://juejin.cn/post/7166516470996959245) 
+
 - [2022-11-15-❤️❤️异步的发展历程（小白版）](https://juejin.cn/post/7166150324116422664) 
 
 - [2022-11-15-Typescript 函数详解](https://juejin.cn/post/7166139951006892069) 
@@ -145,6 +175,10 @@
 
 - [2022-11-15-WebGL 基础 - 从计算机图形系统到三角剖分](https://juejin.cn/post/7166284810418143246) 
 
+- [2022-11-15-「2022」JavaScript最新高频面试题指南（下）](https://juejin.cn/post/7166051817560735757) 
+
+- [2022-11-15-[好文翻译]使用AI人脸识别构建Serverless测谎仪](https://juejin.cn/post/7166032573112533000) 
+
 - [2022-11-14-用摄影的故事来撬开 3D 世界的大门](https://juejin.cn/post/7165656785309663245) 
 
 - [2022-11-14-C语言期中考试浪漫爱心代码，前端也来凑凑热闹](https://juejin.cn/post/7165655522170175501) 
@@ -198,6 +232,10 @@
 - [2022-11-14-低代码技术在研发团队的应用模式探讨](https://juejin.cn/post/7165789688958025735) 
 
 - [2022-11-14-使用DIV+纯CSS实现可固定表头和固定列的Table表格效果](https://juejin.cn/post/7165778919571800077) 
+
+- [2022-11-14-Vite 入门篇：学会它，提升开发幸福感！](https://juejin.cn/post/7165911103610814477) 
+
+- [2022-11-14-Ant Design 5.0 发布会议程来了！](https://juejin.cn/post/7165786707902595103) 
 
 - [2022-11-13-案例体验HTTP2.0多路复用](https://juejin.cn/post/7165437001909403678) 
 
@@ -2250,6 +2288,8 @@
 </summary>
 
 
+- [2022-11-17-The Beginning…](https://thetechrat.medium.com/the-beginning-6765c1dc933f?source=rss------frontend-5) 
+
 - [2022-11-16-Ace CSS Architecture](https://medium.com/@arati.anand.bhandare/ace-css-architecture-1b33471fef0d?source=rss------frontend-5) 
 
 - [2022-11-16-HTML nedir ve ne işe yarar?](https://medium.com/@erdemarsl4n/html-nedir-ve-ne-i%C5%9Fe-yarar-9efceccf0d3c?source=rss------frontend-5) 
@@ -2259,6 +2299,12 @@
 - [2022-11-16-NGRX interview questions](https://medium.com/@rahul.a1739/ngrx-interview-questions-2ab5e0851444?source=rss------frontend-5) 
 
 - [2022-11-16-JavaScript Set, Every Junior Should Know](https://medium.com/@imamuzzaki/javascript-set-every-junior-should-know-669f9f435c97?source=rss------frontend-5) 
+
+- [2022-11-16-Angular 15 ya disponible](https://medium.com/ngesyfirebase/angular-15-ya-disponible-618a5424c815?source=rss------frontend-5) 
+
+- [2022-11-16-Icons 101: Not only for designers](https://blog.prototypr.io/icons-101-not-only-for-designers-a2d7a24df610?source=rss------frontend-5) 
+
+- [2022-11-16-Difference between Seal and Freeze methods in JavaScript Objects](https://medium.com/@tharudaya94/difference-between-seal-and-freeze-methods-in-javascript-objects-8342c6c58dff?source=rss------frontend-5) 
 
 - [2022-11-15-Accessibility for Astronauts!](https://shivangbhandari.medium.com/accessibility-for-astronauts-d9a8c729e6e6?source=rss------frontend-5) 
 
@@ -3071,6 +3117,26 @@
 - [2022-11-16-How to Add a Back Button to your React Navbar](https://medium.com/@superflowsapp3/how-to-add-a-back-button-to-your-react-navbar-84c384e5a908?source=rss------react-5) 
 
 - [2022-11-16-How I set up my new ReactJS projects!](https://thejusr.medium.com/how-i-set-up-my-new-reactjs-projects-967c64d3e99a?source=rss------react-5) 
+
+- [2022-11-16-Javascript: Share Code between Apps using Parcel, Npm and Github Packages](https://medium.com/@mylesdawson/javascript-share-code-between-apps-using-parcel-npm-and-github-packages-34d2c2f0c398?source=rss------react-5) 
+
+- [2022-11-16-Manage State in Web Components with Redux and without React](https://medium.com/@jlanssie/manage-state-in-web-components-with-redux-and-without-react-5e8c168ac5b0?source=rss------react-5) 
+
+- [2022-11-16-13 Genuine Ways Of making $1500 per Week (Extreme 2022 Rundown) Would you like to cause an extra to…](https://medium.com/@henryholt72/13-genuine-ways-of-making-1500-per-week-extreme-2022-rundown-would-you-like-to-cause-an-extra-to-821f681dbc28?source=rss------react-5) 
+
+- [2022-11-16-REACT İLE İLK UYGULAMA](https://medium.com/@mehmet.r.river/react-i%CC%87le-i%CC%87lk-uygulama-4da86f60ed47?source=rss------react-5) 
+
+- [2022-11-16-The next time you’re tired of Microsoft Teams calls, join your colleagues in a game of Minesweeper.](https://medium.com/@henryholt72/the-next-time-youre-tired-of-microsoft-teams-calls-join-your-colleagues-in-a-game-of-minesweeper-3a525f07fe56?source=rss------react-5) 
+
+- [2022-11-16-Enviando um e-mail usando NextJS ou ReactJS com Fetch](https://medium.com/@yagasaki7k/enviando-um-e-mail-usando-nextjs-ou-reactjs-com-fetch-1715f09d98eb?source=rss------react-5) 
+
+- [2022-11-16-How to create a Chrome extension for GPT-3 questions](https://betterprogramming.pub/how-to-create-a-chrome-extension-for-gpt-3-questions-8b045ad5288?source=rss------react-5) 
+
+- [2022-11-16-How to make a Layered Drink with CSS☕️](https://levelup.gitconnected.com/how-to-make-a-layered-drink-with-css-%EF%B8%8F-e13b8f8eb055?source=rss------react-5) 
+
+- [2022-11-16-useHistory for redirect](https://medium.com/@chohyehan/usehistory-for-redirect-7c96716d3b56?source=rss------react-5) 
+
+- [2022-11-16-Routing With useHistory](https://medium.com/@rafiakhandaker/routing-with-usehistory-6d1d6bfa508f?source=rss------react-5) 
 
 - [2022-11-15-View Code and Business Code](https://medium.com/@robertjd333/view-code-and-business-code-bb7e3ce5ad72?source=rss------react-5) 
 
@@ -4177,6 +4243,8 @@
  React Status
 </summary>
 
+
+- [2022-11-16-Particle-arly impressive React](https://react.statuscode.com/issues/314) 
 
 - [2022-11-09-Gatsby 5 - faster than ever before](https://react.statuscode.com/issues/313) 
 
