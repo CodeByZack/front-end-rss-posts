@@ -41,6 +41,11 @@
         "title": "It's all about security",
         "link": "https://nodeweekly.com/issues/462",
         "date": "2022-11-10"
+      },
+      {
+        "title": "Now npm fans can walk the Deno-saur",
+        "link": "https://nodeweekly.com/issues/463",
+        "date": "2022-11-17"
       }
     ]
   },
@@ -311,6 +316,11 @@
         "title": "科技爱好者周刊（第 230 期）：电子产品的用电量",
         "link": "http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html",
         "date": "2022-11-11"
+      },
+      {
+        "title": "科技爱好者周刊（第 231 期）：互联网公司需要多少员工？",
+        "link": "http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html",
+        "date": "2022-11-18"
       }
     ]
   },
@@ -481,6 +491,11 @@
         "title": "Community highlight: Olutimilehin Olushuyi",
         "link": "https://web.dev/community-highlight-shuyi/",
         "date": "2022-11-09"
+      },
+      {
+        "title": "Community highlight: Albert Kim",
+        "link": "https://web.dev/community-highlight-albert-kim/",
+        "date": "2022-11-17"
       }
     ]
   },
@@ -5496,6 +5511,96 @@
         "title": "vue3单元测试debug",
         "link": "https://juejin.cn/post/7166296728021237797",
         "date": "2022-11-15"
+      },
+      {
+        "title": "brython | 初探鼠标事件-1：点击事件",
+        "link": "https://juejin.cn/post/7167024129814560804",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "关于Json Web Token(token)在前后端的实践思考",
+        "link": "https://juejin.cn/post/7167013703798226958",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "第134期：用vue3结合hooks开发一个可以注册的二次确认弹框",
+        "link": "https://juejin.cn/post/7167012292758880287",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "声网深度学习时序编码器的资源预测实践丨Dev for Dev 专栏",
+        "link": "https://juejin.cn/post/7167004258833793037",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "抓包理解 DNS 流程和 CDN 原理",
+        "link": "https://juejin.cn/post/7166995181093257246",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "如何将 win32 程序虚拟内存扩展到 3GB？",
+        "link": "https://juejin.cn/post/7166991733366980639",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "css样式vh屏幕高度，踩坑指南",
+        "link": "https://juejin.cn/post/7166980817112186894",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "探究JS中“类”的创建与继承过程",
+        "link": "https://juejin.cn/post/7166949915640233992",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "React Devtools 使用技巧",
+        "link": "https://juejin.cn/post/7166942387141345316",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "Shader从入门到放弃（二） —— 常见GLSL内置函数",
+        "link": "https://juejin.cn/post/7166939417599279112",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "vue-router 使用与原理分析",
+        "link": "https://juejin.cn/post/7166927185222533133",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "前端工程化基建探索（4）从源码出发探索理解webpack核心特性",
+        "link": "https://juejin.cn/post/7166921765317738503",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "让我百思不得其解的infer究竟是怎么推导类型的？",
+        "link": "https://juejin.cn/post/7166918850489876516",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "Canvas drawImage() 方法实现图片压缩",
+        "link": "https://juejin.cn/post/7166916696899321869",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "JS 如何利用浏览器的 cookie 保存用户名",
+        "link": "https://juejin.cn/post/7166910852388356133",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "react 日历组件拖拽部分逻辑",
+        "link": "https://juejin.cn/post/7166907968309592077",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "拦截 JavaScript Fetch API 的请求和响应",
+        "link": "https://juejin.cn/post/7166903919208038430",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "移动端-当页面高度不足一屏幕按钮自动居底，当页面高度超过一屏幕的时候跟着内容滚动",
+        "link": "https://juejin.cn/post/7166503763287638024",
+        "date": "2022-11-16"
       }
     ]
   },
@@ -7540,6 +7645,21 @@
       {
         "title": "[3D Game Development] Use Babylonjs+Vue3 to build our own island",
         "link": "https://medium.com/@pythonlearn1024/3d-game-development-use-babylonjs-vue3-to-build-our-own-island-7f77b3546d7d?source=rss------frontend-5",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "How to Write Ninja in a Creative Way How important is the role of the NINJA in the creative process?",
+        "link": "https://medium.com/@thebadwriter/how-to-write-ninja-in-a-creative-way-how-important-is-the-role-of-the-ninja-in-the-creative-process-dd3206bf73e?source=rss------frontend-5",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "Don’t code your Frontend portfolio just yet!",
+        "link": "https://medium.com/@em.harley/dont-code-your-frontend-portfolio-just-yet-4e7f000aa522?source=rss------frontend-5",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "Telephone Slavery",
+        "link": "https://medium.com/@thebadwriter/telephone-slavery-78bf70aa9ef6?source=rss------frontend-5",
         "date": "2022-11-17"
       }
     ]
@@ -10445,6 +10565,56 @@
       {
         "title": "Continuous X | Triumph of DevOps",
         "link": "https://medium.com/widle-studio/continuous-x-triumph-of-devops-a5e018786472?source=rss------react-5",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "React: Componente Select com Typescript, react-select e styled-components",
+        "link": "https://jean-molino.medium.com/react-componente-select-com-typescript-react-select-e-styled-components-c87c38268c55?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "How to Create a Login Page with Authentication using React.",
+        "link": "https://adesinaabiodunpaul.medium.com/how-to-create-a-login-page-with-authentication-using-react-5e4afd1c8cd6?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "Serialization in Rails with Active Model Serializer",
+        "link": "https://medium.com/@seanmartinstudio/serialization-in-rails-with-active-model-serializer-14e0b24ff3df?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "ENG/TR React Tic-Tac-Toe Game Tutorial, Display the location for each move in the format (col, row)…",
+        "link": "https://medium.com/@idilgolcuk/react-tic-tac-toe-game-tutorial-display-the-location-for-each-move-in-the-format-col-row-in-the-f9f5901bb578?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "The Utility Component for an Annotated Input",
+        "link": "https://wreaply.medium.com/the-utility-component-for-an-annotated-input-be761c3b9741?source=rss------react-5",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "An honest-to-goodness client-side Amazon S3 uploader component in React",
+        "link": "https://joshgoestoflatiron.medium.com/an-honest-to-goodness-client-side-amazon-s3-uploader-component-in-react-98109a6c1e9e?source=rss------react-5",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "Como DOCKERIZAR una aplicación en React V18 con TYPESCRIPT",
+        "link": "https://medium.com/@leytor/como-dockerizar-una-aplicaci%C3%B3n-en-react-v18-con-typescript-77aeec01756c?source=rss------react-5",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "Javascript Design Patterns",
+        "link": "https://levelup.gitconnected.com/javascript-design-patterns-aa4adb7b85e6?source=rss------react-5",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "Memoization in React JS: useCallback, React.memo and useMemo",
+        "link": "https://medium.com/@jordan.to.code/memoization-in-react-js-usecallback-react-memo-and-usememo-adb42bc14043?source=rss------react-5",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "How to use useContext in React",
+        "link": "https://medium.com/@edward.c.dickey/how-to-use-usecontext-in-react-e91d94e7699?source=rss------react-5",
         "date": "2022-11-17"
       }
     ]

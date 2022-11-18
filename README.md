@@ -10,7 +10,7 @@
 
 ## 
 
-更新时间: 2022-11-17 12:35，更新条数: +37
+更新时间: 2022-11-18 01:38，更新条数: +34
 
 ## 文章链接
 
@@ -64,6 +64,40 @@
 - [2022-11-17-深入理解js类型判断](https://juejin.cn/post/7166811885742850056) 
 
 - [2022-11-17-非常简单的原生AJAX的封装+请求案例+xhr level2中的超时控制及兼容性写法](https://juejin.cn/post/7166798085782241288) 
+
+- [2022-11-17-brython | 初探鼠标事件-1：点击事件](https://juejin.cn/post/7167024129814560804) 
+
+- [2022-11-17-关于Json Web Token(token)在前后端的实践思考](https://juejin.cn/post/7167013703798226958) 
+
+- [2022-11-17-第134期：用vue3结合hooks开发一个可以注册的二次确认弹框](https://juejin.cn/post/7167012292758880287) 
+
+- [2022-11-17-声网深度学习时序编码器的资源预测实践丨Dev for Dev 专栏](https://juejin.cn/post/7167004258833793037) 
+
+- [2022-11-17-抓包理解 DNS 流程和 CDN 原理](https://juejin.cn/post/7166995181093257246) 
+
+- [2022-11-17-如何将 win32 程序虚拟内存扩展到 3GB？](https://juejin.cn/post/7166991733366980639) 
+
+- [2022-11-17-css样式vh屏幕高度，踩坑指南](https://juejin.cn/post/7166980817112186894) 
+
+- [2022-11-17-探究JS中“类”的创建与继承过程](https://juejin.cn/post/7166949915640233992) 
+
+- [2022-11-17-React Devtools 使用技巧](https://juejin.cn/post/7166942387141345316) 
+
+- [2022-11-17-Shader从入门到放弃（二） —— 常见GLSL内置函数](https://juejin.cn/post/7166939417599279112) 
+
+- [2022-11-17-vue-router 使用与原理分析](https://juejin.cn/post/7166927185222533133) 
+
+- [2022-11-17-前端工程化基建探索（4）从源码出发探索理解webpack核心特性](https://juejin.cn/post/7166921765317738503) 
+
+- [2022-11-17-让我百思不得其解的infer究竟是怎么推导类型的？](https://juejin.cn/post/7166918850489876516) 
+
+- [2022-11-17-Canvas drawImage() 方法实现图片压缩](https://juejin.cn/post/7166916696899321869) 
+
+- [2022-11-17-JS 如何利用浏览器的 cookie 保存用户名](https://juejin.cn/post/7166910852388356133) 
+
+- [2022-11-17-react 日历组件拖拽部分逻辑](https://juejin.cn/post/7166907968309592077) 
+
+- [2022-11-17-拦截 JavaScript Fetch API 的请求和响应](https://juejin.cn/post/7166903919208038430) 
 
 - [2022-11-16-使用Uniapp实现微信小程序的GPS定位打卡](https://juejin.cn/post/7166402937625788447) 
 
@@ -146,6 +180,8 @@
 - [2022-11-16-浏览器缓存造成的获取不到最新页面资源问题](https://juejin.cn/post/7166450162548604935) 
 
 - [2022-11-16-数据可视化大屏设计器开发](https://juejin.cn/post/7166439708912779278) 
+
+- [2022-11-16-移动端-当页面高度不足一屏幕按钮自动居底，当页面高度超过一屏幕的时候跟着内容滚动](https://juejin.cn/post/7166503763287638024) 
 
 - [2022-11-15-❤️❤️异步的发展历程（小白版）](https://juejin.cn/post/7166150324116422664) 
 
@@ -2086,6 +2122,8 @@
 </summary>
 
 
+- [2022-11-18-科技爱好者周刊（第 231 期）：互联网公司需要多少员工？](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html) 
+
 - [2022-11-11-科技爱好者周刊（第 230 期）：电子产品的用电量](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html) 
 
 - [2022-11-04-科技爱好者周刊（第 229 期）：手机充电问题的解决](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html) 
@@ -2197,6 +2235,8 @@
 </summary>
 
 
+- [2022-11-17-Now npm fans can walk the Deno-saur](https://nodeweekly.com/issues/463) 
+
 - [2022-11-10-It's all about security](https://nodeweekly.com/issues/462) 
 
 - [2022-11-03-Getting Rusty with Node, but in a good way](https://nodeweekly.com/issues/461) 
@@ -2246,6 +2286,8 @@
  web.dev
 </summary>
 
+
+- [2022-11-17-Community highlight: Albert Kim](https://web.dev/community-highlight-albert-kim/) 
 
 - [2022-11-09-GDE community highlight: Lars Knudsen](https://web.dev/gde-focus-lars-knudsen/) 
 
@@ -2343,6 +2385,12 @@
 - [2022-11-17-The comments are well written ✍️, and the document is not sloppy!](https://medium.com/@pythonlearn1024/the-comments-are-well-written-%EF%B8%8F-and-the-document-is-not-sloppy-bd1162e7d95e?source=rss------frontend-5) 
 
 - [2022-11-17-[3D Game Development] Use Babylonjs+Vue3 to build our own island](https://medium.com/@pythonlearn1024/3d-game-development-use-babylonjs-vue3-to-build-our-own-island-7f77b3546d7d?source=rss------frontend-5) 
+
+- [2022-11-17-How to Write Ninja in a Creative Way How important is the role of the NINJA in the creative process?](https://medium.com/@thebadwriter/how-to-write-ninja-in-a-creative-way-how-important-is-the-role-of-the-ninja-in-the-creative-process-dd3206bf73e?source=rss------frontend-5) 
+
+- [2022-11-17-Don’t code your Frontend portfolio just yet!](https://medium.com/@em.harley/dont-code-your-frontend-portfolio-just-yet-4e7f000aa522?source=rss------frontend-5) 
+
+- [2022-11-17-Telephone Slavery](https://medium.com/@thebadwriter/telephone-slavery-78bf70aa9ef6?source=rss------frontend-5) 
 
 - [2022-11-16-Ace CSS Architecture](https://medium.com/@arati.anand.bhandare/ace-css-architecture-1b33471fef0d?source=rss------frontend-5) 
 
@@ -3148,6 +3196,14 @@
 </summary>
 
 
+- [2022-11-18-React: Componente Select com Typescript, react-select e styled-components](https://jean-molino.medium.com/react-componente-select-com-typescript-react-select-e-styled-components-c87c38268c55?source=rss------react-5) 
+
+- [2022-11-18-How to Create a Login Page with Authentication using React.](https://adesinaabiodunpaul.medium.com/how-to-create-a-login-page-with-authentication-using-react-5e4afd1c8cd6?source=rss------react-5) 
+
+- [2022-11-18-Serialization in Rails with Active Model Serializer](https://medium.com/@seanmartinstudio/serialization-in-rails-with-active-model-serializer-14e0b24ff3df?source=rss------react-5) 
+
+- [2022-11-18-ENG/TR React Tic-Tac-Toe Game Tutorial, Display the location for each move in the format (col, row)…](https://medium.com/@idilgolcuk/react-tic-tac-toe-game-tutorial-display-the-location-for-each-move-in-the-format-col-row-in-the-f9f5901bb578?source=rss------react-5) 
+
 - [2022-11-17-How to implement notification functionality in MERN like Facebook and Twitter (part 1 : back-end)](https://adelpro.medium.com/how-to-implement-notification-functionality-in-mern-like-facebook-and-twitter-part-1-back-end-4e30095b23d6?source=rss------react-5) 
 
 - [2022-11-17-Const VS Function For React Functional Components](https://javascript.plainenglish.io/const-vs-function-for-react-functional-components-23e70fd0d4e0?source=rss------react-5) 
@@ -3167,6 +3223,18 @@
 - [2022-11-17-React States and Working with Events| SASS | Day 4–5 | #100DaysOfCode](https://medium.com/@feyzafacan/react-states-and-working-with-events-sass-day-4-5-100daysofcode-c321de481bb1?source=rss------react-5) 
 
 - [2022-11-17-Continuous X | Triumph of DevOps](https://medium.com/widle-studio/continuous-x-triumph-of-devops-a5e018786472?source=rss------react-5) 
+
+- [2022-11-17-The Utility Component for an Annotated Input](https://wreaply.medium.com/the-utility-component-for-an-annotated-input-be761c3b9741?source=rss------react-5) 
+
+- [2022-11-17-An honest-to-goodness client-side Amazon S3 uploader component in React](https://joshgoestoflatiron.medium.com/an-honest-to-goodness-client-side-amazon-s3-uploader-component-in-react-98109a6c1e9e?source=rss------react-5) 
+
+- [2022-11-17-Como DOCKERIZAR una aplicación en React V18 con TYPESCRIPT](https://medium.com/@leytor/como-dockerizar-una-aplicaci%C3%B3n-en-react-v18-con-typescript-77aeec01756c?source=rss------react-5) 
+
+- [2022-11-17-Javascript Design Patterns](https://levelup.gitconnected.com/javascript-design-patterns-aa4adb7b85e6?source=rss------react-5) 
+
+- [2022-11-17-Memoization in React JS: useCallback, React.memo and useMemo](https://medium.com/@jordan.to.code/memoization-in-react-js-usecallback-react-memo-and-usememo-adb42bc14043?source=rss------react-5) 
+
+- [2022-11-17-How to use useContext in React](https://medium.com/@edward.c.dickey/how-to-use-usecontext-in-react-e91d94e7699?source=rss------react-5) 
 
 - [2022-11-16-React 102 — Basic data flows](https://medium.com/@noriller/react-102-basic-data-flows-f1aaf2ba99d?source=rss------react-5) 
 
