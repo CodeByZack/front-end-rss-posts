@@ -571,6 +571,11 @@
         "title": "奇舞周刊第 471 期",
         "link": "https://weekly.75.team/issue471.html",
         "date": "2022-11-11"
+      },
+      {
+        "title": "奇舞周刊第 472 期",
+        "link": "https://weekly.75.team/issue472.html",
+        "date": "2022-11-11"
       }
     ]
   },
@@ -5601,6 +5606,91 @@
         "title": "移动端-当页面高度不足一屏幕按钮自动居底，当页面高度超过一屏幕的时候跟着内容滚动",
         "link": "https://juejin.cn/post/7166503763287638024",
         "date": "2022-11-16"
+      },
+      {
+        "title": "UED Landing 页 - 定时抓取掘金文章",
+        "link": "https://juejin.cn/post/7167255105257865229",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "打造云开发环境",
+        "link": "https://juejin.cn/post/7167229658293862408",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "ts|基础知识点回顾&&复习入门项目🍄🍄",
+        "link": "https://juejin.cn/post/7167229613696319501",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "Vue.nextTick核心原理",
+        "link": "https://juejin.cn/post/7167218885664931871",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "VsCode自定义代码片段",
+        "link": "https://juejin.cn/post/7167201925383847949",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "chrome浏览器插件热更新vite实战",
+        "link": "https://juejin.cn/post/7167193087671238664",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "react源码中的fiber架构",
+        "link": "https://juejin.cn/post/7167188991567986696",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "Grid布局介绍",
+        "link": "https://juejin.cn/post/7167171521096613925",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "React源码分析6-hooks源码",
+        "link": "https://juejin.cn/post/7167155370664656932",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "【布局 widget】OverflowBox 与 SizedOverflowBox",
+        "link": "https://juejin.cn/post/7167131667272826893",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "[封装自己的ui组件库] upload的实现与难点",
+        "link": "https://juejin.cn/post/7167023450542833701",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "浅谈前端设计模式：策略模式和状态模式的异同点",
+        "link": "https://juejin.cn/post/7167019992817336334",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "javaScript深入----async&&await",
+        "link": "https://juejin.cn/post/7167003899067858981",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "webpack 核心之 loader原理",
+        "link": "https://juejin.cn/post/7167003617080115231",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "vue3关于addRoute添加动态路由不切换页面、页面空白的问题",
+        "link": "https://juejin.cn/post/7167001985727037470",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "SVG创建画布-缩放、平移、自适应窗口",
+        "link": "https://juejin.cn/post/7166864612993237029",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "【Vue】源码—虚拟DOM和diff算法",
+        "link": "https://juejin.cn/post/7166852464979738661",
+        "date": "2022-11-17"
       }
     ]
   },
@@ -7661,6 +7751,16 @@
         "title": "Telephone Slavery",
         "link": "https://medium.com/@thebadwriter/telephone-slavery-78bf70aa9ef6?source=rss------frontend-5",
         "date": "2022-11-17"
+      },
+      {
+        "title": "Angular Authentication:CanActivate & CanActivateChild Guards",
+        "link": "https://medium.com/@yagmurgazezoglu/angular-authentication-canactivate-canactivatechild-guards-1b25772ec62a?source=rss------frontend-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "Roadmap to fullstack 1.0",
+        "link": "https://medium.com/@kr1998rohitk/roadmap-to-fullstack-1-0-8998c5f03805?source=rss------frontend-5",
+        "date": "2022-11-18"
       }
     ]
   },
@@ -10616,6 +10716,56 @@
         "title": "How to use useContext in React",
         "link": "https://medium.com/@edward.c.dickey/how-to-use-usecontext-in-react-e91d94e7699?source=rss------react-5",
         "date": "2022-11-17"
+      },
+      {
+        "title": "Native Drag & Drop List library in React",
+        "link": "https://medium.com/naukri-engineering/native-drag-drop-list-library-in-react-dd7eafba5b6d?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "MDMA E PILLOLE DI ECSTASY.",
+        "link": "https://medium.com/@ntolouloto/mdma-e-pillole-di-ecstasy-4cb6e03d6a20?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "Node.js & React Upload Files To Azure Blob Storage",
+        "link": "https://medium.com/@lutfikrasnici04/node-js-react-upload-files-to-azure-blob-storage-388f11e58e40?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "What is React Native, and what are its advantages?",
+        "link": "https://medium.com/@richestsoft01/what-is-react-native-and-what-are-its-advantages-201f68adad8e?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "How to: React portfolio deployed into AWS — Part 2",
+        "link": "https://currosoriaf.medium.com/how-to-react-portfolio-deployed-into-aws-part-2-169e31992826?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "How to create Google Authentication in React Using Google Auth 2022",
+        "link": "https://medium.com/@nsongasoh.fitz/how-to-create-google-authentication-in-react-using-google-auth-2022-3f48bc337c35?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "Redux Thunk vs Saga",
+        "link": "https://idevbrandon.medium.com/redux-thunk-vs-saga-3dafbc6dd8c2?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "(RN)How To Create React Native Modal Component With Expo",
+        "link": "https://medium.com/@shkim04/rn-how-to-create-react-native-modal-component-with-expo-dfc87c406b0a?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "How to measure React Components",
+        "link": "https://medium.com/@erickgabrielrodriguezcardenas/how-to-measure-react-components-951f8e7f1d98?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "CHALLANGE 1 : Vue vs. React",
+        "link": "https://medium.com/@softacademy/challange-1-vue-vs-react-ad4f652d71e1?source=rss------react-5",
+        "date": "2022-11-18"
       }
     ]
   },
