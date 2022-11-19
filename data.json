@@ -91,6 +91,11 @@
         "title": "Rome wasn't rewritten in a day",
         "link": "https://javascriptweekly.com/issues/614",
         "date": "2022-11-11"
+      },
+      {
+        "title": "Nuxt 3.0, TypeScript 4.9, Angular 15..",
+        "link": "https://javascriptweekly.com/issues/615",
+        "date": "2022-11-18"
       }
     ]
   },
@@ -496,6 +501,11 @@
         "title": "Community highlight: Albert Kim",
         "link": "https://web.dev/community-highlight-albert-kim/",
         "date": "2022-11-17"
+      },
+      {
+        "title": "Accessibility Week",
+        "link": "https://web.dev/accessibility-week-2022/",
+        "date": "2022-11-18"
       }
     ]
   },
@@ -5691,6 +5701,91 @@
         "title": "【Vue】源码—虚拟DOM和diff算法",
         "link": "https://juejin.cn/post/7166852464979738661",
         "date": "2022-11-17"
+      },
+      {
+        "title": "实现一个可左右滑动操作的vue3组件",
+        "link": "https://juejin.cn/post/7167404574058217479",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "技术周报·Ant Design 5.0 正式发布",
+        "link": "https://juejin.cn/post/7167397196881461255",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "Canvas 实现文字水印和图片水印合成",
+        "link": "https://juejin.cn/post/7167364161461026852",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "CSS 的快乐：画一个可爱的三只小鸟 Button",
+        "link": "https://juejin.cn/post/7167355169934409758",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "关于HTTP，你能侃侃而谈嘛？",
+        "link": "https://juejin.cn/post/7167337166274560036",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "React 之从 requestIdleCallback 到时间切片",
+        "link": "https://juejin.cn/post/7167335700424196127",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "掘金日新计划 ｜ 12月更文挑战来袭，开启掘金成长之旅",
+        "link": "https://juejin.cn/post/7167294154827890702",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "关于使用原子类css的优缺点",
+        "link": "https://juejin.cn/post/7167290166527131684",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "你了解的事件循环还是微宏任务吗？来看看EventLoop事件循环最新概念(MessageLoop消息循环)吧！",
+        "link": "https://juejin.cn/post/7167286353795743752",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "Vue 2.x源码学习：数据响应式改造",
+        "link": "https://juejin.cn/post/7167260714887807006",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "构建 React 组件的关键概念 / 指南",
+        "link": "https://juejin.cn/post/7167260479088230408",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "“我要个六边形毛玻璃效果”",
+        "link": "https://juejin.cn/post/7167260129853702175",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "手写 Vue2 源码之模板解析成AST语法树",
+        "link": "https://juejin.cn/post/7167245010717868046",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "JavaScript 中如何拦截全局 Fetch API 的请求和响应？",
+        "link": "https://juejin.cn/post/7166903919208038430",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "「2022」寒冬下我的万字面试准备【计算机网络】篇",
+        "link": "https://juejin.cn/post/7166870049066582053",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "径向聚焦，你就是全场最靓的仔",
+        "link": "https://juejin.cn/post/7166828032311689246",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "视频清晰度优化指南",
+        "link": "https://juejin.cn/post/7166812768459784200",
+        "date": "2022-11-17"
       }
     ]
   },
@@ -7760,6 +7855,26 @@
       {
         "title": "Roadmap to fullstack 1.0",
         "link": "https://medium.com/@kr1998rohitk/roadmap-to-fullstack-1-0-8998c5f03805?source=rss------frontend-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "React Frontend Digest (11 November — 18 November 2022)",
+        "link": "https://medium.com/@philipnedelev/react-frontend-digest-11-november-18-november-2022-5f2faec4d8fa?source=rss------frontend-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "Feature-Sliced Design: The Evolution of Frontend Development for Quick Experiments",
+        "link": "https://javascript.plainenglish.io/feature-sliced-design-the-evolution-of-frontend-development-for-quick-experiments-67089a480439?source=rss------frontend-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "Micro-frontends Weekly — 18/11/2022",
+        "link": "https://medium.com/@luisvieira_gmr/micro-frontends-weekly-18-11-2022-39f11d1fb4d1?source=rss------frontend-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "Next.js 13, Turbopack, Node.js 19 and more — Frontend News #30",
+        "link": "https://medium.com/liki-blog/next-js-13-turbopack-node-js-19-and-more-frontend-news-30-47a79d3c247?source=rss------frontend-5",
         "date": "2022-11-18"
       }
     ]
@@ -10765,6 +10880,56 @@
       {
         "title": "CHALLANGE 1 : Vue vs. React",
         "link": "https://medium.com/@softacademy/challange-1-vue-vs-react-ad4f652d71e1?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "Configurando Eslint e Prettier em um projeto React e Typescript",
+        "link": "https://ramonribeiro120.medium.com/configurando-eslint-e-prettier-em-um-projeto-react-e-typescript-beaee2023c96?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "The Challenges of Implementing a Design System",
+        "link": "https://itnext.io/the-challenges-of-implementing-a-design-system-f83565605573?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "Week Five Essay",
+        "link": "https://medium.com/@albajgarzaf/week-5-essay-a879063f353a?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "Apprentice Essay Week#5(14–18)",
+        "link": "https://medium.com/@denia.lomas/apprentice-essay-week-5-14-18-7f17a4128a81?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "React Frontend Digest (11 November — 18 November 2022)",
+        "link": "https://medium.com/@philipnedelev/react-frontend-digest-11-november-18-november-2022-5f2faec4d8fa?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "Responsive screen with resize provider — React",
+        "link": "https://medium.com/@afal1992/responsive-screen-with-resize-provider-react-9a77d1f1fb6e?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "Membuat Button Componen Dengan React js Vite dan Tailwind",
+        "link": "https://medium.com/@dsnurfaizi/membuat-button-componen-dengan-react-js-vite-dan-tailwind-614c824af339?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "Javascript multiple ternary operator —  Web Dev Quick Tips",
+        "link": "https://medium.com/@gabriel.sdiniz/javascript-multiple-ternary-operator-web-dev-quick-tips-df823f1fd27c?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "30-Day React Learning Journey part-2 ( JSX )",
+        "link": "https://medium.com/@ymhaah250/30-day-react-learning-journey-part-2-jsx-85b87b334b94?source=rss------react-5",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "[LXI-SpartaCodingClub Full-Stack Bootcamp in Indonesia] 2022/11/18 TIL/Week 5]",
+        "link": "https://medium.com/@armanvenska/lxi-spartacodingclub-full-stack-bootcamp-in-indonesia-2022-11-18-til-week-5-a260305a65c2?source=rss------react-5",
         "date": "2022-11-18"
       }
     ]
