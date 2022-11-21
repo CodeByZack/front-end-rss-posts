@@ -5,8 +5,8 @@ name: Auto Fetch Rss
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0,12 * * ?"
+#   schedule:
+#     - cron: "0 0,12 * * ?"
   push:
     branches:
       - 'master'
